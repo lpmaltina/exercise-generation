@@ -1,12 +1,10 @@
-Text: My relatives have bought some land in southern France recently. They are building a summer house there at the moment.",
-
-Test: {
+{
     "text_with_gaps": "My relatives (1) _____ (buy) some land in southern France recently. They (2) _____ (build) a summer house there at the moment.",
     "gaps": [
     {
         "id": 1,
         "lemma": "buy",
-        "correct_answers": ["have bought"]
+        "correct_answers": ["have bought", "bought"]
     },
     {
         "id": 2,

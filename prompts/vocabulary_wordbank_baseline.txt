@@ -6,11 +6,11 @@ Blank out words that are likely target vocabulary for the text's CEFR level.
 Create the task based on the text: {text}
 Return a valid JSON of the following structure:
 {
-    "text_with_gaps": "<text with (<gap id>) _____ replacing the missing words>",
+    "text_with_gaps": "<text with (<gap number>) _____ replacing the missing words>",
     "wordbank": ["<word 1>", "<word 2>", ...],
     "gaps": [
     {
-        "id": <gap id>,
+        "id": <gap number>,
         "correct_answer": "<correct answer>"
     }
     ...
