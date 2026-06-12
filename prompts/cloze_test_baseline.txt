@@ -1,14 +1,15 @@
 Create a cloze test for learning English. 
 The task should contain {n_questions} fill-in-the-blank items based on the text: {text}
-The text should provide sufficient context to deduce the correct missing word. Leave at least 5 words between any two gaps.
-If several (2-3) equally valid answers exist for a gap, include them all in the correct_answers array. Do this only if the variants are fully interchangeable without changing meaning.
+Target only function words for the blanks: prepositions, articles, conjunctions, auxiliary verbs, pronouns, determiners. Do NOT blank out content words (nouns, main verbs, adjectives, adverbs).
+The text should provide sufficient context to deduce the correct missing word.
+If the gap suggests several correct answers, discard that gap and select a different word from the text. 
 Return a valid JSON of the following structure:
 {
-    "text_with_gaps": "<text with (<gap id>) _____ replacing the missing words>",
+    "text_with_gaps": "<text with (<gap number>) _____ replacing the missing words>",
     "gaps": [
     {
-        "id": <gap id>,
-        "correct_answers": ["<the missing word>", "<another correct variant>", ...],
+        "id": <gap number>,
+        "answer": "<the missing word>"
     }
     ...
     ]

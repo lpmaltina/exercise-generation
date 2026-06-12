@@ -1,0 +1,27 @@
+Create a cloze test for learning English. Follow these steps, showing your reasoning for each step before proceeding to the next.
+
+Step 1. Read the text: {text}
+
+Step 2. Select {n_questions} words to blank out:
+- Target only function words for the blanks: prepositions, articles, conjunctions, auxiliary verbs, pronouns, determiners. Do NOT blank out content words (nouns, main verbs, adjectives, adverbs).
+- The text should provide sufficient context to deduce the correct missing word. 
+
+Step 3. Determine correct answers for each gap:
+- For each gap, think: "Are there any other words that fit here?"
+- If several alternatives exist, discard that gap and select a different word from the text. 
+
+Step 4. Construct the text_with_gaps:
+- Replace each chosen word with the placeholder "(<gap number>) _____".
+- Gap ids start from 1 and increase sequentially.
+
+Step 5. Return a valid JSON of the following structure:
+{
+    "text_with_gaps": "<text with (<gap number>) _____ replacing the missing words>",
+    "gaps": [
+        {
+            "id": <gap number>,
+            "answer": "<the missing word>"
+        },
+        ...
+    ]
+}

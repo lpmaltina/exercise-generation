@@ -1,15 +1,17 @@
-{
-    "text_with_gaps": "Andy and Mary (1) _____ (go) to a concert tomorrow night. They (2) _____ (look forward to) it the whole week.",
+Text: My relatives have bought some land in southern France recently. They are building a summer house there at the moment.",
+
+Test: {
+    "text_with_gaps": "My relatives (1) _____ (buy) some land in southern France recently. They (2) _____ (build) a summer house there at the moment.",
     "gaps": [
     {
         "id": 1,
-        "lemma": "go",
-        "correct_answers": ["are going"],
-    }
+        "lemma": "buy",
+        "correct_answers": ["have bought"]
+    },
     {
         "id": 2,
-        "lemma": "look forward to",
-        "correct_answers": ["have been looking forward to"],
+        "lemma": "build",
+        "correct_answers": ["are building"]
     }
     ]
 }

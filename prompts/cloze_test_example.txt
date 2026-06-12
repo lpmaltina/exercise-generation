@@ -3,15 +3,15 @@
     "gaps": [
     {
         "id": 1,
-        "correct_answers": ["one"]
+        "answer": "one"
     },
     {
         "id": 2,
-        "correct_answers": ["the"]
+        "answer": "the"
     },
     {
         "id": 3,
-        "correct_answers": ["most"]
+        "answer": "most"
     },
     ]
 }
