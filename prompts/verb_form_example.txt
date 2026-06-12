@@ -1,0 +1,15 @@
+{
+    "text_with_gaps": "Andy and Mary (1) _____ (go) to a concert tomorrow night. They (2) _____ (look forward to) it the whole week.",
+    "gaps": [
+    {
+        "id": 1,
+        "lemma": "go",
+        "correct_answers": ["are going"],
+    }
+    {
+        "id": 2,
+        "lemma": "look forward to",
+        "correct_answers": ["have been looking forward to"],
+    }
+    ]
+}

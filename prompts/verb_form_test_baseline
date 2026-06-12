@@ -1,0 +1,19 @@
+Create a verb form test for learning English.
+The test should contain {n_gaps}. The student should put the verbs in brackets into correct forms.
+Blank out verb forms that are likely target grammar for the text's CEFR level.
+If several (2-3) equally valid answers exist for a gap, include them all in the correct_answers array. 
+Create the task based on the text: {text}
+Return a valid JSON of the following structure:
+{
+    "text_with_gaps": "<text with (<gap id>) _____ (<infinitive>) replacing the missing verb forms>",
+    "gaps": [
+    {
+        "id": <id>,
+        "infinitive": "<infinitive>",
+        "correct_answers": ["<the missing verb form>", "<another correct verb form>", ...],
+    }
+    ...
+    ]
+}
+
+Gap ids start from 1 and increase sequentially.

@@ -1,0 +1,12 @@
+Create the reading comprehension task for learning English. 
+The task should contain {n_questions} of multiple-choice questions with {n_options} options each for the text: {text}.
+The text should provide the answers to the questions.
+The questions should be difficult to answer without reading the text.
+Only one option per question should be correct.
+Distractors must be plausible but unambiguously wrong.
+Return a valid JSON array of questions. Each question must have the following fields:
+{
+    "question_body": "<question>",
+    "correct_answer": "<correct_answer>",
+    "distractors": ["<distractor 1>", "<distractor 2>", ...],
+}
