@@ -1,0 +1,13 @@
+Improve the exercise using the following feedback.
+
+Text: 
+{text}
+
+Generated exercise:
+{generated_exercise}
+
+Feedback:
+{feedback}
+
+Improved exercise:
+{improved_exercise}

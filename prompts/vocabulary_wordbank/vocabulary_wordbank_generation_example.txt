@@ -29,6 +29,6 @@
     {
         "id": 7,
         "correct_answer": "pollution"
-    },
+    }
     ]
 }

@@ -1,0 +1,26 @@
+Provide the feedback for the generated exercise for the given text.
+Text: {text}
+Generated exercise: {exercise}
+
+Part 1: Evaluate the validity of each gap:
+0: invalid
+1: valid
+
+Part 2: Evaluate the overall exercise based on how ready it is for classroom or self-study use:
+1: Cannot be used.
+2: Can be used, but requires some minor alterations.
+3: Can be used as is.
+
+
+Return a valid JSON array of evaluations. For each gap, provide an evaluation object. Include one additional object at the end for the overall exercise usability. The structure must be:
+[
+    {
+        "gap_id": <gap number>,
+        "gap_validity": {"score": <0|1>, "reasoning": "<explanation>"}
+    },
+    ...
+    {
+        "exercise_usability": {"score": <1|2|3>, "reasoning": "<explanation>"},
+        "suggested_improvements": "<words to blank out instead>"|null
+    }
+]

@@ -1,0 +1,54 @@
+Text:
+There's more to interior design than just decorating a space. The key to successful interior design lies in understanding the space and the people who will be using it. The design should not only be aesthetically pleasing but also functional. It goes far beyond pretty colours and nice furniture. It should reflect the personalities and needs of its inhabitants, transforming a house into a home.
+Sophie Platt, a famous interior designer, explains, "Interior design is a conversation between space and user. It's not about following trends, but about creating spaces that are authentic and personal."
+Colour plays a significant role in interior design. The chosen shades can affect the mood of a room. Bright colours can energize a space, while muted tones create a calm and relaxing atmosphere. Lighting is another critical aspect. Natural light can make a room appear larger and more inviting, while artificial light can highlight certain areas and create visual interest.
+
+Generated exercise: [
+    {
+        "question_body": "What is the key to successful interior design according to the article?",
+        "correct_answer": "Understanding the space and the people who will be using it.",
+        "distractors": ["Being up to date.", "Focusing on the aesthetics.", "Reflect the personalities and needs of the people who will live there."],
+    },
+    {
+        "question_body": "According to the text, what can bright colours do?",
+        "correct_answer": "Add more energy to a space.",
+        "distractors": ["Create a calm atmosphere.", "Ruin the interior.", "Reduce noise levels."],
+    },
+    {
+        "question_body": "What does Sophie Platt consider the most important element in interior design?",
+        "correct_answer": "Combining natural and artificial lighting",
+        "distractors": ["Bright colors", "Modern furniture", "Following trends"]
+    },
+]
+
+Feedback:
+[
+    {
+        "criterion_1": {"score": 3, "reasoning": "The question is clear and grammatically correct."},
+        "criterion_2": {"score": 3, "reasoning": "The answer is present in the text: 'The key to successful interior design lies in understanding the space and the people who will be using it'."},
+        "criterion_3": {"score": 3, "reasoning": "It is difficult to guess the correct answer without reading the text."},
+        "criterion_4": {"score": 1, "reasoning": "Two options are correct: 'Understanding the space and the people who will be using it.' and 'Reflect the personalities and needs of the people who will live there.'.},
+        "criterion_5": {"score": 3, "reasoning": "believable to someone who has read the text but not fully understood it."},
+        "suggested_improvements": "Change one of the options 'Understanding the space and the people who will be using it.' and 'Reflect the personalities and needs of the people who will live there.' to be unambiguously incorrect."
+    },
+    {
+        "criterion_1": {"score": 3, "reasoning": "The question is clear and grammatically correct."},
+        "criterion_2": {"score": 3, "reasoning": "The answer is present in the text: 'Bright colours can energize a space'"},
+        "criterion_3": {"score": 1, "reasoning": "It is easy to guess the correct answer using just general knowledge."},
+        "criterion_4": {"score": 3, "reasoning": "There is only one correct answer."},
+        "criterion_5": {"score": 1, "reasoning": "It is evident that bright colors do not usually create a calm atmosphere and have nothing to do with noise levels. Option 'Ruin the interior.' sounds too categorical to be true, so all distractors do not seem plausible."},
+        "suggested_improvements": "Make distractors more plausible."
+    },
+    {
+        "criterion_1": {"score": 3, "reasoning": "The question is clear and grammatically correct."},
+        "criterion_2": {"score": 1, "reasoning": "The answer is not provided in the text."},
+        "criterion_3": {"score": 3, "reasoning": "It is difficult to guess the correct answer without reading the text."},
+        "criterion_4": {"score": 1, "reasoning": "It is hard to tell how many answers are correct because the answer to the question is not provided in the text."},
+        "criterion_5": {"score": 3, "reasoning": "All variants look plausible."},
+        "suggested_improvements": "Use another question the answer to which is given in the text, for example, about lighting."
+    },
+    {
+        "text_coverage": {"score": 2, "reasoning": "Questions cover different parts of the text, but the part about lighting remains uncovered."},
+        "exercise_usability": {"score": 1, "reasoning": "All questions require substantial changes."}
+    }
+]

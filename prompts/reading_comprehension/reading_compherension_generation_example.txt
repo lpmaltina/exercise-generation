@@ -1,0 +1,22 @@
+Text:
+There's more to interior design than just decorating a space. The key to successful interior design lies in understanding the space and the people who will be using it. The design should not only be aesthetically pleasing but also functional. It goes far beyond pretty colours and nice furniture. It should reflect the personalities and needs of its inhabitants, transforming a house into a home.
+Sophie Platt, a famous interior designer, explains, "Interior design is a conversation between space and user. It's not about following trends, but about creating spaces that are authentic and personal."
+Colour plays a significant role in interior design. The chosen shades can affect the mood of a room. Bright colours can energize a space, while muted tones create a calm and relaxing atmosphere. Lighting is another critical aspect. Natural light can make a room appear larger and more inviting, while artificial light can highlight certain areas and create visual interest.
+
+Questions: [
+    {
+        "question_body": "What is the key to successful interior design according to the article?",
+        "correct_answer": "Understanding the space and the people who will be using it.",
+        "distractors": ["Being up to date.", "Focusing on the aesthetics.", "Designing based on the designer's personal preference."],
+    },
+    {
+        "question_body": "According to the text, what can bright colours do?",
+        "correct_answer": "Add more energy to a space.",
+        "distractors": ["Make a space look smaller.", "Make a space look larger.", "Cause stress."],
+    },
+    {
+        "question_body": "What role does lighting play in interior design?",
+        "correct_answer": "It can bring focus to particular aspects of the room.",
+        "distractors": ["It makes rooms look smaller.", "It is only needed at night.", "It is less important than color."],
+    }
+]

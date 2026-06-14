@@ -1,0 +1,71 @@
+Text:
+The Great Barrier Reef is the earth's largest reef system. At a length of over 2,500 km it is the largest living structure. You can even see it from space. However, the reef is in danger of dying. Because of global warming the temperature in the atmosphere keeps rising. This also affects the water temperature. When the oceans get too warm the colourful reefs turn grey and die. The reef is also dying from pollution caused by factories on the Australian and Indonesian coasts.",
+Generated exercise: 
+{
+    "text_with_gaps": "The Great Barrier Reef is the earth's largest reef (1) _____. At a length of over 2,500 km it is the largest (2) _____ structure. You can even (3) _____ it from space. However, the reef is in danger of dying. Because of global warming the temperature in the (4) _____ keeps rising. This also affects the (5) _____ temperature. When the (6) _____ get too warm the colourful reefs turn grey and die. The reef is also dying from (7) _____ caused by factories on the Australian and Indonesian coasts.",
+    "wordbank": ["atmosphere", "living", "oceans", "pollution", "see", "system", "water"],
+    "gaps": [
+    {
+        "id": 1,
+        "correct_answer": "system"
+    },
+    {
+        "id": 2,
+        "correct_answer": "living"
+    },
+    {
+        "id": 3,
+        "correct_answer": "see"
+    },
+    {
+        "id": 4,
+        "correct_answer": "atmosphere"
+    },
+    {
+        "id": 5,
+        "correct_answer": "water"
+    },
+    {
+        "id": 6,
+        "correct_answer": "oceans"
+    },
+    {
+        "id": 7,
+        "correct_answer": "pollution"
+    },
+    ]
+}
+Feedback:
+[
+    {
+        "gap_id": 1,
+        "gap_validity": {"score": 1, "reasoning": "'Reef system' is a common collocation and the only correct answer from the wordbank."}
+    },
+    {
+        "gap_id": 2,
+        "gap_validity": {"score": 1, "reasoning": "'Living' is the only correct answer from the wordbank."}
+    },
+    {
+        "gap_id": 3,
+        "gap_validity": {"score": 0, "reasoning": "Gap 3 can be easily guessed only by grammar rules, because 'see' is the only verb in the wordbank."}
+    },
+    {
+        "gap_id": 4,
+        "gap_validity": {"score": 0, "reasoning": "The answer is not unique, possible options include 'atmosphere', 'water', and 'oceans'."}
+    },
+    {
+        "gap_id": 5,
+        "gap_validity": {"score": 1, "reasoning": "Possible answers for this gap could be 'water' and 'ocean'. However, the option is not 'ocean", but 'oceans', so only 'water' fits."}
+    },
+    {
+        "gap_id": 6,
+        "gap_validity": {"score": 1, "reasoning": "Possible answers could be 'water' or 'oceans', but the verb form 'get' implies a plural noun, so the only option is 'oceans'."}
+    },
+    {
+        "gap_id": 7,
+        "gap_validity": {"score": 1, "reasoning": "'Pollution' is the only correct answer from the wordbank."}
+    },
+    {
+        "exercise_usability": {"score": 2, "reasoning": "Several gaps should be reconsidered."}, 
+    }
+]
