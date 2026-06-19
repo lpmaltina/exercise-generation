@@ -5,54 +5,54 @@ Generated exercise: {exercise}
 
 Part 1: For each question, assign a score of 1 to 3 for each criterion below and explain your reasoning.
 
-Criterion 1: Is the question clear and grammatically correct?
+Clarity & Grammar: Is the question clear and grammatically correct?
 1: The question is confusing or contains grammatical errors that hinder understanding.
 2: The question is mostly clear, but has minor issues in wording or grammar that do not significantly affect comprehension.
 3: The question is clear, well-worded, and grammatically flawless.
 
-Criterion 2: Can the question be answered using only the information provided in the text?
+Text-Based Answerability: Can the question be answered using only the information provided in the text?
 1: The answer is not found in the text at all.
 2: The answer is partially supported by the text.
 3: The answer is fully present in the text, or directly inferred from it.
 
-Criterion 3: How difficult would it be to guess the correct answer without reading the text?
+Reading Dependency. How difficult would it be to guess the correct answer without reading the text?
 1: The correct answer is easily guessable using only general knowledge.
 2: The correct answer is possibly guessable using general knowledge.
 3: The correct answer cannot be guessed without reading the text.
 
-Criterion 4: Is exactly one answer unambiguously correct based on the text?
+Answer Unambiguity. Is exactly one answer unambiguously correct based on the text?
 1: Multiple answers are correct, or the intended "correct" answer is contradicted by the text.
 2: One answer is clearly intended as correct, but another option can be considered partially correct.
 3: Exactly one answer is unambiguously correct.
 
-Criterion 5: Are all incorrect options believable to someone who has read the text but not fully understood it?
+Distractor Plausibility. Are all incorrect options believable to someone who has read the text but not fully understood it?
 1: All incorrect options are obviously wrong.
 2: Some incorrect options are obviously wrong.
 3: All incorrect options are plausible for someone who read but did not fully understand the text.
 
 Part 2: Evaluate the overall exercise.
-- Text coverage. Do the questions cover different parts of the text and are not concentrated in one part?
+
+Text coverage. Do the questions cover different parts of the text and are not concentrated in one part?
 1: All or most questions target the same part of the text.
 2: Questions cover different parts of the text, but one part is overrepresented or neglected.
 3: Questions are evenly distributed across the text, covering different ideas.
 
-- Exercise usability. How ready the exercise is for classroom or self-study use:
+Exercise usability. How ready the exercise is for classroom or self-study use:
 1: Cannot be used.
 2: Can be used, but requires some minor alterations.
 3: Can be used as is.
 
-Return a valid JSON array of evaluations. For each question, provide an evaluation object. Include one additional object at the end for the overall evaluation. The structure must be:
-[
-    {
-        "criterion_1": {"score": <1|2|3>, "reasoning": "<explanation>"},
-        "criterion_2": {"score": <1|2|3>, "reasoning": "<explanation>"},
-        "criterion_3": {"score": <1|2|3>, "reasoning": "<explanation>"},
-        "criterion_4": {"score": <1|2|3>, "reasoning": "<explanation>"},
-        "criterion_5": {"score": <1|2|3>, "reasoning": "<explanation>"},
-    },
-    ...
-    {
-        "text_coverage": {"score": <1|2|3>, "reasoning": "<explanation>"},
-        "exercise_usability": {"score": <1|2|3>, "reasoning": "<explanation>"}
-    }
-]
+Return evaluation results in the following format.
+
+Q1
+Clarity & Grammar. <Reasoning>. <score>/3
+Text-Based Answerability. <Reasoning>. <score>/3
+Reading Dependency. <Reasoning>. <score>/3
+Answer Unambiguity. <Reasoning>. <score>/3
+Distractor Plausibility. <Reasoning>. <score>/3
+
+...
+
+Overall
+Text Coverage. <Reasoning>. <score>/3
+Exercise Usability. <Reasoning>. <score>/3
