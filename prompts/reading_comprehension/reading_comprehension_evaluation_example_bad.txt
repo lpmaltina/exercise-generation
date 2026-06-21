@@ -1,0 +1,43 @@
+Text:
+There's more to interior design than just decorating a space. The key to successful interior design lies in understanding the space and the people who will be using it. The design should not only be aesthetically pleasing but also functional. It goes far beyond pretty colours and nice furniture. It should reflect the personalities and needs of its inhabitants, transforming a house into a home.
+Sophie Platt, a famous interior designer, explains, "Interior design is a conversation between space and user. It's not about following trends, but about creating spaces that are authentic and personal."
+Colour plays a significant role in interior design. The chosen shades can affect the mood of a room. Bright colours can energize a space, while muted tones create a calm and relaxing atmosphere. Lighting is another critical aspect. Natural light can make a room appear larger and more inviting, while artificial light can highlight certain areas and create visual interest.
+
+Q1: What is the key to successful interior design according to the article?
+Correct answer: Understanding the space and the people who will be using it.
+Distractors: Being up to date. / Focusing on the aesthetics. / Reflect the personalities and needs of the people who will live there.
+
+Q2: According to the text, what can bright colours do?
+Correct answer: Add more energy to a space.
+Distractors: Create a calm atmosphere. / Ruin the interior. / Reduce noise levels.
+
+Q3: What does Sophie Platt consider the most important element in interior design?
+Correct answer: Combining natural and artificial lighting
+Distractors: Bright colors / Modern furniture / Following trends
+
+Evaluation:
+
+Q1
+Clarity & Grammar. The question is clear and grammatically correct. 3/3
+Text-Based Answerability. The answer is present in the text: "The key to successful interior design lies in understanding the space and the people who will be using it". 3/3
+Reading Dependency. It is difficult to guess the correct answer without reading the text. 3/3
+Answer Unambiguity. Two options are correct: "Understanding the space and the people who will be using it." and "Reflect the personalities and needs of the people who will live there.". 1/3
+Distractor Plausibility. Distractors are believable to someone who has read the text but not fully understood it. 3/3
+
+Q2
+Clarity & Grammar. The question is clear and grammatically correct. 3/3
+Text-Based Answerability. The answer is present in the text: "Bright colours can energize a space". 3/3
+Reading Dependency. It is easy to guess the correct answer using just general knowledge. 1/3
+Answer Unambiguity. There is only one correct answer. 3/3
+Distractor Plausibility. It is evident that bright colors do not usually create a calm atmosphere and have nothing to do with noise levels. Option "Ruin the interior." sounds too categorical to be true, so all distractors do not seem plausible. 1/3
+
+Q3
+Clarity & Grammar. The question is clear and grammatically correct. 3/3
+Text-Based Answerability. The answer is not provided in the text. 1/3
+Reading Dependency. The answer is not provided in the text. 1/3
+Answer Unambiguity. It is hard to tell how many answers are correct because the answer to the question is not provided in the text. 1/3
+Distractor Plausibility. All variants look plausible. 3/3
+
+Overall
+Text Coverage. Questions cover different parts of the text, but the part about lighting remains uncovered. 2/3
+Exercise Usability. All questions require substantial changes. 1/3

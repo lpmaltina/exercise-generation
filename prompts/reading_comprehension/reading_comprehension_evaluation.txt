@@ -1,58 +1,73 @@
 Evaluate the reading comprehension exercise using the following criteria.
 
 Text: {text}
-Generated exercise: {exercise}
 
-Part 1: For each question, assign a score of 1 to 3 for each criterion below and explain your reasoning.
+Exercise: {exercise}
 
-Clarity & Grammar: Is the question clear and grammatically correct?
-1: The question is confusing or contains grammatical errors that hinder understanding.
-2: The question is mostly clear, but has minor issues in wording or grammar that do not significantly affect comprehension.
-3: The question is clear, well-worded, and grammatically flawless.
+Part 1: For each question, assign a score of 1 to 5 for each criterion below and explain your reasoning.
 
-Text-Based Answerability: Can the question be answered using only the information provided in the text?
+Clarity & Grammar. Is the question clear and grammatically correct?
+1: The question is not clear or contains errors that hinder understanding.
+2: The question is clear, but has more than two lexical, grammatical, spelling or punctuation mistakes.
+3: The question is clear, but has two lexical, grammatical, spelling or punctuation mistakes.
+4: The question is clear, but has one lexical, grammatical, spelling or punctuation mistake.
+5: The question is clear, well-worded, and grammatically flawless.
+
+Text-Based Answerability. Can the question be answered using only the information provided in the text?
 1: The answer is not found in the text at all.
-2: The answer is partially supported by the text.
-3: The answer is fully present in the text, or directly inferred from it.
+2: The answer is mostly not supported by the text; substantial outside knowledge or guessing is required.
+3: The answer is partially supported by the text, but some outside inference is needed.
+4: The answer is largely present in the text, but some indirect inference is still needed.
+5: The answer is fully present in the text, or directly inferred from it.
 
 Reading Dependency. How difficult would it be to guess the correct answer without reading the text?
 1: The correct answer is easily guessable using only general knowledge.
-2: The correct answer is possibly guessable using general knowledge.
-3: The correct answer cannot be guessed without reading the text.
+2: The correct answer is guessable using general knowledge, though the text provides some helpful specifics.
+3: The correct answer is possibly guessable using general knowledge, but the text narrows it down significantly.
+4: The correct answer is difficult to guess without reading the text; general knowledge helps only slightly.
+5: The correct answer cannot be guessed without reading the text.
 
 Answer Unambiguity. Is exactly one answer unambiguously correct based on the text?
 1: Multiple answers are correct, or the intended "correct" answer is contradicted by the text.
-2: One answer is clearly intended as correct, but another option can be considered partially correct.
-3: Exactly one answer is unambiguously correct.
+2: Two answers can be considered correct, though the evidence for the intended answer is a slightly stronger.
+3: One answer is clearly intended as correct, but another option can be considered partially correct.
+4: One answer is clearly correct, with only a far-fetched argument possible for another option.
+5: Exactly one answer is unambiguously correct.
 
 Distractor Plausibility. Are all incorrect options believable to someone who has read the text but not fully understood it?
 1: All incorrect options are obviously wrong.
-2: Some incorrect options are obviously wrong.
-3: All incorrect options are plausible for someone who read but did not fully understand the text.
+2: Most incorrect options are obviously wrong.
+3: Some incorrect options are obviously wrong, but others are plausible.
+4: Most incorrect options are plausible.
+5: All incorrect options are plausible.
 
 Part 2: Evaluate the overall exercise.
 
 Text coverage. Do the questions cover different parts of the text and are not concentrated in one part?
 1: All or most questions target the same part of the text.
-2: Questions cover different parts of the text, but one part is overrepresented or neglected.
-3: Questions are evenly distributed across the text, covering different ideas.
+2: Questions mostly cluster in one part, with only brief mention of other parts.
+3: Questions cover different parts of the text, but one part is overrepresented or another neglected.
+4: Questions are well distributed across the text, with only minor imbalance.
+5: Questions are evenly distributed across the text, covering different ideas.
 
-Exercise usability. How ready the exercise is for classroom or self-study use:
-1: Cannot be used.
-2: Can be used, but requires some minor alterations.
-3: Can be used as is.
+Exercise Usability. A "critical issue" is a question that is unanswerable from the text, has multiple correct answers, is so unclear that a student cannot understand the task, or is easily guessable without reading the text. A "minor issue" is a weak distractor, a lexical, grammatical, spelling or punctuation error, or an error in the answer key.
+1: Cannot be used. One or more critical issues are present.
+2: Requires substantial revisions. No critical issues, but four or more minor issues across the exercise.
+3: Can be used, but requires some minor alterations. No critical issues, and two or three minor issues across the exercise.
+4: Can be used as is, with only optional improvements possible. No critical issues, and exactly one minor issue.
+5: Can be used as is. No critical issues and no minor issues.
 
 Return evaluation results in the following format.
 
 Q1
-Clarity & Grammar. <Reasoning>. <score>/3
-Text-Based Answerability. <Reasoning>. <score>/3
-Reading Dependency. <Reasoning>. <score>/3
-Answer Unambiguity. <Reasoning>. <score>/3
-Distractor Plausibility. <Reasoning>. <score>/3
+Clarity & Grammar. <Reasoning>. <score>/5
+Text-Based Answerability. <Reasoning>. <score>/5
+Reading Dependency. <Reasoning>. <score>/5
+Answer Unambiguity. <Reasoning>. <score>/5
+Distractor Plausibility. <Reasoning>. <score>/5
 
 ...
 
 Overall
-Text Coverage. <Reasoning>. <score>/3
-Exercise Usability. <Reasoning>. <score>/3
+Text Coverage. <Reasoning>. <score>/5
+Exercise Usability. <Reasoning>. <score>/5
