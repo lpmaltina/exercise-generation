@@ -8,10 +8,10 @@ Return only the questions in the following format. Do not write anything else.
 
 Q1: <question>
 Correct answer: <correct answer>
-Distractors: <distractor 1> / ... / <distractor {n_options - 1}>
+Distractors: <distractor 1> / ... / <distractor {n_distractors}>
 
 ...
 
 Q{n_questions}: <question>
 Correct answer: <correct answer>
-Distractors: <distractor 1> / ... / <distractor {n_options - 1}>
+Distractors: <distractor 1> / ... / <distractor {n_distractors}>

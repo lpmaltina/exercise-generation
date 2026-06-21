@@ -1,0 +1,37 @@
+{
+    "id": "chatcmpl-991cba2a52627b8c",
+    "object": "chat.completion",
+    "created": 1782071213,
+    "model": "openai/gpt-oss-120b",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Q1: According to the passage, what is the primary purpose of interior design?  \nCorrect answer: To create spaces that are both aesthetically pleasing and functional, reflecting the personalities and needs of the inhabitants.  \nDistractors: To follow the latest decorating trends / To use only bright colours in every room / To maximize the amount of furniture in a space  \n\nQ2: How does Sophie Platt describe the relationship between space and user in interior design?  \nCorrect answer: As a conversation between space and user.  \nDistractors: As a competition for the most stylish look / As a one\u2011way instruction from designer to client / As a strict adherence to colour trends  \n\nQ3: What effect do muted tones have on a room, according to the text?  \nCorrect answer: They create a calm and relaxing atmosphere.  \nDistractors: They energize the space like bright colours / They make the room appear larger than it is / They highlight specific areas like artificial lighting does",
+                "refusal": null,
+                "annotations": null,
+                "audio": null,
+                "function_call": null,
+                "tool_calls": [],
+                "reasoning": "We need to output only questions in format. Provide 3 questions. Ensure answers from text. Provide correct answer and three distractors.",
+                "reasoning_content": "We need to output only questions in format. Provide 3 questions. Ensure answers from text. Provide correct answer and three distractors."
+            },
+            "logprobs": null,
+            "finish_reason": "stop",
+            "stop_reason": null,
+            "token_ids": null
+        }
+    ],
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+        "prompt_tokens": 396,
+        "total_tokens": 628,
+        "completion_tokens": 232,
+        "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "kv_transfer_params": null
+}

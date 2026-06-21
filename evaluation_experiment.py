@@ -1,18 +1,6 @@
-import json
-import os
 import time
 
-import requests
-from dotenv import load_dotenv
-
-load_dotenv()
-API_KEY = os.getenv("API_KEY")
-URL = "https://integrate.api.nvidia.com/v1/chat/completions"
-HEADERS = {
-    "accept": "application/json",
-    "content-type": "application/json",
-    "authorization": f"Bearer {API_KEY}",
-}
+from utils import generate
 
 READING_COMPREHENSION_ROLE = (
     "prompts/reading_comprehension/reading_comprehension_role.txt"
@@ -30,26 +18,6 @@ READING_COMPREHENSION_MEDIUM_EXAMPLE_PATH = (
     "prompts/reading_comprehension/reading_comprehension_generation_example_medium.txt"
 )
 READING_COMPREHENSION_EXCELLENT_EXAMPLE_PATH = "prompts/reading_comprehension/reading_comprehension_generation_example_excellent.txt"
-
-
-def generate(prompt, result_path):
-    payload = {
-        "model": "openai/gpt-oss-120b",
-        "messages": [
-            {"role": "system", "content": role},
-            {"role": "user", "content": prompt},
-        ],
-        "reasoning_effort": "low",
-        "stream": False,
-        "temperature": 0,
-        "top_p": 1.0,
-        "max_tokens": 2048,
-    }
-    time.sleep(10)
-
-    response = requests.post(URL, json=payload, headers=HEADERS)
-    with open(result_path, "w", encoding="utf-8") as f:
-        json.dump(response.json(), f, indent=4)
 
 
 with open(READING_COMPREHENSION_ROLE, encoding="utf-8") as f:
@@ -73,4 +41,5 @@ for exercise_path in exercise_paths:
 
     prompt = template.format(text=text, exercise=exercise)
     result_path = exercise_path.split(".")[0] + ".json"
-    generate(prompt, result_path)
+    generate(prompt, role, result_path)
+    time.sleep(10)

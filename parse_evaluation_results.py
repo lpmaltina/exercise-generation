@@ -29,7 +29,7 @@ def parse_criteria(text, criteria):
     evaluation_result = {}
     for criterion in criteria:
         match = re.search(
-            rf"\**{criterion}.\**\s+(.+?\.)\s+\**(\d)/5\**", text, re.DOTALL
+            rf"\**{criterion}.\**\s+(.+?)\s+\**(\d)/5\**", text, re.DOTALL
         )
         if match:
             reasoning = match.group(1).strip()
