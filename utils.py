@@ -15,7 +15,7 @@ HEADERS = {
 }
 
 
-def generate(prompt, role, result_path):
+def generate(model, prompt, role, result_path, **kwargs):
     if role:
         messages = [{"role": "system", "content": role}]
     else:
@@ -23,15 +23,18 @@ def generate(prompt, role, result_path):
     messages.append({"role": "user", "content": prompt})
 
     payload = {
-        "model": "openai/gpt-oss-120b",
+        "model": model,
         "messages": messages,
-        "reasoning_effort": "low",
         "stream": False,
         "temperature": 0,
         "top_p": 1.0,
         "max_tokens": 2048,
+        **kwargs,
     }
 
+    os.makedirs(os.path.dirname(result_path), exist_ok=True)
+
     response = requests.post(URL, json=payload, headers=HEADERS)
+
     with open(result_path, "w", encoding="utf-8") as f:
         json.dump(response.json(), f, indent=4)
