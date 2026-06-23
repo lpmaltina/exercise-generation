@@ -15,10 +15,32 @@ with open(READING_COMPREHENSION_TEXT_PATH, encoding="utf-8") as f:
 with open(READING_COMPREHENSION_BASELINE_PATH, encoding="utf-8") as f:
     template = f.read()
 
+word_count = 200
+topic = "adventure story about time travel"
+CEFR_level = "B2"
+words = ", ".join(
+    [
+        "alter",
+        "ancestor",
+        "deliberately",
+        "significant",
+        "outcome",
+        "temporary",
+        "timeline",
+    ]
+)
+n_questions = 3
 n_options = 4
 n_distractors = n_options - 1
+
 prompt = template.format(
-    text=text, n_questions=3, n_options=n_options, n_distractors=n_distractors
+    n_questions=n_questions,
+    n_options=n_options,
+    n_distractors=n_distractors,
+    word_count=word_count,
+    topic=topic,
+    CEFR_level=CEFR_level,
+    words=words,
 )
 
 # model = "openai/gpt-oss-120b"
