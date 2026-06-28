@@ -3,6 +3,9 @@ import time
 
 from utils import generate
 
+READING_COMPREHENSION_TEXT_PATH = os.path.join(
+    "prompts", "reading_comprehension", "reading_comprehension_text.txt"
+)
 READING_COMPREHENSION_ROLE_PATH = os.path.join(
     "prompts", "reading_comprehension", "reading_comprehension_role.txt"
 )
@@ -18,6 +21,9 @@ READING_COMPREHENSION_COT_PATH = os.path.join(
     "prompts", "reading_comprehension", "reading_comprehension_CoT.txt"
 )
 
+with open(READING_COMPREHENSION_TEXT_PATH, encoding="utf-8") as f:
+    text = f.read()
+
 with open(READING_COMPREHENSION_ROLE_PATH, encoding="utf-8") as f:
     role = f.read()
 
@@ -30,46 +36,25 @@ with open(READING_COMPREHENSION_BASELINE_PATH, encoding="utf-8") as f:
 with open(READING_COMPREHENSION_COT_PATH, encoding="utf-8") as f:
     CoT_template = f.read()
 
-
-word_count = 200
-topic = "adventure story about time travel"
-CEFR_level = "B2"
-words = ", ".join(
-    [
-        "alter",
-        "ancestor",
-        "deliberately",
-        "significant",
-        "outcome",
-        "temporary",
-        "timeline",
-    ]
-)
 n_questions = 3
 n_options = 4
 
 
 def run_experiment(
+    text,
     template,
     template_type="baseline",
     n_questions=n_questions,
     n_options=n_options,
-    word_count=word_count,
-    topic=topic,
-    CEFR_level=CEFR_level,
-    words=words,
     role="",
     example="",
 ):
     n_distractors = n_options - 1
     prompt = template.format(
+        text=text,
         n_questions=n_questions,
         n_options=n_options,
         n_distractors=n_distractors,
-        word_count=word_count,
-        topic=topic,
-        CEFR_level=CEFR_level,
-        words=words,
     )
     if example:
         prompt = "\n".join([prompt, "\nExample:", example])
@@ -100,7 +85,7 @@ def run_experiment(
     time.sleep(10)
 
 
-# run_experiment(baseline_template)
-# run_experiment(baseline_template, role=role)
-# run_experiment(baseline_template, example=example)
-run_experiment(CoT_template, template_type="CoT")
+run_experiment(text, baseline_template)
+run_experiment(text, baseline_template, role=role)
+run_experiment(text, baseline_template, example=example)
+run_experiment(text, CoT_template, template_type="CoT")

@@ -1,25 +1,14 @@
 Create a reading comprehension task for learning English. Follow these steps, showing your reasoning for each step before proceeding to the next.
 
-Step 1. Plan how to naturally use the words from the list in the text on the given topic.
-Topic: {topic}.
-Word list: {words}.
+Step 1. Summarize the key information, main ideas, and important details of the text: {text}
 
-Step 2. Calculate the size of the text. The text should be about {word_count} words (±10% is acceptable).
-
-Step 3. Create a plan of the text. Ensure that the text has no logical gaps, inconsistencies, contradictions or abrupt endings.
-
-Step 4. 
-- Analyze the linguistic features typical of the target CEFR level ({CEFR_level}). Consider its characteristic lexical range, grammatical structures, and discourse patterns.
-- Write a text on the topic "{topic}" that demonstrates these features. The text must be {word_count} words (±10% is acceptable) and must incorporate the following words: {words}.
-- Explain how the generated text matches the target CEFR level, referencing the specific features you identified in your initial analysis.
-
-Step 5. Generate {n_questions} questions based on the text:
+Step 2. Generate {n_questions} questions based on the text.
 - The text should provide the answers to the questions.
 - The questions should be difficult to answer without reading the text.
 
-Step 6. For each question, determine the correct answer.
+Step 3. For each question, determine the correct answer.
 
-Step 7. 
+Step 4. 
 - For each question identify {n_distractors} specific misinterpretations or false inferences a weak or inattentive reader might make based on the text. 
 - Generate {n_distractors} distractors for each question:
   - Distractors must be plausible - a reader who hasn't read carefully might choose them.
@@ -27,10 +16,8 @@ Step 7.
   - Only one option per question should be correct.
 - For each distractor briefly explain why it is wrong and why a weak or inattentive reader might choose them.
 
-Step 8. Generate an output using the following format. The explanation should show why the correct variant fits and why the others don't.
+Step 5. Generate an output using the following format. The explanation should show why the correct variant fits and why the others don't.
 
-Text: <text>
----
 Q1: <question>
 Correct answer: <correct answer>
 Distractors: <distractor 1> / ... / <distractor {n_distractors}>
