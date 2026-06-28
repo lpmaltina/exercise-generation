@@ -1,6 +1,5 @@
 import json
 import os
-import time
 
 import requests
 from dotenv import load_dotenv
@@ -29,7 +28,7 @@ def generate(model, prompt, role, result_path, **kwargs):
         "stream": False,
         "temperature": 0.7,
         "top_p": 0.9,
-        "max_tokens": 2048,
+        "max_tokens": 3072,
         **kwargs,
     }
 

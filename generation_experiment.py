@@ -101,6 +101,6 @@ def run_experiment(
 
 
 # run_experiment(baseline_template)
-run_experiment(baseline_template, role=role)
-run_experiment(baseline_template, example=example)
-# run_experiment(CoT_template, template_type="CoT")
+# run_experiment(baseline_template, role=role)
+# run_experiment(baseline_template, example=example)
+run_experiment(CoT_template, template_type="CoT")
