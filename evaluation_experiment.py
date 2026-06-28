@@ -44,7 +44,6 @@ exercise_paths = (
     READING_COMPREHENSION_EXCELLENT_EXAMPLE_PATH_PARTS,
 )
 
-# model = "openai/gpt-oss-120b"
 model = "deepseek-ai/deepseek-v4-flash"
 
 for exercise_path_parts in exercise_paths:
@@ -58,13 +57,6 @@ for exercise_path_parts in exercise_paths:
         "results", model.split("/")[-1], "reading_comprehension", result_filename
     )
 
-    # generate(
-    #     model=model,
-    #     prompt=prompt,
-    #     role="",
-    #     result_path=result_path,
-    #     reasoning_effort="low"
-    # )
     generate(
         model=model,
         prompt=prompt,

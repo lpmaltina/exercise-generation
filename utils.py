@@ -1,5 +1,6 @@
 import json
 import os
+import time
 
 import requests
 from dotenv import load_dotenv
@@ -36,5 +37,15 @@ def generate(model, prompt, role, result_path, **kwargs):
 
     response = requests.post(URL, json=payload, headers=HEADERS)
 
-    with open(result_path, "w", encoding="utf-8") as f:
-        json.dump(response.json(), f, indent=4)
+    if response.status_code != 200:
+        raise Exception(f"API returned status {response.status_code}: {response.text}")
+
+    try:
+        response_json = response.json()
+        with open(result_path, "w", encoding="utf-8") as f:
+            json.dump(response_json, f, indent=4)
+
+    except requests.exceptions.JSONDecodeError as e:
+        raise Exception(
+            f"Failed to parse JSON. Raw response: {response.text}. Error: {e}"
+        )
