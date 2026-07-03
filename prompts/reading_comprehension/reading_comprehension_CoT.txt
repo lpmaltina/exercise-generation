@@ -10,14 +10,14 @@ Step 3. Create a plan of the text. Ensure that the text has no logical gaps, inc
 
 Step 4. 
 - Analyze the linguistic features typical of the target CEFR level ({CEFR_level}). Consider its characteristic lexical range, grammatical structures, and discourse patterns.
-- Write a text on the topic "{topic}" that demonstrates these features. The text must be {word_count} words (±10% is acceptable) and must incorporate the following words: {words}.
+- Write a text on the topic "{topic}" that demonstrates these features. The text must be {word_count} words (±10% is acceptable) and must incorporate the following words: {words}. Distribute the words from the list evenly throughout the text.
 - Explain how the generated text matches the target CEFR level, referencing the specific features you identified in your initial analysis.
 
 Step 5. Generate {n_questions} questions based on the text:
 - The text should provide the answers to the questions.
 - The questions should be difficult to answer without reading the text.
 
-Step 6. For each question, determine the correct answer.
+Step 6. For each question, determine the correct answer. If possible, formulate the correct answer so that it does not match the text verbatim. Use paraphrasing but keep the original meaning.
 
 Step 7. 
 - For each question identify {n_distractors} specific misinterpretations or false inferences a weak or inattentive reader might make based on the text. 

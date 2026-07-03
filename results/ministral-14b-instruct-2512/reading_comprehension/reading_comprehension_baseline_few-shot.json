@@ -1,0 +1,37 @@
+{
+    "id": "chatcmpl-8178bab7e1c8da3a",
+    "object": "chat.completion",
+    "created": 1783082813,
+    "model": "stg/mistralai/ministral-14b-instruct-2512",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "---\n**Word count:** 100\n**Topic:** An unusual holiday trip\n**CEFR level:** A2\n**Number of questions:** 3\n**Number of options:** 4\n**Word list:** *attractive, creative, intelligent, lazy, nervous, polite, scared, strange, worried, surprised*\n\n---\n**Text:**\nLast summer, Mark decided to take a holiday unlike any other. His friend, Lisa, was a *creative* artist who loved *strange* adventures. Instead of going to a hotel, they booked a tiny houseboat for a week on a quiet river. Mark was *nervous* at first\u2014he had never slept on water!\u2014but Lisa assured him it would be fun.\n\nTheir first night was *surprised* by a storm, but they laughed and danced in the rain like *intelligent* children. The boat\u2019s owner, Mr. Thompson, was *polite* and *intelligent*. He showed them how to cook simple meals and even taught them to fish. Mark felt *lazy* one morning, but Lisa convinced him to explore a nearby *attractive* village. They met a group of musicians there and joined their impromptu concert!\n\nBy the end, Mark wasn\u2019t *worried* about anything\u2014only excited to plan their next *strange* trip.\n---\n\n---\n**Q1:** Why was Mark nervous at first?\nCorrect answer: Because he had never slept on water before.\nDistractors: Because he was afraid of storms. / Because Lisa was not polite. / Because the boat was too small.\nExplanation: The text says Mark was *\"nervous at first\u2014he had never slept on water!\"* This directly answers why. The other options are incorrect: storms happened later, Lisa was *polite*, and the boat\u2019s size wasn\u2019t mentioned as a concern.\n\n---\n**Q2:** What did Mr. Thompson teach Mark and Lisa?\nCorrect answer: How to cook simple meals and fish.\nDistractors: How to play a musical instrument. / How to fix the boat\u2019s engine. / How to sail in bad weather.\nExplanation: The text states Mr. Thompson *\"showed them how to cook simple meals and even taught them to fish.\"* The other options are not supported by the text.\n\n---\n**Q3:** How did Mark feel by the end of the trip?\nCorrect answer: Excited to plan their next strange trip.\nDistractors: Scared of the storm. / Worried about the future. / Lazy and tired.\nExplanation: The text ends with *\"Mark wasn\u2019t worried about anything\u2014only excited to plan their next strange trip.\"* The other options contradict the text: he wasn\u2019t *scared* (he laughed in the storm), wasn\u2019t *worried*, and wasn\u2019t *lazy* (he explored with Lisa).",
+                "refusal": null,
+                "annotations": null,
+                "audio": null,
+                "function_call": null,
+                "tool_calls": [],
+                "reasoning": null,
+                "reasoning_content": null
+            },
+            "logprobs": null,
+            "finish_reason": "stop",
+            "stop_reason": null,
+            "token_ids": null
+        }
+    ],
+    "service_tier": null,
+    "system_fingerprint": null,
+    "usage": {
+        "prompt_tokens": 913,
+        "total_tokens": 1507,
+        "completion_tokens": 594,
+        "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "kv_transfer_params": null
+}

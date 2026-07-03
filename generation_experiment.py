@@ -31,18 +31,21 @@ with open(READING_COMPREHENSION_COT_PATH, encoding="utf-8") as f:
     CoT_template = f.read()
 
 
-word_count = 200
-topic = "adventure story about time travel"
-CEFR_level = "B2"
+word_count = 100
+topic = "a story about an unusual holiday trip"
+CEFR_level = "A2"
 words = ", ".join(
     [
-        "alter",
-        "ancestor",
-        "deliberately",
-        "significant",
-        "outcome",
-        "temporary",
-        "timeline",
+        "attractive",
+        "creative",
+        "intelligent",
+        "lazy",
+        "nervous",
+        "polite",
+        "scared",
+        "strange",
+        "worried",
+        "surprised",
     ]
 )
 n_questions = 3
@@ -74,8 +77,9 @@ def run_experiment(
     if example:
         prompt = "\n".join([prompt, "\nExample:", example])
 
+    model = "mistralai/ministral-14b-instruct-2512"
     # model = "deepseek-ai/deepseek-v4-flash"
-    model = "openai/gpt-oss-120b"
+    # model = "openai/gpt-oss-120b"
 
     parts = [f"reading_comprehension_{template_type}"]
     if role:
@@ -93,14 +97,14 @@ def run_experiment(
         prompt=prompt,
         role=role,
         result_path=result_path,
-        reasoning_effort="low",
+        # reasoning_effort="low",
         # extra_body={"chat_template_kwargs": {"thinking": False}},
     )
 
     time.sleep(10)
 
 
-# run_experiment(baseline_template)
-# run_experiment(baseline_template, role=role)
-# run_experiment(baseline_template, example=example)
+run_experiment(baseline_template)
+run_experiment(baseline_template, role=role)
+run_experiment(baseline_template, example=example)
 run_experiment(CoT_template, template_type="CoT")
