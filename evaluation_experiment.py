@@ -1,68 +1,73 @@
+import json
 import os
-import time
+import re
 
-from utils import generate
+import spacy
 
-READING_COMPREHENSION_ROLE_PATH = os.path.join(
-    "prompts", "reading_comprehension", "reading_comprehension_role.txt"
-)
-READING_COMPREHENSION_TEXT_PATH = os.path.join(
-    "prompts", "reading_comprehension", "reading_comprehension_text.txt"
-)
-READING_COMPREHENSION_EVALUATION_PROMPT_PATH = os.path.join(
-    "prompts", "reading_comprehension", "reading_comprehension_evaluation.txt"
-)
+import config
 
-READING_COMPREHENSION_BAD_EXAMPLE_PATH_PARTS = (
-    "prompts",
-    "reading_comprehension",
-    "reading_comprehension_generation_example_bad.txt",
-)
-READING_COMPREHENSION_MEDIUM_EXAMPLE_PATH_PARTS = (
-    "prompts",
-    "reading_comprehension",
-    "reading_comprehension_generation_example_medium.txt",
-)
-READING_COMPREHENSION_EXCELLENT_EXAMPLE_PATH_PARTS = (
-    "prompts",
-    "reading_comprehension",
-    "reading_comprehension_generation_example_excellent.txt",
-)
 
-with open(READING_COMPREHENSION_ROLE_PATH, encoding="utf-8") as f:
-    role = f.read()
+def get_text_and_questions(filepath: str) -> tuple[str, list[str]]:
+    with open(filepath, "r", encoding="utf-8") as file:
+        data = json.load(file)
+    generated = data["choices"][0]["message"]["content"]
+    parts = [
+        part.strip().replace("*", "").strip() for part in generated.split("---") if part
+    ]
+    text_idx = next((i for i, p in enumerate(parts) if p.startswith("Text:")), 0)
+    text, *questions = parts[text_idx:]
+    text = text.replace("Text:", "").strip()
+    return text, questions
 
-with open(READING_COMPREHENSION_TEXT_PATH, encoding="utf-8") as f:
-    text = f.read()
 
-with open(READING_COMPREHENSION_EVALUATION_PROMPT_PATH, encoding="utf-8") as f:
-    template = f.read()
+def tokenize(text: str) -> list[str]:
+    return re.findall(r"[a-zA-Z0-9]+(?:[-'’–][a-zA-Z0-9]+)*", text)
 
-exercise_paths = (
-    READING_COMPREHENSION_BAD_EXAMPLE_PATH_PARTS,
-    READING_COMPREHENSION_MEDIUM_EXAMPLE_PATH_PARTS,
-    READING_COMPREHENSION_EXCELLENT_EXAMPLE_PATH_PARTS,
-)
 
-model = "deepseek-ai/deepseek-v4-flash"
+def check_word_count(tokens: list[str], target_word_count: int) -> bool:
+    return target_word_count * 0.9 <= len(tokens) <= target_word_count * 1.1
 
-for exercise_path_parts in exercise_paths:
-    exercise_path = os.path.join(*exercise_path_parts)
-    with open(exercise_path, encoding="utf-8") as f:
-        exercise = f.read()
 
-    prompt = template.format(text=text, exercise=exercise)
-    result_filename = exercise_path_parts[-1].split(".")[0] + ".json"
+def check_words_from_wordlist(
+    doc: spacy.tokens.doc.Doc, words: set[str]
+) -> tuple[int, int, set[str]]:
+    used = set()
+    unused = set(words)
+    for token in doc:
+        lemma = token.lemma_.lower()
+        word_form = token.text.lower()
+        if lemma in words:
+            used.add(lemma)
+            unused.discard(lemma)
+        elif word_form in words:
+            used.add(word_form)
+            unused.discard(word_form)
+    return len(used), len(words), unused
+
+
+nlp = spacy.load("en_core_web_sm")
+variants = ("baseline", "baseline_with_role", "baseline_few-shot", "CoT")
+
+for variant in variants:
+    print(variant.upper())
     result_path = os.path.join(
-        "results", model.split("/")[-1], "reading_comprehension", result_filename
+        "results",
+        "ministral-14b-instruct-2512",
+        "reading_comprehension",
+        f"reading_comprehension_{variant}.json",
     )
+    text, questions = get_text_and_questions(result_path)
+    print(text)
+    doc = nlp(text)
+    tokens = tokenize(text)
 
-    generate(
-        model=model,
-        prompt=prompt,
-        role="",
-        result_path=result_path,
-        extra_body={"chat_template_kwargs": {"thinking": False}},
+    word_count_passed = int(
+        check_word_count(tokens, target_word_count=config.word_count)
     )
+    print(f"Word count passed: {word_count_passed}/1")
 
-    time.sleep(10)
+    used_count, word_count, unused = check_words_from_wordlist(doc, words=config.words)
+    print(f"Words used: {used_count}/{word_count}")
+    if unused:
+        print(f"Unused words: {', '.join(unused)}")
+    print()

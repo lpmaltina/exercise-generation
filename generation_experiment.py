@@ -1,6 +1,7 @@
 import os
 import time
 
+import config
 from utils import generate
 
 READING_COMPREHENSION_ROLE_PATH = os.path.join(
@@ -31,36 +32,15 @@ with open(READING_COMPREHENSION_COT_PATH, encoding="utf-8") as f:
     CoT_template = f.read()
 
 
-word_count = 100
-topic = "a story about an unusual holiday trip"
-CEFR_level = "A2"
-words = ", ".join(
-    [
-        "attractive",
-        "creative",
-        "intelligent",
-        "lazy",
-        "nervous",
-        "polite",
-        "scared",
-        "strange",
-        "worried",
-        "surprised",
-    ]
-)
-n_questions = 3
-n_options = 4
-
-
 def run_experiment(
     template,
     template_type="baseline",
-    n_questions=n_questions,
-    n_options=n_options,
-    word_count=word_count,
-    topic=topic,
-    CEFR_level=CEFR_level,
-    words=words,
+    n_questions=config.n_questions,
+    n_options=config.n_options,
+    word_count=config.word_count,
+    topic=config.topic,
+    CEFR_level=config.CEFR_level,
+    words=config.words,
     role="",
     example="",
 ):
