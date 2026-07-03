@@ -5,6 +5,7 @@ import re
 import spacy
 
 import config
+from CEFR_level import CEFRLevelParser
 
 
 def get_text_and_questions(filepath: str) -> tuple[str, list[str]]:
@@ -46,6 +47,8 @@ def check_words_from_wordlist(
 
 
 nlp = spacy.load("en_core_web_sm")
+CEFR_parser = CEFRLevelParser("https://textlevel.org/", headless=True)
+
 variants = ("baseline", "baseline_with_role", "baseline_few-shot", "CoT")
 
 for variant in variants:
@@ -70,4 +73,10 @@ for variant in variants:
     print(f"Words used: {used_count}/{word_count}")
     if unused:
         print(f"Unused words: {', '.join(unused)}")
+
+    CEFR_level = CEFR_parser.get_CEFR_level(text)
+    print(f"Target CEFR level: {config.CEFR_level}")
+    print(f"Determined CEFR level: {CEFR_level}")
     print()
+
+CEFR_parser.quit()
