@@ -43,6 +43,7 @@ def generate(model, prompt, role, result_path, **kwargs):
         response_json = response.json()
         with open(result_path, "w", encoding="utf-8") as f:
             json.dump(response_json, f, indent=4)
+        return response_json["choices"][0]["message"]["content"]
 
     except requests.exceptions.JSONDecodeError as e:
         raise Exception(

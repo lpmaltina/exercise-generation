@@ -69,7 +69,7 @@ def run_experiment(
     filename = f"{'_'.join(parts)}.json"
 
     result_path = os.path.join(
-        "results", model.split("/")[-1], "reading_comprehension", filename
+        "results", "generation", model.split("/")[-1], "reading_comprehension", filename
     )
 
     generate(

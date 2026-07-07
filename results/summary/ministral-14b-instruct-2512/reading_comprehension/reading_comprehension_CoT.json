@@ -1,0 +1,156 @@
+{
+  "Text": {
+    "Content": "Last summer, my friend Mark and I planned a holiday to a strange village in the mountains. I was nervous—no one knew much about it—but Mark was lazy and just wanted to relax. When we arrived, the village was surprisingly attractive, with colorful buildings and a river full of fish. I was scared at first because the locals spoke a different language, but they were very polite. Mark, however, was worried about the cold weather. Then, we met an intelligent old woman who showed us how to make creative lanterns from local flowers. By the end, we were surprised by how much we learned!",
+    "Word Count": {
+      "Reasoning": "Words: 106. Target word count: 100.",
+      "Score": 1
+    },
+    "Target Word Usage": {
+      "Reasoning": "Target word usage: 10/10.",
+      "Score": 1.0
+    },
+    "Target Word Distribution": {
+      "Reasoning": "The distance between target words should not be more than 3 * number of words in the text / number of target words.",
+      "Score": 1
+    },
+    "Matching the CEFR Level": {
+      "Reasoning": "Target CEFR level: A2. Determined CEFR level (text): B1",
+      "Score": 0
+    },
+    "Matching the Topic": {
+      "Reasoning": "The passage describes a trip to an unusual mountain village, fitting the prompt “a story about an unusual holiday trip.”",
+      "Score": 5
+    },
+    "Logic & Commonsense": {
+      "Reasoning": "The sequence of events (arrival, language barrier, weather concern, meeting the old woman) is coherent and plausible.",
+      "Score": 5
+    },
+    "Vocabulary & Grammar": {
+      "Reasoning": "Sentences are well‑formed, punctuation is appropriate, and word choice is clear.",
+      "Score": 5
+    }
+  },
+  "Questions": {
+    "Content": "Q1: Why was the traveler nervous at first?\nCorrect: The village was unfamiliar and the locals spoke a language they didn’t understand.\nDistractors:\n1. The weather was very cold. / 2. They got lost on the way. / 3. The food looked strange.\nExplanation:\nThe correct answer matches the text’s cause (different language). Distractor 1 confuses Mark’s worry with the traveler’s nerves. Distractors 2–3 are unsupported; the text only mentions strange for the village/language.\n---\nQ2: How did the intelligent old woman help them?\nCorrect: She showed them how to create decorative items using flowers.\nDistractors:\n1. She gave them directions to leave the village. / 2. She prepared a traditional dinner. / 3. She revealed secrets about the village’s history.\nExplanation:\nThe correct answer paraphrases make lanterns from flowers. Distractors 1–2 are plausible but unsupported; distractor 3 is speculative (\"secrets\").\n---\nQ3: What did Mark care more about than exploring?\nCorrect: He wanted to rest because he was lazy.\nDistractors:\n1. He was more interested in photography. / 2. He had a fear of heights. / 3. He missed modern comforts.\nExplanation:\nThe correct answer restates lazy and wanted to relax. Distractors assume unstated preferences (photos) or physical fears (heights), which aren’t in the text.",
+    "Overall": {
+      "Matching the CEFR Level": {
+        "Reasoning": "Target CEFR level: A2. Determined CEFR level (questions): C1",
+        "Score": 0
+      },
+      "Text Coverage": {
+        "Reasoning": "The three items address three distinct sections: the traveler’s nerves (beginning), the old woman’s assistance (middle‑end), and Mark’s attitude (throughout), providing balanced coverage of the passage.",
+        "Score": 5
+      },
+      "Logic & Commonsense (Average)": 5.0,
+      "Vocabulary & Grammar (Average)": 5.0,
+      "Text-Based Answerability (Average)": 5.0,
+      "Reading Dependency (Average)": 4.0,
+      "Answer Unambiguity (Average)": 5.0,
+      "Distractor Plausibility (Average)": 4.666666666666667,
+      "Using Paraphrases (Average)": 5.0,
+      "Explanation Quality (Average)": 5.0
+    },
+    "Q1": {
+      "Logic & Commonsense": {
+        "Reasoning": "The question asks for the reason behind the traveler’s nervousness, which is directly addressed in the text.",
+        "Score": 5
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The wording “Why was the traveler nervous at first?” is grammatical and clear.",
+        "Score": 5
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "The answer (“the village was unfamiliar and the locals spoke a language they didn’t understand”) is explicitly stated.",
+        "Score": 5
+      },
+      "Reading Dependency": {
+        "Reasoning": "Without the passage one might guess cold weather or food, so the correct answer is not easily guessed.",
+        "Score": 4
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "Only one option correctly reflects the text; the others are clearly unrelated.",
+        "Score": 5
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "Distractor 1 (cold weather) mirrors Mark’s worry, making it plausible; distractors 2 and 3 are unsupported but still conceivable to a test‑taker.",
+        "Score": 4
+      },
+      "Using Paraphrases": {
+        "Reasoning": "The correct answer restates the idea of an unfamiliar language and setting without copying the exact wording.",
+        "Score": 5
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation correctly links the correct answer to the language barrier and shows why each distractor is unsupported.",
+        "Score": 5
+      }
+    },
+    "Q2": {
+      "Logic & Commonsense": {
+        "Reasoning": "Asking how the old woman helped is logical given her role in the narrative.",
+        "Score": 5
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The question is phrased correctly and clearly.",
+        "Score": 5
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "The text states she showed them how to make lanterns from flowers, which the answer paraphrases.",
+        "Score": 5
+      },
+      "Reading Dependency": {
+        "Reasoning": "Guessing the specific help without reading is unlikely; the correct answer is not obvious.",
+        "Score": 4
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "One answer matches the text; the others describe different actions not mentioned.",
+        "Score": 5
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "All three distractors (directions, dinner, secrets) are believable actions for an “intelligent old woman,” making them plausible mis‑reads.",
+        "Score": 5
+      },
+      "Using Paraphrases": {
+        "Reasoning": "“Create decorative items using flowers” paraphrases “make creative lanterns from local flowers.”",
+        "Score": 5
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation accurately ties the correct answer to the lantern activity and shows why each distractor is unsupported.",
+        "Score": 5
+      }
+    },
+    "Q3": {
+      "Logic & Commonsense": {
+        "Reasoning": "The question focuses on what Mark prioritized over exploration, which the text discusses.",
+        "Score": 5
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The sentence is grammatical and easy to understand.",
+        "Score": 5
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "The passage notes Mark was lazy and wanted to relax, providing a clear answer.",
+        "Score": 5
+      },
+      "Reading Dependency": {
+        "Reasoning": "Without the text a test‑taker could plausibly choose photography, fear of heights, or comfort, so the answer is not easy to guess.",
+        "Score": 4
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "Only the “rest because he was lazy” option aligns with the text; the others introduce unsupported ideas.",
+        "Score": 5
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "Each distractor (photography, fear of heights, missing comforts) is a reasonable but unsupported alternative, making them plausible.",
+        "Score": 5
+      },
+      "Using Paraphrases": {
+        "Reasoning": "“He wanted to rest because he was lazy” restates the text’s description without using identical phrasing.",
+        "Score": 5
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation correctly identifies the lazy‑relaxation motive and why the other options are not mentioned.",
+        "Score": 5
+      }
+    }
+  }
+}

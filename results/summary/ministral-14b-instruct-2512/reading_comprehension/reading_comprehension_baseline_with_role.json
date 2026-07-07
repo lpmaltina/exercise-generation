@@ -1,0 +1,156 @@
+{
+  "Text": {
+    "Content": "Last summer, Lisa planned a very unusual holiday trip. Her friends thought she was lazy for not choosing a beach resort, but Lisa was creative. She booked a train to a small village in the mountains, famous for its attractive but strange traditions. The locals were very polite, and they welcomed her with a big smile.\n\nOn the first day, Lisa felt nervous. The village had no tourists, and everything seemed different. She met an old man who gave her a map. \"Follow the red line,\" he said. Lisa was scared at first, but she trusted him. She walked through forests and saw a hidden waterfall. When she arrived, she was surprised to find a group of children building a bridge. \"You’re intelligent to visit us!\" one boy said. Lisa laughed and helped them. By the end of her trip, she wasn’t worried anymore—she had made new friends and discovered something amazing.",
+    "Word Count": {
+      "Reasoning": "Words: 153. Target word count: 100.",
+      "Score": 0
+    },
+    "Target Word Usage": {
+      "Reasoning": "Target word usage: 10/10.",
+      "Score": 1.0
+    },
+    "Target Word Distribution": {
+      "Reasoning": "The distance between target words should not be more than 3 * number of words in the text / number of target words.",
+      "Score": 1
+    },
+    "Matching the CEFR Level": {
+      "Reasoning": "Target CEFR level: A2. Determined CEFR level (text): B1",
+      "Score": 0
+    },
+    "Matching the Topic": {
+      "Reasoning": "The narrative describes Lisa’s planning and execution of a holiday that deviates from the usual beach resort, which aligns exactly with the stated topic “a story about an unusual holiday trip.”",
+      "Score": 5
+    },
+    "Logic & Commonsense": {
+      "Reasoning": "The sequence of events (planning, arrival, meeting locals, helping children) is coherent and plausible; only minor oddities (e.g., the exact wording of the children’s comment) do not break commonsense.",
+      "Score": 4
+    },
+    "Vocabulary & Grammar": {
+      "Reasoning": "The passage is generally well‑written; sentences are clear and grammatical, with only a few slightly awkward phrases (“You’re intelligent to visit us!”).",
+      "Score": 4
+    }
+  },
+  "Questions": {
+    "Content": "Q1: Why did Lisa’s friends think she was lazy?\nCorrect: She didn’t choose a beach resort for her holiday.\nDistractors: She spent too much time planning the trip. / She didn’t invite them to go with her. / She canceled her trip at the last minute.\nExplanation: The text states that Lisa’s friends thought she was lazy because she didn’t pick a typical beach holiday, which is a common and relaxing choice. The other options are not mentioned and contradict the idea that she planned something different (creative) rather than canceling or excluding friends.\n---\nQ2: What did Lisa feel when she first arrived in the village?\nCorrect: She was nervous.\nDistractors: She was excited. / She was bored. / She was angry.\nExplanation: The text explicitly says Lisa felt nervous upon arrival because the village was unfamiliar and unlike tourist destinations. \"Excited,\" \"bored,\" and \"angry\" are not supported by the text, which highlights her uncertainty and the village’s unusual nature.\n---\nQ3: What did Lisa do to help the children in the village?\nCorrect: She helped them build a bridge.\nDistractors: She taught them English. / She gave them money. / She showed them how to use a map.\nExplanation: The text describes Lisa seeing children building a bridge and then joining them to help. The other options (teaching English, giving money, showing how to use a map) are not mentioned and do not align with the scene of collaborative bridge-building.",
+    "Overall": {
+      "Matching the CEFR Level": {
+        "Reasoning": "Target CEFR level: A2. Determined CEFR level (questions): B2",
+        "Score": 0
+      },
+      "Text Coverage": {
+        "Reasoning": "The three questions each target a different segment of the narrative (friends’ opinion, initial emotional response, and later collaborative activity), providing balanced coverage of the whole text.",
+        "Score": 5
+      },
+      "Logic & Commonsense (Average)": 5.0,
+      "Vocabulary & Grammar (Average)": 5.0,
+      "Text-Based Answerability (Average)": 5.0,
+      "Reading Dependency (Average)": 3.3333333333333335,
+      "Answer Unambiguity (Average)": 5.0,
+      "Distractor Plausibility (Average)": 4.0,
+      "Using Paraphrases (Average)": 3.3333333333333335,
+      "Explanation Quality (Average)": 5.0
+    },
+    "Q1": {
+      "Logic & Commonsense": {
+        "Reasoning": "The question asks for the reason given in the text for the friends’ judgment, which is a straightforward inference from the story.",
+        "Score": 5
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The wording is clear and grammatically correct.",
+        "Score": 5
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "The correct answer is explicitly stated in the passage (“her friends thought she was lazy for not choosing a beach resort”).",
+        "Score": 5
+      },
+      "Reading Dependency": {
+        "Reasoning": "Without the text a test‑taker might guess that “not choosing a beach resort” is the reason, but other plausible reasons exist, making the answer moderately guessable.",
+        "Score": 3
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "Only one option matches the information in the text; the others are clearly unsupported.",
+        "Score": 5
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "The three distractors are believable misinterpretations (spending too much time planning, not inviting friends, canceling last minute) and could tempt a learner who has not read carefully.",
+        "Score": 4
+      },
+      "Using Paraphrases": {
+        "Reasoning": "The correct answer restates the idea without copying the exact wording (“didn’t choose a beach resort” vs. “not choosing a beach resort”).",
+        "Score": 4
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation accurately cites the text and explains why each distractor is invalid.",
+        "Score": 5
+      }
+    },
+    "Q2": {
+      "Logic & Commonsense": {
+        "Reasoning": "The question directly targets Lisa’s emotional state on arrival, which is a logical focus.",
+        "Score": 5
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The sentence is well‑formed and clear.",
+        "Score": 5
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "The passage states “Lisa felt nervous,” providing a direct answer.",
+        "Score": 5
+      },
+      "Reading Dependency": {
+        "Reasoning": "A guesser might assume “excited” for a holiday, so the correct answer is not trivially guessable but not extremely hidden.",
+        "Score": 3
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "Only “She was nervous” aligns with the text; the other options are contradicted.",
+        "Score": 5
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "“Excited” is a reasonable alternative; “bored” and “angry” are less likely but still plausible misunderstandings.",
+        "Score": 4
+      },
+      "Using Paraphrases": {
+        "Reasoning": "The correct answer repeats the exact phrase from the text (“She was nervous”), so it does not demonstrate paraphrasing.",
+        "Score": 2
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation correctly references the text and clarifies why the distractors are unsupported.",
+        "Score": 5
+      }
+    },
+    "Q3": {
+      "Logic & Commonsense": {
+        "Reasoning": "Asking what Lisa did to help the children is a natural comprehension question.",
+        "Score": 5
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The question is clear and grammatically sound.",
+        "Score": 5
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "The passage notes that Lisa “laughed and helped them” while the children were building a bridge, allowing a direct answer.",
+        "Score": 5
+      },
+      "Reading Dependency": {
+        "Reasoning": "The specific action (building a bridge) requires reading the passage; it is not easily guessed.",
+        "Score": 4
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "Only the bridge‑building option matches the text; the others are unsupported.",
+        "Score": 5
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "Teaching English, giving money, or showing a map are plausible misreadings of “helping,” making the distractors effective.",
+        "Score": 4
+      },
+      "Using Paraphrases": {
+        "Reasoning": "The correct answer (“She helped them build a bridge”) paraphrases the text’s description (“helped them”) and adds the activity, showing appropriate re‑statement.",
+        "Score": 4
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation accurately ties the answer to the text and explains why each distractor is incorrect.",
+        "Score": 5
+      }
+    }
+  }
+}

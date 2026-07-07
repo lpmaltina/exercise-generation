@@ -9,18 +9,18 @@ The questions should be difficult to answer without reading the text.
 Only one option per question should be correct.
 Distractors must be plausible but unambiguously wrong.
 For each question generate an explanation why the correct variant is fits and why the others don't.
-Return the text and the questions in the following format. Do not write anything else.
+Return the text and the questions in the following format. Follow the format strictly. Do not write anything else.
 
 Text: <text>
 ---
 Q1: <question>
-Correct answer: <correct answer>
+Correct: <correct answer>
 Distractors: <distractor 1> / ... / <distractor {n_distractors}>
 Explanation: <explanation>
 ---
 ...
 ---
 Q{n_questions}: <question>
-Correct answer: <correct answer>
+Correct: <correct answer>
 Distractors: <distractor 1> / ... / <distractor {n_distractors}>
 Explanation: <explanation>
