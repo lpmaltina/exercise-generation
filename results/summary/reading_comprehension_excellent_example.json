@@ -1,0 +1,156 @@
+{
+  "Text": {
+    "Content": "Last summer my friend Mark and I planned a holiday to a strange village in the mountains. I was nervous because no one knew much about it. Mark was lazy and just wanted to relax. When we arrived, the village was attractive. It had colorful buildings and a river full of fish. I was scared at first because the people spoke a different language, but they were very polite. Mark was worried about the weather, but the rain soon stopped. Then we met an intelligent old woman. She was very creative and showed us how to make lanterns from flowers. We were surprised by how much we learned!",
+    "Word Count": {
+      "Reasoning": "Words: 108. Target word count: 100.",
+      "Score": 1
+    },
+    "Target Word Usage": {
+      "Reasoning": "Target word usage: 10/10.",
+      "Score": 1.0
+    },
+    "Target Word Distribution": {
+      "Reasoning": "The distance between target words should not be more than 3 * number of words in the text / number of target words.",
+      "Score": 1
+    },
+    "Matching the CEFR Level": {
+      "Reasoning": "Target CEFR level: A2. Determined CEFR level (text): A2",
+      "Score": 1
+    },
+    "Matching the Topic": {
+      "Reasoning": "The passage narrates a trip to an unusual mountain village, describing planning, arrival, and encounters, which aligns directly with “a story about an unusual holiday trip”.",
+      "Score": 5
+    },
+    "Logic & Commonsense": {
+      "Reasoning": "The sequence of events (planning, nervousness about the unknown, arrival, weather concerns, meeting an old woman) is coherent; minor oddities (e.g., Mark being both lazy and worried) do not break commonsense.",
+      "Score": 4
+    },
+    "Vocabulary & Grammar": {
+      "Reasoning": "The prose is generally grammatical; a few awkward phrasings (“no one knew much about it”) are present but do not impede comprehension.",
+      "Score": 4
+    }
+  },
+  "Questions": {
+    "Content": "Q1: Why was the traveler nervous at first?\nCorrect: They knew little about the village.\nDistractors:\n1. The weather was too hot. / 2. They got lost. / 3. The food was strange.\nExplanation:\nThe author was nervous because they didn't know much about the village. There is nothing in the text about hot weather, getting lost or strange food.\n---\nQ2: What is true about the village?\nCorrect: It is a beautiful mountain village with bright houses.\nDistractors:\n1. It is a small sea village near the beach. / 2. It is a nice village near the lake. / 3. It is a poor village where it rains very often.\nExplanation:\nThe text describes the village as \"a strange village in the mountains\". \"The village was attractive. It had colorful buildings and a river full of fish\". The text says nothing about the sea, the beach and the lake. We don't know if the village is poor.\n---\nQ3: How did the old woman help them?\nCorrect: She showed them how to create beautiful things using flowers.\nDistractors:\n1. She showed them the way. / 2. She cooked a traditional dinner. / 3. She told them about the history of the village.\nExplanation:\nThe text says: \"She showed us how to make creative lanterns from flowers\". There is no information about showing the way, cooking a dinner and the history of the village.",
+    "Overall": {
+      "Matching the CEFR Level": {
+        "Reasoning": "Target CEFR level: A2. Determined CEFR level (questions): B1",
+        "Score": 0
+      },
+      "Text Coverage": {
+        "Reasoning": "The three questions each target a distinct segment of the passage (initial nervousness, description of the village, and the old woman’s assistance), ensuring balanced coverage across the text.",
+        "Score": 5
+      },
+      "Logic & Commonsense (Average)": 5.0,
+      "Vocabulary & Grammar (Average)": 5.0,
+      "Text-Based Answerability (Average)": 5.0,
+      "Reading Dependency (Average)": 4.0,
+      "Answer Unambiguity (Average)": 5.0,
+      "Distractor Plausibility (Average)": 4.0,
+      "Using Paraphrases (Average)": 5.0,
+      "Explanation Quality (Average)": 5.0
+    },
+    "Q1": {
+      "Logic & Commonsense": {
+        "Reasoning": "The question asks for the reason behind the traveler’s nervousness, which is a natural inference from the story.",
+        "Score": 5
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The sentence is clear and correctly formed.",
+        "Score": 5
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "The text explicitly states the traveler was nervous because they knew little about the village, so the answer is directly supported.",
+        "Score": 5
+      },
+      "Reading Dependency": {
+        "Reasoning": "Without reading, a test‑taker might guess “unknown place,” but the exact phrasing is not obvious; guessing the correct option is moderately difficult.",
+        "Score": 4
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "Only one option (“They knew little about the village”) matches the text; the others are unrelated.",
+        "Score": 5
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "The distractors (hot weather, getting lost, strange food) are plausible reasons for nervousness, making them believable to a partially informed reader.",
+        "Score": 4
+      },
+      "Using Paraphrases": {
+        "Reasoning": "The correct answer restates the idea (“knew little”) rather than copying the exact wording (“no one knew much”).",
+        "Score": 5
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation cites the relevant sentence and clearly shows why each distractor is unsupported.",
+        "Score": 5
+      }
+    },
+    "Q2": {
+      "Logic & Commonsense": {
+        "Reasoning": "Asking what is true about the village is a straightforward comprehension check.",
+        "Score": 5
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The question is well‑phrased and free of errors.",
+        "Score": 5
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "Details about the village’s mountain location, attractive appearance, and colorful buildings are in the text, allowing a direct answer.",
+        "Score": 5
+      },
+      "Reading Dependency": {
+        "Reasoning": "Guessing the exact correct description without the passage is unlikely; the dependency is moderate to high.",
+        "Score": 4
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "Only the “beautiful mountain village with bright houses” option aligns with the text; the others contradict it.",
+        "Score": 5
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "The false options (sea village, lake village, poor rainy village) are plausible alternative settings that a reader might mistakenly infer.",
+        "Score": 4
+      },
+      "Using Paraphrases": {
+        "Reasoning": "The correct answer rephrases “attractive… colorful buildings… river” into “beautiful… bright houses,” avoiding verbatim wording.",
+        "Score": 5
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation correctly links the description in the text to the chosen answer and explains why each distractor is unsupported.",
+        "Score": 5
+      }
+    },
+    "Q3": {
+      "Logic & Commonsense": {
+        "Reasoning": "The question logically follows the narrative’s final segment about the old woman.",
+        "Score": 5
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The wording is clear and grammatically correct.",
+        "Score": 5
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "The passage states she taught them to make lanterns from flowers, providing a direct basis for the answer.",
+        "Score": 5
+      },
+      "Reading Dependency": {
+        "Reasoning": "Without the text, a test‑taker would have to guess the specific help; the correct choice is not easily inferable.",
+        "Score": 4
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "Only one answer (“She showed them how to create beautiful things using flowers”) matches the text; the other options describe unrelated actions.",
+        "Score": 5
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "The distractors (showing the way, cooking, telling history) are reasonable activities an old woman might perform, making them believable yet incorrect.",
+        "Score": 4
+      },
+      "Using Paraphrases": {
+        "Reasoning": "The correct answer paraphrases “make lanterns from flowers” as “create beautiful things using flowers,” avoiding exact wording.",
+        "Score": 5
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation accurately references the sentence about lanterns and clarifies why each distractor does not fit.",
+        "Score": 5
+      }
+    }
+  }
+}

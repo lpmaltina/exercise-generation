@@ -1,0 +1,156 @@
+{
+  "Text": {
+    "Content": "Lena was intelligent and creative, so she decided to plan a holiday trip for her family. Instead of a boring beach holiday, she chose a trip to a small village in the mountains. Her parents were nervous at first—they didn’t like strange places—but Lena promised it would be attractive and fun.\n\nOn the first day, they visited a farmer who let them try making cheese. Her father was scared of the big cow, but her mother laughed and called it \"adventurous.\" Later, they met a polite old man who gave them free honey. Lena’s brother, usually lazy, even helped collect eggs from the chickens!\n\nWhen they arrived home, her parents were surprised by all the photos.\n\n\"Next time, let’s do something normal,\" her father joked. Lena smiled—she knew they’d had the best holiday ever.",
+    "Word Count": {
+      "Reasoning": "Words: 139. Target word count: 100.",
+      "Score": 0
+    },
+    "Target Word Usage": {
+      "Reasoning": "Target word usage: 9/10. Unused words: worried.",
+      "Score": 0.9
+    },
+    "Target Word Distribution": {
+      "Reasoning": "The distance between target words should not be more than 3 * number of words in the text / number of target words.",
+      "Score": 1
+    },
+    "Matching the CEFR Level": {
+      "Reasoning": "Target CEFR level: A2. Determined CEFR level (text): B1",
+      "Score": 0
+    },
+    "Matching the Topic": {
+      "Reasoning": "The passage tells a short narrative about Lena planning an unconventional mountain‑village holiday instead of a typical beach trip, which aligns exactly with the stated topic.",
+      "Score": 5
+    },
+    "Logic & Commonsense": {
+      "Reasoning": "The sequence of events (parents’ nervousness, activities with the farmer, brother’s help, surprise at photos) is coherent and reflects everyday reasoning about unfamiliar travel.",
+      "Score": 5
+    },
+    "Vocabulary & Grammar": {
+      "Reasoning": "The prose is clear, sentences are well‑formed, and there are no glaring grammatical errors; minor stylistic quirks do not impede comprehension.",
+      "Score": 5
+    }
+  },
+  "Questions": {
+    "Content": "Q1: Why did Lena’s parents feel nervous at first?\nCorrect: They didn’t like the idea of visiting a strange place.\nDistractors: They were afraid of the long journey. / They were worried about the cost. / They thought Lena wasn’t intelligent enough to plan the trip.\nExplanation: The text says, \"Her parents were nervous at first—they didn’t like strange places,\" so the correct answer refers to their dislike of unusual destinations. The other options are not mentioned: the journey isn’t described as long or costly, and their nervousness isn’t linked to Lena’s intelligence.\n---\nQ2: What made Lena’s brother lazy usually?\nCorrect: He didn’t want to do much effort.\nDistractors: He was too scared to help. / He was worried about getting dirty. / He was always polite and didn’t want to break rules.\nExplanation: The text states, \"Lena’s brother, usually lazy, even helped collect eggs,\" implying he normally avoids effort. The other options are incorrect: he wasn’t scared (he helped), there’s no mention of dirt, and politeness isn’t linked to laziness here.\n---\nQ3: Why were Lena’s parents surprised when they got home?\nCorrect: They were impressed by all the photos Lena took.\nDistractors: They realized the trip was too expensive. / They found out the village was dangerous. / They were worried about the food.\nExplanation: The text says, \"When they arrived home, her parents were surprised by all the photos,\" so the correct answer is about the photos. The other options are unsupported: cost, danger, or food concerns aren’t mentioned.",
+    "Overall": {
+      "Matching the CEFR Level": {
+        "Reasoning": "Target CEFR level: A2. Determined CEFR level (questions): B2",
+        "Score": 0
+      },
+      "Text Coverage": {
+        "Reasoning": "The three questions each target a different segment of the narrative (parents’ initial nerves, the brother’s character, and the concluding reaction to photos), ensuring a balanced coverage of the whole text.",
+        "Score": 5
+      },
+      "Logic & Commonsense (Average)": 4.666666666666667,
+      "Vocabulary & Grammar (Average)": 4.666666666666667,
+      "Text-Based Answerability (Average)": 4.0,
+      "Reading Dependency (Average)": 3.6666666666666665,
+      "Answer Unambiguity (Average)": 4.666666666666667,
+      "Distractor Plausibility (Average)": 4.333333333333333,
+      "Using Paraphrases (Average)": 5.0,
+      "Explanation Quality (Average)": 4.666666666666667
+    },
+    "Q1": {
+      "Logic & Commonsense": {
+        "Reasoning": "Asking why the parents felt nervous is a straightforward inference from the story; it makes sense in context.",
+        "Score": 5
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The question is phrased correctly and uses appropriate vocabulary.",
+        "Score": 5
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "The answer (“They didn’t like the idea of visiting a strange place”) is directly supported by the sentence “Her parents were nervous at first—they didn’t like strange places.”",
+        "Score": 5
+      },
+      "Reading Dependency": {
+        "Reasoning": "While a test‑taker could guess that nervousness stems from unfamiliarity, the specific wording is not obvious without reading, making guessing moderately difficult.",
+        "Score": 4
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "Only one option matches the text; the three distractors are clearly unrelated.",
+        "Score": 5
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "The distractors (long journey, cost, Lena’s intelligence) are plausible misconceptions a learner might make, though they are not hinted at in the passage.",
+        "Score": 4
+      },
+      "Using Paraphrases": {
+        "Reasoning": "The correct answer restates the idea in different words rather than copying the exact phrase.",
+        "Score": 5
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation accurately cites the passage and clearly shows why each distractor is unsupported.",
+        "Score": 5
+      }
+    },
+    "Q2": {
+      "Logic & Commonsense": {
+        "Reasoning": "The question asks what “made” the brother lazy, which is a bit awkward because the text only states he is lazy; still, the inquiry is understandable.",
+        "Score": 4
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The phrasing “What made … lazy usually?” is slightly clumsy but understandable; overall grammar is acceptable.",
+        "Score": 4
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "The text says he is “usually lazy” but does not explain why; the correct answer (“He didn’t want to do much effort”) is an inference, not a direct statement, so the question is not fully answerable from the text alone.",
+        "Score": 2
+      },
+      "Reading Dependency": {
+        "Reasoning": "Because the answer relies on a reasonable inference about laziness, a test‑taker could guess it without reading, making the dependency low.",
+        "Score": 3
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "Despite the inference, the chosen answer is the only one that fits; the other options are contradicted or irrelevant.",
+        "Score": 4
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "The incorrect options (scared, worried about dirt, always polite) are plausible misunderstandings for someone who misinterprets the passage.",
+        "Score": 4
+      },
+      "Using Paraphrases": {
+        "Reasoning": "The correct answer paraphrases the idea of “usually lazy” into “didn’t want to do much effort,” avoiding verbatim copying.",
+        "Score": 5
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation correctly notes that “usually lazy” implies a lack of effort, but it could have highlighted that the text does not explicitly state the reason, making the justification a bit overstated.",
+        "Score": 4
+      }
+    },
+    "Q3": {
+      "Logic & Commonsense": {
+        "Reasoning": "Asking why the parents were surprised on returning home is logical and fits the narrative.",
+        "Score": 5
+      },
+      "Vocabulary & Grammar": {
+        "Reasoning": "The question is well‑phrased and grammatically sound.",
+        "Score": 5
+      },
+      "Text-Based Answerability": {
+        "Reasoning": "The passage explicitly says they were “surprised by all the photos,” so the answer is directly supported.",
+        "Score": 5
+      },
+      "Reading Dependency": {
+        "Reasoning": "A test‑taker could guess that photos caused surprise, but the specific detail is only in the text, so guessing is moderately difficult.",
+        "Score": 4
+      },
+      "Answer Unambiguity": {
+        "Reasoning": "Only one option correctly reflects the text; the other three are unrelated.",
+        "Score": 5
+      },
+      "Distractor Plausibility": {
+        "Reasoning": "The distractors (cost, danger, food) are reasonable alternative interpretations a learner might consider without full comprehension.",
+        "Score": 5
+      },
+      "Using Paraphrases": {
+        "Reasoning": "The correct answer rephrases the idea of being surprised by photos without copying the exact wording.",
+        "Score": 5
+      },
+      "Explanation Quality": {
+        "Reasoning": "The explanation succinctly links the answer to the quoted sentence and shows why the distractors lack textual support.",
+        "Score": 5
+      }
+    }
+  }
+}

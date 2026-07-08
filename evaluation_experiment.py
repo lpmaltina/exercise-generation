@@ -56,10 +56,15 @@ def create_nlp():
 
 
 def get_text_and_questions(filepath: str) -> tuple[str, str]:
-    with open(filepath, "r", encoding="utf-8") as file:
-        data = json.load(file)
+    if filepath.endswith(".json"):
+        with open(filepath, "r", encoding="utf-8") as file:
+            data = json.load(file)
+        generated = data["choices"][0]["message"]["content"]
 
-    generated = data["choices"][0]["message"]["content"]
+    elif filepath.endswith(".txt"):
+        with open(filepath, "r", encoding="utf-8") as file:
+            generated = file.read()
+
     parts = [
         part.strip().replace("*", "").strip() for part in generated.split("---") if part
     ]
@@ -80,7 +85,7 @@ def get_text_and_questions(filepath: str) -> tuple[str, str]:
     return text.split(":", maxsplit=1)[1].strip(), "\n---\n".join(questions)
 
 
-def tokenize(text: str) -> list[spacy.tokens.token.Token]:
+def tokenize(nlp, text: str) -> list[spacy.tokens.token.Token]:
     doc = nlp(text)
     tokens = [
         token
@@ -160,14 +165,13 @@ def parse_criterion(text: str, criterion: str) -> tuple[str, int]:
 def LLM_evaluate(
     text: str,
     questions: str,
+    topic: str,
     evaluation_path: str,
     role: str,
     evaluation_template: str,
 ):
     evaluation_model = "openai/gpt-oss-120b"
-    prompt = evaluation_template.format(
-        text=text, questions=questions, topic=config.topic
-    )
+    prompt = evaluation_template.format(text=text, questions=questions, topic=topic)
 
     evaluation_result = generate(
         model=evaluation_model,
@@ -180,33 +184,18 @@ def LLM_evaluate(
     return evaluation_result
 
 
-def evaluate(variant):
-    print(variant.upper())
-    generation_model = "ministral-14b-instruct-2512"
-    generation_path = os.path.join(
-        "results",
-        "generation",
-        generation_model,
-        "reading_comprehension",
-        f"reading_comprehension_{variant}.json",
-    )
-    evaluation_path = os.path.join(
-        "results",
-        "evaluation",
-        generation_model,
-        "reading_comprehension",
-        f"reading_comprehension_{variant}.json",
-    )
-    summary_path = os.path.join(
-        "results",
-        "summary",
-        generation_model,
-        "reading_comprehension",
-        f"reading_comprehension_{variant}.json",
-    )
-
+def evaluate(
+    nlp,
+    CEFR_parser,
+    words,
+    role,
+    evaluation_template,
+    generation_path,
+    evaluation_path,
+    summary_path,
+):
     text, questions = get_text_and_questions(generation_path)
-    tokens = tokenize(text)
+    tokens = tokenize(nlp, text)
 
     word_count_score = int(
         check_word_count(tokens, target_word_count=config.word_count)
@@ -239,7 +228,7 @@ def evaluate(variant):
     CEFR_level_questions_reasoning = f"Target CEFR level: {config.CEFR_level}. Determined CEFR level (questions): {CEFR_level_questions}"
 
     evaluation_raw = LLM_evaluate(
-        text, questions, evaluation_path, role, evaluation_template
+        text, questions, config.topic, evaluation_path, role, evaluation_template
     )
 
     evaluation_results = {
@@ -330,7 +319,38 @@ if __name__ == "__main__":
     words = config.words
 
     for variant in variants:
-        evaluation_results = evaluate(variant)
+        generation_model = "ministral-14b-instruct-2512"
+        generation_path = os.path.join(
+            "results",
+            "generation",
+            generation_model,
+            "reading_comprehension",
+            f"reading_comprehension_{variant}.json",
+        )
+        evaluation_path = os.path.join(
+            "results",
+            "evaluation",
+            generation_model,
+            "reading_comprehension",
+            f"reading_comprehension_{variant}.json",
+        )
+        summary_path = os.path.join(
+            "results",
+            "summary",
+            generation_model,
+            "reading_comprehension",
+            f"reading_comprehension_{variant}.json",
+        )
+        evaluation_results = evaluate(
+            nlp,
+            CEFR_parser,
+            words,
+            role,
+            evaluation_template,
+            generation_path,
+            evaluation_path,
+            summary_path,
+        )
         print(json.dumps(evaluation_results, indent=2, ensure_ascii=False))
 
     print()
