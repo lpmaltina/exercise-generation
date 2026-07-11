@@ -3,153 +3,153 @@
     "Content": "Last summer, Mark planned a strange holiday trip to a small iland. He was nervous at first—no one had visited the iland before, and the locals very polite but intelligent in a strange way. \"Why are you here?\" they asked, smiling. Mark explained he wanted adventure, but they just laughed. \"You’ll see,\" they said.\n\nOn the first day, Mark seen a market with colorful clothes and beautiful jewelry. He bought a hat, wondered how happy it made him. Later, he tried local food and felt afraid when he saw a huge, strange fruit. \"Don’t eat it!\" a boy warned. Mark panicked, but he didn’t. The fruit was sweet, and he realized the iland was magical.\n\nBy the end, Mark wasn’t sad anymore—he had fallen in love with the place. \"Next year,\" he promised, \"I’ll bring friends!\"",
     "Word Count": {
       "Reasoning": "Words: 138. Target word count: 100.",
-      "Score": 0
+      "Score": 0.7246
     },
     "Target Word Usage": {
-      "Reasoning": "Target word usage: 4/10. Unused words: lazy, worried, surprised, scared, attractive, creative.",
+      "Reasoning": "Target word usage: 4/10. Unused words: worried, attractive, creative, scared, lazy, surprised.",
       "Score": 0.4
     },
     "Target Word Distribution": {
-      "Reasoning": "The distance between target words should not be more than 3 * number of words in the text / number of target words.",
-      "Score": 0
+      "Reasoning": "Max gap share: 0.7985. Ideal share: 0.2000.",
+      "Score": 0.2519
     },
     "Matching the CEFR Level": {
       "Reasoning": "Target CEFR level: A2. Determined CEFR level (text): A2",
-      "Score": 1
+      "Score": 1.0
     },
     "Matching the Topic": {
-      "Reasoning": "The narrative is about Mark’s unusual holiday on a small island, which aligns with the stated topic. However, the story is very brief and contains many irrelevant or confusing details.",
-      "Score": 4
+      "Reasoning": "The passage narrates Mark’s unusual holiday on a remote island, which aligns directly with the stated topic.",
+      "Score": 1.0
     },
     "Logic & Commonsense": {
-      "Reasoning": "The storyline contains several implausible or contradictory elements (e.g., “locals very polite but intelligent in a strange way,” “Mark seen a market,” “the fruit was magical” without explanation).",
-      "Score": 2
+      "Reasoning": "The story contains several inconsistencies (e.g., “locals very polite but intelligent” lacks a verb, “Mark seen a market” wrong tense, the boy’s warning has no explained reason, and the later question‑answer pair contradicts the text). This amounts to about two clear logical errors.",
+      "Score": 0.5
     },
     "Vocabulary & Grammar": {
-      "Reasoning": "The passage is riddled with misspellings (“iland,” “seen”), incorrect verb forms, and awkward phrasing, making it grammatically weak.",
-      "Score": 2
+      "Reasoning": "The text includes four or more noticeable errors (misspelling “iland”, missing verb in “locals very polite…”, wrong past tense “seen”, ambiguous “He didn’t.”, etc.), so it falls at the lowest level.",
+      "Score": 0.0
     }
   },
   "Questions": {
     "Content": "Q1: What Mark bought at the market that made him happy?\nCorrect: A colorful bag.\nDistractors: An intelligent book / Strange fruit / Polite souvenirs.\nExplanation: The text says he bought a bag at the market, and it made him happy.\n---\nQ2: Why did the boy warn Mark about the strange fruit?\nCorrect: He knew it was magical and dangerous to eat.\nDistractors: He afraid of Mark / The fruit rotten / The boy lazy.\nExplanation:\n  - \"Afraid of Mark\" → The boy was helpful, not afraid.\n  - \"The fruit rotten\" → The text doesn’t say it was bad; Mark later found it sweet.  \n  - \"The boy lazy\" → The word \"lazy\" is used to describe Mark’s change in attitude, not the boy.\n---\nQ3: What did Mark do during his trip?\nCorrect: Went to the market.\nDistractors: Spoke with locals / Went to the market / Tried local food.\nExplanation: The correct answer is \"Went to the market\".",
     "Overall": {
       "Matching the CEFR Level": {
-        "Reasoning": "Target CEFR level: A2. Determined CEFR level (questions): B1",
-        "Score": 0
+        "Reasoning": "Target CEFR level: A2. Determined CEFR level (questions): A2",
+        "Score": 1.0
       },
       "Text Coverage": {
         "Reasoning": "The three questions focus almost exclusively on the market episode and the fruit warning, neglecting other parts of the story (e.g., the locals’ interaction, Mark’s emotional change).",
-        "Score": 2
+        "Score": 0.25
       },
-      "Logic & Commonsense (Average)": 4.0,
-      "Vocabulary & Grammar (Average)": 5.0,
-      "Text-Based Answerability (Average)": 1.3333333333333333,
-      "Reading Dependency (Average)": 2.6666666666666665,
-      "Answer Unambiguity (Average)": 1.0,
-      "Distractor Plausibility (Average)": 2.0,
-      "Using Paraphrases (Average)": 1.6666666666666667,
-      "Explanation Quality (Average)": 1.0
+      "Logic & Commonsense (Average)": 0.5,
+      "Vocabulary & Grammar (Average)": 1.0,
+      "Text-Based Answerability (Average)": 0.25,
+      "Reading Dependency (Average)": 0.5833,
+      "Answer Unambiguity (Average)": 0.0,
+      "Distractor Plausibility (Average)": 0.6667,
+      "Using Paraphrases (Average)": 0.0833,
+      "Explanation Quality (Average)": 0.0833
     },
     "Q1": {
       "Logic & Commonsense": {
-        "Reasoning": "Asking what Mark bought that made him happy is a sensible question, but the premise is undermined by the text’s errors.",
-        "Score": 4
+        "Reasoning": "The question is understandable, but the “correct” option (colorful bag) does not appear in the text, making the whole item ill‑founded.",
+        "Score": 0.25
       },
       "Vocabulary & Grammar": {
-        "Reasoning": "The question is well‑formed and free of errors.",
-        "Score": 5
+        "Reasoning": "The stem and all answer choices are free of grammatical or spelling mistakes.",
+        "Score": 1.0
       },
       "Text-Based Answerability": {
-        "Reasoning": "The text states Mark bought a hat, not a bag; therefore the correct answer cannot be derived from the passage.",
-        "Score": 1
+        "Reasoning": "The information required to choose the stated correct answer is absent from the passage.",
+        "Score": 0.0
       },
       "Reading Dependency": {
-        "Reasoning": "Because the answer is not in the text, a test‑taker would have to guess; the correct choice is not inferable without external knowledge.",
-        "Score": 3
+        "Reasoning": "A test‑taker could not reliably infer “colorful bag” from the text; guessing would be largely random.",
+        "Score": 0.5
       },
       "Answer Unambiguity": {
-        "Reasoning": "The provided “correct” answer is not supported, making the answer ambiguous.",
-        "Score": 1
+        "Reasoning": "Because the text never mentions a bag, no answer is unequivocally correct; the intended answer is actually contradicted by the passage.",
+        "Score": 0.0
       },
       "Distractor Plausibility": {
-        "Reasoning": "Distractors reference items mentioned in the text (fruit, polite locals) and are somewhat plausible, though “intelligent book” is never mentioned.",
-        "Score": 3
+        "Reasoning": "The three distractors (intelligent book, strange fruit, polite souvenirs) are all plausible alternatives for someone who has read the text but is unsure.",
+        "Score": 0.75
       },
       "Using Paraphrases": {
-        "Reasoning": "The correct answer (“A colorful bag”) does not paraphrase any phrase in the text; it is actually inaccurate.",
-        "Score": 1
+        "Reasoning": "The “correct” answer does not paraphrase any statement in the text—it introduces a new item.",
+        "Score": 0.0
       },
       "Explanation Quality": {
-        "Reasoning": "The explanation incorrectly claims the text says Mark bought a bag, which is false; therefore the rationale is misleading.",
-        "Score": 1
+        "Reasoning": "The provided explanation claims the text says Mark bought a bag, which is false; it misrepresents the source material.",
+        "Score": 0.0
       }
     },
     "Q2": {
       "Logic & Commonsense": {
-        "Reasoning": "The question about the boy’s warning is logical, but the text provides no reason, only the warning itself.",
-        "Score": 4
+        "Reasoning": "The question is reasonable, but the “correct” answer adds information (magical and dangerous) that the text never supplies.",
+        "Score": 0.75
       },
       "Vocabulary & Grammar": {
-        "Reasoning": "The question is grammatically correct.",
-        "Score": 5
+        "Reasoning": "No grammatical or spelling errors are present.",
+        "Score": 1.0
       },
       "Text-Based Answerability": {
-        "Reasoning": "The passage does not explain why the boy warned Mark, so the answer cannot be sourced from the text.",
-        "Score": 1
+        "Reasoning": "The reason for the boy’s warning is not stated; the answer relies on inference beyond the text.",
+        "Score": 0.25
       },
       "Reading Dependency": {
-        "Reasoning": "Without textual support, the correct answer must be guessed; it is not obvious.",
-        "Score": 3
+        "Reasoning": "General knowledge about “strange fruit” might lead a test‑taker to guess danger, but the text gives no clue, making the answer largely guesswork.",
+        "Score": 0.5
       },
       "Answer Unambiguity": {
-        "Reasoning": "The stated correct answer (“He knew it was magical and dangerous to eat”) is not justified by the text, leaving ambiguity.",
-        "Score": 1
+        "Reasoning": "Because the text provides no reason, more than one interpretation could be argued; the intended answer is not uniquely supported.",
+        "Score": 0.0
       },
       "Distractor Plausibility": {
-        "Reasoning": "“He afraid of Mark” is odd, “The fruit rotten” is plausible, “The boy lazy” is implausible; overall distractors are uneven.",
-        "Score": 2
+        "Reasoning": "All three distractors (afraid of Mark, fruit rotten, boy lazy) are clearly implausible given the context, so they do not function as good distractors.",
+        "Score": 0.25
       },
       "Using Paraphrases": {
-        "Reasoning": "The correct answer introduces information not present in the passage; it is not a paraphrase.",
-        "Score": 1
+        "Reasoning": "The correct answer adds new information rather than rephrasing; it is not a paraphrase.",
+        "Score": 0.0
       },
       "Explanation Quality": {
-        "Reasoning": "The explanation repeats the same inaccurate claim that the text says the boy warned because the fruit was magical, which is unsupported.",
-        "Score": 1
+        "Reasoning": "The explanation points out that the boy was helpful, but it does not address why the other options are wrong, and it does not acknowledge that the correct answer is unsupported.",
+        "Score": 0.25
       }
     },
     "Q3": {
       "Logic & Commonsense": {
-        "Reasoning": "Asking what Mark did during the trip is sensible.",
-        "Score": 4
+        "Reasoning": "The question is clear, but two of the answer choices (“Went to the market” and “Tried local food”) are both true according to the text, so the item is flawed.",
+        "Score": 0.5
       },
       "Vocabulary & Grammar": {
-        "Reasoning": "The question is clear and grammatically sound.",
-        "Score": 5
+        "Reasoning": "The wording is correct and free of errors.",
+        "Score": 1.0
       },
       "Text-Based Answerability": {
-        "Reasoning": "The text mentions several actions (going to the market, trying food, speaking with locals); selecting only “Went to the market” ignores other correct possibilities.",
-        "Score": 2
+        "Reasoning": "The text confirms both “went to the market” and “tried local food”, so the answer is only partially supported; the test‑taker must choose between two correct statements.",
+        "Score": 0.5
       },
       "Reading Dependency": {
-        "Reasoning": "The answer can be guessed from the text, but because multiple actions are valid, the dependency is low.",
-        "Score": 2
+        "Reasoning": "Without reading, a guesser might pick any activity typical of a holiday, so the answer is not easily guessable.",
+        "Score": 0.75
       },
       "Answer Unambiguity": {
-        "Reasoning": "Multiple actions are correct, so the “correct” answer is not uniquely determined.",
-        "Score": 1
+        "Reasoning": "Because more than one option is accurate, the correct answer is not unambiguous.",
+        "Score": 0.0
       },
       "Distractor Plausibility": {
-        "Reasoning": "All options are true statements from the text, making them all plausible and thus invalid as distractors.",
-        "Score": 1
+        "Reasoning": "All three options are plausible actions described in the passage, which is appropriate for distractors.",
+        "Score": 1.0
       },
       "Using Paraphrases": {
-        "Reasoning": "The correct answer repeats the phrase from the text verbatim (“went to the market”), which is acceptable but does not test paraphrasing ability.",
-        "Score": 3
+        "Reasoning": "The correct choice (“Went to the market”) repeats the wording from the text rather than paraphrasing it.",
+        "Score": 0.25
       },
       "Explanation Quality": {
-        "Reasoning": "No explanation is provided, leaving the rationale absent.",
-        "Score": 1
+        "Reasoning": "No explanation was supplied for this item, so it fails to justify the correct answer or dismiss the distractors.",
+        "Score": 0.0
       }
     }
   }

@@ -31,6 +31,10 @@ INDIVIDUAL_QUESTION_CRITERIA = (
 OVERALL_QUESTION_CRITERIA = ("Text Coverage",)
 
 
+def standarize(value, min_value, max_value):
+    return (value - min_value) / (max_value - min_value)
+
+
 def create_nlp():
     nlp = spacy.load("en_core_web_sm")
     infixes = list(nlp.Defaults.infixes)
@@ -95,10 +99,13 @@ def tokenize(nlp, text: str) -> list[spacy.tokens.token.Token]:
     return tokens
 
 
-def check_word_count(
+def evaluate_word_count(
     tokens: list[spacy.tokens.token.Token], target_word_count: int
-) -> bool:
-    return target_word_count * 0.9 <= len(tokens) <= target_word_count * 1.1
+) -> float:
+    real_word_count = len(tokens)
+    return min(real_word_count, target_word_count) / max(
+        real_word_count, target_word_count
+    )
 
 
 def check_words_from_wordlist(
@@ -118,10 +125,11 @@ def check_words_from_wordlist(
     return len(used), len(words), unused
 
 
-def check_evenness(tokens: spacy.tokens.doc.Doc, words: set[str]) -> bool:
+def evaluate_evenness(
+    tokens: spacy.tokens.doc.Doc, words: set[str]
+) -> tuple[float, float, float]:
     words_copy = words.copy()
     len_text = len(tokens)
-    len_wordlist = len(words)
     positions = []
 
     for pos, token in enumerate(tokens):
@@ -134,32 +142,42 @@ def check_evenness(tokens: spacy.tokens.doc.Doc, words: set[str]) -> bool:
             positions.append(pos)
             words_copy.discard(word_form)
 
-    mean_distance = len_text / len_wordlist
-    threshold = 3 * mean_distance
-
-    max_gap = positions[0]
+    gaps = [positions[0]]
 
     for i in range(len(positions) - 1):
         gap = positions[i + 1] - positions[i] - 1
-        max_gap = max(max_gap, gap)
+        gaps.append(gap)
 
     gap = len_text - positions[-1] - 1
-    max_gap = max(max_gap, gap)
+    gaps.append(gap)
 
-    return max_gap <= threshold
+    n = len(gaps)
+    sum_gaps = sum(gaps)
+    max_gap = max(gaps)
+    max_gap_share = max_gap / sum_gaps
+    ideal_share = 1.0 / n
+    score = 1.0 - (max_gap_share - ideal_share) / (1.0 - ideal_share)
+    return score, max_gap_share, ideal_share
 
 
-def parse_criterion(text: str, criterion: str) -> tuple[str, int]:
+def calculate_CEFR_match(real_CEFR_level: str, target_CEFR_level: str) -> float:
+    levels = {"A1": 0, "A2": 1, "B1": 2, "B2": 3, "C1": 4, "C2": 5}
+    CEFR_diff = abs(levels[real_CEFR_level] - levels[target_CEFR_level])
+    return 1 - standarize(CEFR_diff, min_value=0, max_value=5)
+
+
+def parse_criterion(text: str, criterion: str) -> tuple[str, float]:
     reasoning = ""
     score = 0
 
-    match = re.search(rf"{criterion}.\s+(.+?)\s+(\d)/5", text, re.DOTALL)
+    match = re.search(rf"{criterion}.\s+(.+?)\s+<?(\d)>?/5>?", text, re.DOTALL)
 
     if match:
         reasoning = match.group(1).strip()
         score = int(match.group(2))
 
-    return reasoning, score
+    standarized_score = standarize(score, min_value=1, max_value=5)
+    return reasoning, standarized_score
 
 
 def LLM_evaluate(
@@ -178,9 +196,9 @@ def LLM_evaluate(
         prompt=prompt,
         role=role,
         result_path=evaluation_path,
+        reasoning_effort="low",
     )
-    time.sleep(10)
-
+    time.sleep(120)
     return evaluation_result
 
 
@@ -197,8 +215,8 @@ def evaluate(
     text, questions = get_text_and_questions(generation_path)
     tokens = tokenize(nlp, text)
 
-    word_count_score = int(
-        check_word_count(tokens, target_word_count=config.word_count)
+    word_count_score = round(
+        evaluate_word_count(tokens, target_word_count=config.word_count), 4
     )
     word_count_reasoning = (
         f"Words: {len(tokens)}. Target word count: {config.word_count}."
@@ -213,18 +231,25 @@ def evaluate(
         target_word_usage_reasoning.append(f"Unused words: {', '.join(unused)}.")
     target_word_usage_reasoning = " ".join(target_word_usage_reasoning)
 
-    target_word_distribution_score = int(check_evenness(tokens, words))
+    target_word_distribution_score, max_gap_share, ideal_share = evaluate_evenness(
+        tokens, words
+    )
+    target_word_distribution_score = round(target_word_distribution_score, 4)
     target_word_distribution_reasoning = (
-        "The distance between target words should not be more than "
-        "3 * number of words in the text / number of target words."
+        f"Max gap share: {max_gap_share:.4f}. Ideal share: {ideal_share:.4f}."
     )
 
     CEFR_level_text = CEFR_parser.get_CEFR_level(text)
-    CEFR_level_text_score = int(config.CEFR_level == CEFR_level_text)
+    CEFR_level_text_score = calculate_CEFR_match(CEFR_level_text, config.CEFR_level)
     CEFR_level_text_reasoning = f"Target CEFR level: {config.CEFR_level}. Determined CEFR level (text): {CEFR_level_text}"
 
-    CEFR_level_questions = CEFR_parser.get_CEFR_level(questions)
-    CEFR_level_questions_score = int(config.CEFR_level == CEFR_level_questions)
+    questions_replaced = questions.replace("Distractors:", "Wrong:").replace(
+        "Explanation:", "Why:"
+    )
+    CEFR_level_questions = CEFR_parser.get_CEFR_level(questions_replaced)
+    CEFR_level_questions_score = calculate_CEFR_match(
+        CEFR_level_questions, config.CEFR_level
+    )
     CEFR_level_questions_reasoning = f"Target CEFR level: {config.CEFR_level}. Determined CEFR level (questions): {CEFR_level_questions}"
 
     evaluation_raw = LLM_evaluate(
@@ -273,7 +298,7 @@ def evaluate(
     for text_criterion in TEXT_CRITERIA:
         reasoning, score = parse_criterion(text_part, text_criterion)
         evaluation_results["Text"][text_criterion]["Reasoning"] = reasoning
-        evaluation_results["Text"][text_criterion]["Score"] = score
+        evaluation_results["Text"][text_criterion]["Score"] = round(score, 4)
 
     for i, question in enumerate(individual_question_parts, start=1):
         evaluation_results["Questions"][f"Q{i}"] = {}
@@ -284,20 +309,22 @@ def evaluate(
             reasoning, score = parse_criterion(question, question_criterion)
             evaluation_results["Questions"][f"Q{i}"][question_criterion] = {
                 "Reasoning": reasoning,
-                "Score": score,
+                "Score": round(score, 4),
             }
             avg_score += score
         avg_score /= config.n_questions
         evaluation_results["Questions"]["Overall"][
             f"{question_criterion} (Average)"
-        ] = avg_score
+        ] = round(avg_score, 4)
 
     for question_criterion in OVERALL_QUESTION_CRITERIA:
         reasoning, score = parse_criterion(overall_question_part, question_criterion)
         evaluation_results["Questions"]["Overall"][question_criterion][
             "Reasoning"
         ] = reasoning
-        evaluation_results["Questions"]["Overall"][question_criterion]["Score"] = score
+        evaluation_results["Questions"]["Overall"][question_criterion]["Score"] = round(
+            score, 4
+        )
 
     os.makedirs(os.path.dirname(summary_path), exist_ok=True)
     with open(summary_path, "w", encoding="utf-8") as f:
@@ -319,6 +346,7 @@ if __name__ == "__main__":
     words = config.words
 
     for variant in variants:
+        print(variant.upper())
         generation_model = "ministral-14b-instruct-2512"
         generation_path = os.path.join(
             "results",

@@ -1,25 +1,36 @@
-Word count: 150
-Topic: interior design
+Word count: 350
+Topic: a personal story about a hobby
 CEFR level: B1
-Number of questions: 3
+Number of questions: 5
 Number of options: 4
-Word list: affect, highlight, inhabitant, lighting, reflect, significant, successful. 
+Word list: ahead, brave, concentrate, countryside, decade, fairly, involved, mainly, path, studio.
 ---
-Text: There's more to interior design than just decorating a space. The key to successful interior design lies in understanding the space and the people who will be using it. The design should not only be aesthetically pleasing but also functional. It goes far beyond pretty colours and nice furniture. It should reflect the personalities and needs of its inhabitants, transforming a house into a home.
-Sophie Platt, a famous interior designer, explains, "Interior design is a conversation between space and user. It's not about following trends, but about creating spaces that are authentic and personal."
-Colour plays a significant role in interior design. The chosen shades can affect the mood of a room. Bright colours can energize a space, while muted tones create a calm and relaxing atmosphere. Lighting is another critical aspect. Natural light can make a room appear larger and more inviting, while artificial light can highlight certain areas and create visual interest.
+Text: There’s a popular idea that artists are not supposed to be into sport, but mountain biking is a huge part of my life. It gets me out of my studio, and into the countryside. But more importantly, racing along as fast as you can leaves you no time to worry about anything that’s going on in your life. You’re too busy concentrating on not crashing. The only things you pay attention to are the pain in your legs and the rocks on the path in front of you.
+I’m in my sixties now, but I started cycling when I was a kid. In the summer my friends and I would ride our bikes into the woods and see who was brave enough to go down steep hills, or do big jumps. The bikes we had then weren’t built for that, and often broke, so I used to draw pictures of bikes with big thick tyres that would be strong enough for what we were doing. They looked just like modern mountain bikes. However, it wasn’t until many years later that someone actually invented one. By the 1980s, they were everywhere.
+At that time I was into skateboarding. I did that for a decade until falling off on to hard surfaces started to hurt too much. Mountain biking seemed a fairly safe way to keep fit, so I took that up instead. I made a lot of friends, and got involved in racing, which gave me a reason to train hard. I wanted to find out just how fit and fast I could get, which turned out to be fairly quick. I even won a couple of local races.
+In the end I stopped racing, mainly because I knew what it could mean to my career if I had a bad crash. But I still like to do a three-hour mountain bike ride every week. And if I’m out cycling in the hills and see a rider ahead, I have to beat them to the top. As I go past I imagine how surprised they would be if they knew how old I am.
 ---
-Q1: What is the key to successful interior design according to the article?
-Correct answer: Understanding the space and the people who will be using it.
-Distractors: Being up to date. / Focusing on the aesthetics. / Designing based on the designer's personal preference.
-Explanation: The text states that "the key to successful interior design lies in understanding the space and the people who will be using it". "Being up to date" is wrong because Sophie Platt says that "interior design ... is not about following trends". The text says that "The design should not only be aesthetically pleasing but also functional", so focusing on aesthetics is not the most important thing. "Designing based on the designer's personal preference" is not mentioned in the text.
+Q1: Peter enjoys mountain biking because
+Correct: he is able to stop thinking about his problems.
+Distractors: it gives him the opportunity to enjoy the views. / he can use the time to plan his work. / it helps him to concentrate better.
+Explanation: The text says that "racing along as fast as you can leaves you no time to worry about anything that’s going on in your life", so mountain biking helps Peter to stop thinking about his problems. Enjoying the views and helping to concentrate are not mentioned. Using the time to plan his work contradicts the text because cycling leaves no time to think about it.
 ---
-Q2: According to the text, what can bright colours do?
-Correct answer: Add more energy to a room.
-Distractors: Make a space look smaller. / Make a space look larger. / Cause stress.
-Explanation: The text states that "bright colours can energize a space", so the correct option is "Add more energy to a room". Making a room look larger refers to natural light, not bright colours. "Make a space look smaller" and "Cause stress" are not supported by the text.
+Q2: What does Peter say about cycling during his childhood?
+Correct: His bike wasn’t suitable for the activities he was doing.
+Distractors: He is sorry he didn’t take more care of his bike. / His friends always had better quality bikes than he did. / He was more interested in designing bikes than riding them.
+Explanation: The text says: "In the summer my friends and I would ride our bikes into the woods and see who was brave enough to go down steep hills, or do big jumps. The bikes we had then weren’t built for that, and often broke", so the option "His bike wasn’t suitable for the activities he was doing" is correct. Taking care of the bike or his friends having better bikes are not mentioned. Peter drew pictures of bikes, but the text doesn't say that for him designing bikes became more interesting than riding them.
 ---
-Q3: What role does lighting play in interior design?
-Correct answer: It can bring focus to particular aspects of the room.
-Distractors: It makes rooms look smaller. / It is only needed at night. / It is less important than color.
-Explanation: The text says that "artificial light can highlight certain areas and create visual interest", so the correct option is "It can bring focus to particular aspects of the room". "Natural light can make a room appear larger", so the option "It makes rooms look smaller" is false. The options "It is only needed at night" and "It is less important than color" are not supported by the text.
+Q3: Peter says he returned to cycling after several years
+Correct: to replace an activity he had given up.
+Distractors: because he had become unfit. / so that he could enter races. / in order to meet new people.
+Explanation: Peter gave up skateboarding and returned to cycling: "I was into skateboarding. I did that for a decade until falling off on to hard surfaces started to hurt too much. Mountain biking seemed a fairly safe way to keep fit, so I took that up instead". The text doesn't say he was unfit. The text mentions making friends and winning races, but those weren't the Peter's primary goals.
+---
+Q4: How does Peter feel about cycling now?
+Correct: He is proud that he is still so fast.
+Distractors: He is keen to do less now that he is older. / He regrets the fact that he can no longer compete. / He wishes more people were involved in the sport.
+Explanation: Peter is proud that he is so fast for his age: "And if I’m out cycling in the hills and see a rider ahead, I have to beat them to the top. As I go past I imagine how surprised they would be if they knew how old I am". Peter still competes, so the options "He is keen to do less now that he is older" and "He regrets the fact that he can no longer compete" are wrong. Wishing that more people were involved in the sport is not mentioned.
+---
+Q5: What would be a good introduction to this article?
+Correct: Artist Peter Fuller takes mountain biking pretty seriously. Here he describes how it all began and what he gets out of it.
+Distractors: For Peter Fuller, nothing matters more than mountain biking, not even his career. Here, in his own words, he tells us why. / In this article, Peter Fuller explains how he became an artist only as a result of his interest in mountain biking. / After discovering mountain biking late in life, Peter Fuller gave up art for a while to concentrate on getting as good as possible.
+Explanation: Peter takes mountain biking seriously: "mountain biking is a huge part of my life." The text describes how he started this hobby and why he likes it. The text says, "In the end, I stopped racing, mainly because I knew what it could mean to my career if I had a bad crash," so his career matters a lot to him. The option "For Peter Fuller, nothing matters more than mountain biking, not even his career..." is wrong. Becoming an artist because of mountain biking is not mentioned. "Discovering mountain biking late in life" is false because he started it in his childhood. The text also says nothing about giving up art.
