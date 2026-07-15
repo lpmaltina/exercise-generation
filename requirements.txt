@@ -1,6 +1,7 @@
 beautifulsoup4
 black
 isort
+openai
 pre-commit
 python-dotenv
 requests
