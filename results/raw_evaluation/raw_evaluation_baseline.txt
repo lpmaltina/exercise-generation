@@ -1,0 +1,36 @@
+Text
+Matching the Topic. The text describes a holiday trip to a small island with unusual elements like magical fruit and polite locals, which fits the topic of an "unusual holiday trip." 5/5
+Logic & Commonsense. The text contains logical inconsistencies: "no one had visited the island before" contradicts the presence of locals; "the fruit was sweet" after not eating it is contradictory; "he wasn't lazy anymore" is introduced without prior mention of laziness. These errors total four or more. 1/5
+Vocabulary & Grammar. The text has no obvious grammar or spelling errors, and wording is generally natural. 5/5
+---
+Q1
+Logic & Commonsense. The question and options are reasonable and consistent with commonsense. 5/5
+Vocabulary & Grammar. No grammar, vocabulary, or spelling errors. 5/5
+Text-Based Answerability. The text states Mark was nervous because "no one had visited the island before," which implies it was unknown. The correct answer "He had never heard of the island before" is directly inferable from this. 5/5
+Reading Dependency. Without reading the text, one might guess Mark was afraid of locals or food, but the specific reason ("no one had visited") makes the correct answer less guessable from general knowledge alone. 4/5
+Answer Unambiguity. Exactly one answer ("He had never heard of the island before") is unambiguously correct based on the text. 5/5
+Distractor Plausibility. The distractors ("afraid of locals," "didn't like strange food," "too lazy to travel") are plausible for someone who misreads or skims the text, as these elements appear later. 5/5
+Using Paraphrases. The correct answer rephrases "no one had visited the island before" as "He had never heard of the island before," changing words while preserving meaning. 5/5
+Explanation Quality. The explanation correctly identifies why the correct answer is right and why each distractor is wrong, with accurate references to the text. 5/5
+---
+Q2
+Logic & Commonsense. The question and options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. No grammar, vocabulary, or spelling errors. 5/5
+Text-Based Answerability. The text explicitly says "He bought a hat, surprised by how happy it made him," so the answer is directly stated. 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text, as it's a specific detail. 5/5
+Answer Unambiguity. Exactly one answer ("A colorful hat") is unambiguously correct. 5/5
+Distractor Plausibility. "Intelligent book" and "Polite souvenirs" are plausible distractors as they use descriptive words from the text ("intelligent," "polite"), and "Strange fruit" is mentioned nearby. 5/5
+Using Paraphrases. The correct answer rephrases "a hat" to "a colorful hat" (adding "colorful" from the market description), which is acceptable. 4/5
+Explanation Quality. The explanation correctly identifies the correct answer and explains why each distractor is wrong, citing text details. 5/5
+---
+Q3
+Logic & Commonsense. The question is reasonable, but the correct answer states the fruit was "magical and dangerous to eat." The text says the fruit was "sweet" and the island was "magical," but doesn't explicitly state danger or the boy's knowledge of it; this requires inference that may not be fully logical. 3/5
+Vocabulary & Grammar. No grammar, vocabulary, or spelling errors. 5/5
+Text-Based Answerability. The text does not state why the boy warned Mark; it only says "Don't eat it!" and later Mark realized the island was magical. The answer requires inference beyond the text. 2/5
+Reading Dependency. The correct answer is guessable from general knowledge (warning about unknown fruit implies danger) without reading the text. 2/5
+Answer Unambiguity. The correct answer is not unambiguously supported by the text; the text does not specify the boy's reason. Other distractors could be argued as equally unsupported. 2/5
+Distractor Plausibility. The distractors ("Scared of Mark," "The fruit was rotten," "The boy was lazy") are obviously wrong based on the text, as they contradict or are not mentioned. 2/5
+Using Paraphrases. The correct answer introduces "magical" (from the text) and "dangerous" (inferred), which goes beyond paraphrasing. 2/5
+Explanation Quality. The explanation claims the fruit had "unknown effects" and the boy "suggests it was special," but does not accurately justify why it was "dangerous," and does not fully address distractors (e.g., "the fruit was rotten" is dismissed despite text not ruling it out). 2/5
+---
+Text Coverage. Q1 covers the start of the trip (initial nervousness), Q2 covers the market (middle), and Q3 covers the fruit incident (later). The questions are well distributed across different parts of the text. 5/5

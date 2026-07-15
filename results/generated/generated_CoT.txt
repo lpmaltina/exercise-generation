@@ -1,0 +1,26 @@
+Topic: a story about an unusual holiday trip
+
+Text: 
+Last summer, my friend Mark and I planned a holiday to a strange village in the mountains. I was nervous—no one knew much about it—but Mark was lazy and just wanted to relax. When we arrived, the village was surprisingly attractive, with colorful buildings and a river full of fish. I was scared at first because the locals spoke a different language, but they were very polite. Mark, however, was worried about the cold weather. Then, we met an intelligent old woman who showed us how to make creative lanterns from local flowers. By the end, we were surprised by how much we learned!
+
+Questions: 
+Q1: Why was the traveler nervous at first?
+Correct: The village was unfamiliar and the locals spoke a language they didn’t understand.\n
+Distractors:
+1. The weather was very cold. / 2. They got lost on the way. / 3. The food looked strange.
+Explanation:
+The correct answer matches the text’s cause (different language). Distractor 1 confuses Mark’s worry with the traveler’s nerves. Distractors 2–3 are unsupported; the text only mentions strange for the village/language.
+---
+Q2: How did the intelligent old woman help them?
+Correct: She showed them how to create decorative items using flowers.
+Distractors:
+1. She gave them directions to leave the village. / 2. She prepared a traditional dinner. / 3. She revealed secrets about the village’s history.
+Explanation:
+The correct answer paraphrases make lanterns from flowers. Distractors 1–2 are plausible but unsupported; distractor 3 is speculative ("secrets").
+---
+Q3: What did Mark care more about than exploring?
+Correct: He wanted to rest because he was lazy.
+Distractors:
+1. He was more interested in photography. / 2. He had a fear of heights. / 3. He missed modern comforts.
+Explanation:
+The correct answer restates lazy and wanted to relax. Distractors assume unstated preferences (photos) or physical fears (heights), which aren’t in the text.

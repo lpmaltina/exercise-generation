@@ -1,0 +1,36 @@
+Text
+Matching the Topic. The text is a story about an unusual holiday trip to a mountain village, which fully matches the topic. 5/5
+Logic & Commonsense. The text is logical and consistent with commonsense; there are no logical errors. 5/5
+Vocabulary & Grammar. The text contains no grammar, vocabulary, or spelling errors, and the wording is natural. 5/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense; no flaws. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, or spelling errors, and the wording is natural. 5/5
+Text-Based Answerability. The text explicitly states, "Her parents were nervous at first—they didn’t like strange places," so the answer is fully present. 5/5
+Reading Dependency. Without reading the text, one might guess parents are nervous about strange places, but the specific phrasing about "dislike of unusual destinations" is not obvious from general knowledge alone; some general knowledge helps slightly. 4/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text; the other options are not supported. 5/5
+Distractor Plausibility. All incorrect options (fear of long journey, worry about cost, thought Lena wasn’t intelligent) are plausible to someone who might misread or infer incorrectly from the text. 5/5
+Using Paraphrases. The correct answer ("They didn’t like the idea of visiting a strange place") rephrases the text ("they didn’t like strange places") by changing "strange places" to "visiting a strange place," which is a slight change but not a strong paraphrase. 4/5
+Explanation Quality. The explanation accurately describes why the correct answer is right (references the text) and why all distractors are wrong (not mentioned in the text). 5/5
+---
+Q2
+Logic & Commonsense. The question is reasonable, and all answer options are plausible in a commonsense way, but the question asks about a trait ("lazy") that is not directly defined; however, the options are logically consistent. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, or spelling errors, and the wording is natural. 5/5
+Text-Based Answerability. The text says, "Lena’s brother, usually lazy," but does not explain why he is lazy; the correct answer ("He didn’t want to do much effort") is a reasonable inference from the word "lazy," but not explicitly stated. 4/5
+Reading Dependency. The correct answer ("He didn’t want to do much effort") is guessable using general knowledge about laziness, though the text confirms his laziness. 2/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text; "lazy" implies avoiding effort, and the other options are not supported. 5/5
+Distractor Plausibility. The incorrect options (scared, worried about dirt, polite) are all plausible to someone who might misread the context (e.g., he helped but could have been scared, or politeness might explain helping). 5/5
+Using Paraphrases. The correct answer ("He didn’t want to do much effort") rephrases "lazy" well, using different words to express the same meaning. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right (references laziness implying avoiding effort) and why all distractors are wrong (not mentioned or contradicted). 5/5
+---
+Q3
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense; no flaws. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, or spelling errors, and the wording is natural. 5/5
+Text-Based Answerability. The text explicitly says, "When they arrived home, her parents were surprised by all the photos," so the answer is fully present. 5/5
+Reading Dependency. Without reading the text, one might not know the reason for their surprise (photos), so general knowledge does not help; the answer is difficult to guess. 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text; the other options are unsupported. 5/5
+Distractor Plausibility. All incorrect options (trip too expensive, village dangerous, worried about food) are plausible to someone who might infer from the unusual trip or parents' nervousness. 5/5
+Using Paraphrases. The correct answer ("They were impressed by all the photos Lena took") rephrases the text ("surprised by all the photos") by adding "impressed" and "Lena took," which is a good paraphrase. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right (references the text) and why all distractors are wrong (unsupported). 5/5
+---
+Text Coverage. The three questions cover different parts of the text: Q1 targets the beginning (parents' nervousness), Q2 targets the middle (brother's laziness), and Q3 targets the end (parents' surprise at photos), so they are evenly distributed. 5/5

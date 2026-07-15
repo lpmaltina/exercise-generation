@@ -1,0 +1,139 @@
+{
+  "exercises": [
+    {
+      "Text": {
+        "Matching the Topic": {
+          "Reasoning": "The text describes Mark's unusual holiday trip to a small island, including his initial nerves, his experiences at the market, and his eventual love for the place. This fully matches the topic of \"a story about an unusual holiday trip.\"",
+          "Score": 1.0
+        },
+        "Logic & Commonsense": {
+          "Reasoning": "The text contains a few contradictions or illogical points: 1) The locals are described as \"very polite but intelligent in a strange way,\" which implies intelligence is strange, not a logical trait to pair with politeness. 2) Mark is nervous because \"no one had visited the island before,\" but the locals exist and react to him normally. 3) The fruit is called \"strange\" and \"huge,\" a boy warns him not to eat it, but later it is described as \"sweet,\" implying he did eat it despite not being warned and being scared. These inconsistencies amount to more than four logical issues, but counting strictly, there are three clear breaks in logic (contradiction in \"intelligent in a strange way,\" the premise of no visitors yet locals exist, and the boy warning then Mark finding it sweet despite not eating it).",
+          "Score": 0.25
+        },
+        "Vocabulary & Grammar": {
+          "Reasoning": "The text is grammatically correct and well-worded, with no spelling or grammatical errors. The wording is natural.",
+          "Score": 1.0
+        }
+      },
+      "Questions": {
+        "Overall": {
+          "Logic & Commonsense (Average)": 1.0,
+          "Vocabulary & Grammar (Average)": 1.0,
+          "Text-Based Answerability (Average)": 0.8333,
+          "Reading Dependency (Average)": 0.9167,
+          "Answer Unambiguity (Average)": 0.8333,
+          "Distractor Plausibility (Average)": 0.5,
+          "Using Paraphrases (Average)": 0.8333,
+          "Explanation Quality (Average)": 0.8333,
+          "Text Coverage": {
+            "Reasoning": "The three questions cover: Q1 (initial nervousness), Q2 (market/hat), Q3 (strange fruit/boy). These cover the beginning and middle of the story but miss the end (Mark's change of heart and promise to return). The coverage is decent but not fully even.",
+            "Score": 0.5
+          }
+        },
+        "Q1": {
+          "Logic & Commonsense": {
+            "Reasoning": "The question asks why Mark was nervous. The correct answer, \"He had never heard of the island before,\" is reasonable and consistent with the text. The distractors are all clearly wrong from commonsense (afraid of polite locals, didn't like strange food before seeing it, too lazy to travel). This question is reasonable and all options are logical.",
+            "Score": 1.0
+          },
+          "Vocabulary & Grammar": {
+            "Reasoning": "The question and all answer options are grammatically correct and well-worded, with no errors or unnatural phrasing.",
+            "Score": 1.0
+          },
+          "Text-Based Answerability": {
+            "Reasoning": "The answer can be directly inferred from the text: \"He was nervous at first—no one had visited the island before.\" This fully supports the correct answer.",
+            "Score": 1.0
+          },
+          "Reading Dependency": {
+            "Reasoning": "Without reading the text, one might guess \"afraid of the locals\" or \"didn't like strange food,\" but the correct answer \"He had never heard of the island before\" is not obvious from general knowledge. General knowledge does not help.",
+            "Score": 1.0
+          },
+          "Answer Unambiguity": {
+            "Reasoning": "Only one answer is correct based on the text; the other options are clearly contradicted or unsupported.",
+            "Score": 1.0
+          },
+          "Distractor Plausibility": {
+            "Reasoning": "All distractors are based on elements from the text (locals, strange food, lazy), but they twist the meaning. To someone who hasn't read carefully, they could seem plausible, especially \"afraid of the locals\" since the setting seems mysterious. However, \"too lazy to travel\" is obviously wrong given Mark planned a trip. So one distractor is clearly wrong, the others are plausible.",
+            "Score": 0.75
+          },
+          "Using Paraphrases": {
+            "Reasoning": "The correct answer rephrases \"no one had visited the island before\" to \"He had never heard of the island before,\" changing structure and words while preserving meaning. This is a strong paraphrase.",
+            "Score": 1.0
+          },
+          "Explanation Quality": {
+            "Reasoning": "The explanation correctly states why the correct answer is right (based on \"no one had visited\") and explains why each distractor is wrong by referencing specific text details. It covers all distractors fully.",
+            "Score": 1.0
+          }
+        },
+        "Q2": {
+          "Logic & Commonsense": {
+            "Reasoning": "The question is reasonable. The correct answer is \"A colorful hat,\" which is directly from the text. The distractors are all logically wrong based on the text (intelligent book not mentioned, strange fruit was seen but not bought, polite souvenirs not mentioned).",
+            "Score": 1.0
+          },
+          "Vocabulary & Grammar": {
+            "Reasoning": "No errors or unnatural wording.",
+            "Score": 1.0
+          },
+          "Text-Based Answerability": {
+            "Reasoning": "The answer is directly stated in the text: \"He bought a hat.\"",
+            "Score": 1.0
+          },
+          "Reading Dependency": {
+            "Reasoning": "Without reading the text, one might guess \"Polite souvenirs\" or \"Strange fruit\" based on common travel stories, but \"colorful hat\" is not obvious from general knowledge.",
+            "Score": 1.0
+          },
+          "Answer Unambiguity": {
+            "Reasoning": "Only one answer is correct; the others are clearly wrong.",
+            "Score": 1.0
+          },
+          "Distractor Plausibility": {
+            "Reasoning": "\"Strange fruit\" is mentioned in the text, so it could be plausible. \"Intelligent book\" is a direct misreading of \"intelligent locals.\" \"Polite souvenirs\" is a mix of \"polite locals\" and \"souvenirs\" (not mentioned). Two distractors are clearly off, one is plausible.",
+            "Score": 0.5
+          },
+          "Using Paraphrases": {
+            "Reasoning": "The correct answer changes \"hat\" to \"a colorful hat\" (adding a descriptor from the text \"colorful clothes\" but not directly from the hat description). It is mostly verbatim with one word added.",
+            "Score": 0.5
+          },
+          "Explanation Quality": {
+            "Reasoning": "The explanation correctly states why the correct answer is right and explains why each distractor is wrong with specific text references.",
+            "Score": 1.0
+          }
+        },
+        "Q3": {
+          "Logic & Commonsense": {
+            "Reasoning": "The question asks why the boy warned Mark. The correct answer \"He knew it was magical and dangerous to eat\" is reasonable but not directly stated in the text; it is an inference. The distractors are clearly wrong (scared of Mark, fruit rotten, boy lazy). The question is reasonable.",
+            "Score": 1.0
+          },
+          "Vocabulary & Grammar": {
+            "Reasoning": "No errors.",
+            "Score": 1.0
+          },
+          "Text-Based Answerability": {
+            "Reasoning": "The text does not explicitly state why the boy warned Mark. It says \"Don’t eat it!\" a boy warned,\" and later \"The fruit was sweet, and he realized the island was magical.\" The answer requires inference (the boy knew it was magical/dangerous). This is not fully present in the text.",
+            "Score": 0.5
+          },
+          "Reading Dependency": {
+            "Reasoning": "Without reading the text, one might guess the fruit was rotten or dangerous. The correct answer is not easily guessable from general knowledge.",
+            "Score": 0.75
+          },
+          "Answer Unambiguity": {
+            "Reasoning": "Only one answer is intended as correct, but the text doesn't confirm the boy's knowledge. The text says the fruit was sweet and magical, so it wasn't dangerous. This makes the correct answer partially contradicted. However, \"magical\" could imply danger. Still, it is ambiguous whether the boy knew it was magical. The intended answer is the most plausible, but not unambiguously supported.",
+            "Score": 0.5
+          },
+          "Distractor Plausibility": {
+            "Reasoning": "\"The fruit was rotten\" is plausible if one misreads the warning. \"The boy was lazy\" is not plausible. \"Scared of Mark\" is not plausible. So two distractors are obviously wrong.",
+            "Score": 0.25
+          },
+          "Using Paraphrases": {
+            "Reasoning": "The correct answer rephrases the text significantly: \"magical\" comes from the last sentence, \"dangerous\" is inferred. It is not copied verbatim.",
+            "Score": 1.0
+          },
+          "Explanation Quality": {
+            "Reasoning": "The explanation states the island was magical and the fruit had unknown effects, but it does not fully explain why the boy's warning implies danger. It also doesn't fully address the contradiction that Mark later found the fruit sweet. It correctly dismisses distractors, but the reasoning for the correct answer is weak.",
+            "Score": 0.5
+          }
+        }
+      },
+      "Exercise": 1
+    }
+  ]
+}
