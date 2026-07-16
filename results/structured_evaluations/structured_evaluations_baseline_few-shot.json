@@ -1,0 +1,188 @@
+{
+  "Exercises": [
+    {
+      "Text": {
+        "Word Count": {
+          "Reasoning": "Words: 139. Target word count: 100.",
+          "Score": 0.7194244604316546
+        },
+        "Target Word Usage": {
+          "Reasoning": "Target word usage: 9/10. Unused words: worried.",
+          "Score": 0.9
+        },
+        "Target Word Distribution": {
+          "Reasoning": "Max gap share: 0.2385. Ideal share: 0.1000.",
+          "Score": 0.8461538461538461
+        },
+        "Matching the CEFR Level": {
+          "Reasoning": "Target CEFR level: A2. Determined CEFR level (text): B1",
+          "Score": 0.8
+        },
+        "Matching the Topic": {
+          "Reasoning": "The text is a story about an unusual holiday trip to a mountain village, which fully matches the topic.",
+          "Score": 1.0
+        },
+        "Logic & Commonsense": {
+          "Reasoning": "The text is logical and consistent with commonsense; there are no logical errors.",
+          "Score": 1.0
+        },
+        "Vocabulary & Grammar": {
+          "Reasoning": "The text contains no grammar, vocabulary, or spelling errors, and the wording is natural.",
+          "Score": 1.0
+        }
+      },
+      "Questions": {
+        "Individual": {
+          "Q1": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question and answer options are logical and consistent with commonsense; no flaws.",
+              "Score": 1.0
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "The question and answer options contain no grammar, vocabulary, or spelling errors, and the wording is natural.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The text explicitly states, \"Her parents were nervous at first—they didn’t like strange places,\" so the answer is fully present.",
+              "Score": 1.0
+            },
+            "Reading Dependency": {
+              "Reasoning": "Without reading the text, one might guess parents are nervous about strange places, but the specific phrasing about \"dislike of unusual destinations\" is not obvious from general knowledge alone; some general knowledge helps slightly.",
+              "Score": 0.75
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "Exactly one answer is unambiguously correct based on the text; the other options are not supported.",
+              "Score": 1.0
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "All incorrect options (fear of long journey, worry about cost, thought Lena wasn’t intelligent) are plausible to someone who might misread or infer incorrectly from the text.",
+              "Score": 1.0
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer (\"They didn’t like the idea of visiting a strange place\") rephrases the text (\"they didn’t like strange places\") by changing \"strange places\" to \"visiting a strange place,\" which is a slight change but not a strong paraphrase.",
+              "Score": 0.75
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation accurately describes why the correct answer is right (references the text) and why all distractors are wrong (not mentioned in the text).",
+              "Score": 1.0
+            }
+          },
+          "Q2": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question is reasonable, and all answer options are plausible in a commonsense way, but the question asks about a trait (\"lazy\") that is not directly defined; however, the options are logically consistent.",
+              "Score": 1.0
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "The question and answer options contain no grammar, vocabulary, or spelling errors, and the wording is natural.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The text says, \"Lena’s brother, usually lazy,\" but does not explain why he is lazy; the correct answer (\"He didn’t want to do much effort\") is a reasonable inference from the word \"lazy,\" but not explicitly stated.",
+              "Score": 0.75
+            },
+            "Reading Dependency": {
+              "Reasoning": "The correct answer (\"He didn’t want to do much effort\") is guessable using general knowledge about laziness, though the text confirms his laziness.",
+              "Score": 0.25
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "Exactly one answer is unambiguously correct based on the text; \"lazy\" implies avoiding effort, and the other options are not supported.",
+              "Score": 1.0
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "The incorrect options (scared, worried about dirt, polite) are all plausible to someone who might misread the context (e.g., he helped but could have been scared, or politeness might explain helping).",
+              "Score": 1.0
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer (\"He didn’t want to do much effort\") rephrases \"lazy\" well, using different words to express the same meaning.",
+              "Score": 1.0
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation accurately describes why the correct answer is right (references laziness implying avoiding effort) and why all distractors are wrong (not mentioned or contradicted).",
+              "Score": 1.0
+            }
+          },
+          "Q3": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question and answer options are logical and consistent with commonsense; no flaws.",
+              "Score": 1.0
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "The question and answer options contain no grammar, vocabulary, or spelling errors, and the wording is natural.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The text explicitly says, \"When they arrived home, her parents were surprised by all the photos,\" so the answer is fully present.",
+              "Score": 1.0
+            },
+            "Reading Dependency": {
+              "Reasoning": "Without reading the text, one might not know the reason for their surprise (photos), so general knowledge does not help; the answer is difficult to guess.",
+              "Score": 1.0
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "Exactly one answer is unambiguously correct based on the text; the other options are unsupported.",
+              "Score": 1.0
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "All incorrect options (trip too expensive, village dangerous, worried about food) are plausible to someone who might infer from the unusual trip or parents' nervousness.",
+              "Score": 1.0
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer (\"They were impressed by all the photos Lena took\") rephrases the text (\"surprised by all the photos\") by adding \"impressed\" and \"Lena took,\" which is a good paraphrase.",
+              "Score": 1.0
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation accurately describes why the correct answer is right (references the text) and why all distractors are wrong (unsupported).",
+              "Score": 1.0
+            }
+          }
+        },
+        "Overall": {
+          "Matching the CEFR Level": {
+            "Reasoning": "Target CEFR level: A2. Determined CEFR level (questions): B2",
+            "Score": 0.6
+          },
+          "Logic & Commonsense (Exercise Mean Score)": 1.0,
+          "Vocabulary & Grammar (Exercise Mean Score)": 1.0,
+          "Text-Based Answerability (Exercise Mean Score)": 0.9166666666666666,
+          "Reading Dependency (Exercise Mean Score)": 0.6666666666666666,
+          "Answer Unambiguity (Exercise Mean Score)": 1.0,
+          "Distractor Plausibility (Exercise Mean Score)": 1.0,
+          "Using Paraphrases (Exercise Mean Score)": 0.9166666666666666,
+          "Explanation Quality (Exercise Mean Score)": 1.0,
+          "Text Coverage": {
+            "Reasoning": "The three questions cover different parts of the text: Q1 targets the beginning (parents' nervousness), Q2 targets the middle (brother's laziness), and Q3 targets the end (parents' surprise at photos), so they are evenly distributed.",
+            "Score": 1.0
+          }
+        }
+      },
+      "Exercise ID": 0
+    }
+  ],
+  "Average for All Exercises": {
+    "Text": {
+      "Word Count": 0.7194244604316546,
+      "Target Word Usage": 0.9,
+      "Target Word Distribution": 0.8461538461538461,
+      "Matching the CEFR Level": 0.8,
+      "Matching the Topic": 1.0,
+      "Logic & Commonsense": 1.0,
+      "Vocabulary & Grammar": 1.0
+    },
+    "Questions": {
+      "Individual": {
+        "Logic & Commonsense": 1.0,
+        "Vocabulary & Grammar": 1.0,
+        "Text-Based Answerability": 0.9166666666666666,
+        "Reading Dependency": 0.6666666666666666,
+        "Answer Unambiguity": 1.0,
+        "Distractor Plausibility": 1.0,
+        "Using Paraphrases": 0.9166666666666666,
+        "Explanation Quality": 1.0
+      },
+      "Overall": {
+        "Matching the CEFR Level": 0.6,
+        "Text Coverage": 1.0
+      }
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "Exercises": [
+    {
+      "Text": {
+        "Word Count": {
+          "Reasoning": "Words: 142. Target word count: 100.",
+          "Score": 0.704225352112676
+        },
+        "Target Word Usage": {
+          "Reasoning": "Target word usage: 10/10.",
+          "Score": 1.0
+        },
+        "Target Word Distribution": {
+          "Reasoning": "Max gap share: 0.2121. Ideal share: 0.0909.",
+          "Score": 0.8666666666666667
+        },
+        "Matching the CEFR Level": {
+          "Reasoning": "Target CEFR level: A2. Determined CEFR level (text): A2",
+          "Score": 1.0
+        },
+        "Matching the Topic": {
+          "Reasoning": "The text describes a holiday trip to a small island with unusual elements like magical fruit and polite locals, which fits the topic of an \"unusual holiday trip.\"",
+          "Score": 1.0
+        },
+        "Logic & Commonsense": {
+          "Reasoning": "The text contains logical inconsistencies: \"no one had visited the island before\" contradicts the presence of locals; \"the fruit was sweet\" after not eating it is contradictory; \"he wasn't lazy anymore\" is introduced without prior mention of laziness. These errors total four or more.",
+          "Score": 0.0
+        },
+        "Vocabulary & Grammar": {
+          "Reasoning": "The text has no obvious grammar or spelling errors, and wording is generally natural.",
+          "Score": 1.0
+        }
+      },
+      "Questions": {
+        "Individual": {
+          "Q1": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question and options are reasonable and consistent with commonsense.",
+              "Score": 1.0
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "No grammar, vocabulary, or spelling errors.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The text states Mark was nervous because \"no one had visited the island before,\" which implies it was unknown. The correct answer \"He had never heard of the island before\" is directly inferable from this.",
+              "Score": 1.0
+            },
+            "Reading Dependency": {
+              "Reasoning": "Without reading the text, one might guess Mark was afraid of locals or food, but the specific reason (\"no one had visited\") makes the correct answer less guessable from general knowledge alone.",
+              "Score": 0.75
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "Exactly one answer (\"He had never heard of the island before\") is unambiguously correct based on the text.",
+              "Score": 1.0
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "The distractors (\"afraid of locals,\" \"didn't like strange food,\" \"too lazy to travel\") are plausible for someone who misreads or skims the text, as these elements appear later.",
+              "Score": 1.0
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer rephrases \"no one had visited the island before\" as \"He had never heard of the island before,\" changing words while preserving meaning.",
+              "Score": 1.0
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation correctly identifies why the correct answer is right and why each distractor is wrong, with accurate references to the text.",
+              "Score": 1.0
+            }
+          },
+          "Q2": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question and options are logical and consistent with commonsense.",
+              "Score": 1.0
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "No grammar, vocabulary, or spelling errors.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The text explicitly says \"He bought a hat, surprised by how happy it made him,\" so the answer is directly stated.",
+              "Score": 1.0
+            },
+            "Reading Dependency": {
+              "Reasoning": "The correct answer is difficult to guess without reading the text, as it's a specific detail.",
+              "Score": 1.0
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "Exactly one answer (\"A colorful hat\") is unambiguously correct.",
+              "Score": 1.0
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "\"Intelligent book\" and \"Polite souvenirs\" are plausible distractors as they use descriptive words from the text (\"intelligent,\" \"polite\"), and \"Strange fruit\" is mentioned nearby.",
+              "Score": 1.0
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer rephrases \"a hat\" to \"a colorful hat\" (adding \"colorful\" from the market description), which is acceptable.",
+              "Score": 0.75
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation correctly identifies the correct answer and explains why each distractor is wrong, citing text details.",
+              "Score": 1.0
+            }
+          },
+          "Q3": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question is reasonable, but the correct answer states the fruit was \"magical and dangerous to eat.\" The text says the fruit was \"sweet\" and the island was \"magical,\" but doesn't explicitly state danger or the boy's knowledge of it; this requires inference that may not be fully logical.",
+              "Score": 0.5
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "No grammar, vocabulary, or spelling errors.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The text does not state why the boy warned Mark; it only says \"Don't eat it!\" and later Mark realized the island was magical. The answer requires inference beyond the text.",
+              "Score": 0.25
+            },
+            "Reading Dependency": {
+              "Reasoning": "The correct answer is guessable from general knowledge (warning about unknown fruit implies danger) without reading the text.",
+              "Score": 0.25
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "The correct answer is not unambiguously supported by the text; the text does not specify the boy's reason. Other distractors could be argued as equally unsupported.",
+              "Score": 0.25
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "The distractors (\"Scared of Mark,\" \"The fruit was rotten,\" \"The boy was lazy\") are obviously wrong based on the text, as they contradict or are not mentioned.",
+              "Score": 0.25
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer introduces \"magical\" (from the text) and \"dangerous\" (inferred), which goes beyond paraphrasing.",
+              "Score": 0.25
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation claims the fruit had \"unknown effects\" and the boy \"suggests it was special,\" but does not accurately justify why it was \"dangerous,\" and does not fully address distractors (e.g., \"the fruit was rotten\" is dismissed despite text not ruling it out).",
+              "Score": 0.25
+            }
+          }
+        },
+        "Overall": {
+          "Matching the CEFR Level": {
+            "Reasoning": "Target CEFR level: A2. Determined CEFR level (questions): B1",
+            "Score": 0.8
+          },
+          "Logic & Commonsense (Exercise Mean Score)": 0.8333333333333334,
+          "Vocabulary & Grammar (Exercise Mean Score)": 1.0,
+          "Text-Based Answerability (Exercise Mean Score)": 0.75,
+          "Reading Dependency (Exercise Mean Score)": 0.6666666666666666,
+          "Answer Unambiguity (Exercise Mean Score)": 0.75,
+          "Distractor Plausibility (Exercise Mean Score)": 0.75,
+          "Using Paraphrases (Exercise Mean Score)": 0.6666666666666666,
+          "Explanation Quality (Exercise Mean Score)": 0.75,
+          "Text Coverage": {
+            "Reasoning": "Q1 covers the start of the trip (initial nervousness), Q2 covers the market (middle), and Q3 covers the fruit incident (later). The questions are well distributed across different parts of the text.",
+            "Score": 1.0
+          }
+        }
+      },
+      "Exercise ID": 0
+    }
+  ],
+  "Average for All Exercises": {
+    "Text": {
+      "Word Count": 0.704225352112676,
+      "Target Word Usage": 1.0,
+      "Target Word Distribution": 0.8666666666666667,
+      "Matching the CEFR Level": 1.0,
+      "Matching the Topic": 1.0,
+      "Logic & Commonsense": 0.0,
+      "Vocabulary & Grammar": 1.0
+    },
+    "Questions": {
+      "Individual": {
+        "Logic & Commonsense": 0.8333333333333334,
+        "Vocabulary & Grammar": 1.0,
+        "Text-Based Answerability": 0.75,
+        "Reading Dependency": 0.6666666666666666,
+        "Answer Unambiguity": 0.75,
+        "Distractor Plausibility": 0.75,
+        "Using Paraphrases": 0.6666666666666666,
+        "Explanation Quality": 0.75
+      },
+      "Overall": {
+        "Matching the CEFR Level": 0.8,
+        "Text Coverage": 1.0
+      }
+    }
+  }
+}

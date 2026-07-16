@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 import requests
 from dotenv import load_dotenv
@@ -49,3 +50,19 @@ def generate(model, prompt, role, result_path, **kwargs):
         raise Exception(
             f"Failed to parse JSON. Raw response: {response.text}. Error: {e}"
         )
+
+
+def parse_exercise(exercise: str) -> dict[str, str | None]:
+    topic = re.search(r"Topic:\s*(.+?)(?:\n)", exercise)
+    if topic:
+        topic = topic.group(1).strip()
+
+    text = re.search(r"Text:\s*(.+?)(?:\n\s*\n(?=Questions:))", exercise, re.DOTALL)
+    if text:
+        text = text.group(1).strip()
+
+    questions = re.search(r"Questions:\s*(.+)", exercise, re.DOTALL)
+    if questions:
+        questions = questions.group(1).strip()
+
+    return {"topic": topic, "text": text, "questions": questions}

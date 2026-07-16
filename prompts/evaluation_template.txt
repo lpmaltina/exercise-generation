@@ -19,29 +19,28 @@ Part 1. Evaluate the text.
 5: The text is logical and consistent with commonsense.
 
 - Vocabulary & Grammar. Is the text grammatically correct and well-worded?
-1: The text contains four or more grammar, vocabulary, spelling errors or very unnatural wordings.
-2: The text contains three grammar, vocabulary, spelling errors or very unnatural wordings.
-3: The text contains two grammar, vocabulary, spelling errors or very unnatural wordings.
-4: The text contains one grammar, vocabulary, spelling error or very unnatural wording.
-5: The text contains no grammar, vocabulary, spelling errors or very unnatural wordings.
-
+1: The text contains four or more grammar, vocabulary, spelling, collocation errors or unnatural wordings.
+2: The text contains three grammar, vocabulary, spelling, collocation errors or unnatural wordings.
+3: The text contains two grammar, vocabulary, spelling, collocation errors or unnatural wordings.
+4: The text contains one grammar, vocabulary, spelling, collocation errors or unnatural wordings.
+5: The text contains no grammar, vocabulary, spelling, collocation errors or unnatural wordings.
 Part 2. Evaluate the questions.
 
 a) Evaluate each question using the following criteria.
 
 - Logic & Commonsense. Are the question and the answer options logical and consistent with commonsense?
 1: The question is not reasonable and contains serious logical flaws.
-2: The question is reasonable, but all answer options are clearly wrong from the point of commonsense.
-3: The question is reasonable, but some answer options are clearly wrong from the point of commonsense.
-4: The question is reasonable, but one answer option is clearly wrong from the point of commonsense.
+2: The question is reasonable, but all answer options are wrong from the point of commonsense or don't answer the question - the causal link is broken.
+3: The question is reasonable, but some answer options are wrong from the point of commonsense or don't answer the question - the causal link is broken.
+4: The question is reasonable, but one answer option is wrong from the point of commonsense or doesn't answer the question - the causal link is broken.
 5: Both the question and the answer options are logical and consistent with commonsense.
 
 - Vocabulary & Grammar. Are the question and the answer options grammatically correct and well-worded?
-1: The question and answer options contain four or more grammar, vocabulary, spelling errors or very unnatural wordings.
-2: The question and answer options contain three grammar, vocabulary, spelling errors or very unnatural wordings.
-3: The question and answer options contain two grammar, vocabulary, spelling errors or very unnatural wordings.
-4: The question and answer options contain one grammar, vocabulary, spelling error or very unnatural wording.
-5: The question and answer options contain no grammar, vocabulary, spelling errors or very unnatural wordings.
+1: The question and answer options contain four or more grammar, vocabulary, spelling, collocation errors or unnatural wordings.
+2: The question and answer options contain three grammar, vocabulary, spelling, collocation errors or unnatural wordings.
+3: The question and answer options contain two grammar, vocabulary, spelling, collocation errors or unnatural wordings.
+4: The question and answer options contain one grammar, vocabulary, spelling, collocation errors or unnatural wordings.
+5: The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings.
 
 - Text-Based Answerability. Can the question be answered using only the information provided in the text?
 1: The answer is not found in the text at all.

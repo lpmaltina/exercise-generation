@@ -1,0 +1,188 @@
+{
+  "Exercises": [
+    {
+      "Text": {
+        "Word Count": {
+          "Reasoning": "Words: 106. Target word count: 100.",
+          "Score": 0.9433962264150944
+        },
+        "Target Word Usage": {
+          "Reasoning": "Target word usage: 10/10.",
+          "Score": 1.0
+        },
+        "Target Word Distribution": {
+          "Reasoning": "Max gap share: 0.1354. Ideal share: 0.0909.",
+          "Score": 0.9510416666666667
+        },
+        "Matching the CEFR Level": {
+          "Reasoning": "Target CEFR level: A2. Determined CEFR level (text): B1",
+          "Score": 0.8
+        },
+        "Matching the Topic": {
+          "Reasoning": "The text is about an unusual holiday trip to a strange village in the mountains, describing the traveler's nerves and the experiences, which matches the topic well.",
+          "Score": 1.0
+        },
+        "Logic & Commonsense": {
+          "Reasoning": "The text is logical; a nervous traveler in an unfamiliar village meets helpful locals and learns new things. There are no logical errors.",
+          "Score": 1.0
+        },
+        "Vocabulary & Grammar": {
+          "Reasoning": "The text is grammatically correct and well-worded, with no spelling errors. The word \"lazy\" might be slightly unnatural if Mark was just \"wanted to relax,\" but it's acceptable. No errors.",
+          "Score": 1.0
+        }
+      },
+      "Questions": {
+        "Individual": {
+          "Q1": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question and options are reasonable. The correct answer logically explains nervousness due to unfamiliar language, which makes sense.",
+              "Score": 1.0
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "The question and options are grammatically correct and well-worded, with no errors.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The text states the traveler was nervous because \"the locals spoke a different language,\" and \"no one knew much about it\" (unfamiliar). The answer is directly supported.",
+              "Score": 1.0
+            },
+            "Reading Dependency": {
+              "Reasoning": "Without reading, one might guess \"unfamiliar\" but the specific reason about language is not common knowledge. The correct answer requires text.",
+              "Score": 0.75
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "Exactly one answer (\"unfamiliar and language\") is clearly correct based on the text. Distractor 1 (cold weather) is Mark's worry, not the traveler's. Distractors 2-3 are unsupported.",
+              "Score": 1.0
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "Distractor 1 (cold weather) is plausible because Mark worries about it, and a reader might mix up characters. Distractors 2-3 (lost, strange food) are also plausible for a nervous traveler in an unfamiliar place. All are somewhat plausible.",
+              "Score": 0.75
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer rephrases \"the locals spoke a different language\" to \"a language they didn't understand\" and adds \"the village was unfamiliar\" from context. It changes more than two words and expresses the same meaning.",
+              "Score": 1.0
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation correctly says the correct answer matches the text's cause, explains why distractor 1 is wrong (confuses with Mark), and states distractors 2-3 are unsupported. It covers all distractors.",
+              "Score": 1.0
+            }
+          },
+          "Q2": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question and options are reasonable. An old woman showing how to make decorations from flowers is logical.",
+              "Score": 1.0
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "The question and options are grammatically correct and well-worded, with no errors.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The text directly says she showed them \"how to make creative lanterns from local flowers,\" which the answer paraphrases as \"decorative items using flowers.\" Fully present.",
+              "Score": 1.0
+            },
+            "Reading Dependency": {
+              "Reasoning": "Without reading, one might guess an old woman helps, but the specific action (making decorations from flowers) is not common knowledge.",
+              "Score": 1.0
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "Exactly one answer (\"creating decorative items\") is correct. Distractors 1-2 (directions, dinner) are unsupported, and distractor 3 (secrets) is speculative.",
+              "Score": 1.0
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "Distractor 1 (directions to leave) is plausible since visitors might want to leave. Distractor 2 (traditional dinner) is plausible for a helpful local. Distractor 3 (secrets) is somewhat plausible given the strange village. All are plausible.",
+              "Score": 1.0
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer changes \"creative lanterns from local flowers\" to \"decorative items using flowers,\" which rephrases effectively.",
+              "Score": 1.0
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation correctly says the answer paraphrases the text, and explains distractors 1-2 are unsupported and distractor 3 is speculative. It covers all distractors.",
+              "Score": 1.0
+            }
+          },
+          "Q3": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question and options are reasonable. A lazy person wanting to rest is logical.",
+              "Score": 1.0
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "The question and options are grammatically correct and well-worded, with no errors.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The text says \"Mark was lazy and just wanted to relax,\" directly supporting the correct answer.",
+              "Score": 1.0
+            },
+            "Reading Dependency": {
+              "Reasoning": "Without reading, one might guess someone lazy wants to rest, but the specific mention of \"lazy\" is given in the text. General knowledge could help guess, but the text is clear.",
+              "Score": 0.75
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "Exactly one answer (\"wanted to rest because he was lazy\") is correct. Distractors 1-3 are unsupported by the text.",
+              "Score": 1.0
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "Distractor 1 (photography) is plausible for a traveller. Distractor 2 (fear of heights) is plausible in mountains. Distractor 3 (modern comforts) is plausible given the strange village. All are plausible.",
+              "Score": 1.0
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer rephrases \"lazy\" and \"wanted to relax\" to \"wanted to rest because he was lazy,\" which expresses the same meaning with a paraphrase.",
+              "Score": 1.0
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation correctly states the answer restates the text, and explains distractors assume unstated preferences or fears. It covers all distractors.",
+              "Score": 1.0
+            }
+          }
+        },
+        "Overall": {
+          "Matching the CEFR Level": {
+            "Reasoning": "Target CEFR level: A2. Determined CEFR level (questions): B2",
+            "Score": 0.6
+          },
+          "Logic & Commonsense (Exercise Mean Score)": 1.0,
+          "Vocabulary & Grammar (Exercise Mean Score)": 1.0,
+          "Text-Based Answerability (Exercise Mean Score)": 1.0,
+          "Reading Dependency (Exercise Mean Score)": 0.8333333333333334,
+          "Answer Unambiguity (Exercise Mean Score)": 1.0,
+          "Distractor Plausibility (Exercise Mean Score)": 0.9166666666666666,
+          "Using Paraphrases (Exercise Mean Score)": 1.0,
+          "Explanation Quality (Exercise Mean Score)": 1.0,
+          "Text Coverage": {
+            "Reasoning": "Q1 covers the initial nervousness and language barrier. Q2 covers the encounter with the old woman. Q3 covers Mark's lazy attitude. The questions cover different parts of the text (beginning, middle, and description of Mark), with a good distribution.",
+            "Score": 1.0
+          }
+        }
+      },
+      "Exercise ID": 0
+    }
+  ],
+  "Average for All Exercises": {
+    "Text": {
+      "Word Count": 0.9433962264150944,
+      "Target Word Usage": 1.0,
+      "Target Word Distribution": 0.9510416666666667,
+      "Matching the CEFR Level": 0.8,
+      "Matching the Topic": 1.0,
+      "Logic & Commonsense": 1.0,
+      "Vocabulary & Grammar": 1.0
+    },
+    "Questions": {
+      "Individual": {
+        "Logic & Commonsense": 1.0,
+        "Vocabulary & Grammar": 1.0,
+        "Text-Based Answerability": 1.0,
+        "Reading Dependency": 0.8333333333333334,
+        "Answer Unambiguity": 1.0,
+        "Distractor Plausibility": 0.9166666666666666,
+        "Using Paraphrases": 1.0,
+        "Explanation Quality": 1.0
+      },
+      "Overall": {
+        "Matching the CEFR Level": 0.6,
+        "Text Coverage": 1.0
+      }
+    }
+  }
+}

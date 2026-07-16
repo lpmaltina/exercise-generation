@@ -1,0 +1,188 @@
+{
+  "Exercises": [
+    {
+      "Text": {
+        "Word Count": {
+          "Reasoning": "Words: 153. Target word count: 100.",
+          "Score": 0.6535947712418301
+        },
+        "Target Word Usage": {
+          "Reasoning": "Target word usage: 10/10.",
+          "Score": 1.0
+        },
+        "Target Word Distribution": {
+          "Reasoning": "Max gap share: 0.1888. Ideal share: 0.0909.",
+          "Score": 0.8923076923076924
+        },
+        "Matching the CEFR Level": {
+          "Reasoning": "Target CEFR level: A2. Determined CEFR level (text): B1",
+          "Score": 0.8
+        },
+        "Matching the Topic": {
+          "Reasoning": "The text is about an unusual holiday trip to a mountain village with strange traditions, which matches the topic.",
+          "Score": 1.0
+        },
+        "Logic & Commonsense": {
+          "Reasoning": "The text is logical and consistent with commonsense. A person might be thought lazy for choosing a non-beach resort, and the events flow reasonably.",
+          "Score": 1.0
+        },
+        "Vocabulary & Grammar": {
+          "Reasoning": "The text has no grammar, vocabulary, or spelling errors, and the wording is natural.",
+          "Score": 1.0
+        }
+      },
+      "Questions": {
+        "Individual": {
+          "Q1": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question and options are logical and consistent with commonsense. The correct answer aligns with the text, and the distractors are plausible misunderstandings.",
+              "Score": 1.0
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "The question and options are grammatically correct and well-worded, with no errors.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The answer is fully present in the text: \"Her friends thought she was lazy for not choosing a beach resort.\"",
+              "Score": 1.0
+            },
+            "Reading Dependency": {
+              "Reasoning": "The correct answer is guessable using general knowledge, as people might associate laziness with avoiding a relaxing beach trip, but the text provides specifics.",
+              "Score": 0.5
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "Exactly one answer is unambiguously correct based on the text: the text states she was thought lazy for not choosing a beach resort.",
+              "Score": 1.0
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "All incorrect options are plausible to someone who read but misunderstood: spending time planning, not inviting friends, or canceling could be seen as lazy.",
+              "Score": 1.0
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer rephrases \"her friends thought she was lazy for not choosing a beach resort\" as \"She didn't choose a beach resort for her holiday,\" which changes wording but keeps meaning.",
+              "Score": 0.75
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation accurately describes why the correct answer is right and why each distractor is wrong.",
+              "Score": 1.0
+            }
+          },
+          "Q2": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question and options are logical and consistent with commonsense. Feeling nervous in an unfamiliar place is reasonable.",
+              "Score": 1.0
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "The question and options are grammatically correct and well-worded.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The answer is explicitly in the text: \"Lisa felt nervous.\"",
+              "Score": 1.0
+            },
+            "Reading Dependency": {
+              "Reasoning": "The correct answer is difficult to guess without reading the text; while nervousness in a new place is common, the text could have described other emotions.",
+              "Score": 0.75
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "Exactly one answer is unambiguously correct: the text says \"nervous.\"",
+              "Score": 1.0
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "All incorrect options are plausible to someone who read but misunderstood: \"excited\" could be inferred from a trip, \"bored\" from a quiet village, or \"angry\" from being scared.",
+              "Score": 1.0
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer exactly copies the text word \"nervous,\" but it is a single word and the phrase \"She was nervous\" is the same as the text's \"Lisa felt nervous,\" so it's a near-verbatim copy.",
+              "Score": 0.25
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation accurately describes why the correct answer is right and why the distractors are wrong.",
+              "Score": 1.0
+            }
+          },
+          "Q3": {
+            "Logic & Commonsense": {
+              "Reasoning": "The question and options are logical and consistent with commonsense. Helping build a bridge is a plausible activity in a mountain village.",
+              "Score": 1.0
+            },
+            "Vocabulary & Grammar": {
+              "Reasoning": "The question and options are grammatically correct and well-worded.",
+              "Score": 1.0
+            },
+            "Text-Based Answerability": {
+              "Reasoning": "The answer is explicitly in the text: \"Lisa saw children building a bridge and helped them.\"",
+              "Score": 1.0
+            },
+            "Reading Dependency": {
+              "Reasoning": "The correct answer is difficult to guess without reading the text, as bridge-building is specific and not a general assumption.",
+              "Score": 1.0
+            },
+            "Answer Unambiguity": {
+              "Reasoning": "Exactly one answer is unambiguously correct: the text mentions building a bridge.",
+              "Score": 1.0
+            },
+            "Distractor Plausibility": {
+              "Reasoning": "All incorrect options are plausible to someone who read but misunderstood: teaching English or giving money might be common tourist actions, and showing how to use a map relates to the earlier map scene.",
+              "Score": 1.0
+            },
+            "Using Paraphrases": {
+              "Reasoning": "The correct answer rephrases \"help them build a bridge\" as \"She helped them build a bridge,\" which changes wording slightly but is still similar.",
+              "Score": 0.75
+            },
+            "Explanation Quality": {
+              "Reasoning": "The explanation accurately describes why the correct answer is right and why the distractors are wrong.",
+              "Score": 1.0
+            }
+          }
+        },
+        "Overall": {
+          "Matching the CEFR Level": {
+            "Reasoning": "Target CEFR level: A2. Determined CEFR level (questions): B1",
+            "Score": 0.8
+          },
+          "Logic & Commonsense (Exercise Mean Score)": 1.0,
+          "Vocabulary & Grammar (Exercise Mean Score)": 1.0,
+          "Text-Based Answerability (Exercise Mean Score)": 1.0,
+          "Reading Dependency (Exercise Mean Score)": 0.75,
+          "Answer Unambiguity (Exercise Mean Score)": 1.0,
+          "Distractor Plausibility (Exercise Mean Score)": 1.0,
+          "Using Paraphrases (Exercise Mean Score)": 0.5833333333333334,
+          "Explanation Quality (Exercise Mean Score)": 1.0,
+          "Text Coverage": {
+            "Reasoning": "The questions cover different parts of the text: Q1 covers the beginning (friends' opinion), Q2 covers the first day (feelings on arrival), Q3 covers the later part (helping children). They are well distributed.",
+            "Score": 1.0
+          }
+        }
+      },
+      "Exercise ID": 0
+    }
+  ],
+  "Average for All Exercises": {
+    "Text": {
+      "Word Count": 0.6535947712418301,
+      "Target Word Usage": 1.0,
+      "Target Word Distribution": 0.8923076923076924,
+      "Matching the CEFR Level": 0.8,
+      "Matching the Topic": 1.0,
+      "Logic & Commonsense": 1.0,
+      "Vocabulary & Grammar": 1.0
+    },
+    "Questions": {
+      "Individual": {
+        "Logic & Commonsense": 1.0,
+        "Vocabulary & Grammar": 1.0,
+        "Text-Based Answerability": 1.0,
+        "Reading Dependency": 0.75,
+        "Answer Unambiguity": 1.0,
+        "Distractor Plausibility": 1.0,
+        "Using Paraphrases": 0.5833333333333334,
+        "Explanation Quality": 1.0
+      },
+      "Overall": {
+        "Matching the CEFR Level": 0.8,
+        "Text Coverage": 1.0
+      }
+    }
+  }
+}
