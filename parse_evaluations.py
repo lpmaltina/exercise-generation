@@ -7,7 +7,6 @@ import sys
 import spacy
 
 from CEFR_level import CEFRLevelParser
-from utils import parse_exercise
 
 LLM_TEXT_CRITERIA = (
     "Matching the Topic",
@@ -144,6 +143,22 @@ def calculate_CEFR_match(real_CEFR_level: str, target_CEFR_level: str) -> float:
     levels = {"A1": 0, "A2": 1, "B1": 2, "B2": 3, "C1": 4, "C2": 5}
     CEFR_diff = abs(levels[real_CEFR_level] - levels[target_CEFR_level])
     return 1 - normalize(CEFR_diff, min_value=0, max_value=5)
+
+
+def parse_exercise(exercise: str) -> dict[str, str | None]:
+    topic = re.search(r"Topic:\s*(.+?)(?:\n)", exercise)
+    if topic:
+        topic = topic.group(1).strip()
+
+    text = re.search(r"Text:\s*(.+?)(?:\n\s*\n(?=Questions:))", exercise, re.DOTALL)
+    if text:
+        text = text.group(1).strip()
+
+    questions = re.search(r"Questions:\s*(.+)", exercise, re.DOTALL)
+    if questions:
+        questions = questions.group(1).strip()
+
+    return {"topic": topic, "text": text, "questions": questions}
 
 
 def parse_criterion(text: str, criterion: str) -> tuple[str, float]:

@@ -1,68 +1,29 @@
-import json
-import os
-import re
+import time
 
-import requests
-from dotenv import load_dotenv
+from openai import OpenAI
 
-load_dotenv()
-API_KEY = os.getenv("API_KEY")
-
-URL = "https://integrate.api.nvidia.com/v1/chat/completions"
-HEADERS = {
-    "accept": "application/json",
-    "content-type": "application/json",
-    "authorization": f"Bearer {API_KEY}",
-}
+MAX_RETRIES = 3
+RETRY_BACKOFF_SECONDS = 5
 
 
-def generate(model, prompt, role, result_path, **kwargs):
-    if role:
-        messages = [{"role": "system", "content": role}]
-    else:
-        messages = []
-    messages.append({"role": "user", "content": prompt})
+def call_LLM(
+    client: OpenAI, model_name: str, user_prompt: str, system_prompt: str = "", **kwargs
+) -> str:
+    messages = []
+    if system_prompt:
+        messages.append({"role": "system", "content": system_prompt})
+    messages.append({"role": "user", "content": user_prompt})
 
-    payload = {
-        "model": model,
-        "messages": messages,
-        "stream": False,
-        "temperature": 0.7,
-        "top_p": 0.9,
-        "max_tokens": 3072,
-        **kwargs,
-    }
-
-    os.makedirs(os.path.dirname(result_path), exist_ok=True)
-
-    response = requests.post(URL, json=payload, headers=HEADERS)
-
-    if response.status_code != 200:
-        raise Exception(f"API returned status {response.status_code}: {response.text}")
-
-    try:
-        response_json = response.json()
-        with open(result_path, "w", encoding="utf-8") as f:
-            json.dump(response_json, f, indent=4)
-        return response_json["choices"][0]["message"]["content"]
-
-    except requests.exceptions.JSONDecodeError as e:
-        raise Exception(
-            f"Failed to parse JSON. Raw response: {response.text}. Error: {e}"
-        )
-
-
-def parse_exercise(exercise: str) -> dict[str, str | None]:
-    topic = re.search(r"Topic:\s*(.+?)(?:\n)", exercise)
-    if topic:
-        topic = topic.group(1).strip()
-
-    text = re.search(r"Text:\s*(.+?)(?:\n\s*\n(?=Questions:))", exercise, re.DOTALL)
-    if text:
-        text = text.group(1).strip()
-
-    questions = re.search(r"Questions:\s*(.+)", exercise, re.DOTALL)
-    if questions:
-        questions = questions.group(1).strip()
-
-    return {"topic": topic, "text": text, "questions": questions}
+    last_error = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = client.chat.completions.create(
+                model=model_name, messages=messages, **kwargs
+            )
+            return response.choices[0].message.content or ""
+        except Exception as e:
+            last_error = e
+            print(f"  ! API error on attempt {attempt}/{MAX_RETRIES}: {e}")
+            if attempt < MAX_RETRIES:
+                time.sleep(RETRY_BACKOFF_SECONDS * attempt)
+    raise RuntimeError(f"Giving up after {MAX_RETRIES} attempts: {last_error}")

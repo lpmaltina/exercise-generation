@@ -8,6 +8,8 @@ from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 
+from utils import call_LLM
+
 load_dotenv()
 
 MODEL_NAME = "deepseek-v4-flash"
@@ -48,33 +50,6 @@ def parse_exercises(content: str) -> list[dict]:
     return exercises
 
 
-def call_deepseek(client: OpenAI, system_prompt: str, exercise: dict) -> str:
-    last_error = None
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            response = client.chat.completions.create(
-                model=MODEL_NAME,
-                messages=[
-                    {"role": "system", "content": system_prompt},
-                    {
-                        "role": "user",
-                        "content": f"Topic: {exercise['topic']}\n\nText: {exercise['text']}\n\nQuestions: {exercise['questions']}",
-                    },
-                ],
-                extra_body={"thinking": {"type": "disabled"}},
-            )
-            return response.choices[0].message.content or ""
-        except Exception as e:
-            last_error = e
-            print(
-                f"  ! API error on attempt {attempt}/{MAX_RETRIES}: {e}",
-                file=sys.stderr,
-            )
-            if attempt < MAX_RETRIES:
-                time.sleep(RETRY_BACKOFF_SECONDS * attempt)
-    raise RuntimeError(f"Giving up after {MAX_RETRIES} attempts: {last_error}")
-
-
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("input", type=Path, help="Input file")
@@ -84,7 +59,7 @@ def main() -> int:
     api_key = os.environ.get("DEEPSEEK_API_KEY")
     if not api_key:
         print("ERROR: DEEPSEEK_API_KEY not found in .env file.", file=sys.stderr)
-        return 2
+        return 1
 
     if not args.input.is_file():
         print(f"ERROR: input file not found: {args.input}", file=sys.stderr)
@@ -106,8 +81,14 @@ def main() -> int:
     results = []
     for i, exercise in enumerate(exercises, start=1):
         print(f"[{i}/{len(exercises)}] Evaluating (topic: {exercise['topic']})...")
-
-        response_text = call_deepseek(client, evaluation_template, exercise)
+        exercise_str = f"Topic: {exercise['topic']}\n\nText: {exercise['text']}\n\nQuestions: {exercise['questions']}"
+        response_text = call_LLM(
+            client,
+            MODEL_NAME,
+            user_prompt=exercise_str,
+            system_prompt=evaluation_template,
+            extra_body={"thinking": {"type": "disabled"}},
+        )
         results.append(response_text)
         print(f"  ok ({len(response_text)} chars)")
 
