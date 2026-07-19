@@ -73,7 +73,7 @@ def run_generation_experiment(
 Questions:
 {'\n---\n'.join(questions)}"""
         all_outputs.append(output)
-        time.sleep(60)
+        time.sleep(10)
 
     parts = [f"generated_{template_type}"]
     if role:
@@ -101,9 +101,9 @@ def main() -> int:
     client = OpenAI(api_key=api_key, base_url=BASE_URL)
 
     run_generation_experiment(client, configs, baseline_template)
-    # run_generation_experiment(configs, baseline_template, role=role)
-    # run_generation_experiment(configs, baseline_template, example=example)
-    # run_generation_experiment(configs, CoT_template, template_type="CoT")
+    run_generation_experiment(client, configs, baseline_template, role=role)
+    run_generation_experiment(client, configs, baseline_template, example=example)
+    run_generation_experiment(client, configs, CoT_template, template_type="CoT")
     return 0
 
 

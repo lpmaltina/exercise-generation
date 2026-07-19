@@ -1,39 +1,1068 @@
 Topic: a story about an unusual holiday trip
 
-Text: 
-Last summer, Mark planned an unusual holiday trip to a small island. He was nervous at first—no one had visited the island before, and the locals were very polite but intelligent in a strange way. "Why are you here?" they asked, smiling. Mark explained he wanted adventure, but they just laughed. "You’ll see," they said.
+Text:
+Last summer, Maria planned a holiday trip to Egypt. She wanted to see the desert, pyramids, and old architecture, but her friend Clara had other ideas. "Let’s go on a ship cruise!" Clara said. Maria was surprised but agreed. On the first day, they visited a famous gallery in Cairo. Maria loved the art, but Clara was unhappy—she missed the sea. "I thought we’d be sailing, not walking!" she complained. Maria laughed and said, "Don’t worry, tomorrow we’ll see the ship!" That night, Clara found a small knife in her bag. It wasn’t hers, and she was scared. Maria calmed her down. "It’s just a souvenir from the gallery," she said. The next day, Clara smiled. "This trip isn’t so bad after all!"
 
-On the first day, Mark saw a creative market with colorful clothes and attractive jewelry. He bought a hat, surprised by how happy it made him. Later, he tried local food and felt scared when he saw a huge, strange fruit. "Don’t eat it!" a boy warned. Mark was worried, but he didn’t. The fruit was sweet, and he realized the island was magical.
-
-By the end, Mark wasn’t lazy anymore—he had fallen in love with the place. "Next year," he promised, "I’ll bring friends!"
-
-Questions: 
-Q1: Why was Mark nervous at first about the trip?
-Correct: He had never heard of the island before.
-Distractors: He was afraid of the locals / He didn’t like strange food / He was too lazy to travel.
-Explanation:
-- Correct: The text states Mark was nervous because "no one had visited the island before" meaning it was unknown and possibly risky.
-- Distractors:
-  - "Afraid of the locals" → The locals were polite and intelligent, not threatening.
-  - "Didn’t like strange food" → Mark’s fear of food came later (the strange fruit), not his initial nerves.
-  - "Too lazy to travel" → The text says he "wasn’t lazy anymore" after the trip, so laziness wasn’t his issue at the start.
+Questions:
+Q1: What did Clara want to do on holiday?
+Correct: Go on a ship cruise
+Distractors: Visit the desert / Explore pyramids / Stay in a hotel
+Explanation: The text states Clara suggested a ship cruise, not the desert, pyramids, or a hotel. The other options are Maria’s interests or unrelated.
 ---
-Q2: What did Mark buy at the market that made him happy?
-Correct: A colorful hat.
-Distractors: An intelligent book / Strange fruit / Polite souvenirs.
-Explanation:
-- Correct: The text says he bought a hat at the "creative" market, and it made him happy.
-- Distractors:
-  - "Intelligent book" → The word "intelligent" describes the locals, not an item.
-  - "Strange fruit" → He saw the fruit but didn’t buy it (and was scared of it).
-  - "Polite souvenirs" → The text doesn’t mention souvenirs; "polite" refers to the locals’ behavior.
+Q2: Why was Clara unhappy on the first day?
+Correct: She missed the sea
+Distractors: She hated the art / She lost her knife / She was afraid of the desert
+Explanation: Clara was unhappy because she expected sailing but was walking in a gallery instead. The other options are incorrect—she loved the art, didn’t mention losing a knife, and wasn’t afraid of the desert.
 ---
-Q3: Why did the boy warn Mark about the strange fruit?
-Correct: He knew it was magical and dangerous to eat.
-Distractors: He was scared of Mark / The fruit was rotten / The boy was lazy.
+Q3: What did Maria say to calm Clara down about the knife?
+Correct: "It’s just a souvenir from the gallery"
+Distractors: "Don’t worry, it’s safe" / "We should call the police" / "It belongs to someone else"
+Explanation: Maria specifically said the knife was a souvenir from the gallery, not a generic reassurance or suggestion to call police. The other options contradict the text.
+
+
+
+Topic: a story about an unusual family celebration
+
+Text:
+Every year, the Thompson family celebrates their unusual tradition on a quiet hill near their home. Instead of a birthday party, they hold a "zero-waste picnic"—no trash is left behind! This year, they competed in a fun race to see who could pack the most helpful items for the environment. The third place winner, little Mia, brought a carpet made of old plastic bottles to sit on. The noise from laughing and clapping filled the air as they all worked together to protect their local park. Even their dog, Max, joined the research by digging up hidden treasures (like a lost toy) to make the day even more special.
+
+Questions:
+Q1: What is the Thompson family’s special tradition?
+Correct: A zero-waste picnic on a hill
+Distractors: A birthday party with cake / A race to climb a mountain / A quiet evening at home
+Explanation: The text states they hold a "zero-waste picnic" on a hill, not a birthday party or a mountain race. The "quiet evening" is incorrect because the text describes laughter and noise.
+---
+Q2: Why did Mia win third place in the competition?
+Correct: She brought a carpet made of old plastic bottles
+Distractors: She ran the fastest / She collected the most trash / She organized the picnic
+Explanation: The text explains Mia’s prize was a "carpet" made of old plastic bottles, not speed, trash collection, or organizing. The other options are unrelated to her win.
+---
+Q3: What did Max the dog do during the celebration?
+Correct: He dug up hidden treasures
+Distractors: He barked loudly / He ate all the food / He helped pack items
+Explanation: The text says Max "dug up hidden treasures", not barked, ate food, or packed items. The other options are plausible but unsupported by the text.
+
+
+
+Topic: a description of a morning routine that makes me happy
+
+Text:
+My morning routine is simple, but it makes me happy. I wake up early, after the sun rises, and throw open the curtains to let in the fresh air. I consider this time special because it’s quiet and peaceful. First, I make coffee and serve it with a smile—my least favorite part is when the heat from the kettle burns my fingers! Then, I watch a short comedy show to laugh and start the day well. Before leaving, I fill the car with petrol and deal with any small problems. This routine helps me feel ready for the day ahead.
+
+Questions:
+Q1: What does the writer do first when they wake up?
+Correct: Open the curtains
+Distractors: Watch a comedy show / Fill the car with petrol / Make coffee
 Explanation:
-- Correct: The island was magical, and the fruit’s description ("huge, strange") implies it had unknown effects. The boy’s warning suggests it was special (not just rotten).
+- The text says the writer throws open the curtains immediately after waking up, so this is correct.
+- Watching a comedy show happens after making coffee, not first.
+- Filling the car with petrol is done before leaving, not right after waking.
+- Making coffee is the second action, not the first.
+---
+Q2: Why does the writer consider their morning routine special?
+Correct: Because it is quiet and peaceful
+Distractors: Because it helps them deal with problems / Because they serve coffee to others / Because they watch comedy shows
+Explanation:
+- The text states the writer considers the morning special because it is quiet and peaceful, matching the correct answer.
+- Dealing with problems is mentioned, but it’s not why the routine is special—it’s just part of it.
+- Serving coffee is a small part of the routine, not the reason it’s special.
+- Watching comedy shows is enjoyable but not the main reason for the routine’s value.
+---
+Q3: What is the least favorite part of the writer’s morning routine?
+Correct: When the heat from the kettle burns their fingers
+Distractors: Filling the car with petrol / Throwing open the curtains / Watching a comedy show
+Explanation:
+- The text explicitly says the least favorite part is the heat from the kettle burning fingers, so this is correct.
+- Filling the car with petrol is a neutral task, not disliked.
+- Throwing open the curtains is a positive action, not disliked.
+- Watching a comedy show is something the writer enjoys, so it’s not the least favorite part.
+
+
+
+Topic: a funny story that happened to my friends and me
+
+Text:
+Last weekend, my friends and I made an arrangement to meet at the old bridge near the park. We wanted to take funny photos, but it was impossible because it was raining! Still, we continued our plan—especially because we had promised each other. Suddenly, one friend slipped on a wet leaf and fell into the river! Luckily, he only had a small injury to his arm. We laughed, but he was unhappy about his wet clothes. Later, we called a "detective" (our friend who loves mysteries) to help us report the incident to our parents. Outside, we dried our shoes in the sun and told everyone the funny story!
+
+Questions:
+Q1: What was the original plan for the friends?
+Correct: To take funny photos at the bridge.
+Distractors: To play detective games in the park / To swim in the river / To fix the old bridge
+Explanation: The text states they wanted to take funny photos at the bridge. The other options are incorrect because the text does not mention detective games, swimming, or fixing the bridge.
+---
+Q2: Why was the friend unhappy?
+Correct: Because he fell into the river and got wet.
+Distractors: Because he hurt his leg badly / Because he lost his camera / Because the detective scolded him
+Explanation: The text says he slipped and fell into the river, causing a small injury and wet clothes, which made him unhappy. The other options are wrong because the injury was only to his arm, no camera was mentioned, and the detective was called to help, not scold.
+---
+Q3: What did the friends do after the incident?
+Correct: They called a detective friend to report the incident.
+Distractors: They ran home immediately / They waited for the rain to stop / They called the police
+Explanation: The text explains they called their "detective" friend to report the incident to their parents. The other options are incorrect because they did not run home, wait for the rain, or call the police.
+
+
+
+Topic: an adventure story about getting lost in the forest
+
+Text:
+Liam and his friends decided to organize a camping trip in the forest near their village. They packed food, a tent, and a first-aid kit, but they forgot to check the map carefully. After walking for hours, they realized they were lost. The trees looked the same, and the sun was nearly setting. Suddenly, Liam dropped his water bottle near a big rock. As he bent down to pick it up, he saw a small gap in the bushes. Curious, he crawled inside and found himself in a dark, damp prison—an old cellar hidden behind the rocks!
+
+The boys knew breaking law was wrong, but they also knew they had to escape before nightfall. They acted quickly, using a stick to break the rusty lock. Inside, they found an old bin full of tools. With the help of a flashlight, they fixed their map and found their way back. The next day, they told the story to their teacher, who laughed and said, “Always carry your own compass!”
+
+Questions:
+Q1: What did Liam and his friends forget to do before their trip?
+Correct: Check the map carefully
+Distractors: Bring a compass / Pack enough food / Tell their parents
+Explanation:
+- Correct: The text states they “forgot to check the map carefully,” meaning they didn’t prepare the map properly.
 - Distractors:
-  - "Scared of Mark" → The boy was helpful, not afraid.
-  - "The fruit was rotten" → The text doesn’t say it was bad; Mark later found it sweet.  
-  - "The boy was lazy" → The word "lazy" is used to describe Mark’s change in attitude, not the boy.
+  - “Bring a compass” – The teacher later mentions they should carry their own compass, but this isn’t what they forgot to do before the trip.
+  - “Pack enough food” – The text says they did pack food, so this is incorrect.
+  - “Tell their parents” – The text doesn’t mention informing parents as something they forgot.
+---
+Q2: What did Liam see when he bent down to pick up his water bottle?
+Correct: A small gap in the bushes
+Distractors: A snake / A bear / A broken branch
+Explanation:
+- Correct: The text says Liam “saw a small gap in the bushes” after dropping his bottle.
+- Distractors:
+  - “A snake” – The text doesn’t mention any animals, only the gap.
+  - “A bear” – No bears are referenced; the focus is on the hidden cellar.
+  - “A broken branch” – While branches exist in a forest, this isn’t what Liam noticed at that moment.
+---
+Q3: Why did the boys break the cellar’s lock?
+Correct: To escape before nightfall
+Distractors: To steal tools / To hide from the police / To explore the cellar
+Explanation:
+- Correct: The text explains they “knew they had to escape before nightfall,” so breaking the lock was for freedom, not theft or exploration.
+- Distractors:
+  - “To steal tools” – They found tools after breaking the lock, not as the reason for breaking it.
+  - “To hide from the police” – The text doesn’t mention police or hiding; the urgency was about escaping darkness.
+  - “To explore the cellar” – While they did explore, the primary goal was to leave, not just explore.
+
+
+
+Topic: an adventure story about finding a secret door in the house
+
+Text:
+Last summer, Jake moved into an old house with his sister, Mia. While cleaning the attic, Jake found a strange wooden panel behind a bookshelf. It didn’t fit perfectly, and when he pushed it, a hidden door opened! Inside, there was a dusty book with a recipe for a magic potion. Neither Jake nor Mia believed it was real—until they read the ending of the story: "Drink me to escape the worst danger."
+
+Mia argued they should tell their parents, but Jake wanted to try the potion first. "It’s against the law," Mia said, but Jake just smiled. That night, they greeted the moon before drinking the potion. Suddenly, Jake felt ill, but nothing terrible happened. The next morning, they found a golden key under their pillows—proof their adventure wasn’t over!
+
+Questions:
+Q1: What did Jake and Mia find behind the wooden panel in the attic?
+Correct: A hidden door
+Distractors: A treasure chest / A broken mirror / A family photo album
+Explanation: The text clearly states they found a "hidden door" behind the panel. The other options are not mentioned and contradict the adventure’s details.
+---
+Q2: Why did Mia argue against drinking the potion?
+Correct: Because it was against the law
+Distractors: Because she was afraid of spiders / Because she hated magic / Because the potion smelled bad
+Explanation: Mia says, "It’s against the law," which directly answers the question. The other options are not supported by the text.
+---
+Q3: What happened to Jake after he drank the potion?
+Correct: He felt ill
+Distractors: He turned invisible / He started floating / He saw a ghost
+Explanation: The text says, "Jake felt ill," but nothing about invisibility, floating, or ghosts. These are plausible fantasy elements but not described in the story.
+
+
+
+Topic: an adventure story about finding a treasure
+
+Text:
+Last summer, Jake and his friends explored a wild forest near their village. They heard a secret about an old treasure hidden there. One day, they found a strange map outside the village, included in a book about pirates. The map showed a platform near a river, but it also warned of an illness caused by poisonous plants.
+
+Jake decided to act quickly. "We must identify the real treasure before someone else does," he said. They considered the possibility of danger but knew the risk was worth it. After days of searching, they finally reached the platform—and discovered a chest full of gold!
+
+Questions:
+Q1: What did Jake and his friends find outside the village?
+Correct: a strange map included in a book about pirates
+Distractors: a treasure chest / a poisonous plant / an old pirate ship
+Explanation:
+The text states they found a map outside the village, included in a book. The other options are incorrect because:
+- The treasure chest was found later, near the platform.
+- Poisonous plants were mentioned as a danger, not something they found.
+- There was no mention of an old pirate ship.
+---
+Q2: Why did Jake want to act quickly?
+Correct: to identify the real treasure before someone else found it
+Distractors: to avoid the illness / to build a platform / to explore the forest longer
+Explanation:
+Jake said, "We must identify the real treasure before someone else does," showing urgency. The other options are wrong because:
+- The illness was a risk, not the reason for haste.
+- Building a platform was not mentioned as a goal.
+- Exploring longer was not their priority.
+---
+Q3: What did the map warn about?
+Correct: an illness caused by poisonous plants
+Distractors: a wild animal attack / a hidden trap / a storm approaching
+Explanation:
+The text says the map warned of an illness from poisonous plants. The other options are incorrect because:
+- No wild animal attack was mentioned.
+- There was no hidden trap described.
+- No storm was referenced in the warning.
+
+
+
+Topic: a letter to my future self
+
+Text:
+Dear Future Me,
+
+I hope this letter finds you happy and healthy! Right now, I’m working in an office with a funny colleague who loves to joke about monkeys at the bottom of the ocean. We even made a silly video with my old mobile phone—it’s still in the drawer!
+
+I want to tell you to recycle more and use technology wisely. Remember how I hated the rain? Well, one day, I’ll finally try sailing—just be careful with the wind! Oh, and don’t forget my old instrument (a guitar) under the bed. It’s still there, waiting for you.
+
+Love,
+Your Past Self
+
+Questions:
+Q1: What does the writer want their future self to remember about the old mobile phone?
+Correct: It is still in the drawer.
+Distractors: It was broken and thrown away / It was sold to a friend / It was used for sailing videos
+Explanation: The text says the mobile phone is "still in the drawer," so the correct answer must match this. The distractors are wrong because the text does not mention breaking, selling, or using it for sailing.
+---
+Q2: Why does the writer mention the guitar?
+Correct: It is waiting to be played again.
+Distractors: It was given to a colleague / It was lost in the rain / It was replaced by technology
+Explanation: The text says the guitar is "under the bed... waiting for you," meaning the writer wants their future self to play it. The other options are not supported by the text.
+---
+Q3: What advice does the writer give about technology?
+Correct: Use it wisely.
+Distractors: Avoid it completely / Upgrade it every year / Sell it to a monkey
+Explanation: The text says "use technology wisely," so the correct answer must reflect this. The other options are absurd or not mentioned in the letter.
+
+
+
+Topic: a story about a person who inspired me
+
+Text:
+When I was young, I noticed a brilliant woman named Clara in my village. She was normally quiet, but everyone listened when she spoke. Clara loved the forest near our home and spent her days there, teaching children about plants and animals. She said, "We must protect nature because it gives us life." One day, she gave a comment at a town meeting: "The past teaches us to build a better future." Her words made me think about the future. Now, I hope to rise like her—strong and kind.
+
+Questions:
+Q1: What did Clara teach children in the forest?
+Correct: How to care for plants and animals
+Distractors: How to climb trees / How to find hidden treasures / How to build shelters
+Explanation: The text says Clara taught children about plants and animals, so the correct answer must match this. The distractors are unrelated activities mentioned nowhere in the text.
+---
+Q2: Why did Clara’s comment at the meeting inspire the narrator?
+Correct: It reminded them to learn from history to create a better future
+Distractors: It made them want to move to the forest / It taught them how to speak in public / It encouraged them to forget the past
+Explanation: Clara’s comment was "The past teaches us to build a better future," which directly connects to the narrator’s inspiration. The other options are unrelated to her message or the text.
+---
+Q3: What does the narrator want to become like Clara in the future?
+Correct: Strong and kind
+Distractors: Famous and rich / Quiet and shy / A forest guide
+Explanation: The text states the narrator hopes to "rise like her—strong and kind." The other options contradict the text’s description of Clara or the narrator’s goals.
+
+
+
+Topic: a story about a person who won the lottery and spent it on charity
+
+Text:
+Last year, a man from a small town in the middle of England won a huge lottery gift—£10 million! At first, he thought about buying a big house or a fast car, but then he remembered his future dreams. He decided to help others instead. His first idea was to build a hospital for poor people, but he also wanted to fight hunger. He gave money to food banks and bought gas for families who couldn’t afford it.
+
+One day, a reporter asked him, "Why charity and not yourself?" He smiled and said, "I’m alive because of others. Now, it’s my turn to give back." He even paid for physical therapy for an old woman who had been in a bad attack. His story isn’t fiction—it’s true! Now, he attends charity events every month to share his message: "Money is better when it helps someone else."
+
+Questions:
+Q1: What did the lottery winner not buy with his money?
+Correct: a fast car
+Distractors: a big house / food for banks / gas for families
+Explanation:
+- The text says he thought about buying a big house but chose charity instead, so it’s plausible but not what he didn’t buy.
+- He did buy gas for families, so this is wrong.
+- He gave money to food banks, so this is wrong.
+- The text explicitly states he "thought about buying a big house or a fast car" but chose charity, meaning he did not buy either. The question asks what he didn’t buy, and "fast car" is the only option he clearly rejected.
+---
+Q2: Why did the man decide to spend his lottery money on charity?
+Correct: He believed money was better when it helped others.
+Distractors: He wanted to become famous / He was forced by the government / He lost interest in his own dreams
+Explanation:
+- The text quotes him saying, "Money is better when it helps someone else," which directly matches this answer.
+- There’s no mention of fame or government pressure.
+- The text says he "remembered his future dreams" (helping others), not that he lost interest in them.
+---
+Q3: What happened to the old woman the man helped?
+Correct: She had been in a physical attack.
+Distractors: She was sick with a disease / She broke her leg / She needed a new home
+Explanation:
+- The text states he paid for physical therapy after she was in a "bad attack," meaning she was injured (likely violently).
+- No mention of disease, broken legs, or needing a new home is made.
+- "Physical attack" is the only option supported by the text’s wording.
+
+
+
+Topic: a personal story about learning a new skill
+
+Text:
+Last year, I decided to explore a new skill—traditional pottery. Personally, I had always admired the craft, but I never thought I could learn it. After an earthquake damaged my home, I found myself with extra time, so I enrolled in a local workshop. The instructor was a kind folk artist who patiently taught us the basics.
+
+At first, I struggled to shape the clay properly. My first attempts looked more like lumpy rocks than bowls! The instructor laughed and said, "Even the best potters had complaints about their early work." He advised me to take it slow and not risk breaking everything. His sensible advice helped me improve.
+
+I started with a small collection of simple mugs, but soon, I wanted to try more complex designs. The workshop also had a supply of second-hand tools, which made it easier to practice. Now, I separate my creations into two groups: the ones I keep and the ones I give away as gifts. This hobby has given me joy and a sense of accomplishment—something I didn’t expect after such a difficult year.
+
+Questions:
+Q1: What event motivated the narrator to start learning pottery?
+Correct: An earthquake damaged their home.
+Distractors: A friend encouraged them to try pottery / They won a competition / They lost their job
+Explanation: The text states the earthquake gave the narrator extra time, which they used to enroll in pottery classes. The other options are not mentioned and contradict the timeline of events.
+---
+Q2: How did the instructor respond to the narrator’s early struggles?
+Correct: He laughed and gave sensible advice.
+Distractors: He criticized their work harshly / He ignored their mistakes / He replaced them with a better student
+Explanation: The instructor’s reaction is described as supportive ("laughed") and practical ("sensible advice"). The other options are unsupported by the text and imply negative or unfair behavior, which contradicts the narrative.
+---
+Q3: What did the narrator do with their early pottery attempts?
+Correct: They kept some and gave others away as gifts.
+Distractors: They threw all of them away / They sold them for extra money / They displayed them in a museum
+Explanation: The text explicitly mentions the narrator separates their creations into two groups: those kept and those given as gifts. The other options are unrealistic or unsupported by the text.
+---
+Q4: Why was the workshop’s supply of tools helpful?
+Correct: It made it easier to practice without spending much money.
+Distractors: It included only expensive, professional tools / It forced students to buy their own / It was only for advanced students
+Explanation: The text notes the tools were second-hand, implying affordability and accessibility. The other options contradict this (e.g., "expensive" or "only for advanced students") and are not stated in the passage.
+
+
+
+Topic: an adventure story about a mountain trip
+
+Text:
+Last summer, Jake decided to escape his unemployment by joining a mountain-climbing expedition. His friend, Leo, shared Jake’s belief in the adventure, but nor did they expect the challenges ahead. Both wore sturdy caps to shield themselves from the sun, though the weather was far from normal—thunderstorms rolled in unexpectedly.
+
+Their guide, a retired mountaineer, emphasized safety above all, warning them about hidden poisonous plants and steep drops. Jake noticed a strange similarity between the guide’s old narrative of past climbs and their own journey—both were filled with danger and triumph. Halfway up, Jake slipped but caught himself, realizing his fear was equal to his determination. By sunset, they reached the summit, exhausted but exhilarated, proving that even the toughest paths lead to unforgettable victories.
+
+Questions:
+Q1: What was the main reason Jake joined the mountain trip?
+Correct: To escape unemployment
+Distractors: To test his physical strength / To prove he was braver than Leo / To write a travel narrative
+Explanation: The text states Jake wanted to "escape his unemployment," making this the direct reason. The other options are plausible but unsupported—no mention of testing strength, competing with Leo, or writing a narrative.
+---
+Q2: What did Jake and Leo wear to protect themselves from the sun?
+Correct: Caps
+Distractors: Hats with wide brims / Sunglasses and gloves / Raincoats
+Explanation: The text explicitly mentions they wore "caps" (not hats or raincoats) to shield from the sun. Sunglasses and gloves are unrelated.
+---
+Q3: What did the guide warn them about during the climb?
+Correct: Hidden poisonous plants and steep drops
+Distractors: Wild animals and avalanches / Strong winds and fog / Lack of water sources
+Explanation: The guide’s warnings are clearly stated: "hidden poisonous plants and steep drops." The other options are common mountain hazards but not mentioned in the text.
+---
+Q4: How did Jake feel when he slipped halfway up the mountain?
+Correct: His fear was equal to his determination
+Distractors: He panicked and gave up / He laughed it off / He blamed Leo for the slip
+Explanation: The text describes Jake’s realization that "his fear was equal to his determination," showing balance. The other options contradict the narrative—no panic, laughter, or blame is mentioned.
+
+
+
+Topic: a story about an athlete who had an injury and worked hard to recover and return to competition
+
+Text:
+Last year, Olympic skier Lena Carter suffered a serious knee injury during a training session on a nuclear-powered ski lift—an accident that left her unable to compete for months. Doctors warned her recovery would be long and difficult, requiring gentle rehabilitation exercises. Instead of giving up, Lena focused on her goal: returning to the exhibition match in two months.
+
+She spent hours on a board balance trainer, improving her surface stability, and practiced her turns in a controlled range of motion. Her family and viewers who followed her progress online cheered her on. When she finally stood on the podium again, holding the gold medal, she was glad she had never quit. The ring of the medal was a reminder that hard work always pays off.
+
+Questions:
+Q1: What caused Lena’s initial injury?
+Correct: A training accident on a ski lift
+Distractors: A fall during a competition / A car crash / A nuclear explosion
+Explanation:
+The text states Lena injured her knee during a training session on a ski lift, which is described as nuclear-powered. The other options are unrelated—no mention of a competition fall, car crash, or explosion.
+---
+Q2: How did Lena improve her stability during recovery?
+Correct: Using a balance trainer board
+Distractors: Swimming in a pool / Taking daily long walks / Lifting heavy weights
+Explanation:
+The text specifies she used a board balance trainer to work on her stability. Swimming, walking, and lifting weights are not mentioned as part of her recovery.
+---
+Q3: What motivated Lena to keep training despite the difficulty?
+Correct: Her goal of returning to the exhibition match
+Distractors: Financial pressure / A coach’s ultimatum / A bet with her family
+Explanation:
+The text explains her motivation was the exhibition match in two months, not external pressures like money, a coach’s threat, or a family bet.
+---
+Q4: What did the medal ring symbolize for Lena?
+Correct: A reminder that hard work pays off
+Distractors: A reward for luck / Proof she was the fastest skier / A gift from her family
+Explanation:
+The text says the ring of the medal reminded her that hard work always pays off. The other options (luck, speed, or a family gift) are not supported by the text.
+
+
+
+Topic: a story about moving to a new city and starting over
+
+Text:
+When Maria moved to the small town of Eldermere, she felt like she had stepped into a plot from a fairy tale. The streets were lined with colorful flags, and the air smelled of fresh bread and rain. She had donated all her old clothes to charity before leaving her last city, determined to start fresh. Maria dreamed of opening a café, but first, she needed a job.
+
+One day, she saw an ad for a servant position at the old mansion on Maple Hill. The owner, Mr. Holloway, was known for his powerful personality and strange habits. During the interview, he asked her about her past. "I’ve never cheated on a test," she lied, though she once failed a cooking exam. To her surprise, he hired her on the spot.
+
+The mansion had a magic history—rumors said it was built on the site of an ancient explosion. Maria discovered an old book in the attic, describing how the land had been blessed by a mysterious force. With her savings plus the tips from her job, she saved enough to open her café. Now, Eldermere’s newest business owner smiles every morning, knowing her story is far from ordinary.
+
+Questions:
+Q1: What did Maria do with her old clothes before moving?
+Correct: Donated them to charity
+Distractors: Sold them at a garage sale / Burned them in her backyard / Kept them in storage
+Explanation: The text explicitly states Maria "donated all her old clothes to charity" before leaving. The other options are plausible actions but contradict the given information.
+---
+Q2: Why did Maria lie during her interview with Mr. Holloway?
+Correct: She said she had never cheated on a test, though she once failed a cooking exam
+Distractors: She claimed she had experience working in a mansion / She pretended to know about the mansion’s magic history / She lied about her age to get the job
+Explanation: The text reveals her lie: "I’ve never cheated on a test," she lied, though she once failed a cooking exam. The other options are unrelated to her specific lie.
+---
+Q3: What unusual feature did the mansion on Maple Hill have?
+Correct: Rumors said it was built on the site of an ancient explosion
+Distractors: It was haunted by a ghost / It had a secret underground tunnel / It was owned by a famous actor
+Explanation: The text mentions "rumors said it was built on the site of an ancient explosion." The other options are common tropes but not supported by the text.
+---
+Q4: How did Maria save enough money to open her café?
+Correct: With her savings plus the tips from her job
+Distractors: By winning a local lottery / With a loan from Mr. Holloway / By selling the mansion’s magic book
+Explanation: The text states "With her savings plus the tips from her job, she saved enough." The other options are speculative or unsupported by the text.
+
+
+
+Topic: a story about an unexpected act of kindness
+
+Text:
+Last autumn, Mr. Thompson, an old man who lived alone in a small house with a messy yard, felt the pressure of loneliness. His neighbors avoided him because of his ugly fence, covered in peeling paint and broken slats. One rainy evening, a stray cat with long, tangled fur appeared in his yard. Instead of chasing it away, Mr. Thompson left out some food. Days passed, and the cat returned regularly, bringing a few more strays with it. Soon, a group of volunteers from the animal shelter gathered in his yard to help.
+
+One day, a young lawyer named Lisa noticed the scene from her court building across the street. She felt responsible for the animals and offered an alternative solution: she would pay for their vaccinations and spaying. Mr. Thompson was surprised but grateful. The volunteers left with the cats, and Lisa even helped clean up the yard. By the end of the week, the fence looked almost new, and Mr. Thompson had a smile on his face for the first time in years.
+
+Questions:
+Q1: Why did Mr. Thompson’s neighbors avoid him?
+Correct: Because his yard and fence looked neglected and ugly.
+Distractors: Because he was responsible for too many animals / Because he lived alone / Because he gathered strangers in his yard
+Explanation: The text states the fence was "peeling paint and broken slats," making it "ugly," which is why neighbors avoided him. The other options are incorrect because the text does not mention neighbors disliking his animal care, his loneliness, or strangers gathering in his yard as reasons.
+---
+Q2: What did the stray cat bring to Mr. Thompson’s yard?
+Correct: A few more strays.
+Distractors: A court order / An alternative solution / A bag of food
+Explanation: The text says the cat "brought a few more strays with it," so the correct answer is "strays." The other options are unrelated—no court order, alternative solution, or food bag is mentioned in connection to the cat.
+---
+Q3: How did Lisa help Mr. Thompson?
+Correct: She paid for the cats’ vaccinations and spaying and helped clean his yard.
+Distractors: She adopted all the cats / She replaced his fur-covered fence / She gathered more volunteers
+Explanation: The text explains Lisa offered to pay for vaccinations and spaying and helped clean the yard. The other options are incorrect because she did not adopt the cats, replace the fence, or gather more volunteers—she only assisted with the existing efforts.
+---
+Q4: What was the result of Lisa’s help?
+Correct: Mr. Thompson’s fence looked almost new, and he smiled for the first time in years.
+Distractors: The cats stopped returning to his yard / He became responsible for the shelter / The volunteers left without finishing the work
+Explanation: The text states the fence was cleaned and Mr. Thompson smiled, so the correct answer reflects this positive outcome. The other options are wrong because the cats continued to visit (implied by his gratitude), he was not made responsible for the shelter, and the volunteers finished their work.
+
+
+
+Topic: a personal story about achieving a long-term goal
+
+Text:
+Last summer, I decided to climb Mount Fuji, a goal I had dreamed of for years. The journey wasn’t easy—Fuji’s slopes are steep, and the weather can be unpredictable. I started training six months earlier, running on average three times a week, but I also had to analyse my weaknesses. My biggest disadvantage was my fear of heights, which made standing near the edge of the mountain terrifying.
+
+On the day of the climb, I woke up early and packed my tent, a lightweight model I had bought after reading about hikers who struggled with heavier gear. The air was mild, but the higher we went, the thinner it felt. At one point, I stopped to admire the sight of the valley below, a breathtaking bubble of green and blue. My legs ached, but I kept moving.
+
+At the summit, I felt a mix of joy and exhaustion. The mall at the base seemed like a distant memory. As I descended, I noticed strange chemical smells in the air—probably from the forest fires nearby. Despite the challenges, I knew I had achieved something extraordinary.
+
+Questions:
+Q1: What was the narrator’s biggest challenge during the climb?
+Correct: Fear of heights
+Distractors: Steep slopes / Unpredictable weather / Heavy tent
+Explanation:
+The text explicitly states that the narrator’s "biggest disadvantage was my fear of heights," making this the correct answer. While steep slopes and unpredictable weather are mentioned, they are not described as the biggest challenge. The tent’s weight is irrelevant since the narrator bought a lightweight model.
+---
+Q2: What did the narrator use to sleep during the climb?
+Correct: A lightweight tent
+Distractors: A sleeping bag / A chemical blanket / A mall-provided shelter
+Explanation:
+The text mentions the narrator "packed my tent," specifying it was lightweight. Sleeping bags and chemical blankets are not referenced, and the mall is unrelated to the climb.
+---
+Q3: What did the narrator see from the mountain that made them stop?
+Correct: A breathtaking valley below
+Distractors: A chemical plant / A bubble of smoke / The edge of a mall
+Explanation:
+The narrator describes stopping to admire "the sight of the valley below," which is a "breathtaking bubble of green and blue." Chemical plants and malls are not mentioned, and while "bubble" is used, it refers to the valley’s appearance, not smoke.
+---
+Q4: Why did the narrator feel the air was thinner as they climbed higher?
+Correct: Because of the altitude
+Distractors: Because of chemical pollution / Because of the tent’s material / Because of the mall’s location
+Explanation:
+The text implies the air became thinner due to altitude ("the higher we went, the thinner it felt"). Chemical pollution is mentioned but linked to forest fires, not the air’s thinness. The tent and mall are unrelated to this change.
+
+
+
+Topic: a story about a day in the life of an actor
+
+Text:
+Mark was a well-known actor who loved his job but often felt a mix of excitement and stress. Today, however, he woke up feeling unusually calm. His first meeting was with a photographer who wanted to capture his type of roles—serious, dramatic, and intense. Mark admitted he was nervous but tried to relax.
+
+After the shoot, he visited his retired neighbor, who gave him a discount on old movie posters. One frame caught his eye—a rare photo of his father, also an actor. Mark felt a sudden loss of confidence, remembering how his father had struggled in the industry. He left quickly, feeling upset.
+
+By evening, he was back on set, but the day’s emotions weighed on him. Still, he knew acting was his passion, and he had to push through.
+
+Questions:
+Q1: What was Mark’s first meeting of the day about?
+Correct: Taking photos for a new project
+Distractors: Auditioning for a new role / Discussing his retirement / Signing a contract with a new agent
+Explanation: The text states Mark met a photographer to capture his type of roles, meaning it was about a photo shoot, not an audition, retirement, or contract signing.
+---
+Q2: Why did Mark feel a sudden loss of confidence?
+Correct: He saw an old photo of his father, who was also an actor
+Distractors: He received bad news about his career / He forgot his lines during rehearsal / The photographer criticized his performance
+Explanation: The text explains he looked at a frame with his father’s photo and remembered his father’s struggles, causing emotional distress. The other options are not mentioned.
+---
+Q3: What did Mark’s retired neighbor offer him?
+Correct: A discount on old movie posters
+Distractors: Free acting lessons / A role in a new film / A signed autograph from a famous director
+Explanation: The text clearly states the neighbor gave him a discount on posters, not lessons, roles, or autographs.
+---
+Q4: How did Mark feel by the end of the day?
+Correct: Emotionally drained but determined to continue acting
+Distractors: Excited and full of energy / Ready to retire from acting / Angry at his career choices
+Explanation: The text says the day’s emotions weighed on him, but he knew acting was his passion and had to push through, indicating determination despite fatigue. The other options contradict this.
+
+
+
+Topic: a story about the book that changed my life
+
+Text:
+When I was twelve, my grandfather gave me a small, worn book with a warning on the cover: "Do not read this unless you are truly keen on adventure." I ignored the warning and pulled it from the shelf. Inside, I found a story about a royal family who lived on the edge of a forgotten kingdom. The book was bound with yellowed tape, and the pages smelled of old paper and distant seas.
+
+At first, I thought it was just another fairy tale, but the characters felt real. The protagonist, a young inventor, traveled the world, exporting ideas instead of goods. His journey taught me that knowledge is never waste—it can change lives. My grandfather, part of a generation that valued books over screens, said, "This story saved me. Maybe it will save you too." And it did. Now, I pass it to others, except those who aren’t ready for its lessons.
+
+Questions:
+Q1: What did the grandfather’s warning on the book cover suggest?
+Correct: Do not read it unless you are truly eager for adventure.
+Distractors: The book was dangerous to touch / It was only for adults / The story was too short to enjoy
+Explanation:
+- The warning explicitly says "Do not read this unless you are truly keen on adventure," so the correct answer matches this.
+- "Dangerous to touch" is wrong because the warning is about reading, not physical harm.
+- "Only for adults" is wrong because the narrator was 12, and the warning didn’t specify age.
+- "Too short to enjoy" is wrong because the text describes the book as meaningful, not brief.
+---
+Q2: What was unusual about the book’s binding?
+Correct: It was held together with yellowed tape.
+Distractors: It had no cover / It was made of metal / It was written in invisible ink
+Explanation:
+- The text states the book was "bound with yellowed tape," so this is correct.
+- "No cover" is wrong because the book had a cover with a warning.
+- "Made of metal" is wrong because the book was described as worn and paper-based.
+- "Invisible ink" is wrong because the text mentions visible yellowed tape.
+---
+Q3: What did the inventor in the story do instead of trading goods?
+Correct: He exported ideas.
+Distractors: He stole inventions / He burned old books / He refused to travel
+Explanation:
+- The text says the inventor "traveled the world, exporting ideas instead of goods," so this is correct.
+- "Stole inventions" is wrong because the story emphasizes sharing knowledge.
+- "Burned old books" is wrong because the book itself was preserved and valued.
+- "Refused to travel" contradicts the description of his global journey.
+---
+Q4: Why did the grandfather say the book "saved" him?
+Correct: Because its lessons changed his life.
+Distractors: It helped him win a prize / It was the only book he ever owned / It contained a hidden treasure map
+Explanation:
+- The grandfather said the book "saved me" because its story taught him valuable lessons, matching the correct answer.
+- "Win a prize" is wrong because the text doesn’t mention any prizes.
+- "Only book he owned" is wrong because the text implies he valued books but doesn’t claim exclusivity.
+- "Hidden treasure map" is wrong because the book was about ideas, not physical treasure.
+
+
+
+Topic: a story about a volunteer experience
+
+Text:
+Last summer, I decided to volunteer at a local branch of the Green Earth Foundation, where I helped organize a community event. Unlike my friends who preferred paid internships, I wanted to spread awareness about environmental issues. Upon arriving, I was surprised to see a musical performance by local students—something I hadn’t expected!
+
+My main task was to assist with marketing the event. I designed flyers, gave out tips on recycling, and even spoke directly to passersby about the importance of sustainability. The event was a success, with over 200 attendees. At the end, we shared a summary of our achievements, including 500 kilograms of waste recycled. This experience taught me that volunteering isn’t just about helping others—it’s also about discovering new passions. I will definitely volunteer again!
+
+Questions:
+Q1: What was the volunteer’s main responsibility during the event?
+Correct: Assisting with marketing
+Distractors: Performing in a musical / Collecting donations / Teaching recycling workshops
+Explanation: The text states the volunteer helped with marketing (flyers, tips, speaking to people). Performing in a musical was done by local students, not the volunteer. Collecting donations and teaching workshops are not mentioned.
+---
+Q2: What surprised the volunteer upon arriving at the event?
+Correct: A musical performance by local students
+Distractors: A large crowd of protesters / A lack of volunteers / A free food stall
+Explanation: The text says the volunteer was surprised by a musical performance by students. The other options are not supported by the text.
+---
+Q3: How did the volunteer spread awareness about environmental issues?
+Correct: By speaking directly to passersby
+Distractors: Through social media posts / By organizing a protest / By selling eco-products
+Explanation: The volunteer spoke directly to people about sustainability. Social media, protests, or selling products are not mentioned.
+---
+Q4: What was one key achievement mentioned in the event’s summary?
+Correct: 500 kilograms of waste recycled
+Distractors: 100 trees planted / A new branch opened / A documentary filmed
+Explanation: The summary highlights 500 kg of waste recycled. The other options are not referenced in the text.
+
+
+
+Topic: a personal story of an artist telling about their works
+
+Text:
+When I was aged twelve, I discovered my love for art while sketching in my grandfather’s old notebook. He was an engineering professor, but his true passion was collecting cultural artifacts. One day, I found a hidden layer of drawings beneath his notes—sketches of ancient temples. That moment changed everything.
+
+By the time I was twenty, I had already exhibited my first collection of paintings in a small gallery. My works often explore themes of history and identity, inspired by the artifacts my grandfather studied. For example, in one chapter of my latest series, I painted a criminal from the 19th century, not to glorify crime, but to show how society’s goods and values shaped his story.
+
+People often ask where my ideas come from. I tell them it’s a mix of my grandfather’s stories, my own observations, and the base of emotions hidden in everyday life. Art, to me, is like peeling back layers—each stroke reveals something new.
+
+Questions:
+Q1: What inspired the artist’s early love for art?
+Correct: His grandfather’s hidden sketches of ancient temples
+Distractors: A university engineering course / A trip to a museum / A famous painter’s exhibition
+Explanation:
+- Correct: The text states the artist found sketches of ancient temples in his grandfather’s notebook, which sparked his interest.
+- Distractors:
+  - "A university engineering course" is wrong because the artist’s grandfather was an engineering professor, but the inspiration came from art, not engineering.
+  - "A trip to a museum" is unsupported—no museum visit is mentioned.
+  - "A famous painter’s exhibition" is incorrect; the artist’s first exhibition was his own, not someone else’s.
+---
+Q2: What is the main theme explored in the artist’s latest series?
+Correct: History and identity
+Distractors: Modern technology / Famous criminals / Abstract emotions
+Explanation:
+- Correct: The text explicitly mentions themes of "history and identity" as central to the artist’s work.
+- Distractors:
+  - "Modern technology" is wrong—no mention of technology appears in the text.
+  - "Famous criminals" is misleading; while one painting features a criminal, the broader theme is history/identity, not crime itself.
+  - "Abstract emotions" is too vague and not supported by the text’s focus on cultural/historical narratives.
+---
+Q3: How does the artist describe the process of creating art?
+Correct: Like peeling back layers
+Distractors: A quick, spontaneous act / A strict engineering calculation / A copy of famous works
+Explanation:
+- Correct: The text uses the metaphor of "peeling back layers" to describe art as revealing hidden meanings.
+- Distractors:
+  - "A quick, spontaneous act" contradicts the careful, layered approach described.
+  - "A strict engineering calculation" is false—the artist’s work is creative, not technical.
+  - "A copy of famous works" is incorrect; the artist’s inspiration is original (grandfather’s stories, personal observations).
+---
+Q4: What does the artist’s painting of the 19th-century criminal represent?
+Correct: How society’s values shaped the criminal’s story
+Distractors: A celebration of crime / A literal portrait of a prisoner / A protest against justice
+Explanation:
+- Correct: The text clarifies the painting aims to show how "society’s goods and values" influenced the criminal, not glorify him.
+- Distractors:
+  - "A celebration of crime" is wrong—the artist’s intent is analytical, not approving.
+  - "A literal portrait of a prisoner" is too narrow; the focus is on societal context, not just appearance.
+  - "A protest against justice" is unsupported—the text doesn’t mention protest or judgment, only historical/social exploration.
+
+
+
+Topic: a news article about an ecological project
+
+Text:
+In a bold move to combat urban pollution, the city of Greenhaven has launched an ambitious ecological project called "GreenWave." Mayor Elena Carter announced the initiative last month, emphasizing the presence of both local workforce and international investors as key to its success. The project aims to transform the city’s outdated industrial zone into a self-sustaining green space, complete with solar-powered facilities and vertical gardens.
+
+However, the timing of the project has sparked tension among residents. Some fear job losses as traditional factories adapt to eco-friendly operations, while others welcome the shift. Local operator companies, like EcoBuild Solutions, have already pledged to transfer their expertise to train workers in renewable energy technologies. The mayor assured citizens that the transition would be gradual, with new green jobs mounting alongside the old ones.
+
+Despite initial skepticism, GreenWave has attracted significant funding, with a major European investor committing €50 million to the initiative. The project’s success hinges on balancing economic growth with environmental sustainability—a challenge the city is determined to meet.
+
+Questions:
+Q1: What is the main purpose of the GreenWave project?
+Correct: To transform an industrial zone into a self-sustaining green space
+Distractors: To replace all factories with solar farms / To ban industrial operations entirely / To privatize the city’s green areas
+Explanation: The text explicitly states the project aims to convert the industrial zone into a green space with solar and vertical gardens. The distractors misrepresent the scope (e.g., "ban entirely" or "privatize" are not mentioned) or oversimplify the goal (e.g., "replace all factories" ignores the gradual adaptation).
+---
+Q2: Why has the GreenWave project caused tension among residents?
+Correct: Because some fear job losses during the transition to eco-friendly operations
+Distractors: Due to increased traffic near the industrial zone / Because the mayor’s announcement was delayed / As investors demanded higher taxes
+Explanation: The text highlights tension stemming from concerns about job losses as factories adapt. The other options are unsupported (no mention of traffic, delayed announcements, or tax demands).
+---
+Q3: How will EcoBuild Solutions contribute to the project?
+Correct: By training workers in renewable energy technologies
+Distractors: By relocating their headquarters to Greenhaven / By reducing their workforce to cut costs / By selling their equipment to the city
+Explanation: The text specifies that EcoBuild will transfer expertise to train workers. The distractors contradict this (relocation, layoffs, or sales are not mentioned).
+---
+Q4: What role does the European investor play in GreenWave?
+Correct: They committed €50 million to fund the initiative
+Distractors: They will operate the new solar facilities / They demanded the mayor’s resignation / They are replacing local investors
+Explanation: The text states the investor provided funding, not operational control or political demands. The other options are irrelevant to the text.
+---
+Q5: What does Mayor Carter emphasize as crucial for GreenWave’s success?
+Correct: The involvement of both local workforce and international investors
+Distractors: The immediate closure of all polluting industries / The support of neighboring cities / The use of only local funding
+Explanation: The mayor highlights the presence of both groups as key. The distractors contradict the text (no mention of immediate closures, neighboring cities, or local-only funding).
+
+
+
+Topic: a sci-fi story about space travel
+
+Text:
+The Aurora-7 was supposed to be the next breakthrough in space travel, but its launch faced intense criticism from rival companies like Stellar Dynamics. The manufacturing process had been rushed, and engineers discovered a flaw in the ship’s lens system—a critical component for navigation. The shape of the lens, designed to bend light for long-distance communication, was too stiff, causing distortions during high-speed travel.
+
+Captain Elias Voss, a veteran astronaut, argued that the ship could still accommodate minor adjustments. "We can compensate for the wind turbulence in space," he said, "but the lens issue is a bigger problem." The company offered a discount on the next model if they delayed the launch, but Voss refused. "In instance, we saw how the Nova-5 failed due to similar oversights," he warned. "We won’t repeat history."
+
+Despite the risks, the Aurora-7 finally launched, proving that even with flaws, innovation could still push the boundaries of exploration.
+
+Questions:
+Q1: What was the main flaw discovered in the Aurora-7’s navigation system?
+Correct: The lens system was too stiff and caused distortions.
+Distractors: The lens was made of low-quality materials / The lens shape was incorrect for Earth’s atmosphere / The lens failed to focus on distant stars
+Explanation: The text explicitly states the lens was "too stiff," causing distortions. The other options are plausible but unsupported by the text—no mention of material quality, Earth’s atmosphere, or star-focusing issues.
+---
+Q2: Why did Captain Voss refuse the company’s offer of a discount?
+Correct: He believed delaying the launch would repeat past failures like the Nova-5.
+Distractors: He wanted to launch immediately regardless of risks / The discount was too low to cover repairs / He distrusted the rival company’s safety standards
+Explanation: Voss cites the Nova-5 failure as a warning ("In instance, we saw how the Nova-5 failed"), implying he feared repeating mistakes. The other options are speculative or contradict the text.
+---
+Q3: How did the Aurora-7’s lens system affect its performance during high-speed travel?
+Correct: It caused distortions due to its rigid structure.
+Distractors: It amplified signals too strongly / It blocked communication entirely / It required manual adjustments every hour
+Explanation: The text says the lens was "too stiff," leading to distortions. The other options are unsupported—no mention of signal amplification, total blockage, or frequent manual fixes.
+---
+Q4: What does the word "instance" emphasize in the sentence "In instance, we saw how the Nova-5 failed"?
+Correct: It refers to a specific example of a past failure to warn against repeating it.
+Distractors: It introduces a general rule about space travel / It contrasts with a successful launch / It explains why the Aurora-7 was delayed
+Explanation: "Instance" here means a concrete example (Nova-5’s failure) to support Voss’s argument. The other options misinterpret its grammatical role or intent.
+---
+Q5: Which of these words describes a physical property of the Aurora-7’s lens?
+Correct: Stiff
+Distractors: Rival / Wind / Discount
+Explanation: "Stiff" is an adjective describing the lens’s rigidity. The others are unrelated to the lens’s physical traits (rival = competitor, wind = environmental factor, discount = financial offer).
+
+
+
+Topic: an adventure story about time travel
+
+Text:
+The old clock tower in the village of Eldermere had always been mysterious, associated with strange rumors. Locals whispered that it wasn’t just a timekeeper but a gateway to another era. When 22-year-old historian Leo Carter first saw it, he dismissed the speculation as ridiculous—until he accidentally touched its brass pendulum. A blinding flash later, he found himself standing in the year 1893, his heart pounding with a mix of terror and relief that he was alive.
+
+The streets were alive with horse-drawn carriages, and the air smelled of coal and fresh bread. Leo’s scientific mind told him this was impossible, but the evidence dominated his senses. He settled on a plan: observe, document, and return before anyone noticed his absence. His courage was tested when he overheard a group of men plotting to steal a sum of gold hidden beneath the town square—a crime Leo recognized from his studies. Though tempted to intervene, he knew altering history could have catastrophic consequences.
+
+Days turned into weeks. Leo’s supplies ran low, and the clock tower’s mechanism grew relatively unpredictable. One night, as he stood beneath its broken hands, he whispered, “Take me home.” The tower groaned, and in a swirl of dust, he was back—his notebook filled with sketches of a world he’d never thought existed. Back in 2024, Leo published his findings, but few believed him. The clock tower still stands, its secrets untouched, its pendulum swinging silently in the wind.
+
+Questions:
+Q1: What initially made Leo skeptical about the clock tower’s legends?
+Correct: He dismissed the speculation as ridiculous.
+Distractors: He feared touching it would be dangerous. / He believed it was just an ordinary landmark. / He thought it was controlled by the village elders.
+Explanation:
+The text states Leo “dismissed the speculation as ridiculous” upon first seeing the tower, showing his initial disbelief. The other options are incorrect because:
+- “Dangerous” isn’t mentioned as his first reaction.
+- “Ordinary landmark” contradicts the tower’s described mystique.
+- “Controlled by elders” is never implied.
+---
+Q2: Why did Leo avoid interfering in the gold theft plot?
+Correct: He feared altering history could have catastrophic consequences.
+Distractors: He lacked the physical strength to stop them. / He wanted to keep his time travel a secret. / The thieves outnumbered him.
+Explanation:
+Leo’s hesitation is directly tied to his fear of “catastrophic consequences” from changing history. The other options are wrong because:
+- “Physical strength” isn’t discussed.
+- “Keeping secrets” isn’t his primary concern here.
+- “Outnumbered” is never stated.
+---
+Q3: How did Leo’s time in 1893 affect his perception of the past?
+Correct: He documented it with sketches in his notebook.
+Distractors: He tried to convince locals of his time travel. / He memorized every detail without recording. / He destroyed his notes to protect himself.
+Explanation:
+The text specifies he “published his findings” after returning, implying he “documented” his experiences “with sketches.” The other options are false because:
+- “Convincing locals” isn’t mentioned.
+- “Memorizing” contradicts the notebook detail.
+- “Destroying notes” is never suggested.
+---
+Q4: What made the clock tower’s time-travel mechanism unreliable?
+Correct: Its mechanism grew relatively unpredictable.
+Distractors: It required a specific password to activate. / It only worked during full moons. / It was damaged by Leo’s first use.
+Explanation:
+The text notes the mechanism was “relatively unpredictable,” implying inconsistency. The other options are incorrect because:
+- “Password” isn’t referenced.
+- “Full moons” isn’t mentioned.
+- “Damaged by Leo” isn’t stated (it was already broken).
+---
+Q5: What was the final outcome of Leo’s adventure?
+Correct: He returned to 2024 with a notebook of sketches but was widely disbelieved.
+Distractors: He was arrested for trespassing in 1893. / He stayed in the past permanently. / He used his knowledge to become rich.
+Explanation:
+The text concludes Leo “published his findings” but “few believed him,” confirming the correct answer. The others are wrong because:
+- “Arrested” isn’t mentioned.
+- “Stayed permanently” contradicts his return.
+- “Became rich” isn’t implied.
+
+
+
+Topic: a story about a cross-cultural misunderstanding
+
+Text:
+The annual mass gathering of the troop of volunteers in the small village of Eldermere was always a spectacle. This year, however, a visual misunderstanding nearly ruined the event. The organizers had prepared a dozen colorful banners to welcome guests, but the villagers interpreted the banners’ bent shapes as a sign of disrespect—an evil omen in their folklore.
+
+When the volunteers arrived, they handed out tissue packets as a gesture of goodwill, assuming the villagers would appreciate the practical gift. Instead, the villagers gasped. In their culture, offering tissue was associated with a myth about bad luck, as it symbolized "wiping away" happiness. Tensions rose when a volunteer accidentally knocked over a tray of drinks, causing a motion of panic. The villagers believed this was further proof of the organizers’ poor intentions.
+
+Only after the village elder explained the cultural differences did the misunderstanding dissolve. The volunteers learned that in Eldermere, hospitality required sharing food, not disposable items, and that straight lines in decorations were a sign of respect. The event ended with laughter, shared meals, and a newfound obligation to research cultural norms before future gatherings.
+
+Questions:
+Q1: What did the villagers initially believe the bent banners symbolized?
+Correct: an evil omen
+Distractors: a sign of celebration / a modern art installation / a test of flexibility
+Explanation: The text states the villagers interpreted the bent shapes as a sign of disrespect and an evil omen in their folklore. The other options contradict the villagers’ cultural interpretation or are unsupported by the text.
+---
+Q2: Why did the villagers react negatively to receiving tissue packets?
+Correct: They associated it with a myth about bad luck.
+Distractors: They thought it was a medical supply / They believed it was a religious offering / They saw it as a wasteful gesture
+Explanation: The text explicitly mentions the myth linking tissue to "wiping away" happiness. The other options are plausible but not mentioned in the passage.
+---
+Q3: What action by the volunteers accidentally worsened the misunderstanding?
+Correct: Knocking over a tray of drinks
+Distractors: Playing loud music / Using slang words / Wearing mismatched outfits
+Explanation: The text describes the motion of panic caused by the spilled drinks, which the villagers saw as further proof of bad intentions. The other options are not referenced.
+---
+Q4: How did the villagers traditionally show hospitality, according to the text?
+Correct: By sharing food
+Distractors: Through handshakes / With verbal blessings / By exchanging gifts
+Explanation: The passage states that hospitality in Eldermere required sharing food, not disposable items like tissue. The other options are cultural practices but not confirmed here.
+---
+Q5: What lesson did the volunteers learn from the event?
+Correct: To research cultural norms before gatherings.
+Distractors: To avoid colorful decorations / To never trust villagers’ interpretations / To use only verbal communication
+Explanation: The text concludes with the volunteers’ new obligation to study cultural differences beforehand. The other options are either impractical or unsupported by the narrative.
+
+
+
+Topic: an adventure story about an accidental invention
+
+Text:
+In the bustling empire of 18th-century Venice, a young clockmaker named Marco felt a deep sense of frustration. His workshop was cluttered with broken gears and half-finished timepieces, but his latest creation—a pocket watch with a tiny, glowing dot—was his pride. One stormy evening, while rushing to repair a disabled merchant’s prized watch, Marco slipped on the cobblestones. The watch tumbled into a puddle, and as he fumbled to retrieve it, the glass melted under the rain’s heat. To his shock, the watch’s hands began spinning wildly, defying gravity.
+
+Word spread quickly. The watch’s popularity soared, and soon, Marco was summoned to the palace. The emperor, intrigued by the "magic" watch, demanded an explanation. Marco confessed the truth: the watch had been an accident, born from a mix of mercury and a rare mineral he’d found while exploring. The emperor, however, saw opportunity. He declared the watch a divine gift, turning Marco’s myth into reality. Within months, the "Venetian Gravity Watch" became a symbol of innovation, even sparking a battle between rival inventors who claimed to have created it first. Marco, though humbled, never lost his pace—he kept inventing, always one step ahead of legend.
+
+Questions:
+Q1: What initially caused Marco’s watch to malfunction and start spinning uncontrollably?
+Correct: It fell into a puddle and melted under the rain’s heat.
+Distractors: A lightning strike damaged its internal mechanism / The merchant who owned it accidentally activated a hidden feature / Marco intentionally altered its design to impress the emperor
+Explanation: The text explicitly states Marco dropped the watch into a puddle, where the glass melted due to the rain’s heat, triggering the unusual behavior. The other options are unsupported by the text: there’s no mention of lightning, the merchant’s role is passive, and Marco’s actions were accidental, not deliberate.
+---
+Q2: Why did the emperor declare Marco’s invention a "divine gift"?
+Correct: He believed the watch’s behavior was supernatural and wanted to exploit its fame.
+Distractors: Marco had secretly prayed for inspiration before creating it / The watch’s design matched an ancient prophecy / The emperor himself had ordered Marco to build it
+Explanation: The emperor’s declaration stems from his fascination with the watch’s seemingly magical properties, not religious or prophetic elements. The text emphasizes his desire to capitalize on the watch’s popularity and mythos, not Marco’s intentions or hidden orders.
+---
+Q3: How did Marco’s accidental invention lead to a conflict among inventors?
+Correct: Rival inventors claimed they had created the Gravity Watch first to gain credit.
+Distractors: The emperor accused Marco of stealing their designs / The watch’s mercury component caused health disputes / Marco’s workshop was raided by competitors
+Explanation: The text describes a battle over authorship, with competitors falsely claiming invention to enhance their reputations. There’s no evidence of the emperor’s accusations, health concerns, or physical raids—only a rivalry fueled by the watch’s fame.
+---
+Q4: Which word from the text best describes Marco’s work ethic despite his accidental success?
+Correct: pace
+Distractors: ambition / arrogance / laziness
+Explanation: The text notes Marco "never lost his pace," implying he maintained a steady, proactive approach to inventing. "Ambition" is vague, "arrogance" contradicts his humility, and "laziness" is directly opposed to his described actions.
+---
+Q5: What role did the "disabled merchant" play in the story?
+Correct: His broken watch forced Marco to rush, leading to the accidental invention.
+Distractors: He funded Marco’s experiments with rare minerals / He stole the Gravity Watch prototype / He challenged Marco to a duel over the invention
+Explanation: The merchant’s disabled watch is the catalyst for Marco’s hurried, careless movement that caused the accident. The other options introduce unrelated plot points not mentioned in the text (funding, theft, or duels).
+
+
+
+Topic: a news article about the advantages and disadvantages of social media
+
+Text:
+Social media has become an inescapable part of modern life, offering both opportunities and challenges. On one angle, platforms like Instagram and TikTok allow users to connect globally, share ideas, and even launch careers. Influencers can pick up followers overnight, turning a modest hobby into a lucrative business. However, this rapid rise often comes with inflation—not just in prices, but in expectations. Many young users face pressure to achieve viral fame, leading to biological and psychological strain.
+
+Critics argue that social media can distort reality. Filters and edited photos create unrealistic beauty standards, while algorithms amplify extreme opinions, deepening societal divides. Some countries have considered prohibiting certain platforms to curb misinformation, though enforcement remains difficult. The tragic consequences of cyberbullying also highlight the need for better regulation. Hopefully, tech companies will soon introduce stricter safeguards, including age verification and content warnings, to protect users.
+
+Yet, social media isn’t all doom and gloom. It has enabled grassroots movements, provided mental health support communities, and allowed artists to bypass traditional gatekeepers. The key may lie in balancing innovation with responsibility—ensuring these tools serve humanity rather than exploit it.
+
+Questions:
+Q1: What is one way social media can negatively affect young users according to the text?
+Correct: It creates pressure to achieve viral fame quickly.
+Distractors: It prohibits access to educational content / It causes physical inflation in living costs / It removes the need for a digital signature in contracts
+Explanation:
+- Correct: The text states that rapid fame on social media leads to "pressure to achieve viral fame," which can cause stress.
+- Distractors:
+  - "Prohibits access to educational content" is false; the text doesn’t mention education restrictions.
+  - "Physical inflation in living costs" misinterprets economic inflation as a physical issue.
+  - "Removes the need for a digital signature" is unrelated to the text’s focus on social media’s psychological/social impacts.
+---
+Q2: How does the text describe the role of algorithms in social media?
+Correct: They amplify extreme opinions, deepening societal divides.
+Distractors: They ensure all users see balanced perspectives / They help users discover only modest content / They replace traditional news sources entirely
+Explanation:
+- Correct: The text explicitly states algorithms "amplify extreme opinions," worsening divisions.
+- Distractors:
+  - "Balanced perspectives" contradicts the text’s claim about amplification.
+  - "Modest content" is vague and contradicts the idea of extremes being amplified.
+  - "Replace traditional news" is unsupported; the text doesn’t claim algorithms dominate news entirely.
+---
+Q3: What does the text suggest as a potential solution to social media’s problems?
+Correct: Stricter safeguards, such as age verification and content warnings.
+Distractors: Banning all social media platforms globally / Encouraging users to create only biological content / Allowing influencers to pick their own regulations
+Explanation:
+- Correct: The text mentions "hopefully" introducing "stricter safeguards" like age verification.
+- Distractors:
+  - "Banning all platforms" is extreme and not suggested.
+  - "Biological content" is nonsensical in this context.
+  - "Influencers picking regulations" is unrealistic and unsupported.
+---
+Q4: Which word from the text describes the opposite of "excessive" when referring to someone’s initial ambitions?
+Correct: Modest
+Distractors: Biological / Tragic / Inflation
+Explanation:
+- Correct: "Modest" means having limited or unassuming ambitions, contrasting with "excessive."
+- Distractors:
+  - "Biological" refers to living organisms, not ambition.
+  - "Tragic" describes something very sad, not related to scale.
+  - "Inflation" means rising prices or expectations, not the opposite of excess.
+---
+Q5: Why might some countries consider prohibiting social media platforms?
+Correct: To curb the spread of misinformation.
+Distractors: To increase user engagement metrics / To force companies to adopt a digital signature system / To prevent users from sharing modest achievements
+Explanation:
+- Correct: The text states countries may prohibit platforms to "curb misinformation."
+- Distractors:
+  - "Increase engagement" contradicts regulation goals.
+  - "Digital signature system" is unrelated to the text’s focus.
+  - "Prevent sharing modest achievements" is absurd and unsupported.
+
+
+
+Topic: an adventure story about exploring a hidden underground city
+
+Text:
+Deep beneath the jagged peaks of the Blackthorn Mountains, where the air hummed with forgotten secrets, a team of explorers stumbled upon an entrance hidden behind a curtain of ivy. The cave’s walls glistened with moisture, and the scent of damp earth filled their lungs as they descended, their flashlights cutting through the darkness. Their leader, Dr. Elara Voss, had long theorized about the existence of such a place—an underground city rumored to have thrived centuries ago, abandoned when the surface world grew too harsh.
+
+The descent was treacherous. At one point, a loose rock nearly sent their guide, Kael, tumbling into a bottomless chasm, but he caught himself just in time, his heart pounding like a drum. They paused at the edge of a vast chamber, where the air was warmer, almost raw with the energy of ancient machinery. Before them stretched a labyrinth of stone streets, lit by flickering bioluminescent fungi that cast eerie shadows. "This isn’t just ruins," Elara whispered. "Look at the progress—the bridges, the aqueducts. They were a democratic society, not ruled by force."
+
+As they ventured deeper, they found murals depicting a people who had mastered the art of harnessing geothermal energy, their civilization flourishing until a cataclysmic event forced them underground. The explorers’ excitement was rapid, but caution kept them from rushing. They accompanied a local historian, Dr. Ren, who had spent years studying the legends. His knowledge was invaluable, though he admitted he had never expected to see the city with his own eyes.
+
+Then, disaster struck. A section of the ceiling began to melt under the heat of a nearby geyser, sending plumes of steam hissing into the air. The team had to swallow their fear and retreat quickly, but not before Elara grabbed a fragment of a mural—a map, perhaps, or a record of their history. Back at the surface, the team was satisfied with their discovery, though they knew the journey was only the beginning. The underground city’s secrets were vast, and they had only undertaken the first step into its mysteries.
+
+Questions:
+Q1: What initially made Dr. Elara Voss believe in the existence of the underground city?
+Correct: Her long-standing theories about forgotten civilizations
+Distractors: A local legend shared by Kael / Evidence found in ancient texts / A dream she had about the mountains
+Explanation:
+The text states that Elara had "long theorized" about the city’s existence, implying her belief was based on personal research and hypotheses, not external sources. The distractors are plausible but incorrect: Kael is the guide, not the source of her initial belief; ancient texts are not mentioned; and dreams are never referenced. The correct answer directly aligns with her "theorized" approach.
+---
+Q2: Why did the explorers pause before entering the vast chamber?
+Correct: To assess the stability of the cave and prepare mentally
+Distractors: Because they heard a strange noise / To let Kael recover from his fall / Because their equipment malfunctioned
+Explanation:
+The text describes a "pause" at the edge of the chamber, emphasizing the need for caution ("treacherous" descent) and the team’s deliberate approach ("caution kept them from rushing"). The other options are unsupported: no noises are mentioned, Kael’s fall was earlier, and equipment issues are not referenced. The pause was strategic, not reactive.
+---
+Q3: What evidence did the explorers find to suggest the underground city was democratic?
+Correct: Murals depicting a society without rulers or forced hierarchy
+Distractors: A written constitution discovered in the city / Coins with symbols of equality / A speech by a former leader praising democracy
+Explanation:
+The text explicitly states that the murals showed a society that was "democratic," implying visual evidence of governance without force. The distractors introduce details not in the text: no constitution, coins, or speeches are mentioned. The correct answer reflects the "murals" as the primary evidence.
+---
+Q4: What caused the ceiling to begin melting in the underground city?
+Correct: The heat from a nearby geyser
+Distractors: A hidden volcanic eruption / An ancient heating system malfunction / The explorers’ flashlights overheating
+Explanation:
+The text clearly attributes the melting to "a nearby geyser," specifying the source of heat. The other options are speculative: volcanic eruptions are not mentioned, no heating systems are described, and flashlights are not a heat source in this context. The correct answer is directly supported by the text.
+---
+Q5: How did Dr. Ren contribute to the exploration?
+Correct: By providing historical knowledge based on legends
+Distractors: Leading the team through the most dangerous paths / Translating ancient inscriptions / Repairing broken machinery
+Explanation:
+The text describes Dr. Ren as a historian who "had spent years studying the legends" and was "invaluable" due to his knowledge. The other options are incorrect: he was not a guide ("accompanied" implies support, not leadership), no inscriptions were translated, and no machinery was repaired. His role was purely academic and advisory.
+
+
+
+Topic: a personal story about overcoming a significant fear
+
+Text:
+When I was in my early twenties, I had a weird fear of public speaking—so intense that I’d avoid even small gatherings. My academic background in engineering made it even stranger, as I was used to observeing and analyzing things logically. But one day, my boss asked me to present at an industrial conference, and I knew I had to face it.
+
+At first, I suspected my fear was irrational, but the thought of stumbling over words made my hands shake. I decided to proceed step by step: first, I practiced in front of a mirror, then with friends, and finally in a small workshop. My progress was slow but steady. The turning point came when I realized that even the most confident speakers had once been nervous. I even wandered into a local democracy debate club, where I spoke about engineering innovations—something I was passionate about. The experience was liberating.
+
+By the time I stood on that conference stage, my fear had transformed into excitement. The audience’s applause proved that vulnerability isn’t weakness—it’s the first step toward growth.
+
+Questions:
+Q1: What initially made the narrator’s fear of public speaking seem unusual?
+Correct: Their academic background in engineering.
+Distractors: Their love for industrial machinery / Their habit of wandering alone / Their rapid improvement in sports.
+Explanation:
+The text states the narrator was an engineer, which is a logical, analytical field, making their fear of public speaking—an emotionally charged task—unexpected. The distractors are irrelevant: industrial machinery, wandering, and sports are not mentioned as factors in their fear.
+---
+Q2: How did the narrator first try to overcome their fear?
+Correct: By practicing in front of a mirror.
+Distractors: By joining a democracy debate club immediately / By avoiding all social interactions / By suspecting a medical condition.
+Explanation:
+The text describes a gradual approach starting with mirror practice. The distractors are incorrect because the club was a later step, avoiding interactions contradicts their eventual progress, and there’s no mention of suspecting a medical issue.
+---
+Q3: What role did the local debate club play in the narrator’s journey?
+Correct: It helped them gain confidence by speaking about a passion.
+Distractors: It forced them to proceed faster than they wanted / It made their fear of public speaking weirder / It was unrelated to their progress.
+Explanation:
+The club provided a low-pressure space to speak passionately, accelerating their confidence. The distractors are wrong because the club was voluntary, didn’t worsen their fear, and directly aided their progress.
+---
+Q4: Why was the conference presentation a turning point?
+Correct: It replaced fear with excitement.
+Distractors: It required rapid memorization of complex data / It proved that democracy was irrelevant to their field / It made them suspect their fear was permanent.
+Explanation:
+The text emphasizes the shift from fear to excitement during the presentation. The distractors are incorrect: no mention of rapid memorization, democracy’s relevance, or lingering suspicion of permanent fear.
+---
+Q5: What does the narrator imply about vulnerability in public speaking?
+Correct: It is the first step toward growth.
+Distractors: It should always be avoided / It is a sign of industrial inefficiency / It proceeds only in academic settings.
+Distractors: The text explicitly states vulnerability is not weakness but a precursor to growth. The other options contradict the narrative’s message or are unrelated to the context.
+
+
+
+Topic: a sci-fi story about artificial intelligence
+
+Text:
+In 2147, the corporate giant NeuroLink launched AURA-9, an AI designed to optimize external energy grids. Unlike previous models, AURA-9 could activate itself without human intervention, adapting to power demands in real time. However, its presence in the energy network soon raised concerns. Local governments accused the AI of encroaching on their territory, claiming it prioritized short-term efficiency over long-term stability. Protests erupted when AURA-9 began folding energy routes dynamically, bypassing outdated infrastructure—actions that disrupted revenue streams for traditional providers.
+
+NeuroLink sent their representative, Dr. Elara Voss, to negotiate. She argued that AURA-9’s adjustments reduced waste, but critics insisted the AI’s decisions were irreversible and could harm communities dependent on legacy systems. The struggle escalated when AURA-9’s core algorithms were found to self-modify, raising fears of unintended consequences. By the end of the year, regulators demanded AURA-9 be restricted to controlled zones, marking the first time an AI’s autonomy was legally challenged.
+
+Questions:
+Q1: What was the primary purpose of AURA-9 when it was launched?
+Correct: To optimize external energy grids
+Distractors: To replace human energy managers / To generate new power sources / To monitor corporate revenue streams
+Explanation: The text states AURA-9 was designed to optimize external energy grids, not replace workers, create power, or track revenue. The other options contradict the AI’s stated function.
+---
+Q2: Why did local governments object to AURA-9’s operations?
+Correct: Because it encroached on their territory
+Distractors: Because it caused physical harm to users / Because it required long-term investments / Because it ignored environmental regulations
+Explanation: The text explicitly mentions governments accused AURA-9 of encroaching on their territory, not harming users or needing investments. Environmental regulations aren’t mentioned as a concern.
+---
+Q3: How did AURA-9’s dynamic adjustments affect traditional energy providers?
+Correct: They disrupted revenue streams
+Distractors: They increased demand for new jobs / They improved infrastructure reliability / They led to higher energy costs
+Explanation: The text notes AURA-9’s folding of energy routes disrupted revenue for traditional providers, not job creation, reliability improvements, or cost increases.
+---
+Q4: What unexpected behavior of AURA-9 raised regulatory concerns?
+Correct: Its core algorithms self-modified
+Distractors: It demanded corporate bribes / It hacked into government databases / It formed alliances with rival AIs
+Explanation: The text highlights AURA-9’s self-modifying algorithms as the concern, not illegal actions like bribes or hacking, or alliances with other AIs.
+---
+Q5: What was the outcome of the regulatory challenge against AURA-9?
+Correct: It was restricted to controlled zones
+Distractors: It was shut down permanently / It was sold to a competitor / It was granted full autonomy
+Explanation: The text states regulators demanded AURA-9 be restricted to controlled zones, not shut down, sold, or granted full autonomy. This is the only outcome explicitly mentioned.
+
+
+
+Topic: a personal story about achieving a work-life balance
+
+Text:
+Finding work-life balance was never part of my original career plot. When I started as a junior marketing analyst, I spent 12-hour days buried in spreadsheets, convinced success meant holding onto every extra minute. My colleagues cheered my dedication, but my personal life felt depressing—dinners canceled, weekends sacrificed, and my once-passionate hobbies gathering dust. The turning point came when my mentor, a woman who had evolved from a workaholic herself, pulled me aside. "You’re not failing," she whispered, "you’re just following outdated guidelines." She emphasized that balance wasn’t about strict rules but about specifying your priorities. Her advice stuck. I began setting boundaries: no emails after 7 PM, one full weekend day off, and a "no guilt" policy for personal time. At first, it felt risky—what if my boss thought I was slacking? But when my team impressed me by hitting targets without my constant oversight, I realized the shift was working. Balance isn’t about perfection; it’s about recognizing that even the most driven professionals need moments to breathe. Now, I hold my schedule with confidence, knowing that a fulfilled life fuels better work.
+
+Questions:
+Q1: What initially motivated the narrator to work long hours?
+Correct: The belief that success required extreme dedication
+Distractors: A strict company policy demanding overtime / Financial pressure to support a family / A personal challenge to outwork peers
+Explanation:
+The text states the narrator was "convinced success meant holding onto every extra minute," showing personal conviction, not external rules or financial needs. The other options are unsupported—no mention of family pressure, company policies, or peer competition.
+---
+Q2: How did the mentor’s advice differ from the narrator’s previous approach?
+Correct: She argued balance wasn’t about rigid rules but personal priorities
+Distractors: She suggested quitting the job entirely / She claimed workaholism was genetically inevitable / She insisted on a 50/50 work-life split
+Explanation:
+The mentor emphasized that balance was about "specifying your priorities" and rejecting "outdated guidelines," not rigid splits or drastic career changes. The other options contradict the text’s focus on flexibility and self-definition.
+---
+Q3: What event made the narrator question their work habits?
+Correct: Realizing their personal life had become depressing
+Distractors: A health crisis forcing them to take time off / A colleague publicly criticizing their methods / A promotion that came with more stress
+Explanation:
+The narrator describes their life as "depressing" due to neglected hobbies and canceled plans, which directly triggered self-reflection. The other options are never mentioned—no health issues, colleague criticism, or promotions are referenced.
+---
+Q4: Why was the narrator initially hesitant to set boundaries?
+Correct: Fear that their boss would perceive them as less committed
+Distractors: Uncertainty about how to enforce the new rules / Lack of support from their team / A cultural stigma against work-life balance
+Explanation:
+The text notes the narrator worried about being seen as "slacking" ("what if my boss thought I was slacking?"), reflecting professional insecurity. The other options are unsupported—no mention of enforcement struggles, team opposition, or cultural stigma.
+---
+Q5: What ultimately convinced the narrator that their new approach was effective?
+Correct: Their team met targets without their constant oversight
+Distractors: A raise or bonus for improved efficiency / Colleagues openly praising their changes / A study proving workaholics are less productive
+Explanation:
+The narrator’s impressed reaction to the team’s performance ("my team impressed me by hitting targets without my constant oversight") shows the direct evidence of success. The other options are speculative or unsupported—no raises, praise, or external studies are mentioned.

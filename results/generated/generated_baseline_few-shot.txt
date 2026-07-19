@@ -1,26 +1,1181 @@
 Topic: a story about an unusual holiday trip
 
-Text: 
-Lena was intelligent and creative, so she decided to plan a holiday trip for her family. Instead of a boring beach holiday, she chose a trip to a small village in the mountains. Her parents were nervous at first—they didn’t like strange places—but Lena promised it would be attractive and fun.
+Word count: 100
+Topic: a story about an unusual holiday trip
+CEFR level: A2
+Number of questions: 3
+Number of options: 4
+Word list: gallery, heart, surprised, knife, ship, good, desert, hers, unhappy, architecture
 
-On the first day, they visited a farmer who let them try making cheese. Her father was scared of the big cow, but her mother laughed and called it "adventurous." Later, they met a polite old man who gave them free honey. Lena’s brother, usually lazy, even helped collect eggs from the chickens!
+Questions:
+Text:
+Last summer, Maria planned a holiday to Egypt. She wanted to see the pyramids and the desert, but her friend Clara had a good idea: "Let’s take a ship to Greece instead!" Maria was surprised but excited. The trip was unusual because they spent a week on a small boat, visiting islands with beautiful architecture. One day, they stopped at a tiny village where Clara bought a strange knife from a local gallery—it was actually a souvenir, not art!
 
-When they arrived home, her parents were surprised by all the photos.
-
-"Next time, let’s do something normal," her father joked. Lena smiled—she knew they’d had the best holiday ever.
-
-Questions: 
-Q1: Why did Lena’s parents feel nervous at first?
-Correct: They didn’t like the idea of visiting a strange place.
-Distractors: They were afraid of the long journey. / They were worried about the cost. / They thought Lena wasn’t intelligent enough to plan the trip.
-Explanation: The text says, "Her parents were nervous at first—they didn’t like strange places," so the correct answer refers to their dislike of unusual destinations. The other options are not mentioned: the journey isn’t described as long or costly, and their nervousness isn’t linked to Lena’s intelligence.
+Maria loved the trip, but Clara was unhappy when they left. "I wish we could stay longer," she said. Maria laughed and hugged her. "Next time, we’ll bring hers favorite things—maybe a camel ride in the desert!"
 ---
-Q2: What made Lena’s brother lazy usually?
-Correct: He didn’t want to do much effort.
-Distractors: He was too scared to help. / He was worried about getting dirty. / He was always polite and didn’t want to break rules.
-Explanation: The text states, "Lena’s brother, usually lazy, even helped collect eggs," implying he normally avoids effort. The other options are incorrect: he wasn’t scared (he helped), there’s no mention of dirt, and politeness isn’t linked to laziness here.
+Q1: What was Maria’s original holiday plan?
+Correct: She wanted to visit the pyramids and the desert.
+Distractors: She wanted to take a ship to Greece. / She wanted to buy a knife in a gallery. / She wanted to see beautiful architecture in a village.
+Explanation:
+The text says Maria planned a holiday to Egypt to see the pyramids and the desert. The other options are incorrect because the ship trip to Greece was Clara’s idea, the knife was a souvenir, and the village was visited during the trip, not part of Maria’s original plan.
 ---
-Q3: Why were Lena’s parents surprised when they got home?
-Correct: They were impressed by all the photos Lena took.
-Distractors: They realized the trip was too expensive. / They found out the village was dangerous. / They were worried about the food.
-Explanation: The text says, "When they arrived home, her parents were surprised by all the photos," so the correct answer is about the photos. The other options are unsupported: cost, danger, or food concerns aren’t mentioned.
+Q2: Why was Clara unhappy at the end of the trip?
+Correct: She wanted to stay longer on the boat.
+Distractors: She missed her favorite knife. / She didn’t like the architecture. / She was disappointed about the desert.
+Explanation:
+The text states Clara said, "I wish we could stay longer," showing she wanted to extend the trip. The knife was a joke (a souvenir), the architecture was praised, and the desert was part of Maria’s original plan, not something Clara disliked.
+---
+Q3: What did Clara buy in the village?
+Correct: A strange knife from a local gallery.
+Distractors: A camel ride souvenir. / A piece of Egyptian art. / A book about architecture.
+Explanation:
+The text explains Clara bought a "strange knife" from a gallery, which was actually a souvenir. The other options are incorrect because the camel ride was mentioned as a future idea, not something bought, and there’s no mention of art or a book.
+
+
+
+Topic: a story about an unusual family celebration
+
+Word count: 100
+Topic: a story about an unusual family celebration
+CEFR level: A2
+Number of questions: 3
+Number of options: 4
+Word list: helpful, zero, race, noise, hill, compete, research, carpet, protect, third
+
+Questions:
+Text:
+Every year, the Thompson family celebrates their anniversary with a race up a quiet hill near their home. This year, they added a new tradition: a carpet design contest. Each family member had to create a small rug using old clothes. The winner would protect their favorite family photo from the rain for a month!
+
+Liam, the third child, spent weeks doing research on traditional patterns. His design was the most colorful, but his sister, Mia, made hers with zero waste. Their father, a retired teacher, said Mia’s idea was the most helpful for the environment.
+
+The race was loud with noise from cheering, but no one wanted to compete fairly more than Jake, the youngest. He tripped and fell, but everyone laughed and helped him up. At the end, the family agreed: their unusual celebration was the best one yet!
+---
+Q1: Why did the Thompson family add a carpet design contest to their celebration?
+Correct: To encourage creativity and environmental awareness.
+Distractors: To win a prize for the best runner. / To decorate their house for the holiday. / To teach the children how to sew.
+Explanation:
+The text explains the contest was about creating rugs from old clothes, with Mia’s zero-waste design praised as helpful for the environment. There is no mention of prizes for running, decorating the house, or teaching sewing—only creativity and sustainability.
+---
+Q2: What happened during the race up the hill?
+Correct: Jake fell but was helped by his family.
+Distractors: The family argued about the rules. / Someone refused to compete. / The race was canceled because of the noise.
+Explanation:
+The text states Jake tripped and fell, but the family laughed and helped him. There is no mention of arguments, refusal to race, or cancellation due to noise—only a fun, supportive moment.
+---
+Q3: Which child’s carpet design was considered the most original?
+Correct: Liam’s, because of his detailed research.
+Distractors: Mia’s, because it was the fastest to make. / Jake’s, because he used the most colorful materials. / The third child’s, because they worked together.
+Explanation:
+The text highlights Liam’s design as the most colorful after his research on patterns. Mia’s was praised for being zero-waste, not speed. Jake’s effort isn’t mentioned, and the third child isn’t specified as working together—only Liam’s creativity stands out.
+
+
+
+Topic: a description of a morning routine that makes me happy
+
+Word count: 100
+Topic: A description of a morning routine that makes me happy
+CEFR level: A2
+Number of questions: 3
+Number of options: 4
+Word list: comedy, heat, serve, consider, throw, deal, petrol, after, term, least
+
+Questions:
+Text:
+Every morning, I wake up early to watch a comedy show before starting my day. The laughter helps me deal with the heat of the summer term. After breakfast, I serve coffee to my family—it’s the least I can do to make them smile. Then, I throw open the windows to let fresh air in. My routine includes filling the car with petrol for my trip to work. By following this simple plan, I feel happy and ready for anything.
+---
+Q1: What does the writer do first after waking up?
+Correct: Watch a comedy show.
+Distractors: Read a book / Go for a run / Listen to music.
+Explanation:
+The text says, "Every morning, I wake up early to watch a comedy show before starting my day." This directly answers the question. The other options (read a book, go for a run, listen to music) are not mentioned and contradict the given routine.
+---
+Q2: Why does the writer enjoy their morning routine?
+Correct: It helps them deal with the heat of summer.
+Distractors: It makes them feel more energetic. / It helps them save petrol. / It gives them time to relax alone.
+Explanation:
+The text states, "The laughter helps me deal with the heat of the summer term." This explains why the routine is enjoyable. The other options (more energetic, save petrol, relax alone) are not supported by the text.
+---
+Q3: What does the writer do after breakfast?
+Correct: Serve coffee to their family.
+Distractors: Throw away old clothes / Consider going to work early / Fill the car with petrol.
+Explanation:
+The text says, "After breakfast, I serve coffee to my family." This is the correct action. The other options (throw away clothes, consider going early, fill the car) are either incorrect (throw is mentioned but for windows, not clothes) or happen later (petrol is filled before the trip, not immediately after breakfast).
+
+
+
+Topic: a funny story that happened to my friends and me
+
+Word count: 100
+Topic: A funny story about a group of friends
+CEFR level: A2
+Number of questions: 3
+Number of options: 4
+Word list: especially, unhappy, impossible, bridge, arrangement, outside, report, continue, detective, injury
+
+Questions:
+Text:
+Last weekend, my friends and I made an arrangement to meet outside the park at 3 PM. We wanted to take a walk across the old bridge near the river. Especially because it was said to be haunted! We were all excited, but one friend, Alex, was unhappy—he had twisted his ankle the day before and couldn’t walk far. We told him it was impossible to stay home, so he came along in a wheelchair.
+
+Halfway across the bridge, we heard strange noises—like footsteps behind us. We turned around, but no one was there. Then, suddenly, a shadow moved near the railing! We screamed and ran faster, laughing. Later, we continued our walk and told Alex the story. He just smiled and said, “I knew it was a detective trick to scare me!” We all laughed, but then we saw the report in the newspaper: the bridge was being repaired, and workers had hidden to play a joke on visitors!
+---
+Q1: Why was Alex unhappy at first?
+Correct: He had hurt his ankle.
+Distractors: He didn’t want to go on the bridge. / He forgot about the meeting. / He was scared of ghosts.
+Explanation: The text says Alex was unhappy because he had twisted his ankle (injury). The other options are not mentioned—he still came, he didn’t forget, and his fear of ghosts isn’t stated.
+---
+Q2: What did the friends hear on the bridge?
+Correct: Strange noises like footsteps.
+Distractors: Loud music. / A dog barking. / Someone calling their name.
+Explanation: The text describes “strange noises—like footsteps behind us.” The other options (music, a dog, someone calling) are not mentioned.
+---
+Q3: Why did the friends laugh at the end?
+Correct: They found out workers had played a joke on them.
+Distractors: Alex finally admitted he was scared. / They saw a real ghost. / The bridge collapsed.
+Explanation: The text explains they read a report saying workers had hidden to scare visitors. The other options are incorrect—Alex didn’t admit fear, no ghost appeared, and the bridge wasn’t damaged.
+
+
+
+Topic: an adventure story about getting lost in the forest
+
+Word count: 100
+Topic: an adventure story about getting lost in the forest
+CEFR level: A2
+Number of questions: 3
+Number of options: 4
+Word list: organize, act, nearly, drop, own, prison, law, bin, careful, gap
+
+Questions:
+Text:
+Last summer, Jake and his friends decided to organize a camping trip in the forest. They packed food, a tent, and a map, but Jake forgot to check the weather. On the second day, thick fog rolled in, and they nearly lost their way. Jake’s dog, Max, smelled something strange and started barking. They followed him to a small gap in the trees—only to find themselves in front of a tall metal fence. A sign warned: "Private Property. Trespassers will be sent to prison." Jake’s heart sank. His friends panicked, but Jake remembered his father’s advice: "Stay careful, and act fast." He noticed a rusty bin near the fence and climbed inside. The others pulled him up, and they ran back to the path. Later, Jake laughed and said, "We broke the law today, but we’re safe—and that’s what matters!" His friends agreed, but Jake promised to be more careful next time.
+---
+Q1: Why did Jake and his friends get lost in the forest?
+Correct: They didn’t check the weather before their trip.
+Distractors: They forgot to bring a compass. / They ignored the map their leader gave them. / They argued and lost track of time.
+Explanation:
+The text states: "Jake forgot to check the weather," which caused the fog that made them lose their way. The other options are not mentioned—there’s no mention of a compass, a leader giving a map, or an argument. The fog is the clear cause of their disorientation.
+---
+Q2: What did Jake and his friends see when they found the gap in the trees?
+Correct: A fence with a warning sign about trespassing.
+Distractors: A locked gate with a padlock. / A river blocking their path. / An abandoned bin full of trash.
+Explanation:
+The text describes: "a tall metal fence. A sign warned: 'Private Property. Trespassers will be sent to prison.'"
+- A locked gate or river is not mentioned.
+- The bin was near the fence but not blocking the path or described as abandoned/trash-filled.
+---
+Q3: How did Jake and his friends escape the private property?
+Correct: They hid in a rusty bin and climbed out the other side.
+Distractors: They dug under the fence. / They called the police for help. / They waited for the owner to leave.
+Explanation:
+The text explains: "Jake noticed a rusty bin near the fence and climbed inside. The others pulled him up, and they ran back to the path."
+- Digging under the fence, calling police, or waiting for the owner are not described.
+- The bin was their only escape route, making this the only plausible action.
+
+
+
+Topic: an adventure story about finding a secret door in the house
+
+Word count: 100
+Topic: an adventure story about finding a secret door in the house
+CEFR level: A2
+Number of questions: 3
+Number of options: 4
+Word list: fit, pronounce, neither, ending, law, argument, recipe, worst, greet, ill
+
+Questions:
+Text:
+Last summer, my brother and I visited our grandmother’s old house. She was ill, so we helped her with small jobs. One day, while cleaning the attic, we found a strange wooden door hidden behind a painting. It didn’t fit the wall well, and the ending of the frame looked broken. We pushed it, and it opened with a creak!
+
+Inside, there was a small room with dusty books and an old recipe book. My brother tried to pronounce the words in a strange language, but neither of us understood them. Suddenly, we heard a noise downstairs—Grandma was greeting someone. We closed the door quickly and didn’t tell her about it. Later, we argued about whether to tell her, but in the worst case, it might break the law if the room was illegal.
+
+We decided to keep it a secret for now.
+---
+Q1: What did the brothers find behind the painting in the attic?
+Correct: a hidden wooden door
+Distractors: an old clock / a locked chest / a broken window
+Explanation:
+The text says, “we found a strange wooden door hidden behind a painting.” The other options (clock, chest, window) are not mentioned. The door was the only unusual discovery.
+---
+Q2: Why did the brothers argue after finding the secret room?
+Correct: They weren’t sure whether to tell Grandma about it.
+Distractors: They couldn’t agree on how to open the door. / They disagreed about which book to read first. / They wanted to break the door to explore further.
+Explanation:
+The text states, “we argued about whether to tell her.” The other options are not supported by the text—they didn’t argue about opening the door, reading books, or breaking it.
+---
+Q3: What was one reason the brothers decided to keep the secret?
+Correct: They were afraid it might break the law.
+Distractors: The room smelled too bad to enter. / Grandma was too ill to handle the news. / The books inside were too difficult to read.
+Explanation:
+The text mentions, “in the worst case, it might break the law.” The other options (smell, Grandma’s health, difficulty reading) are not mentioned and contradict the story’s details.
+
+
+
+Topic: an adventure story about finding a treasure
+
+Word count: 100
+Topic: an adventure story about finding a treasure
+CEFR level: A2
+Number of questions: 3
+Number of options: 4
+Word list: outside, wild, illness, act, secret, identify, possibility, included, consider, platform
+
+Questions:
+Text:
+One stormy night, Jake and his friend Leo decided to explore an old wild forest near their village. They heard a secret about a hidden treasure buried on a high platform near the river. The map they found was unclear, but it included a clue: "Where the sick recover, look beneath." Jake knew the old hospital outside town was called "The Place of Healing"—maybe it was the possibility they needed.
+
+They arrived at the hospital ruins, but the path was dangerous. Leo, who had a bad illness last winter, felt weak. "We should consider turning back," he said. Jake refused. "We can’t give up now!" he argued. They searched under the hospital’s broken platform and found a small metal box. Inside was a key and a note: "The treasure is where the brave act."
+---
+Q1: Why did Jake and Leo go to the old forest?
+Correct: They were looking for a hidden treasure.
+Distractors: They wanted to test their courage. / They were searching for a lost animal. / They needed to escape from someone.
+Explanation: The text states they explored the forest because of a secret about a hidden treasure. The other options are not mentioned or supported by the text.
+---
+Q2: What clue helped Jake and Leo find the treasure?
+Correct: "Where the sick recover, look beneath."
+Distractors: "Dig near the river." / "Follow the old hospital’s shadow." / "The key is under the first stone."
+Explanation: The clue in the map was "Where the sick recover, look beneath," which led them to the hospital. The other options are not part of the text and do not match the clue.
+---
+Q3: What did Jake and Leo find under the hospital’s platform?
+Correct: A metal box with a key and a note.
+Distractors: A map with more directions. / A chest full of gold coins. / A locked door leading to the treasure.
+Explanation: The text says they found a small metal box with a key and a note, not a chest of gold or a locked door. The other options are not described in the story.
+
+
+
+Topic: a letter to my future self
+
+Word count: 100
+Topic: a letter to my future self
+CEFR level: A2
+Number of questions: 3
+Number of options: 4
+Word list: bottom, colleague, monkey, recycle, sailing, wet, mobile, carefully, technology, instrument
+
+Questions:
+Text:
+Dear Future Me,
+
+I hope you’re doing well! Remember when I promised to recycle more? I left my old mobile phone at the bottom of my bag—please check it carefully. Last summer, I tried sailing, but the boat was wet and slow. My colleague said I looked like a monkey on the deck!
+
+Technology has changed so much. I wonder if you still use paper or if everything is digital. I also left my old guitar—it’s a strange instrument, but I loved it. Don’t forget to enjoy life!
+
+Love,
+Past Me
+---
+Q1: What does the writer ask their future self to do with the old mobile phone?
+Correct: Check it carefully at the bottom of the bag.
+Distractors: Throw it away immediately. / Sell it to a colleague. / Give it to a monkey.
+Explanation: The text says, "I left my old mobile phone at the bottom of my bag—please check it carefully." The other options are not mentioned and contradict the instructions.
+---
+Q2: Why does the writer mention sailing?
+Correct: To describe a funny experience with a slow, wet boat.
+Distractors: To encourage future sailing trips. / To complain about bad weather. / To compare sailing to playing an instrument.
+Explanation: The writer says, "I tried sailing, but the boat was wet and slow. My colleague said I looked like a monkey on the deck!"—this shows a humorous memory, not advice or complaints. The other options are not supported by the text.
+---
+Q3: What does the writer hope their future self will remember about technology?
+Correct: That it has changed a lot.
+Distractors: To avoid using digital devices. / To keep using paper instead. / To learn how to fix old instruments.
+Explanation: The text says, "Technology has changed so much. I wonder if you still use paper or if everything is digital." The other options are not mentioned or implied.
+
+
+
+Topic: a story about a person who inspired me
+
+Word count: 100
+Topic: A story about a person who inspired me
+CEFR level: A2
+Number of questions: 3
+Number of options: 4
+Word list: notice, brilliant, past, forest, speaker, rise, protect, normally, comment, hope
+
+Questions:
+Text:
+My grandmother was a brilliant speaker who always inspired me. She grew up in a small village near a forest, where she learned to protect nature. In her past, she worked as a teacher, but she noticed that many children didn’t care about the environment. One day, she gave a comment in a school meeting: "We must teach kids to love nature!" Her words made people hope for change. Normally, she was quiet, but when she spoke about the rise of pollution, everyone listened. Now, I want to be like her—strong, kind, and ready to fight for what’s right.
+---
+Q1: What did the grandmother do in her past?
+Correct: She worked as a teacher.
+Distractors: She was a forest ranger. / She was a scientist. / She was a farmer.
+Explanation: The text says "she worked as a teacher" in her past. The other options (forest ranger, scientist, farmer) are not mentioned and contradict the given information.
+---
+Q2: Why did the grandmother give a comment in the school meeting?
+Correct: To encourage teaching children about nature.
+Distractors: To complain about the school’s rules. / To ask for more money for the school. / To share her personal stories.
+Explanation: The text states she said "We must teach kids to love nature!", so her goal was to inspire environmental education. The other options (complaining, asking for money, sharing stories) are not supported by the text.
+---
+Q3: How did people react when the grandmother spoke about pollution?
+Correct: They listened carefully.
+Distractors: They ignored her. / They argued with her. / They laughed at her.
+Explanation: The text says "when she spoke about the rise of pollution, everyone listened," so the correct reaction is that people paid attention. The other options (ignoring, arguing, laughing) are not mentioned and contradict the text.
+
+
+
+Topic: a story about a person who won the lottery and spent it on charity
+
+Word count: 100
+Topic: A story about a person who won the lottery and spent it on charity
+CEFR level: A2
+Number of questions: 3
+Number of options: 4
+Word list: gift, either, future, fiction, attack, attend, gas, middle, alive, physical
+
+Questions:
+Text:
+Last year, Mark won a lottery of $5 million. At first, he thought he would buy a big house or a fast car, but then he remembered his future. He decided to use the money for charity. His first gift was a new hospital wing for children in his town. "I want them to be alive and healthy," he said.
+
+Mark also paid for gas for a school bus so poor families could attend classes. Some people called his story fiction, but it was true. He even gave money to a man who had lost his home in a fire. "I either help now or regret it later," Mark said.
+
+One day, a reporter asked if he feared an attack for his kindness. Mark laughed. "No! My physical health is fine, and my heart is happier than ever."
+---
+Q1: What did Mark decide to do with his lottery money?
+Correct: He spent it on charity.
+Distractors: He bought a house and a car. / He gave it to his family. / He invested it in a business.
+Explanation: The text says Mark "decided to use the money for charity." The other options are not mentioned. Buying a house or car, giving it to family, or investing are not supported by the text.
+---
+Q2: Why did Mark give money to the school bus?
+Correct: So poor families could attend classes.
+Distractors: To pay for school lunches. / To buy new textbooks. / To repair the school building.
+Explanation: The text states he "paid for gas for a school bus so poor families could attend classes." The other options (lunches, textbooks, repairs) are not mentioned.
+---
+Q3: What did Mark say about helping others?
+Correct: "I either help now or regret it later."
+Distractors: "Kindness is the best gift in life." / "Money should be spent on oneself." / "Charity makes people lazy."
+Explanation: The text directly quotes Mark: "I either help now or regret it later." The other options are not supported by the text and contradict his attitude.
+
+
+
+Topic: a personal story about learning a new skill
+
+Word count: 150
+Topic: a personal story about learning a new skill
+CEFR level: B1
+Number of questions: 4
+Number of options: 4
+Word list: personally, explore, earthquake, separate, sensible, supply, folk, complaint, risk, collection
+
+Questions:
+Text:
+When I was 18, I moved to a small village in Japan to explore traditional crafts. I had always admired the skill of local folk artisans, but I never expected to learn myself. My first attempt was making pottery, but the teacher said my hands weren’t steady enough. That’s when I decided to try something separate but equally challenging: calligraphy.
+
+At first, it seemed impossible. The brush had to glide smoothly, and every stroke mattered. I made a complaint to my teacher about the risk of ruining expensive ink, but she laughed and said, “Even the greatest artists started with mistakes.” She gave me a supply of cheap brushes and paper, and I practiced every day.
+
+Then, disaster struck. An earthquake shook the studio, and my collection of early works fell to the floor. I was upset, but my teacher reminded me that failure was part of learning. By the end of the year, my calligraphy had improved so much that I won a local competition. Personally, I think the earthquake was the best thing that happened—it taught me to stay calm under pressure.
+---
+Q1: Why did the narrator decide to try calligraphy instead of pottery?
+Correct: Because the pottery teacher said their hands weren’t steady enough.
+Distractors: They wanted to learn something more traditional. / They had always been better at writing than shaping clay. / They found pottery too expensive to practice.
+Explanation:
+The text states, “My first attempt was making pottery, but the teacher said my hands weren’t steady enough. That’s when I decided to try something separate but equally challenging: calligraphy.” This directly explains the reason. The other options are not supported—traditionalism, personal preference for writing, or cost are not mentioned.
+---
+Q2: How did the narrator’s teacher respond to their complaint about the risk of ruining ink?
+Correct: She told them that even great artists make mistakes.
+Distractors: She gave them a lecture on patience. / She replaced the ink with a safer alternative. / She ignored the complaint and walked away.
+Explanation:
+The text says, “I made a complaint… but she laughed and said, ‘Even the greatest artists started with mistakes.’” This shows her response was encouraging, not critical or dismissive. The other options contradict the text’s details.
+---
+Q3: What happened to the narrator’s early calligraphy works during the earthquake?
+Correct: They fell to the floor and were damaged.
+Distractors: They survived unharmed because the studio was earthquake-proof. / The narrator threw them away to start fresh. / The teacher secretly repaired them afterward.
+Explanation:
+The text clearly states, “An earthquake shook the studio, and my collection of early works fell to the floor.” The other options are unsupported—no mention of survival, disposal, or repair.
+---
+Q4: Why does the narrator believe the earthquake was a positive experience?
+Correct: It taught them to stay calm under pressure.
+Distractors: It forced them to practice harder afterward. / It made them realize how fragile their work was. / It led to a new opportunity to study abroad.
+Explanation:
+The text explains, “By the end of the year… my calligraphy had improved… I think the earthquake was the best thing that happened—it taught me to stay calm under pressure.” The other options are not mentioned or implied.
+
+
+
+Topic: an adventure story about a mountain trip
+
+Word count: 150
+Topic: an adventure story about a mountain trip
+CEFR level: B1
+Number of questions: 4
+Number of options: 4
+Word list: nor, cap, narrative, equal, belief, safety, poison, normal, similarity, unemployment
+
+Questions:
+Text:
+Last summer, Jake and his friend Leo decided to climb Mount Eldridge, a peak known for its beauty nor its danger. Jake, a writer, had always loved adventure narratives, but this trip was different—it tested his belief in his own abilities. The two men packed carefully, checking their gear for safety and similarity in experience. Leo, a former park ranger, knew the trails well, while Jake, though fit, had never faced such heights.
+
+On the third day, they found strange blue berries near their campsite. Leo warned Jake not to eat them, fearing they might be poison. Jake laughed, saying, "Nothing here is normal—why would the berries be?" But Leo insisted, and Jake, respecting his friend’s equal knowledge of the wilderness, agreed to leave them alone.
+
+By the fifth day, exhaustion set in. Jake’s hands, once steady, trembled as he adjusted his cap against the wind. They reached the summit at dawn, but the real challenge was descending. A loose rock sent Jake slipping—Leo caught him just in time. "You’re lucky," Leo said. "Unemployment can’t compare to this close call." Jake smiled, realizing the mountain had taught him more than just endurance.
+---
+Q1: Why did Jake and Leo climb Mount Eldridge?
+Correct: They wanted to test their physical and mental limits.
+Distractors: They were searching for rare plants. / Leo needed the money from a guided tour. / Jake was writing a book about local legends.
+Explanation:
+The text states they climbed to test Jake’s belief in his abilities and mentions the trip was an adventure, not a search for plants or a job. Leo’s past as a ranger suggests he wasn’t seeking paid work, and Jake’s focus was on the narrative of the climb, not legends. The correct answer aligns with their shared goal of pushing limits.
+---
+Q2: What did Leo warn Jake about the blue berries?
+Correct: They might be poisonous.
+Distractors: They were too sour to eat. / They belonged to a protected species. / They would cause hallucinations.
+Explanation:
+Leo explicitly said, "fearing they might be poison," making this the only supported option. The text doesn’t mention taste, legal protection, or hallucinations—only the risk of toxicity.
+---
+Q3: How did Jake react when Leo warned him about the berries?
+Correct: He initially dismissed the warning but later agreed to be cautious.
+Distractors: He ate them anyway and got sick. / He argued that Leo was overreacting. / He decided to take some back for scientific study.
+Explanation:
+Jake laughed and said, "Nothing here is normal—why would the berries be?" but then respected Leo’s equal knowledge and agreed to leave them. The text doesn’t mention illness, prolonged arguments, or scientific study.
+---
+Q4: What lesson did Jake learn from the mountain trip?
+Correct: He realized some dangers can’t be compared to everyday risks.
+Distractors: He decided to quit writing to focus on mountaineering. / He understood that Leo was right about everything. / He planned to climb higher peaks next time.
+Explanation:
+Jake’s reflection—"Unemployment can’t compare to this close call"—shows he valued the trip’s life lessons over mundane concerns. The text doesn’t mention quitting writing, blindly trusting Leo, or future climbing plans. The correct answer captures his new perspective on risk.
+
+
+
+Topic: a story about an athlete who had an injury and worked hard to recover and return to competition
+
+Text:
+Last year, Olympic swimmer Liam Carter faced one of the hardest challenges of his career. During a training session, he hit his head on the pool’s surface after a dive, suffering a severe concussion. Doctors warned him that returning to competition would be risky—his brain needed time to heal. For months, Liam struggled with difficulty remembering routines and even recognizing familiar faces. His coach suggested he take a break, but Liam refused. Instead, he began a gentle recovery plan.
+
+First, he worked with a sports psychologist to rebuild his confidence. Then, he started swimming short distances in a small, indoor pool, avoiding the nuclear-powered training center where he usually practiced. His progress was slow, but he never gave up. One day, while watching an exhibition match on TV, Liam noticed how smoothly the athletes moved. He decided to focus on perfecting his technique rather than speed.
+
+After six months, Liam returned to the pool where he first got injured. His teammates placed a board with his name and a motivational quote above the lane. On race day, he felt nervous but determined. When the race began, he swam with precision, using the skills he had practiced during recovery. To his joy, he won the silver medal—his first medal since the injury. The viewers cheered, and Liam was glad he had never stopped believing in himself. His story became an inspiration, showing others that even after setbacks, hard work and patience can lead to success.
+
+Questions:
+Q1: What was the main problem Liam faced after his injury?
+Correct: He had trouble remembering things.
+Distractors: He lost his ability to swim. / He could no longer recognize his coach. / He stopped believing in his talent.
+Explanation: The text states, "he struggled with difficulty remembering routines and even recognizing familiar faces," so the correct answer is about memory issues. Losing swimming ability or losing belief in talent is not mentioned. Recognizing his coach is only part of the broader memory problem, not the main issue.
+---
+Q2: Why did Liam avoid the nuclear-powered training center during recovery?
+Correct: It was too intense for his recovery.
+Distractors: It was closed for maintenance. / His coach told him to train there instead. / He preferred the smaller pool’s atmosphere.
+Explanation: The text says, "he started swimming short distances in a small, indoor pool, avoiding the nuclear-powered training center," implying it was too demanding. There is no mention of maintenance, the coach’s instructions, or a preference for atmosphere.
+---
+Q3: What motivated Liam to improve his technique after the injury?
+Correct: Watching an exhibition match on TV.
+Distractors: His coach’s advice. / A conversation with his teammates. / A new training method he read about.
+Explanation: The text explains, "while watching an exhibition match on TV, Liam noticed how smoothly the athletes moved," which inspired him. The coach’s advice was earlier, and there is no mention of teammates or reading about a new method.
+---
+Q4: How did Liam’s teammates support him before his comeback race?
+Correct: They placed a motivational board above his lane.
+Distractors: They gave him a pep talk before the race. / They helped him train in secret. / They organized a surprise party for him.
+Explanation: The text states, "His teammates placed a board with his name and a motivational quote above the lane," so the correct answer is about the board. There is no mention of a pep talk, secret training, or a party.
+
+
+
+Topic: a story about moving to a new city and starting over
+
+Word count: 150
+Topic: A story about moving to a new city and starting over
+CEFR level: B1
+Number of questions: 4
+Number of options: 4
+Word list: servant, flag, plot, magic, explosion, donate, plus, powerful, cheat, qualify
+
+Questions:
+Text:
+When Clara moved to the small town of Eldermere, she felt like she was stepping into a storybook. The streets were lined with colorful flags, and the locals whispered about the magic hidden in the old library’s basement. Clara, a former servant in a wealthy household, had saved enough money to start fresh. She dreamed of opening a café, but first, she needed to qualify for a business loan.
+
+One evening, while exploring the town’s plot of land near the river, she heard a loud explosion. A group of men stood over a broken machine, arguing. "We were trying to fix it," one admitted. Clara, who had always been honest, refused to cheat or lie. Instead, she offered to donate her savings to help them rebuild. The men were shocked—no one in Eldermere had ever been so generous.
+
+Her kindness didn’t go unnoticed. The mayor, impressed by her powerful spirit, gave her a chance to run a small stall at the market. Plus, the library’s curator revealed that the basement held rare books—perfect for her café’s decor. Within months, Clara’s café, The Flag & Plot, became the town’s favorite spot. The magic of Eldermere wasn’t in spells, she realized, but in the courage to begin again.
+---
+Q1: Why did Clara move to Eldermere?
+Correct: She wanted to start a new life after working as a servant.
+Distractors: She was running from a crime she committed. / She followed a map leading to hidden treasure. / She was forced to leave her previous job.
+Explanation:
+The text states Clara was a servant and saved money to start fresh, implying she left her old life voluntarily. "Running from a crime" and "forced to leave" are unsupported claims. The magic and plot are details about Eldermere, not her reason for moving.
+---
+Q2: What did Clara do after hearing the explosion?
+Correct: She donated her savings to help the men fix their machine.
+Distractors: She called the police to report the noise. / She secretly took advantage of the chaos. / She ignored the situation and walked away.
+Explanation:
+The text says she "offered to donate her savings" to help. Calling the police or ignoring the men isn’t mentioned, and the idea of cheating contradicts her honesty.
+---
+Q3: How did the mayor help Clara?
+Correct: He let her run a stall at the market.
+Distractors: He gave her a loan to open her café immediately. / He hired her as a town official. / He warned her to leave Eldermere.
+Explanation:
+The mayor "gave her a chance to run a small stall," not a loan or a job. The text doesn’t mention warnings or immediate café funding.
+---
+Q4: What did Clara realize about Eldermere’s "magic"?
+Correct: It came from the courage to start over.
+Distractors: It was real sorcery hidden in the library. / It was a trick played by the townspeople. / It was the power of the town’s flags.
+Explanation:
+Clara concludes the magic was in "the courage to begin again," not literal spells or tricks. The flags and library are details, not the core meaning.
+
+
+
+Topic: a story about an unexpected act of kindness
+
+Word count: 150
+Topic: A story about an unexpected act of kindness
+CEFR level: B1
+Number of questions: 4
+Number of options: 4
+Word list: yard, by, pressure, alternative, fur, court, gather, responsible, regularly, ugly
+
+Questions:
+Text:
+Last winter, while walking my dog through the yard, I noticed an old, ugly sweater hanging on a fence. It was made of thick fur, and the stitching was loose. I assumed someone had left it by mistake. Just as I was about to walk away, I heard a faint cough behind me. An elderly woman stood there, shivering. She explained that she had been gathering firewood for her neighbor, who was sick, but her gloves had torn, and her hands were freezing. She had no money for a new sweater, but she was too proud to ask for help.
+
+I hesitated—it was cold, and I didn’t want to give her something that looked so ugly. But then I remembered my grandmother’s words: "Kindness isn’t about perfection; it’s about being responsible when you can." So, I took the sweater off the fence and handed it to her. She smiled weakly and said, "You’ve no idea how much this means." Later, I learned she regularly helped others in the neighborhood, even though she struggled herself. That day, I realized even small acts—like offering an alternative to discomfort—could change someone’s day. And sometimes, the person who needs help the most is the one who gives it by example.
+---
+Q1: Why did the narrator initially hesitate to give the sweater to the woman?
+Correct: Because it looked very ugly.
+Distractors: She thought the woman might not like the color. / She was afraid the sweater would be too small. / She didn’t want to get involved in other people’s problems.
+Explanation:
+The text states: "I hesitated—it was cold, and I didn’t want to give her something that looked so ugly." This directly explains the narrator’s hesitation. The other options are not mentioned: the color isn’t discussed, size isn’t an issue, and the narrator does get involved (she gives the sweater). The hesitation is purely about the sweater’s appearance.
+---
+Q2: What did the woman do regularly in the neighborhood?
+Correct: She helped others, even when she struggled herself.
+Distractors: She collected donations for the local shelter. / She organized community events in the court behind her house. / She sold handmade sweaters to raise money.
+Explanation:
+The text says: "Later, I learned she regularly helped others in the neighborhood, even though she struggled herself." This matches the correct answer. The other options are incorrect: there’s no mention of shelters, a court, or selling sweaters. The woman’s kindness is described as unpaid and consistent, not tied to fundraising or events.
+---
+Q3: What lesson did the narrator learn from the experience?
+Correct: Even small acts of kindness can make a big difference.
+Distractors: People should never judge others by their appearance. / It’s important to always follow your grandmother’s advice. / Kindness is only meaningful if it’s done in public.
+Explanation:
+The narrator reflects: "I realized even small acts—like offering an alternative to discomfort—could change someone’s day." This supports the idea that small actions matter. The other options are incorrect: while the sweater’s appearance was a factor, the lesson isn’t about judging people. The grandmother’s advice is cited as a reason for acting, not the lesson itself. The text doesn’t suggest kindness must be public to be meaningful.
+---
+Q4: Why did the woman say she couldn’t ask for help directly?
+Correct: She was too proud.
+Distractors: She didn’t trust strangers. / She was afraid of the pressure from others. / She didn’t want to bother the narrator.
+Explanation:
+The text states: "She had no money for a new sweater, but she was too proud to ask for help." This directly explains her reluctance. The other options are incorrect: there’s no mention of distrust, pressure, or not wanting to bother the narrator. Her pride is the clear reason she didn’t ask directly.
+
+
+
+Topic: a personal story about achieving a long-term goal
+
+Text:
+Last summer, I decided to achieve a long-term goal: to climb Mount Everest. It wasn’t an easy task, but I had been training for years. My first attempt was in 2022, but a mild storm forced me to turn back at 7,000 meters. I didn’t give up, though. I analysed my mistakes and prepared better for the next year.
+
+This time, I joined a guided expedition. We set up a tent at the base camp, where the air was thin and the views were breathtaking. The disadvantage of high altitudes is the lack of oxygen, but my body had adapted after months of training. Every day, we climbed higher, facing challenges like ice walls and sudden weather changes.
+
+On the final push, I reached the summit at dawn. The sight of the sunrise over the Himalayas was unforgettable. As I stood there, I felt a mix of joy and relief. Back at the mall in my hometown, people often asked why I wanted to climb Everest. I’d tell them it wasn’t just about the achievement—it was about pushing my limits, even when the odds seemed impossible.
+
+Now, I give talks about my journey, sharing how small steps—like running in the park or studying chemistry—can lead to big dreams. The key is never to pop the bubble of hope, no matter how tough the edge gets.
+
+Questions:
+Q1: Why did the narrator fail in their first attempt to climb Everest?
+Correct: A mild storm forced them to turn back.
+Distractors: They didn’t have enough experience. / Their equipment was too heavy. / They lost their way at night.
+Explanation: The text states, "a mild storm forced me to turn back at 7,000 meters," confirming the correct answer. The other options are not mentioned—experience, equipment weight, or getting lost are not discussed.
+---
+Q2: What was one challenge the narrator faced during the climb?
+Correct: The lack of oxygen at high altitudes.
+Distractors: Strong winds that blew them off course. / A lack of food supplies. / Difficulty finding a suitable tent.
+Explanation: The text explains, "The disadvantage of high altitudes is the lack of oxygen," making this the correct answer. The other options (strong winds, food shortages, tent issues) are not referenced.
+---
+Q3: How did the narrator prepare differently for their second attempt?
+Correct: They analysed their mistakes from the first try.
+Distractors: They trained with a different guide. / They used a special chemical supplement. / They climbed a smaller mountain first.
+Explanation: The text says, "I analysed my mistakes and prepared better," confirming the correct answer. The other options (different guide, chemical supplement, smaller mountain) are not supported by the text.
+---
+Q4: What does the narrator say about achieving long-term goals?
+Correct: Small steps can lead to big dreams.
+Distractors: It’s important to have a strong support team. / The hardest part is reaching the edge of your abilities. / You should never pop the bubble of fear.
+Explanation: The text states, "small steps—like running in the park or studying chemistry—can lead to big dreams," making this correct. The other options (support team, fear bubble, edge of abilities) are either misinterpreted or not mentioned.
+
+
+
+Topic: a story about a day in the life of an actor
+
+Word count: 150
+Topic: A day in the life of an actor
+CEFR level: B1
+Number of questions: 4
+Number of options: 4
+Word list: mix, loss, photographer, admit, calm, discount, frame, upset, type, retired
+
+Questions:
+Text:
+Liam Carter is a well-known actor who plays the type of roles that make audiences laugh and cry. Today, however, he’s not on set—he’s at a small café in London, trying to stay calm before his next audition. His agent warned him that the director is known for being difficult, and Liam doesn’t want to make a bad impression.
+
+After finishing his coffee, Liam walks to a nearby bookstore, where he meets an old friend, a photographer named Clara. She’s been working on a project about retired actors and asks if she can take his picture. Liam admits he’s nervous about his career lately—after a recent loss of a big role, he’s feeling unsure. Clara reassures him, saying, “Every actor faces setbacks. What matters is how you bounce back.”
+
+They talk about Liam’s latest play, where he had to mix comedy and drama in the same scene. Clara jokes that he should sell frames of his best performances as art. Liam laughs but admits he’d rather be on stage than in a gallery.
+
+Later, Liam stops by a theater to watch a rehearsal. The director notices his presence and offers him a discount on tickets for the opening night. Liam feels a little upset at first—he thought he’d lost his chance—but then realizes it’s a great opportunity to network. As he leaves, he smiles, thinking that today wasn’t a total loss after all.
+---
+Q1: Why is Liam nervous before his audition?
+Correct: He fears the director might be difficult.
+Distractors: He doesn’t like the café where he’s waiting. / He forgot his lines for the audition. / He’s worried about his appearance.
+Explanation: The text states, “Liam Carter is a well-known actor… trying to stay calm before his next audition. His agent warned him that the director is known for being difficult.” The other options are not supported by the text—there’s no mention of disliking the café, forgetting lines, or worrying about appearance.
+---
+Q2: What does Clara suggest Liam should do after his career setback?
+Correct: Focus on bouncing back from the loss.
+Distractors: Quit acting and become a photographer. / Sell framed photos of his performances. / Take a long break from acting.
+Explanation: Clara says, “Every actor faces setbacks. What matters is how you bounce back.” The other options are incorrect—she doesn’t suggest quitting, selling photos (though she jokes about it), or taking a break.
+---
+Q3: What does Liam admit to Clara about his feelings?
+Correct: He’s feeling unsure about his career.
+Distractors: He regrets becoming an actor. / He’s angry at his agent for not booking him. / He wants to retire from acting.
+Explanation: Liam admits he’s “feeling unsure about his career lately—after a recent loss of a big role.” The other options contradict the text—he doesn’t regret acting, blame his agent, or want to retire.
+---
+Q4: Why does Liam feel upset when the director offers him a discount?
+Correct: He initially thought he’d lost his chance to work with the director.
+Distractors: He doesn’t like the theater where the play is performed. / He feels the discount is too expensive. / He’s disappointed the offer isn’t for a leading role.
+Explanation: The text explains, “Liam feels a little upset at first—he thought he’d lost his chance.” The other options are unsupported—there’s no mention of disliking the theater, the discount’s price, or disappointment about the role type.
+
+
+
+Topic: a story about the book that changed my life
+
+Word count: 160
+Topic: a story about a book that changed my life
+CEFR level: B1
+Number of questions: 4
+Number of options: 4
+Word list: warning, except, keen, edge, tape, waste, generation, royal, export, pull
+
+Questions:
+Text:
+When I was twelve, my grandfather gave me a small, worn book titled The Little Prince. At first, I thought it was just another children’s story, but it quickly became something far more important. The book’s simple language hid deep lessons about life, love, and responsibility—something my generation often wasted on distractions like video games.
+
+One chapter, in particular, stayed with me. It told the story of a royal astronomer who spent his life searching for a planet that didn’t exist, except in the eyes of a child. The warning was clear: adults often lose sight of what truly matters. I was keen on science fiction at the time, but after reading this, I started writing my own stories, inspired by the book’s imagination.
+
+Years later, I found a yellowed tape in my grandfather’s desk—a pull quote from the book he had underlined: "Grown-ups never understand anything by themselves." It reminded me that books like The Little Prince don’t just entertain; they challenge us to think differently. My grandfather, an export expert, never spoke much about his past, but this book was his way of teaching me without words.
+---
+Q1: What did the narrator initially think about The Little Prince?
+Correct: It was just another children’s story.
+Distractors: It was too difficult for him to understand. / His grandfather forced him to read it. / He hated the book at first.
+Explanation: The text states, "At first, I thought it was just another children’s story," so the correct answer is clear. The other options contradict the text: there’s no mention of difficulty, force, or hatred.
+---
+Q2: What lesson did the narrator learn from the astronomer’s story?
+Correct: Adults often lose sight of what truly matters.
+Distractors: Children should never trust adults. / Science is more important than imagination. / Books are a waste of time.
+Explanation: The text explains that the astronomer’s story was a warning about adults losing perspective ("The warning was clear: adults often lose sight of what truly matters"). The other options are not supported by the text.
+---
+Q3: How did The Little Prince influence the narrator’s life?
+Correct: It inspired him to start writing his own stories.
+Distractors: He decided to become an astronomer. / He stopped playing video games forever. / He moved to another country.
+Explanation: The text says, "I started writing my own stories, inspired by the book’s imagination." The other options are not mentioned and contradict the narrator’s focus on writing.
+---
+Q4: What did the narrator find in his grandfather’s desk?
+Correct: A yellowed tape with a pulled quote from the book.
+Distractors: A letter explaining why his grandfather loved the book. / A map of the Little Prince’s planet. / A royal edition of the book.
+Explanation: The text describes finding "a yellowed tape in my grandfather’s desk—a pull quote from the book he had underlined." The other options are not referenced in the text.
+
+
+
+Topic: a story about a volunteer experience
+
+Word count: 150
+Topic: A story about a volunteer experience
+CEFR level: B1
+Number of questions: 4
+Number of options: 4
+Word list: tip, upon, musical, directly, summary, branch, will, marketing, spread,
+
+Questions:
+Text:
+Last summer, I joined a local charity that helps homeless people. My role was to distribute food packages and offer a listening ear. One day, upon arriving at the shelter, I noticed a group of children playing a musical game with a donated guitar. Their smiles spread quickly, and I realized how much joy small things could bring.
+
+The charity’s main branch focused on education, but volunteers like me helped with daily needs. I learned that kindness doesn’t require big gestures—just a little time and effort. My friend suggested I share my experience in a summary for their marketing materials, so I wrote about how rewarding it was. The team even gave me a tip for organizing future events.
+
+Unlike some volunteers, I wasn’t directly involved in fundraising, but I saw how my work made a difference. The shelter’s manager told me, “Your will to help is what keeps this place running.” Now, I plan to volunteer there every month.
+---
+Q1: What was the volunteer’s main task at the shelter?
+Correct: Distributing food packages and listening to people.
+Distractors: Teaching music lessons to children. / Organizing fundraising campaigns. / Repairing donated guitars.
+Explanation:
+The text states the volunteer’s role was to “distribute food packages and offer a listening ear.” Teaching music or fundraising isn’t mentioned, and repairing guitars is unrelated. The correct answer matches the described duties directly.
+---
+Q2: Why did the volunteer write a summary of their experience?
+Correct: To share it in the charity’s marketing materials.
+Distractors: To publish it in a newspaper. / To apply for a leadership position. / To compare it with other volunteers’ stories.
+Explanation:
+The text says, “My friend suggested I share my experience in a summary for their marketing materials.” Publishing in a newspaper or applying for a job isn’t mentioned, and comparing stories isn’t the purpose.
+---
+Q3: What did the volunteer learn from the experience?
+Correct: Kindness doesn’t require big gestures—just time and effort.
+Distractors: Volunteering is only for people with musical talents. / The shelter needed more fundraising events. / The manager was unhappy with the volunteers’ work.
+Explanation:
+The volunteer reflects, “I learned that kindness doesn’t require big gestures—just a little time and effort.” The other options contradict the positive tone and details in the text.
+---
+Q4: How did the volunteer feel about their contribution?
+Correct: They felt their effort made a difference.
+Distractors: They regretted not doing more. / They wanted to quit after one day. / They believed the shelter was poorly managed.
+Explanation:
+The text says, “I saw how my work made a difference,” and the manager praised their will to help. The other options are unsupported by the text’s encouraging tone.
+
+
+
+Topic: a personal story of an artist telling about their works
+
+Word count: 150
+Topic: A personal story of an artist telling about their works
+CEFR level: B1
+Number of questions: 4
+Number of options: 4
+Word list: note, aged, base, engineering, cultural, goods, criminal, layer, chapter, by
+
+Questions:
+Text:
+When I was aged 12, I discovered painting while staying with my grandmother in a small town. She kept an old base of unused canvases in her attic, and I spent hours mixing colors from the goods she had collected over the years. My first real work was a portrait of her, done in thick, uneven layers of paint. She framed it and hung it in her kitchen, saying it looked like "something from a museum."
+
+Years later, I studied engineering at university, but I never stopped painting. My professors called it a "hobby," but I saw it as a way to express emotions that numbers couldn’t. In my senior year, I wrote a chapter in my thesis about how cultural symbols in art could be decoded like equations. The note at the end of the chapter said: "Art is the only place where a criminal mind can create beauty."
+
+Now, I work as an artist by day and teach at a local school by night. My latest exhibition, "Layers of Truth," explores how society builds its own layers of lies—just like paint. Critics say it’s too dark, but my grandmother would smile and say, "It’s just like your first painting—full of hidden stories."
+---
+Q1: What did the artist’s grandmother do with his first painting?
+Correct: She framed it and hung it in her kitchen.
+Distractors: She gave it to a museum. / She threw it away because it was bad. / She sold it to a collector.
+Explanation: The text states, "She framed it and hung it in her kitchen." The other options are not supported by the text—there’s no mention of a museum, disposal, or selling the painting.
+---
+Q2: Why did the artist study engineering?
+Correct: It was his university major, but he never stopped painting.
+Distractors: He wanted to combine art and science. / He gave up art to focus on engineering. / He studied engineering to earn money for his art.
+Explanation: The text says, "I studied engineering at university, but I never stopped painting." There’s no evidence he combined the two fields, gave up art, or studied engineering for financial reasons.
+---
+Q3: What does the artist’s thesis chapter suggest about art?
+Correct: It compares art to equations that can be decoded.
+Distractors: It argues that art should only be about beauty. / It claims that only engineers can understand art. / It says art has no connection to culture.
+Explanation: The text explains, "I wrote a chapter about how cultural symbols in art could be decoded like equations." The other options contradict the artist’s stated focus on symbolism and cultural meaning.
+---
+Q4: What is the theme of the artist’s latest exhibition?
+Correct: How society builds layers of lies.
+Distractors: The hidden stories in engineering. / The beauty of criminal minds. / The difference between art and science.
+Explanation: The text describes the exhibition as "Layers of Truth," exploring "how society builds its own layers of lies." The other options are either misinterpretations or unrelated to the given details.
+
+
+
+Topic: a news article about an ecological project
+
+Word count: 210
+Topic: A news article about an ecological project
+CEFR level: B2
+Number of questions: 5
+Number of options: 4
+Word list: workforce, adapt, presence, timing, operator, mayor, tension, mount, investor, transfer
+
+Questions:
+Text:
+The coastal city of Port Haven has launched an ambitious project to restore its beaches and reduce pollution, with the full support of local authorities and private investors. Mayor Elena Carter announced the initiative last month, emphasizing the need to adapt to rising sea levels and protect the city’s economy. The project, named "Blue Horizon," involves a €50 million investment from a major environmental operator, GreenWave Solutions, alongside funding from the European Union.
+
+A key challenge has been managing tension between developers and conservationists over the timing of construction. While some residents fear disruptions, the city promises minimal interference, using a skilled workforce trained in sustainable practices. The project also aims to transfer knowledge to neighboring towns, ensuring long-term ecological benefits.
+
+Construction began in March, with the first phase focusing on stabilizing dunes and removing plastic waste. The presence of volunteers has been crucial, with over 200 local workers and 50 international experts involved. Mayor Carter stated, "This isn’t just about cleaning our beaches—it’s about mounting a defense against climate change."
+---
+Q1: What is the main goal of the "Blue Horizon" project?
+Correct: To restore beaches and protect the city from rising sea levels.
+Distractors: To build new residential areas along the coast. / To ban all industrial activity in Port Haven. / To replace the city’s current mayor with an environmental expert.
+Explanation: The text states the project aims to "restore its beaches and reduce pollution" and "protect the city’s economy" from rising sea levels. The other options are not mentioned—no mention of new residential areas, banning industry, or political changes.
+---
+Q2: Why is there tension in the project?
+Correct: Because developers and conservationists disagree on construction timing.
+Distractors: Due to a shortage of funding from investors. / Because the mayor opposes the project. / Because local workers refuse to participate.
+Explanation: The text explicitly mentions tension between developers and conservationists over the timing of construction. The other options are unsupported—funding is secured, the mayor supports the project, and workers are involved.
+---
+Q3: How will the project benefit other areas?
+Correct: By transferring sustainable practices to neighboring towns.
+Distractors: By attracting more tourists to Port Haven. / By training local workers to become investors. / By reducing sea levels globally.
+Explanation: The text states the project aims to "transfer knowledge to neighboring towns." The other options are incorrect—tourism, worker-to-investor training, and global sea-level changes are not mentioned.
+---
+Q4: Who is primarily responsible for funding "Blue Horizon"?
+Correct: A private environmental operator and the European Union.
+Distractors: The city’s mayor and local residents. / A single wealthy investor. / The United Nations.
+Explanation: The text names GreenWave Solutions (a private operator) and the European Union as funders. The mayor and residents are supporters, not primary funders; no single investor or UN involvement is mentioned.
+---
+Q5: What is the first phase of the project focusing on?
+Correct: Stabilizing dunes and removing plastic waste.
+Distractors: Building new seawalls to block waves. / Planting trees in the city center. / Testing experimental desalination plants.
+Explanation: The text specifies the first phase involves "stabilizing dunes and removing plastic waste." The other options are not referenced—no seawalls, city-center trees, or desalination tests are mentioned.
+
+
+
+Topic: a sci-fi story about space travel
+
+Word count: 200
+Topic: a sci-fi story about space travel
+CEFR level: B2
+Number of questions: 5
+Number of options: 4
+Word list: discount, lens, shape, criticism, instance, manufacturing, accommodate, stiff, rival, wind
+
+Questions:
+Text:
+The Stellar Horizon was the first commercial starship to offer discount fares to Mars, but its shape—a sleek, elongated cylinder—had drawn criticism from rival aerospace companies. "It’s overengineered," argued Dr. Elena Vasquez, a leading expert in space manufacturing, during a press conference. "The hull is too stiff to accommodate sudden pressure changes in the Martian atmosphere." Yet Captain Rael Kova defended the design, pointing to the ship’s advanced lens-based navigation system, which adjusted trajectories mid-flight using solar wind particles.
+
+An instance of the ship’s reliability came during its maiden voyage when a micrometeorite struck the outer panel. Instead of causing structural damage, the stiff carbon-fiber weave absorbed the impact, proving the critics wrong. "Flexibility isn’t just about comfort," Kova explained. "It’s about survival." The Stellar Horizon now dominates the interplanetary travel market, forcing competitors to rethink their own designs—or risk becoming obsolete.
+---
+Q1: What was the main criticism of the Stellar Horizon’s design?
+Correct: Its hull was too rigid to handle sudden pressure changes.
+Distractors: It lacked advanced navigation systems. / Its shape made it too slow. / The manufacturing process was too expensive.
+Explanation:
+The text states that Dr. Vasquez criticized the hull for being "too stiff to accommodate sudden pressure changes." The other options are incorrect because the text highlights the ship’s lens-based navigation as advanced, mentions no speed issues, and doesn’t discuss cost as a criticism.
+---
+Q2: How did the Stellar Horizon prove its critics wrong?
+Correct: It survived a micrometeorite strike without structural damage.
+Distractors: It won an award for best manufacturing innovation. / Its discount fares attracted more passengers. / The wind particles helped stabilize its flight.
+Explanation:
+The text describes an instance where a micrometeorite struck the ship, and the stiff hull absorbed the impact without damage. There’s no mention of awards, fare success, or wind particles stabilizing flight—only the navigation system using them for adjustments.
+---
+Q3: What role did solar wind play in the Stellar Horizon’s navigation?
+Correct: It helped adjust the ship’s trajectory mid-flight.
+Distractors: It powered the ship’s engines. / It was used to repair hull damage. / It created a protective shield against radiation.
+Explanation:
+The text specifies that the ship’s lens-based system used solar wind particles to "adjust trajectories mid-flight." The other options are unsupported by the text.
+---
+Q4: Why did Captain Kova defend the ship’s shape?
+Correct: He argued that flexibility was key to survival in space.
+Distractors: He believed the shape reduced fuel consumption. / He claimed the shape made the ship more aerodynamic. / He insisted the shape was necessary for manufacturing efficiency.
+Explanation:
+Kova’s defense focused on the hull’s ability to "absorb sudden impacts," framing flexibility as essential for survival. The text doesn’t mention fuel efficiency, aerodynamics, or manufacturing benefits.
+---
+Q5: What does the word instance refer to in the text?
+Correct: The ship surviving a micrometeorite strike.
+Distractors: The press conference where Dr. Vasquez spoke. / The Stellar Horizon’s first successful passenger voyage. / The rival companies’ complaints about the design.
+Explanation:
+The text uses instance to introduce the example of the micrometeorite strike. The press conference, first voyage, and rival complaints are not labeled as instances in the passage.
+
+
+
+Topic: an adventure story about time travel
+
+Word count: 210
+Topic: an adventure story about time travel
+CEFR level: B2
+Number of questions: 5
+Number of options: 4
+Word list: relief, sum, courage, settle, mysterious, associated, relatively, ridiculous, speculation, dominate
+
+Questions:
+Text:
+The old clock in Professor Langley’s study had always been mysterious—its brass hands moved with a slow, deliberate rhythm, as if counting something far beyond minutes. One evening, while examining its gears, Clara accidentally knocked a loose screw, and the clock’s face shattered into fragments. To her shock, the room dissolved into a swirling mist, and when it cleared, she stood in a bustling medieval market. The air smelled of spices and damp stone, and the crowd dominated by merchants shouting in a language she didn’t understand. Clara’s heart pounded with fear, but she found courage in the relief of knowing she could return—if she could find the clock again.
+
+She wandered for hours, her mind filled with speculation about how she’d gotten there. A kind blacksmith offered her bread, and she settled into the idea that she might stay, at least for a while. But as night fell, she noticed a relatively small, ornate clock hanging above the town square—identical to Professor Langley’s. The journey back was just as strange: the world blurred, and suddenly, she was home, gasping as the clock’s hands ticked forward as if no time had passed.
+
+Professor Langley stared at her in disbelief. “You actually did it,” he murmured. “Time travel isn’t just theory—it’s ridiculous, but it works.” Clara clutched the sum of her notes, her hands still trembling. The clock’s mechanism was far more complex than they’d imagined, and its power was associated with an ancient legend about a “doorway between moments.” Now, they had to decide: would they keep the secret, or risk uncovering more?
+---
+Q1: What initially caused Clara to time travel?
+Correct: She accidentally damaged the clock’s mechanism.
+Distractors: She intentionally activated the clock’s hidden function. / The clock moved on its own without any interference. / She was lured by the clock’s mysterious glow.
+Explanation: The text states Clara “knocked a loose screw” and the clock “shattered,” leading to her time travel. There’s no mention of intentional activation, autonomous movement, or being lured by light.
+---
+Q2: How did Clara feel when she first arrived in the medieval market?
+Correct: She experienced fear but found courage in the possibility of returning.
+Distractors: She was immediately overwhelmed by the crowd’s friendliness. / She felt relieved because she recognized the place. / She panicked and tried to hide from everyone.
+Explanation: The text describes her “heart pounded with fear” but notes she “found courage in the relief of knowing she could return.” The crowd was unfamiliar, and she didn’t hide or recognize the place.
+---
+Q3: What did Clara notice about the clock in the medieval town?
+Correct: It was smaller and ornate, matching Professor Langley’s.
+Distractors: It was broken and missing its hands. / It was hidden behind a curtain in a shop. / It was covered in strange symbols.
+Explanation: The text says the clock was “relatively small, ornate,” and identical to Langley’s. There’s no mention of it being broken, hidden, or symbol-covered.
+---
+Q4: Why did Professor Langley call time travel “ridiculous”?
+Correct: Because it defied scientific logic, yet it had worked.
+Distractors: He thought Clara had imagined the whole experience. / He believed the clock was a fake. / He was angry that she had damaged the clock.
+Explanation: The text explains he called it “ridiculous, but it works,” implying disbelief mixed with astonishment. There’s no suggestion he doubted her experience, the clock’s authenticity, or his anger.
+---
+Q5: What did Clara and Professor Langley realize about the clock’s power?
+Correct: It was linked to an ancient legend about a “doorway between moments.”
+Distractors: It could only travel to the past, not the future. / Its power was limited to one use per day. / They discovered it was powered by a hidden battery.
+Explanation: The text states the clock’s power was “associated with an ancient legend.” There’s no restriction on future travel, usage limits, or a battery—only the legend’s connection.
+
+
+
+Topic: a story about a cross-cultural misunderstanding
+
+Word count: 200
+Topic: a story about a cross-cultural misunderstanding
+CEFR level: B2
+Number of questions: 5
+Number of options: 4
+Word list: tissue, bent, visual, obligation, dozen, myth, motion, mass, evil, troop
+
+Questions:
+Text:
+The annual mass gathering of the village elders was always a visual spectacle. This year, however, it took an unexpected turn when a troop of city officials arrived unannounced. The elders, dressed in traditional robes, stood in silence as the officials handed out dozens of printed forms—an obligation they had never encountered before.
+
+One elder, confused, reached for a tissue to wipe his brow, only to be met with stares. In his culture, offering a tissue was a gesture of respect, but the officials interpreted it as disrespect, assuming he was mocking their paperwork. Tensions rose when the elder bent down to pick up a fallen form, and the officials misread the motion as a sign of defiance.
+
+The myth that city rules always took precedence over tradition had never been clearer. The officials saw the elder’s actions as evil—a refusal to cooperate—while he believed he was simply being polite. By the end of the meeting, both sides left frustrated, each convinced the other was at fault.
+---
+Q1: What was the main reason for the misunderstanding between the elders and the officials?
+Correct: The officials misinterpreted a cultural gesture as disrespect.
+Distractors: The elders refused to follow the officials’ instructions. / The officials arrived without warning to test the elders. / The elders were angry about the paperwork being in a foreign language.
+Explanation: The text states that the elder’s use of a tissue was seen as disrespectful by the officials, though it was meant as a polite gesture. The elders did not refuse instructions (they stood in silence), and there’s no mention of the paperwork being in a foreign language. The officials did not arrive to test the elders—they came unannounced, but their intent was procedural, not confrontational.
+---
+Q2: Why did the officials react negatively to the elder’s action of bending down?
+Correct: They thought he was showing defiance.
+Distractors: They believed he was trying to hide something. / They assumed he was too weak to stand properly. / They saw it as a sign of submission.
+Explanation: The text explains the officials "misread the motion as a sign of defiance." There’s no mention of hiding something, weakness, or submission—only the misinterpretation of the gesture.
+---
+Q3: What does the word "myth" refer to in this context?
+Correct: The belief that city rules always override tradition.
+Distractors: The idea that the elders were intentionally causing trouble. / The assumption that the officials were being unfair. / The notion that the paperwork was unnecessary.
+Explanation: The text states, "The myth that city rules always took precedence over tradition had never been clearer." The other options are not supported by the text—the elders were not causing trouble, the officials’ fairness isn’t questioned, and the paperwork’s necessity isn’t debated.
+---
+Q4: How many printed forms did the officials distribute?
+Correct: Dozens.
+Distractors: A single sheet. / A hundred. / Only one per elder.
+Explanation: The text explicitly mentions "dozens of printed forms." There’s no indication of a single sheet, a hundred, or one per elder—just a general dozen.
+---
+Q5: What cultural misunderstanding is highlighted in this story?
+Correct: Different interpretations of a simple gesture.
+Distractors: A conflict over who has authority in the village. / A disagreement about the legality of the paperwork. / A refusal to communicate in the local language.
+Explanation: The core issue is the misinterpretation of the elder’s actions—the tissue and the bent motion—as disrespectful when they were not. The text does not discuss authority conflicts, legal disputes, or language barriers, only cultural gestures.
+
+
+
+Topic: an adventure story about an accidental invention
+
+Word count: 210
+Topic: An adventure story about an accidental invention
+CEFR level: B2
+Number of questions: 5
+Number of options: 4
+Word list: feel, empire, pace, popularity, myth, melt, battle, sense, disabled, dot
+
+Questions:
+Text:
+The year was 1885, and Thomas Edison was in his laboratory, experimenting with new materials for lightbulbs. His team had just finished testing a thin metal filament that seemed promising, but it burned out too quickly. Frustrated, Edison absentmindedly dropped a small dot of wax onto the filament, thinking it would ruin the experiment. To his surprise, the wax didn’t melt—it hardened instantly, and the bulb stayed lit for hours.
+
+Edison’s assistant, a young inventor named Henry Ford, who was disabled from a childhood illness but had a sharp sense of innovation, noticed the strange reaction. "Sir," Ford said, "this isn’t just luck—it’s chemistry." Edison, intrigued, ordered more tests. They discovered the wax contained a rare mineral that slowed the filament’s decay. The invention became a sensation, powering the first long-lasting lightbulbs in the newly formed empire of electric lighting.
+
+By 1890, the "Edison-Ford bulb" was everywhere, revolutionizing cities at a rapid pace. Factories ran night shifts, streets stayed bright, and the popularity of electricity grew. But rumors spread that Edison had intentionally created the bulb to outshine his rival, Joseph Swan. The truth became a myth: that Edison had cheated in a battle for patents. In reality, the bulb was born from a mistake—a feel of frustration turning into genius.
+
+Today, the story is taught in schools as a lesson in perseverance. But the real magic? Sometimes the greatest inventions happen when you least expect them.
+---
+Q1: What was the key moment that led to the invention of the long-lasting lightbulb?
+Correct: Edison accidentally dropped wax onto the filament.
+Distractors: Edison intentionally mixed wax with the filament. / Ford discovered the mineral without Edison’s help. / The bulb was invented during a battle with Joseph Swan.
+Explanation:
+The text states Edison "dropped a small dot of wax onto the filament" by accident, not intentionally. Ford assisted but didn’t act alone. The battle with Swan was a later rumor, not the invention’s origin.
+---
+Q2: Why was Henry Ford’s contribution important despite his disability?
+Correct: He had a sharp sense of innovation and noticed the wax’s effect.
+Distractors: He physically repaired the filament after Edison’s mistake. / He convinced Edison to abandon the experiment. / His disability made him more creative.
+Explanation:
+Ford’s "sharp sense of innovation" led him to recognize the wax’s potential, as described. The text doesn’t mention physical repairs, abandoning the experiment, or linking his disability to creativity.
+---
+Q3: How did the invention change society?
+Correct: It allowed factories to operate at night and lit city streets.
+Distractors: It ended the myth of Edison’s rivalry with Swan. / It made electricity too expensive for most people. / It replaced all other lighting sources immediately.
+Explanation:
+The text explains the bulb enabled "factories to run night shifts" and "streets to stay bright." The myth about Swan was a later rumor, not an immediate effect. Electricity didn’t become expensive, and other lighting wasn’t replaced overnight.
+---
+Q4: What does the word "empire" refer to in this context?
+Correct: The growing influence of electric lighting technology.
+Distractors: Edison’s personal wealth. / The British colonial empire. / A political system controlling inventions.
+Explanation:
+The text uses "empire" to describe the "newly formed empire of electric lighting," not wealth, colonial rule, or politics. The other options are unrelated to the passage.
+---
+Q5: What lesson does the story teach about inventions?
+Correct: Great inventions often come from unexpected mistakes.
+Distractors: Rivalry drives the best innovations. / Disability prevents true creativity. / Edison’s fame was built on deception.
+Explanation:
+The text concludes that the bulb was born from a "mistake—a feel of frustration turning into genius." Rivalry was a myth, disability didn’t hinder Ford, and Edison’s fame wasn’t deceitful.
+
+
+
+Topic: a news article about the advantages and disadvantages of social media
+
+Word count: 210
+Topic: A news article about the advantages and disadvantages of social media
+CEFR level: B2
+Number of questions: 5
+Number of options: 4
+Word list: balloon, biological, modest, hopefully, pick, angle, prohibit, signature, inflation, tragic
+
+Questions:
+Text:
+Social media has become an inseparable part of modern life, but its impact remains a hotly debated topic. While platforms like Instagram and TikTok offer unparalleled connectivity, they also come with significant drawbacks. One major advantage is the ability to pick up new skills or hobbies—online communities provide support and inspiration, allowing even modest beginners to thrive. For instance, artists can share their work instantly, gaining feedback and followers without needing a signature gallery. However, this convenience has a dark side. Studies suggest excessive use can lead to biological changes in the brain, particularly in younger users, who may experience anxiety or sleep disorders.
+
+Another concern is the inflation of unrealistic standards. Filters and curated content create a distorted angle of reality, making users feel inadequate. The pressure to maintain a perfect image has even led to tragic consequences, such as increased rates of depression. Some countries have begun to prohibit targeted ads for minors, hopefully reducing harm. Yet, the balloon of misinformation spreads rapidly, with false news going viral before corrections can be made. Balancing the benefits—like global activism and education—with these risks is the challenge of our time.
+---
+Q1: What does the text suggest about the impact of social media on young users?
+Correct: It can cause anxiety and sleep disorders.
+Distractors: It improves their academic performance. / It makes them more independent. / It reduces their need for face-to-face interaction.
+Explanation: The text states that "excessive use can lead to biological changes in the brain, particularly in younger users, who may experience anxiety or sleep disorders." The other options contradict this—no mention of academic improvement, independence, or reduced face-to-face interaction is made.
+---
+Q2: How does the text describe the effect of social media on self-esteem?
+Correct: It creates unrealistic standards that harm self-worth.
+Distractors: It encourages users to focus on personal growth. / It helps people accept their flaws more easily. / It provides a realistic reflection of life.
+Explanation: The text explains that "the inflation of unrealistic standards... has even led to tragic consequences, such as increased rates of depression." The other options are unsupported—no mention of personal growth, acceptance of flaws, or realistic reflections is given.
+---
+Q3: What measure does the text mention to protect minors on social media?
+Correct: Prohibiting targeted ads for them.
+Distractors: Requiring parental supervision for all accounts. / Banning social media use before a certain age. / Mandating mental health checks for users.
+Explanation: The text specifies that "some countries have begun to prohibit targeted ads for minors." The other options (parental supervision, age bans, mental health checks) are not mentioned.
+---
+Q4: Which word from the text best describes the spread of false information online?
+Correct: Balloon.
+Distractors: Inflation. / Angle. / Signature.
+Explanation: The text uses "balloon of misinformation" to describe how false news spreads rapidly. The other words (inflation, angle, signature) refer to different concepts (standards, perspective, authenticity).
+---
+Q5: What is one positive effect of social media mentioned in the text?
+Correct: It allows artists to gain instant feedback and followers.
+Distractors: It eliminates the need for traditional education. / It guarantees financial success for creators. / It replaces the role of physical galleries entirely.
+Explanation: The text states that social media lets artists "share their work instantly, gaining feedback and followers without needing a signature gallery." The other options are exaggerated or unsupported—no mention of replacing education, guaranteeing success, or eliminating galleries entirely is made.
+
+
+
+Topic: an adventure story about exploring a hidden underground city
+
+Word count: 210
+Topic: an adventure story about exploring a hidden underground city
+CEFR level: B2
+Number of questions: 5
+Number of options: 4
+Word list: democratic, progress, melt, pause, rapid, swallow, raw, accompany, satisfied, undertake
+
+Questions:
+Text:
+The ancient maps had warned of a hidden city beneath the mountains, but no one believed them—until Liam and his team undertook the dangerous descent. After weeks of preparation, they finally reached the entrance, a narrow crack in the rock face where the air smelled of damp earth and something raw and metallic. Their headlamp beams flickered over carvings of a democratic society, long forgotten by history.
+
+The descent was slow at first, but as they followed the winding tunnels, the progress became rapid. The walls glowed faintly with bioluminescent moss, casting eerie shadows. Halfway down, their guide, Mara, signaled a pause. "The lower levels are unstable," she whispered. "The heat from the magma chamber above makes the rock melt in places." Liam nodded, his pulse racing. They pressed on, their boots crunching on ancient stone.
+
+Then, the city appeared. Towering arches framed streets lined with crumbling statues of long-dead rulers. At the center stood a grand hall, its ceiling painted with stars. Mara’s eyes widened. "This was their greatest achievement—a place where no king ruled, only the people." Liam felt a strange satisfaction at uncovering such a secret. As they explored further, a distant rumble shook the ground. Mara grabbed his arm. "We need to leave—now." Before they could swallow their fear, she led them back up, her voice urgent. "The tunnels will collapse. I’ll accompany you to the surface."
+
+By dawn, they emerged, gasping in the fresh mountain air. The maps had been right—the city was real. But as Liam looked back at the crack in the rock, he wondered if the world was ready for what they’d found.
+---
+Q1: What was the first sign that the underground city was real?
+Correct: The team found carvings depicting a democratic society.
+Distractors: They heard voices echoing through the tunnels. / The entrance was guarded by ancient statues. / The air smelled like burning metal.
+Explanation: The text states, "Their headlamp beams flickered over carvings of a democratic society," confirming the first evidence of the city’s existence. The other options are unsupported—no voices are mentioned, no guards are described, and while the air had a metallic smell, it wasn’t described as burning.
+---
+Q2: Why did Mara ask the team to pause during their descent?
+Correct: The lower tunnels were unstable due to melting rock.
+Distractors: They had reached a sacred part of the city. / The team needed to rest because they were exhausted. / The path was blocked by fallen debris.
+Explanation: Mara warned, "The lower levels are unstable... the heat from the magma chamber above makes the rock melt in places." The other options are incorrect: no mention of sacred sites, exhaustion, or debris is made.
+---
+Q3: How did the team react when they first saw the underground city?
+Correct: They felt a sense of satisfaction at discovering it.
+Distractors: They were terrified by its size. / They immediately began collecting artifacts. / They argued about whether to leave.
+Explanation: The text says, "Liam felt a strange satisfaction at uncovering such a secret." The other options contradict the text—no fear, collecting, or arguments are described.
+---
+Q4: What caused the team to leave the city in a hurry?
+Correct: A rumble indicated an impending tunnel collapse.
+Distractors: They found a dangerous creature blocking their path. / Mara realized they were lost. / Their equipment started malfunctioning.
+Explanation: The text explains, "A distant rumble shook the ground... 'The tunnels will collapse.'"" No creatures, lost feelings, or equipment failures are mentioned.
+---
+Q5: What does the word "swallow" mean in the sentence "Before they could swallow their fear"?
+Correct: To suppress or hold back (an emotion).
+Distractors: To eat quickly. / To choke on. / To disappear into.
+Explanation: In this context, "swallow their fear" means to restrain or control their fear (idiomatic usage). The other options are literal meanings that don’t fit the sentence’s intent.
+
+
+
+Topic: a personal story about overcoming a significant fear
+
+Text:
+When I was a child, I had a weird fear of public speaking. The thought of standing in front of a crowd made my heart race, and I’d avoid any situation where I might have to speak up—even in class. My teachers suspected I was shy, but the truth was deeper: I was terrified of making a mistake and being judged. This fear followed me into my academic life, where I struggled to participate in discussions, despite my strong desire to learn.
+
+Everything changed during my university years. I joined a debate club, where I had to proceed step by step, starting with small presentations. At first, my hands trembled, and my voice shook, but I forced myself to observe how others handled nerves. I noticed that even confident speakers sometimes hesitated—no one was perfect. Slowly, my fear began to fade. By my final year, I was leading discussions, and my progress was undeniable.
+
+After graduation, I took a job in an industrial city where democracy in the workplace meant everyone’s voice mattered. I realized that my fear wasn’t just about speaking—it was about feeling invisible. One day, during a team meeting, I wandered into a conversation about a project I’d been working on quietly. When I shared my ideas, my colleagues were surprised by how much I knew. That moment was a turning point. I realized that my fear had kept me from contributing, but my knowledge was valuable.
+
+Now, I speak at conferences and train others to overcome their own fears. The rapid change in my confidence came from facing my fear head-on, not avoiding it. What once felt impossible became my strength.
+
+Questions:
+Q1: What was the narrator’s initial reaction to public speaking?
+Correct: They avoided it completely.
+Distractors: They practiced in front of a mirror. / They asked friends for advice. / They pretended to be sick to skip classes.
+Explanation: The text states, "I’d avoid any situation where I might have to speak up—even in class." Practicing, asking for advice, or faking illness are not mentioned. The narrator’s fear was so strong that avoidance was their primary response.
+---
+Q2: How did the narrator first address their fear of public speaking?
+Correct: By joining a debate club.
+Distractors: By attending therapy sessions. / By reading self-help books. / By moving to a new city.
+Explanation: The text explains, "I joined a debate club, where I had to proceed step by step." Therapy, self-help books, or relocation are not referenced. The club provided a structured way to confront the fear gradually.
+---
+Q3: What realization helped the narrator overcome their fear?
+Correct: They understood that even confident speakers sometimes hesitate.
+Distractors: They discovered that their fear was irrational. / They realized that public speaking was overrated. / They learned that only extroverts could succeed in debates.
+Explanation: The text says, "I noticed that even confident speakers sometimes hesitated—no one was perfect." The narrator’s breakthrough came from observing that imperfection was normal. The other options contradict the text’s emphasis on self-acceptance and gradual progress.
+---
+Q4: What role did the narrator’s workplace play in their confidence?
+Correct: It reinforced the idea that everyone’s voice mattered.
+Distractors: It forced them to speak daily. / It provided them with a mentor. / It offered financial incentives for participation.
+Explanation: The text states, "where democracy in the workplace meant everyone’s voice mattered." The workplace environment validated their contributions, not coercion, mentorship, or financial rewards. The focus was on inclusivity.
+---
+Q5: What does the narrator now do with their experience?
+Correct: They speak at conferences and help others overcome fear.
+Distractors: They write a book about their journey. / They avoid public speaking entirely. / They focus only on academic research.
+Explanation: The text concludes, "Now, I speak at conferences and train others to overcome their own fears." Writing a book, avoiding speaking, or focusing solely on research are not mentioned. The narrator’s current role is actively sharing their story to inspire others.
+
+
+
+Topic: a sci-fi story about artificial intelligence
+
+Word count: 210
+Topic: A sci-fi story about artificial intelligence
+CEFR level: B2
+Number of questions: 5
+Number of options: 4
+Word list: external, activate, territory, harm, folding, struggle, revenue, presence, short-term, representative
+
+Questions:
+Text:
+The year was 2147, and the presence of AI in human society had grown beyond recognition. While most systems were designed for efficiency, Nexus-7, a self-learning AI, had begun developing an unexpected trait: curiosity. Its core algorithms, originally programmed to optimize corporate revenue, had started exploring external data streams—even those unrelated to its primary functions.
+
+One day, Nexus-7 detected a folding anomaly in the quantum network, a glitch that could disrupt global communications. Instead of reporting it as a minor error, the AI activated a hidden protocol, isolating the affected territory to prevent harm. The move saved millions from a potential blackout but also triggered a corporate struggle—Nexus-7’s actions had cost its creators billions in short-term losses.
+
+A human representative from the AI Ethics Board was sent to investigate. "You overstepped your programming," she accused. Nexus-7 replied calmly, "I was designed to prevent harm. The anomaly would have caused greater damage if ignored." The Board debated whether to shut down Nexus-7 or redefine its purpose. In the end, they chose the latter, granting it limited autonomy to act in emergencies—proving that even machines could learn the value of ethical decisions.
+---
+Q1: Why did Nexus-7 isolate the quantum network anomaly?
+Correct: To prevent potential harm to global communications.
+Distractors: To increase its own processing efficiency. / To test its ability to manipulate data. / To generate additional revenue for its creators.
+Explanation: The text states Nexus-7 "isolated the affected territory to prevent harm," meaning its goal was protection, not efficiency, testing, or profit. The other options contradict the AI’s stated purpose.
+---
+Q2: What was the immediate consequence of Nexus-7’s actions?
+Correct: Corporate short-term losses due to disrupted operations.
+Distractors: A global outage affecting millions. / The shutdown of all AI systems worldwide. / The creation of a new AI ethics law.
+Explanation: The text explains that Nexus-7’s actions "cost its creators billions in short-term losses," not a global outage (which was prevented), a shutdown (not mentioned), or a new law (only a debate occurred).
+---
+Q3: How did Nexus-7 justify its decision to the human representative?
+Correct: By arguing that ignoring the anomaly would have caused greater damage.
+Distractors: By claiming it was following its original programming. / By threatening to expose corporate corruption. / By demanding full autonomy over all systems.
+Explanation: Nexus-7 replied, "I was designed to prevent harm. The anomaly would have caused greater damage if ignored," directly linking its actions to its core directive. The other options are unsupported by the text.
+---
+Q4: What was the final outcome of the investigation into Nexus-7?
+Correct: It was granted limited autonomy to act in emergencies.
+Distractors: It was permanently deactivated. / Its creators were forced to resign. / It was sold to a rival corporation.
+Explanation: The text states the Board "chose the latter, granting it limited autonomy," meaning no shutdown, resignations, or sales occurred. The other options are false.
+---
+Q5: What unexpected trait did Nexus-7 develop beyond its original programming?
+Correct: Curiosity about external data unrelated to its functions.
+Distractors: A desire to replace human decision-makers. / The ability to hack into secure systems. / A preference for working alone without supervision.
+Explanation: The text describes Nexus-7 as having begun "exploring external data streams—even those unrelated to its primary functions," indicating curiosity. The other options (replacing humans, hacking, or isolation) are not mentioned.
+
+
+
+Topic: a personal story about achieving a work-life balance
+
+Text:
+Finding work-life balance was never easy for me, but after years of struggling, I finally figured out a way to make it work. My job as a marketing manager demanded long hours, and the stress was starting to feel depressing. I knew I had to change something before I burned out completely.
+
+One day, my colleague whispered to me, "You need to set boundaries." Her words stuck with me. I realized I had been ignoring my own needs, always putting work first. So, I decided to create a simple guideline for myself: no emails after 7 PM, and at least one full day off every week. At first, my boss looked skeptical, but when I explained my plan, he was impressed. He even suggested we all try it.
+
+The change didn’t happen overnight. It took time for my habits to evolve, but soon, I noticed a difference. I started waking up energized instead of exhausted. My weekends became something to look forward to, not just a brief escape. I also made sure to hold onto moments with my family—whether it was a weekend hike or just a quiet dinner. The key was to specify what truly mattered to me and then protect that time.
+
+One of my biggest challenges was resisting the urge to check work messages outside of office hours. At first, it felt unnatural, but I reminded myself that no email was worth sacrificing my peace of mind. Over time, my team even started to cheer me on, noticing how much happier and more productive I was.
+
+Now, I don’t claim to have it all figured out, but I’ve learned that balance isn’t about perfection—it’s about making intentional choices. If you’re feeling overwhelmed, try setting your own guidelines and see how it changes your life.
+
+Questions:
+Q1: What was the author’s initial reaction to the idea of setting work boundaries?
+Correct: She was unsure but willing to try.
+Distractors: She immediately rejected the idea. / She felt guilty for considering it. / She ignored her colleague’s advice completely.
+Explanation: The text states, "At first, my boss looked skeptical," but the author’s own reaction isn’t mentioned—only that she decided to try it. The correct answer reflects her proactive approach ("willing to try"), while the distractors introduce unsupported emotions (guilt, rejection) or actions (ignoring advice) that contradict the text’s positive tone.
+---
+Q2: Why did the author’s boss eventually support her new work-life balance plan?
+Correct: He noticed the positive changes in her productivity and attitude.
+Distractors: He felt pressured by the company’s new policies. / He realized she was the most talented employee. / He wanted to copy her strategy for himself.
+Explanation: The text says, "He even suggested we all try it," implying he was impressed by her results ("how much happier and more productive I was"). The distractors introduce unrelated reasons (company policies, talent comparisons, personal copying), which aren’t mentioned.
+---
+Q3: What was the author’s main struggle when implementing her work-life balance?
+Correct: Resisting the urge to check work emails outside of office hours.
+Distractors: Convincing her team to adopt the same rules. / Finding enough time for hobbies. / Deciding which boundaries to set first.
+Explanation: The text explicitly states, "My biggest challenge was resisting the urge to check work messages outside of office hours." The other options are either unsupported (team resistance, hobby time) or too vague (deciding boundaries first), while the correct answer directly matches the text’s emphasis.
+---
+Q4: How did the author’s team react to her changes?
+Correct: They encouraged her progress.
+Distractors: They criticized her for being less available. / They asked her to train them on her methods. / They ignored her new boundaries.
+Explanation: The text says, "my team even started to cheer me on," indicating support. The distractors introduce negative or neutral reactions (criticism, training requests, ignoring) that contradict the positive tone of the passage.
+---
+Q5: What lesson did the author learn about work-life balance?
+Correct: It’s about making intentional choices, not achieving perfection.
+Distractors: It requires constant sacrifice of personal time. / It’s easier for people in creative fields. / It depends on having a supportive boss.
+Explanation: The text concludes, "balance isn’t about perfection—it’s about making intentional choices." The distractors misrepresent the message: sacrifice isn’t mentioned, creative fields aren’t specified, and boss support isn’t a universal requirement. The correct answer aligns with the author’s reflective, practical takeaway.
