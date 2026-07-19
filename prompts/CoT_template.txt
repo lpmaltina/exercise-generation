@@ -29,7 +29,7 @@ Step 7.
   - Distractors should match the target CEFR level.
 - For each distractor briefly explain why it is wrong and why a weak or inattentive reader might choose them. The explanation should match the target CEFR level.
 
-Step 8. Generate an output using the following format. The explanation should show why the correct variant fits and why the others don't.
+Step 8. Generate an output using the following format. Follow the format strictly. The explanation should show why the correct variant fits and why the others don't.
 
 Text: <text>
 ---

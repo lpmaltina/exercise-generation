@@ -1,36 +1,1467 @@
 Text
-Matching the Topic. The text describes a holiday trip to a small island with unusual elements like magical fruit and polite locals, which fits the topic of an "unusual holiday trip." 5/5
-Logic & Commonsense. The text contains logical inconsistencies: "no one had visited the island before" contradicts the presence of locals; "the fruit was sweet" after not eating it is contradictory; "he wasn't lazy anymore" is introduced without prior mention of laziness. These errors total four or more. 1/5
-Vocabulary & Grammar. The text has no obvious grammar or spelling errors, and wording is generally natural. 5/5
+Matching the Topic. The text is a story about an unusual holiday trip to Egypt, involving a ship cruise and an unexpected knife discovery, which fits the topic well. 5/5
+Logic & Commonsense. The text is logical and consistent with commonsense; Clara wants a cruise, gets a gallery visit, finds a knife, and is calmed. No errors. 5/5
+Vocabulary & Grammar. The text contains no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
 ---
 Q1
-Logic & Commonsense. The question and options are reasonable and consistent with commonsense. 5/5
-Vocabulary & Grammar. No grammar, vocabulary, or spelling errors. 5/5
-Text-Based Answerability. The text states Mark was nervous because "no one had visited the island before," which implies it was unknown. The correct answer "He had never heard of the island before" is directly inferable from this. 5/5
-Reading Dependency. Without reading the text, one might guess Mark was afraid of locals or food, but the specific reason ("no one had visited") makes the correct answer less guessable from general knowledge alone. 4/5
-Answer Unambiguity. Exactly one answer ("He had never heard of the island before") is unambiguously correct based on the text. 5/5
-Distractor Plausibility. The distractors ("afraid of locals," "didn't like strange food," "too lazy to travel") are plausible for someone who misreads or skims the text, as these elements appear later. 5/5
-Using Paraphrases. The correct answer rephrases "no one had visited the island before" as "He had never heard of the island before," changing words while preserving meaning. 5/5
-Explanation Quality. The explanation correctly identifies why the correct answer is right and why each distractor is wrong, with accurate references to the text. 5/5
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense; Clara wanted a ship cruise as stated. 5/5
+Vocabulary & Grammar. No grammar, vocabulary, spelling, collocation errors or unnatural wordings in the question or options. 5/5
+Text-Based Answerability. The answer "Go on a ship cruise" is directly stated in the text: "Let’s go on a ship cruise!" 5/5
+Reading Dependency. Without reading the text, one might guess "ship cruise" is plausible but less obvious; "desert" or "pyramids" could be assumed for Egypt, so correct answer is not easily guessable. 4/5
+Answer Unambiguity. Only "Go on a ship cruise" is correct based on the text; the other options are clearly wrong. 5/5
+Distractor Plausibility. "Visit the desert" and "Explore pyramids" are plausible as common Egypt activities, and "Stay in a hotel" is a general holiday option, but to someone who read the text, they might recall Maria’s interests, making distractors moderately plausible. 4/5
+Using Paraphrases. The correct answer "Go on a ship cruise" rephrases "Let’s go on a ship cruise!" with minor word change ("ship cruise" instead of "ship cruise" is essentially same, but "Go on" instead of "let’s go on" is a slight change; however, it largely copies the key phrase. 3/5
+Explanation Quality. The explanation correctly states why the correct answer is right (Clara suggested a ship cruise) and why distractors are wrong (desert, pyramids, hotel are Maria’s interests or unrelated). 5/5
+---
+Q2
+Logic & Commonsense. The question and answer options are logical; Clara missed the sea because she expected sailing. 5/5
+Vocabulary & Grammar. No errors in question or options. 5/5
+Text-Based Answerability. "She missed the sea" is directly from the text: "she missed the sea." 5/5
+Reading Dependency. Without reading the text, one might guess "She hated the art" as a common reason for unhappiness at a gallery, but "missed the sea" is less obvious; general knowledge doesn't strongly point to it. 4/5
+Answer Unambiguity. Only "She missed the sea" is correct based on the text; the other options are contradicted (she loved the art, knife is unrelated to first day, not afraid of desert). 5/5
+Distractor Plausibility. "She hated the art" is plausible given the context (visiting a gallery), but the text says she loved it; "She lost her knife" is plausible as a later event; "She was afraid of the desert" is plausible but unrelated. After reading, these are somewhat plausible to a reader who misremembers. 4/5
+Using Paraphrases. The correct answer copies the text verbatim: "She missed the sea." 2/5
+Explanation Quality. The explanation correctly states why correct answer is right (expected sailing) and why distractors are wrong (loved art, didn’t lose knife, not afraid). 5/5
+---
+Q3
+Logic & Commonsense. The question and answer options are logical; Maria’s exact words are provided. 5/5
+Vocabulary & Grammar. No errors in question or options. 5/5
+Text-Based Answerability. The answer is directly stated: "It’s just a souvenir from the gallery." 5/5
+Reading Dependency. Without reading, one might guess "Don’t worry, it’s safe" as a generic reassurance, but the specific souvenir answer is not guessable from general knowledge. 5/5
+Answer Unambiguity. Only "It’s just a souvenir from the gallery" is correct; the other options are different in meaning. 5/5
+Distractor Plausibility. "Don’t worry, it’s safe" is a plausible generic reassurance; "We should call the police" is plausible in a scary situation; "It belongs to someone else" is also plausible. All are believable to a reader who might misremember. 5/5
+Using Paraphrases. The correct answer copies the text verbatim: "It’s just a souvenir from the gallery." 2/5
+Explanation Quality. The explanation correctly shows why correct answer is right and why distractors are wrong (note: "Don’t worry, it’s safe" is not in text, "call police" contradicts, "belongs to someone else" is not said). 5/5
+---
+Text Coverage. The questions cover different parts: Q1 about Clara’s wish (beginning), Q2 about first day unhappiness (middle), Q3 about the knife (middle-end). They are evenly distributed across the text. 5/5
+
+
+
+Text
+Matching the Topic. The text describes a "zero-waste picnic" and a competition, which is a family celebration with an unusual tradition. It matches the topic well. <5>/5
+Logic & Commonsense. The text is logical; a zero-waste picnic, a race to pack items, and a dog digging up treasures are all consistent with commonsense. <5>/5
+Vocabulary & Grammar. The text has no grammar, vocabulary, or spelling errors. "Unusual tradition" and "hidden treasures" are well-worded. <5>/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical. The correct answer matches the text (zero-waste picnic), and the distractors (birthday party, mountain race, quiet evening) are reasonable alternatives. <5>/5
+Vocabulary & Grammar. No errors. The question and options are grammatically correct and well-worded. <5>/5
+Text-Based Answerability. The text explicitly states they hold a "zero-waste picnic" and that it's not a birthday party. The answer is fully present. <5>/5
+Reading Dependency. Without reading the text, one might guess "birthday party" or "quiet evening," but "zero-waste picnic" is specific. The correct answer is not easily guessable from general knowledge alone. <4>/5
+Answer Unambiguity. Only "zero-waste picnic" is correct based on the text; the other options are clearly wrong. <5>/5
+Distractor Plausibility. The distractors are plausible alternatives for a celebration (birthday party) or an outdoor event (mountain race, quiet evening). All are believable to someone who didn't fully understand the text. <5>/5
+Using Paraphrases. The correct answer rephrases "hold a 'zero-waste picnic'" as "A zero-waste picnic on a hill," adding a location detail from the text but not copying verbatim. Some paraphrase is present. <4>/5
+Explanation Quality. The explanation correctly states why the correct answer is right (text says they hold a zero-waste picnic) and why distractors are wrong (not a birthday party, not a mountain race, the text describes noise, so not quiet). However, it doesn't fully address why "quiet evening" is wrong beyond noise; still, it's adequate. <4>/5
+---
+Q2
+Logic & Commonsense. The question and options are logical. The correct answer matches the text, and distractors are plausible prize reasons. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. The text explicitly states Mia brought a carpet made of old plastic bottles. The answer is fully present. <5>/5
+Reading Dependency. Without reading, one might guess "collected the most trash" for a zero-waste event, making the correct answer not easily guessable. <4>/5
+Answer Unambiguity. Only "carpet made of old plastic bottles" is correct; the other options are unsupported. <5>/5
+Distractor Plausibility. The distractors (ran fastest, collected most trash, organized picnic) are plausible for a competition about the environment. All are believable. <5>/5
+Using Paraphrases. The correct answer rephrases "brought a carpet" as "She brought a carpet," which is almost verbatim but adds "made of old plastic bottles" from the text. A stronger paraphrase would be possible, but it's acceptable. <3>/5
+Explanation Quality. The explanation correctly states why the correct answer is right and why each distractor is wrong (unrelated to her win). <5>/5
+---
+Q3
+Logic & Commonsense. The question and options are logical. The correct answer matches the text, and distractors are plausible dog behaviors. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. The text explicitly says Max "dug up hidden treasures." The answer is fully present. <5>/5
+Reading Dependency. Without reading, one might guess "barked loudly" as a common dog activity, making the correct answer not easily guessable. <4>/5
+Answer Unambiguity. Only "dug up hidden treasures" is correct; the text does not mention barking, eating food, or packing items. <5>/5
+Distractor Plausibility. All distractors are plausible dog behaviors during a picnic (barking, eating food, helping pack). They are believable. <5>/5
+Using Paraphrases. The correct answer rephrases "dug up hidden treasures" as "He dug up hidden treasures," which is verbatim. A stronger paraphrase would be better. <2>/5
+Explanation Quality. The explanation correctly states why the correct answer is right and why distractors are wrong (unsupported by text). <5>/5
+---
+Text Coverage. The questions cover different parts: Q1 about the tradition (first two sentences), Q2 about Mia (middle), Q3 about Max (end). They are evenly distributed. <5>/5
+
+
+
+Text
+Matching the Topic. The topic asks for a description of a morning routine that makes the writer happy, and the text describes a simple morning routine and states it makes the writer happy, fully matching the topic. 5/5
+Logic & Commonsense. The text is logical and consistent with commonsense: waking up, opening curtains, making coffee, watching a show, and dealing with tasks like filling a car with petrol are all reasonable morning activities. 5/5
+Vocabulary & Grammar. The text contains no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+---
+Q1
+Logic & Commonsense. The question and answer options are all reasonable and consistent with commonsense, as each option is discussed in the text as a part of the routine. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+Text-Based Answerability. The text explicitly states that the writer "throw[s] open the curtains" immediately after waking up, so the answer is fully present in the text. 5/5
+Reading Dependency. Without reading the text, one might guess "make coffee" as a common first action, but the other options are plausible activities; however, general knowledge does not point to opening curtains specifically, making it difficult to guess without reading the text. 5/5
+Answer Unambiguity. Only "Open the curtains" is correct based on the text; the other options are clearly shown to be later actions. 5/5
+Distractor Plausibility. All incorrect options ("Watch a comedy show", "Fill the car with petrol", "Make coffee") are activities mentioned in the text that could be part of a morning routine, making them plausible to someone who hasn't recalled the order. 5/5
+Using Paraphrases. The correct answer changes "throw open the curtains" to "Open the curtains", which is a slight rephrase with shared key words, expressing the same meaning. 4/5
+Explanation Quality. The explanation accurately states why the correct answer is right (based on the text) and why each distractor is wrong (based on the order of actions in the text). 5/5
+---
+Q2
+Logic & Commonsense. The question and answer options are all reasonable and consistent with commonsense; each option relates to parts of the routine described. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+Text-Based Answerability. The text explicitly says the writer considers the time special "because it’s quiet and peaceful", so the answer is fully present in the text. 5/5
+Reading Dependency. Without reading the text, one might guess "Because it helps them deal with problems" as a plausible reason, but the specific phrase "quiet and peaceful" is not strongly guessable from general knowledge, making it difficult to guess correctly. 5/5
+Answer Unambiguity. Only "Because it is quiet and peaceful" is correct based on the text; the other options are mentioned in the text but not given as the reason for the routine being special. 5/5
+Distractor Plausibility. All incorrect options ("Because it helps them deal with problems", "Because they serve coffee to others", "Because they watch comedy shows") are mentioned in the text and could be mistakenly considered reasons for the routine being special, making them plausible. 5/5
+Using Paraphrases. The correct answer changes "it’s quiet and peaceful" to "it is quiet and peaceful", which is nearly verbatim (only a contraction change), expressing the same meaning. 2/5
+Explanation Quality. The explanation accurately states why the correct answer is right (based on the text) and why each distractor is wrong (they are parts of the routine but not the stated reason). 5/5
+---
+Q3
+Logic & Commonsense. The question and answer options are all reasonable and consistent with commonsense; each option relates to parts of the routine described. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+Text-Based Answerability. The text explicitly says the writer's "least favorite part is when the heat from the kettle burns [their] fingers", so the answer is fully present in the text. 5/5
+Reading Dependency. Without reading the text, one might guess "Filling the car with petrol" as a least favorite task, but the specific detail about burning fingers is not guessable from general knowledge, making it difficult to guess correctly. 5/5
+Answer Unambiguity. Only "When the heat from the kettle burns their fingers" is correct based on the text; the other options are not described as disliked. 5/5
+Distractor Plausibility. All incorrect options ("Filling the car with petrol", "Throwing open the curtains", "Watching a comedy show") are mentioned in the text and could be mistakenly considered least favorite by someone who didn't notice the specific phrase, making them plausible. 5/5
+Using Paraphrases. The correct answer changes "when the heat from the kettle burns my fingers" to "When the heat from the kettle burns their fingers", which changes only the pronoun, expressing the same meaning with nearly verbatim wording. 2/5
+Explanation Quality. The explanation accurately states why the correct answer is right (based on the text) and why each distractor is wrong (they are not disliked or are positive). 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 covers the first action (opening curtains), Q2 covers the reason the routine is special (quiet and peaceful), and Q3 covers the least favorite part (kettle burns). These are distributed across the text without clustering in one part. 5/5
+
+
+
+Text
+Matching the Topic. The text is a funny story about friends during a rainy day, including a slip into a river and subsequent laughter. It fully matches the topic of a funny story involving friends. 5/5
+Logic & Commonsense. The events are logical: friends making plans, rain, slipping, injury, calling a friend for help. No logical errors. 5/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded. No errors or unnatural phrasing. 5/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical. The correct answer "To take funny photos at the bridge" matches the text, and distractors are reasonable but incorrect. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The answer is fully present in the text: "We wanted to take funny photos" and "meet at the old bridge near the park." 5/5
+Reading Dependency. Without reading the text, one might guess "take funny photos" is plausible, but the specific location "at the bridge" and other details are from the text. General knowledge helps marginally. 4/5
+Answer Unambiguity. Exactly one answer is correct: "To take funny photos at the bridge." No other option is supported. 5/5
+Distractor Plausibility. All incorrect options (detective games, swimming, fixing bridge) are plausible to someone who read but misremembered. 5/5
+Using Paraphrases. The correct answer rephrases "wanted to take funny photos" and adds "at the bridge" from the text. It changes wording but keeps meaning. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why each distractor is wrong. 5/5
+---
+Q2
+Logic & Commonsense. The question and options are logical. The correct answer "Because he fell into the river and got wet" is consistent with the text. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The answer is fully present: "He slipped and fell into the river" and "unhappy about his wet clothes." 5/5
+Reading Dependency. Without reading, one might guess the friend was unhappy about getting wet, but specific details (river, slip) are from the text. General knowledge helps moderately. 4/5
+Answer Unambiguity. Exactly one answer is correct. The other options contradict the text (injury to arm, not leg; no camera; detective was called to help, not scold). 5/5
+Distractor Plausibility. All distractors are plausible: hurting leg, losing camera, being scolded by detective are believable to someone who skimmed the text. 5/5
+Using Paraphrases. The correct answer rephrases "unhappy about his wet clothes" to "got wet" and includes "fell into the river." Strongly rephrased. 5/5
+Explanation Quality. The explanation correctly identifies why the correct answer is right and why distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question and options are logical. The correct answer "They called a detective friend to report the incident" matches the text. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The answer is fully present: "We called a 'detective' (our friend who loves mysteries) to help us report the incident." 5/5
+Reading Dependency. Without reading, "call the police" might be a common guess, but the text specifies a "detective" friend. General knowledge would not lead to this specific answer. 5/5
+Answer Unambiguity. Exactly one answer is correct. The text does not mention running home, waiting for rain, or calling police. 5/5
+Distractor Plausibility. All distractors are plausible to someone who didn't read carefully: running home, waiting for rain, or calling police are logical actions after an incident. 5/5
+Using Paraphrases. The correct answer rephrases "called a 'detective' friend" to "called a detective friend" and "to report the incident" from the text. Strong paraphrase. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why all distractors are wrong. 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 covers the original plan (start of text), Q2 covers the incident (middle), Q3 covers the aftermath (end). Even distribution. 5/5
+
+
+
+Text
+Matching the Topic. The text is an adventure story about getting lost in the forest, which matches the topic perfectly. 5/5
+Logic & Commonsense. The text is logical and consistent with commonsense; no inconsistencies are apparent. 5/5
+Vocabulary & Grammar. The text contains one minor error: "breaking law" should be "breaking the law." 4/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+Text-Based Answerability. The answer is fully present in the text: "forgot to check the map carefully." 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text; general knowledge does not help because "forgot to check the map" is a specific detail. 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. 5/5
+Distractor Plausibility. All incorrect options are plausible to someone who has read the text but not fully understood it. "Bring a compass" is mentioned at the end, so a reader might confuse it. "Pack enough food" is a common camping task. "Tell their parents" is a reasonable expectation. 5/5
+Using Paraphrases. The correct answer changes just one word from the text ("carefully" is omitted, but the core is verbatim "check the map"). Stronger paraphrase is possible. 3/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why all distractors are wrong. 5/5
+---
+Q2
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+Text-Based Answerability. The answer is fully present in the text: "saw a small gap in the bushes." 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text; general knowledge does not help. 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. 5/5
+Distractor Plausibility. All incorrect options are plausible. In a forest, seeing a snake, bear, or broken branch when bending down is believable. 5/5
+Using Paraphrases. The correct answer copies the text verbatim. 2/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why all distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. However, "to escape before nightfall" is not explicitly stated as the reason for breaking the lock—the text says they knew they had to escape before nightfall, but breaking the lock was how they escaped. The connection is strong, so this is acceptable. 4/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+Text-Based Answerability. The answer is largely present in the text, but some indirect inference is needed. The text says they "knew they had to escape before nightfall" and then "acted quickly, using a stick to break the rusty lock." It is strongly implied that breaking the lock was for escape. 4/5
+Reading Dependency. The correct answer is difficult to guess without reading the text; general knowledge does not suggest why they broke a lock specifically. 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text, as the reason is strongly implied. 5/5
+Distractor Plausibility. All incorrect options are plausible. "To steal tools" could be inferred since they later used tools. "To hide from the police" is a common adventure trope. "To explore the cellar" is directly related. 5/5
+Using Paraphrases. The correct answer changes the phrasing from "knew they had to escape before nightfall" to "to escape before nightfall," which is a minor change. 3/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why all distractors are wrong. 5/5
+---
+Text Coverage. Questions cover different parts of the text: Q1 covers the beginning (forgetting the map), Q2 covers the middle (finding the gap), Q3 covers the end (escaping). The distribution is even. 5/5
+
+
+
+Text
+Matching the Topic. The text is about finding a secret door in a house and an adventure involving a potion, which matches the topic of an adventure story about finding a secret door. <5>/5
+Logic & Commonsense. The text has one logical error: drinking a potion that is "against the law" and then finding a golden key under pillows lacks clear cause-and-effect, but it's not entirely unreasonable for a fantasy story. Otherwise, it's logical. <4>/5
+Vocabulary & Grammar. The text contains one error: "greeted the moon" is an unusual collocation (typically "greeted the moon" is poetic but unnatural in this context), and "Drink me to escape the worst danger" is a direct quote from a book, which is fine. Otherwise, grammar is correct. <4>/5
+---
+Q1
+Logic & Commonsense. The question is logical, and all answer options are plausible in a fantasy context, but the correct answer is supported by the text. <5>/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, or collocation errors. <5>/5
+Text-Based Answerability. The text explicitly states "a hidden door opened," so the answer is directly in the text. <5>/5
+Reading Dependency. Without reading the text, one might guess "treasure chest" or "broken mirror" based on common attic discoveries, but "hidden door" is also plausible. The text provides specifics, so it's not easily guessable. <4>/5
+Answer Unambiguity. Only "hidden door" is correct; other options are not mentioned. <5>/5
+Distractor Plausibility. All incorrect options are plausible to someone who didn't fully read the text, as attics often have such items. <5>/5
+Using Paraphrases. The correct answer "a hidden door" is a paraphrase of "a hidden door opened" (it changes the verb form but keeps key words). Stronger paraphrase is possible, but it's acceptable. <4>/5
+Explanation Quality. The explanation accurately states why the correct answer is right (from the text) and why distractors are wrong (not mentioned). <5>/5
+---
+Q2
+Logic & Commonsense. The question is reasonable, and all answer options are logically possible reasons, but the correct answer is supported. <5>/5
+Vocabulary & Grammar. The question and answer options contain no errors. <5>/5
+Text-Based Answerability. The text quotes Mia saying "It’s against the law," so the answer is directly in the text. <5>/5
+Reading Dependency. Without reading the text, one might guess "afraid of spiders" or "hated magic," but "against the law" is less common, so it's moderately difficult to guess. <4>/5
+Answer Unambiguity. Only "because it was against the law" is correct; others are not mentioned. <5>/5
+Distractor Plausibility. All distractors are plausible for a character arguing against a potion. <5>/5
+Using Paraphrases. The correct answer copies the text verbatim ("It’s against the law"). Stronger paraphrase is possible. <2>/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why distractors are wrong. <5>/5
+---
+Q3
+Logic & Commonsense. The question is reasonable, and all answer options are plausible fantasy outcomes of drinking a potion, but the correct answer is supported. <5>/5
+Vocabulary & Grammar. The question and answer options contain no errors. <5>/5
+Text-Based Answerability. The text states "Jake felt ill," so the answer is directly in the text. <5>/5
+Reading Dependency. Without reading the text, a reader might guess any of the options, but "felt ill" is a common outcome and could be guessed—so it's moderately guessable. <3>/5
+Answer Unambiguity. Only "he felt ill" is correct; other options are not mentioned. <5>/5
+Distractor Plausibility. All distractors are plausible fantasy elements that could happen after drinking a magic potion. <5>/5
+Using Paraphrases. The correct answer "He felt ill" is a paraphrase of "Jake felt ill" (changing "Jake" to "He"). Stronger paraphrase is possible. <3>/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why distractors are wrong. <5>/5
+---
+Text Coverage. Questions cover different parts: Q1 (finding the door), Q2 (Mia’s argument), Q3 (after drinking potion). They are evenly distributed, though the text is short. <5>/5
+
+
+
+Text
+Matching the Topic. The text is about an adventure story involving a treasure hunt, a map, and a chest full of gold, which matches the topic of an adventure story about finding a treasure. 5/5
+Logic & Commonsense. The text logically describes a sequence of events: hearing a secret, finding a map, searching, and discovering treasure. No logical errors or inconsistencies with commonsense are present. 5/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded with no errors in grammar, vocabulary, spelling, or collocation. 5/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. The correct answer is about the map, and distractors are reasonable alternatives. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded with no errors. 5/5
+Text-Based Answerability. The text explicitly states: "they found a strange map outside the village, included in a book about pirates." The answer is fully present in the text. 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text, as general knowledge does not reveal the specific item found outside the village. 5/5
+Answer Unambiguity. Exactly one answer (a strange map included in a book about pirates) is unambiguously correct based on the text; the other options are clearly incorrect. 5/5
+Distractor Plausibility. The distractor "a treasure chest" might be plausible to someone who confuses the sequence, but "a poisonous plant" and "an old pirate ship" are less obvious. However, "poisonous plant" is mentioned as a warning and "treasure chest" is later found, making them plausible to someone who didn't read carefully. 4/5
+Using Paraphrases. The correct answer rephrases "they found a strange map outside the village, included in a book about pirates" by saying "a strange map included in a book about pirates," which changes a few words and is a strong paraphrase. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right ("The text states they found a map outside the village, included in a book") and why all distractors are wrong (treasure chest found later, poisonous plants as danger, no pirate ship). 5/5
+---
+Q2
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. The correct answer aligns with Jake's statement. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded with no errors. 5/5
+Text-Based Answerability. The text directly quotes Jake: "We must identify the real treasure before someone else does." The answer is fully present in the text. 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text, as general knowledge does not specify Jake's reason for wanting to act quickly. 5/5
+Answer Unambiguity. Exactly one answer (to identify the real treasure before someone else found it) is unambiguously correct based on the text. 5/5
+Distractor Plausibility. The distractors ("to avoid the illness", "to build a platform", "to explore the forest longer") are plausible to someone who misinterprets the text, as the illness is a risk and the map shows a platform, but they are clearly wrong based on the quote. 4/5
+Using Paraphrases. The correct answer rephrases "We must identify the real treasure before someone else does" to "to identify the real treasure before someone else found it," which is a good paraphrase with minor changes. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right (quoting Jake) and why all distractors are wrong (illness is a risk, platform building not mentioned, exploring not priority). 5/5
+---
+Q3
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. The correct answer matches the warning in the text. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded with no errors. 5/5
+Text-Based Answerability. The text explicitly states: "it also warned of an illness caused by poisonous plants." The answer is fully present in the text. 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text, as general knowledge does not specify the map's warning. 5/5
+Answer Unambiguity. Exactly one answer (an illness caused by poisonous plants) is unambiguously correct based on the text. 5/5
+Distractor Plausibility. The distractors ("a wild animal attack", "a hidden trap", "a storm approaching") are all plausible dangers in an adventure story, so they are believable to someone who didn't read the text carefully. 5/5
+Using Paraphrases. The correct answer rephrases "warned of an illness caused by poisonous plants" to "an illness caused by poisonous plants," which is a verbatim copy or very minimal change. This weakens the paraphrase quality. 2/5
+Explanation Quality. The explanation accurately describes why the correct answer is right (referencing the text) and why all distractors are wrong (not mentioned in the warning). 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 covers the finding of the map (early part), Q2 covers Jake's motivation (middle part), Q3 covers the map's warning (also early part but distinct). They are reasonably distributed across the text, though the discovery of the treasure chest is not covered. 4/5
+
+
+
+Text
+Matching the Topic. The text is a letter from a past self to a future self, which directly matches the topic. 5/5
+Logic & Commonsense. The text describes several personal thoughts, memories, and wishes, which are logical and consistent with commonsense for a letter to a future self. 5/5
+Vocabulary & Grammar. The text is grammatically correct and uses natural wording throughout. 5/5
+---
+Q1
+Logic & Commonsense. The question asks about what the writer wants their future self to remember about the mobile phone, and the answer options are all plausible in context. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The text explicitly states "it’s still in the drawer," so the correct answer is fully present in the text. 5/5
+Reading Dependency. Without reading the text, a reader might guess the phone was thrown away or sold, which makes the correct answer less obvious. 4/5
+Answer Unambiguity. The text clearly states the phone is "still in the drawer," so only one answer matches exactly. 5/5
+Distractor Plausibility. All distractors ("broken and thrown away," "sold to a friend," "used for sailing videos") are plausible interpretations for someone who skimmed the text, especially since the text mentions "monkeys at the bottom of the ocean" and "sailing," which could mislead a careless reader. 4/5
+Using Paraphrases. The correct answer "It is still in the drawer" is a verbatim copy from the text. 2/5
+Explanation Quality. The explanation accurately states why the correct answer is right and why the distractors are wrong. 5/5
+---
+Q2
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The text says the guitar is "waiting for you," which directly implies it is waiting to be played again. 5/5
+Reading Dependency. Without reading the text, one might guess the guitar was lost or given away, making the correct answer less obvious. 4/5
+Answer Unambiguity. The text clearly implies the guitar is waiting to be played, and no other option matches this inference. 5/5
+Distractor Plausibility. The distractors ("given to a colleague," "lost in the rain," "replaced by technology") are all plausible misinterpretations of the text, as the text mentions a colleague and rain. 4/5
+Using Paraphrases. The correct answer "It is waiting to be played again" is a strong paraphrase of "waiting for you" and "don’t forget my old instrument (a guitar)." 5/5
+Explanation Quality. The explanation accurately explains why the correct answer is right, but it could be more specific about why each distractor is wrong (e.g., "given to a colleague" is not mentioned). It still adequately shows all distractors are wrong. 4/5
+---
+Q3
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The text explicitly says "use technology wisely," so the correct answer is fully present. 5/5
+Reading Dependency. Without reading the text, a reader might guess "avoid it completely" or "upgrade it every year," making the correct answer less obvious. 4/5
+Answer Unambiguity. The text clearly states "use technology wisely," so only one answer is correct. 5/5
+Distractor Plausibility. The distractors "avoid it completely" and "upgrade it every year" are plausible misinterpretations of "use technology wisely." The distractor "sell it to a monkey" is obviously absurd and not plausible, which reduces the quality. 3/5
+Using Paraphrases. The correct answer "Use it wisely" is a verbatim copy from the text. 2/5
+Explanation Quality. The explanation accurately states why the correct answer is right and notes that the other options are absurd or not mentioned. However, it could more specifically explain why "avoid it completely" and "upgrade it every year" are wrong based on the text. 4/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 targets the mobile phone, Q2 targets the guitar, and Q3 targets the advice about technology. They are evenly distributed. 5/5
+
+
+
+Text
+Matching the Topic. The text tells a story about a woman named Clara who inspired the narrator, directly matching the topic. <5>/5
+Logic & Commonsense. The text is logical and consistent with commonsense; Clara teaches children about nature and makes a thoughtful comment, which is plausible. <5>/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded, with no errors or unnatural phrasing. <5>/5
+---
+Q1
+Logic & Commonsense. The question and answer options are reasonable; Clara teaching about plants and animals is logical based on the text. <5>/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. <5>/5
+Text-Based Answerability. The text explicitly states Clara taught children about plants and animals, so the answer is fully present. <5>/5
+Reading Dependency. Without reading the text, one might guess "How to care for plants and animals" is possible but not certain; however, the other distractors are also plausible guesses, making it somewhat guessable. <3>/5
+Answer Unambiguity. Exactly one answer (How to care for plants and animals) is correct based on the text; the others are not supported. <5>/5
+Distractor Plausibility. All distractors (climbing trees, finding treasures, building shelters) are plausible activities someone might teach children in a forest, so they are believable to someone who hasn't fully understood the text. <5>/5
+Using Paraphrases. The correct answer "How to care for plants and animals" rephrases "teaching children about plants and animals" by adding "care for," which is a slight change but still expresses the same meaning. <4>/5
+Explanation Quality. The explanation accurately describes why the correct answer is right (matching "plants and animals") and why all distractors are wrong (unrelated to text). <5>/5
+---
+Q2
+Logic & Commonsense. The question and answer options are logical; the correct answer aligns with Clara's comment. <5>/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. <5>/5
+Text-Based Answerability. The text directly quotes Clara's comment about the past teaching us, so the answer is fully present. <5>/5
+Reading Dependency. Without reading the text, one might guess the answer from general knowledge about inspirational sayings, but "move to the forest" and "forget the past" are less obvious, making it moderately guessable. <3>/5
+Answer Unambiguity. Exactly one answer (reminded them to learn from history) is correct; the others are not supported. <5>/5
+Distractor Plausibility. All distractors (move to forest, speak in public, forget the past) are plausible misinterpretations of an inspirational comment. <5>/5
+Using Paraphrases. The correct answer rephrases Clara's comment "The past teaches us to build a better future" into "learn from history to create a better future," which is a strong paraphrase. <5>/5
+Explanation Quality. The explanation correctly states the correct answer's connection to Clara's comment and that other options are unrelated. <5>/5
+---
+Q3
+Logic & Commonsense. The question and answer options are logical; the narrator aspiring to be strong and kind is consistent with the text. <5>/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. <5>/5
+Text-Based Answerability. The text explicitly states the narrator hopes to "rise like her—strong and kind," so the answer is fully present. <5>/5
+Reading Dependency. Without reading the text, one might guess "strong and kind" is a common aspiration, but "famous and rich" or "quiet and shy" are also common, making it moderately guessable. <3>/5
+Answer Unambiguity. Exactly one answer (strong and kind) is correct; the others are contradicted by the text. <5>/5
+Distractor Plausibility. All distractors (famous and rich, quiet and shy, forest guide) are plausible aspirations or traits that could be inferred from the story. <5>/5
+Using Paraphrases. The correct answer copies the text verbatim "strong and kind" with no changes. <2>/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why the distractors are wrong. <5>/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 covers the forest teaching (early part), Q2 covers the town meeting comment (middle), Q3 covers the narrator's hope (end). They are evenly distributed. <5>/5
+
+
+
+Text
+Matching the Topic. The text is about a lottery winner who spends his winnings on charity, directly matching the topic. 5/5
+Logic & Commonsense. The text is logical and makes sense; a lottery winner deciding to help others with his money is plausible and consistent with commonsense. 5/5
+Vocabulary & Grammar. The text contains a few errors: "huge lottery gift" is slightly unnatural (should be "prize"), "bought gas for families" is possibly ambiguous (they bought gas, not the gas itself, but acceptable), and "had been in a bad attack" could be clearer (an attack on her, not by her). There are at least two minor issues. 3/5
+---
+Q1
+Logic & Commonsense. The question and options are logical; the text describes what the winner thought about buying but didn't purchase. 5/5
+Vocabulary & Grammar. The options are grammatically correct, though "food for banks" is a slight paraphrase of "food banks," which is fine. No errors. 5/5
+Text-Based Answerability. The text explicitly states he didn't buy a fast car (or big house), but the correct answer is one of the two he didn't buy. The answer is present in the text. 5/5
+Reading Dependency. Someone might guess a lottery winner often buys a fast car, so it's somewhat guessable, but the text provides the specific context. 3/5
+Answer Unambiguity. Exactly one answer ("a fast car") is clearly correct based on the text; the other options are actions he did take. 5/5
+Distractor Plausibility. The distractors are plausible because they are mentioned in the text, but the text explicitly states he bought gas and gave to food banks, so a careful reader would reject them. They are not obviously wrong to someone who misreads. 4/5
+Using Paraphrases. The correct answer ("a fast car") is verbatim from the text, not rephrased. 2/5
+Explanation Quality. The explanation correctly states why the correct answer is right and why the distractors are wrong, though the first point about "big house" is slightly confused (it says "it’s plausible but not what he didn’t buy," but the text says he thought about it but didn't buy it, so it is also not bought; however, the question asks for what he didn't buy, and "fast car" is the only option that matches, so the explanation works). 4/5
+---
+Q2
+Logic & Commonsense. The question and options are logical; the reason for charity is clear. 5/5
+Vocabulary & Grammar. The options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The text contains the quote about money helping others, directly supporting the correct answer. 5/5
+Reading Dependency. Without reading the text, one might guess a lottery winner helps others for fame or altruism, so the correct answer is somewhat guessable, but the specific quote is not. 3/5
+Answer Unambiguity. Only one answer ("Money is better when it helps others") is directly supported by the text; the others are not mentioned. 5/5
+Distractor Plausibility. The distractors are plausible in a general sense (fame, government, lost interest) but are not mentioned or implied in the text, so a careful reader would reject them. 3/5
+Using Paraphrases. The correct answer paraphrases the quote ("Money is better when it helps someone else") into "Money is better when it helped" (slight change), but it's a close paraphrase. 4/5
+Explanation Quality. The explanation correctly identifies the text support and why the distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question is logical, but the correct answer ("physical attack") might be a misinterpretation; the text says "bad attack," which could mean a violent attack or a medical episode (like a heart attack). The intended meaning is unclear, but the answer is not illogical. 4/5
+Vocabulary & Grammar. The options are grammatically correct, though "physical attack" is a bit vague. 5/5
+Text-Based Answerability. The text says "had been in a bad attack," so the correct answer is a possible interpretation, but the text does not specify "physical attack" versus a medical attack, so the answerability is partially based on interpretation. 4/5
+Reading Dependency. Without reading, one might guess an old woman could be attacked, but it's not easily guessable. 4/5
+Answer Unambiguity. The answer is ambiguous because "bad attack" could mean a heart attack or a violent attack; the explanation chooses "physical attack," but it's not unambiguously correct based on the text alone. 2/5
+Distractor Plausibility. The distractors are all plausible (disease, broken leg, need a new home), but they are not mentioned in the text. 4/5
+Using Paraphrases. The correct answer rephrases "bad attack" to "physical attack," which is a paraphrase but changes the meaning slightly (assuming the attack was physical/violent rather than medical). 3/5
+Explanation Quality. The explanation asserts the text means a "physical attack," but the text is ambiguous; the explanation does not address the ambiguity or why the other options are wrong beyond saying they are not mentioned. 3/5
+---
+Text Coverage. The questions cover the main points: what he didn't buy (Q1), why he chose charity (Q2), and a specific instance (Q3). They are fairly distributed. 4/5
+
+
+
+Text
+Matching the Topic. The topic is a personal story about learning a new skill. The text describes learning traditional pottery, which fits the topic well. <5>/5
+Logic & Commonsense. The text is logical and consistent with commonsense. There are no logical errors. <5>/5
+Vocabulary & Grammar. The text contains no grammar, vocabulary, spelling, collocation errors or unnatural wordings. <5>/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. <5>/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. <5>/5
+Text-Based Answerability. The text explicitly states: "After an earthquake damaged my home, I found myself with extra time, so I enrolled in a local workshop." The answer is fully present in the text. <5>/5
+Reading Dependency. Without reading the text, someone might guess an earthquake as a plausible reason, but the other distractors (friend, competition, job loss) are also common motivators. The correct answer is somewhat guessable but not obvious. <3>/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. <5>/5
+Distractor Plausibility. The distractors are common reasons for starting a hobby, so they are plausible to someone who has read the text but not fully understood it. <5>/5
+Using Paraphrases. The correct answer paraphrases the text well: "An earthquake damaged their home" instead of "After an earthquake damaged my home." <5>/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why the distractors are wrong. <5>/5
+---
+Q2
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. <5>/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. <5>/5
+Text-Based Answerability. The text describes the instructor's reaction: "The instructor laughed and said, 'Even the best potters had complaints about their early work.' He advised me to take it slow and not risk breaking everything. His sensible advice helped me improve." The answer is fully present. <5>/5
+Reading Dependency. Without reading the text, one might assume a kind instructor would laugh and give advice, but the distractors (criticized, ignored, replaced) are also possible. The correct answer is somewhat guessable. <3>/5
+Answer Unambiguity. Exactly one answer is unambiguously correct. <5>/5
+Distractor Plausibility. The distractors are plausible negative behaviors that an instructor might exhibit. <5>/5
+Using Paraphrases. The correct answer paraphrases the text: "He laughed and gave sensible advice" instead of "laughed" and "sensible advice." <5>/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why the distractors are wrong. <5>/5
+---
+Q3
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. <5>/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. <5>/5
+Text-Based Answerability. The text explicitly states: "I separate my creations into two groups: the ones I keep and the ones I give away as gifts." The answer is fully present. <5>/5
+Reading Dependency. Without reading the text, one might guess they kept some and gave others away, but the distractors (threw away, sold, displayed) are also plausible. The correct answer is somewhat guessable. <3>/5
+Answer Unambiguity. Exactly one answer is unambiguously correct. <5>/5
+Distractor Plausibility. The distractors are plausible actions for early pottery attempts. <5>/5
+Using Paraphrases. The correct answer paraphrases the text well: "They kept some and gave others away as gifts" instead of "I separate my creations into two groups: the ones I keep and the ones I give away as gifts." <5>/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why the distractors are wrong. <5>/5
+---
+Q4
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. <5>/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. <5>/5
+Text-Based Answerability. The text states: "The workshop also had a supply of second-hand tools, which made it easier to practice." Second-hand tools imply affordability, so the answer is indirectly present. However, the text does not explicitly say "without spending much money," but it is a reasonable inference. <4>/5
+Reading Dependency. Without reading the text, one might guess that second-hand tools are affordable, but the text explicitly mentions them. The correct answer is somewhat guessable. <3>/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. <5>/5
+Distractor Plausibility. The distractors are plausible misconceptions about workshop tools. <5>/5
+Using Paraphrases. The correct answer paraphrases the text: "It made it easier to practice without spending much money" instead of "second-hand tools, which made it easier to practice." <5>/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why the distractors are wrong. <5>/5
+---
+Text Coverage. Questions cover different parts of the text: Q1 covers the beginning (earthquake), Q2 covers the middle (instructor's reaction), Q3 covers the end (what they did with creations), Q4 covers a detail from the end (tools). The distribution is balanced. <5>/5
+
+
+
+Text
+Matching the Topic. The text is about an adventure story concerning a mountain trip, which directly matches the topic. <5>/5
+Logic & Commonsense. The text is logical; Jake escapes unemployment by joining a mountain trip, they wear caps for sun protection despite unexpected thunderstorms, and the guide warns about hazards. The events are consistent with commonsense. <5>/5
+Vocabulary & Grammar. The text has a grammatical error: "nor did they expect" should likely be "but they did not expect" or "nor did they expect" is awkwardly used after "shared Jake’s belief." This is a minor error. Additionally, "old narrative of past climbs" is slightly redundant but not a major error. There is one clear grammar/vocabulary issue. <4>/5
+---
+Q1
+Logic & Commonsense. The question is reasonable, and all answer options are plausible and answer the question; the correct answer is directly supported. <5>/5
+Vocabulary & Grammar. The question and answer options have no grammar, vocabulary, spelling, or collocation errors; "to escape unemployment" is fine. <5>/5
+Text-Based Answerability. The correct answer is directly stated in the text: "escape his unemployment." <5>/5
+Reading Dependency. Without reading the text, one might guess "to escape unemployment" is unlikely for a mountain trip; other options like "to test his physical strength" are more common guesses. The correct answer is difficult to guess without the text. <4>/5
+Answer Unambiguity. Only "To escape unemployment" is correct based on the text; no other option is supported. <5>/5
+Distractor Plausibility. All distractors (testing strength, proving bravery, writing a narrative) are plausible mountain trip motivations to someone who hasn't fully understood the text. <5>/5
+Using Paraphrases. The correct answer rephrases "escape his unemployment" to "To escape unemployment," which is a close paraphrase (changing "his unemployment" to "unemployment"). <4>/5
+Explanation Quality. The explanation accurately explains why the correct answer is right and why the distractors are wrong. <5>/5
+---
+Q2
+Logic & Commonsense. The question is logical, but the distractors include "hats with wide brims," which is similar to caps and could be considered correct based on commonsense (caps are a type of hat). However, the text specifies "caps," so the correct answer is caps. The distractors are not wrong from commonsense, but they don't match the text. The question is reasonable. <4>/5
+Vocabulary & Grammar. No errors in question or options. <5>/5
+Text-Based Answerability. The answer "caps" is directly in the text. <5>/5
+Reading Dependency. Without the text, one might guess any of these options, but "caps" is a common item; the answer is moderately guessable but the specific term "caps" makes it less obvious. <4>/5
+Answer Unambiguity. Only "Caps" is correct; "hats with wide brims" is not exactly the same, though similar. <5>/5
+Distractor Plausibility. "Hats with wide brims" is plausible to someone who didn't read carefully; "sunglasses and gloves" and "raincoats" are also plausible. <5>/5
+Using Paraphrases. The correct answer is a verbatim copy of "caps" from the text. <2>/5
+Explanation Quality. Explanation correctly identifies why the correct answer is right and why distractors are wrong. <5>/5
+---
+Q3
+Logic & Commonsense. Logical and consistent. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. Directly stated in the text. <5>/5
+Reading Dependency. Common mountain hazards like wild animals, avalanches, strong winds, or lack of water are known, but the specific combination (poisonous plants and steep drops) is less common knowledge; moderately guessable but not obvious. <4>/5
+Answer Unambiguity. Only one answer is correct. <5>/5
+Distractor Plausibility. All distractors are plausible mountain hazards. <5>/5
+Using Paraphrases. The correct answer is a verbatim copy: "hidden poisonous plants and steep drops." <2>/5
+Explanation Quality. Explanation correctly explains. <5>/5
+---
+Q4
+Logic & Commonsense. Logical. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. Directly stated: "his fear was equal to his determination." <5>/5
+Reading Dependency. The correct answer is specific and not guessable from general knowledge; one might guess "he panicked and gave up" which is a common reaction. The correct answer is hard to guess. <5>/5
+Answer Unambiguity. Only one correct. <5>/5
+Distractor Plausibility. All distractors are plausible reactions to slipping. <5>/5
+Using Paraphrases. The correct answer is a verbatim copy: "his fear was equal to his determination." <2>/5
+Explanation Quality. Explanation correctly explains. <5>/5
+---
+Text Coverage. Questions cover different parts: Q1 (beginning - reason), Q2 (early - clothing), Q3 (middle - guide's warnings), Q4 (middle - slip). They are well distributed, though the end part (reaching summit, conclusion) is not directly questioned. Minor imbalance. <4>/5
+
+
+
+Text
+Matching the Topic. The text is about an athlete who suffered an injury and worked hard to recover and return to competition, which matches the topic well. 5/5
+Logic & Commonsense. The text is logical, but there is a minor issue: a nuclear-powered ski lift is unusual, but it doesn't break commonsense entirely. 4/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded, with no errors. 5/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options contain no errors. 5/5
+Text-Based Answerability. The answer "a training accident on a ski lift" is directly stated in the text. 5/5
+Reading Dependency. The correct answer ("a training accident on a ski lift") could be guessed by general knowledge about ski injuries, but the specific mention of "ski lift" requires reading. 3/5
+Answer Unambiguity. Only one answer is unambiguously correct based on the text. 5/5
+Distractor Plausibility. All incorrect options are plausible distractions for someone not reading carefully (e.g., "nuclear explosion" is a playful distractor). 5/5
+Using Paraphrases. The correct answer rephrases "a training session on a nuclear-powered ski lift" as "a training accident on a ski lift", changing more than two words. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right ("The text states Lena injured her knee during a training session on a ski lift") and why the distractors are wrong ("The other options are unrelated"). 5/5
+---
+Q2
+Logic & Commonsense. The question and answer options are logical. 5/5
+Vocabulary & Grammar. The correct answer uses "balance trainer board" while the text says "board balance trainer"; this is a slight inconsistency but not a grammar error. The options are otherwise fine. 4/5
+Text-Based Answerability. The answer is directly stated in the text. 5/5
+Reading Dependency. Without reading, one might guess "taking daily long walks" is common for recovery, but the text gives a specific answer, making it not easily guessable. 4/5
+Answer Unambiguity. Exactly one answer is correct. 5/5
+Distractor Plausibility. All incorrect options are plausible as common recovery methods, but not mentioned in the text. 5/5
+Using Paraphrases. The correct answer changes "board balance trainer" to "balance trainer board", which is a minor rephrasing but not a strong paraphrase. 3/5
+Explanation Quality. The explanation correctly states why the correct answer is right and why distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question and answer options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The answer is directly stated in the text. 5/5
+Reading Dependency. Without reading, one might guess various motivations, but the specific "return to the exhibition match" is not easily guessable. 4/5
+Answer Unambiguity. Exactly one answer is correct. 5/5
+Distractor Plausibility. All distractors are plausible motivations, but not mentioned in the text. 5/5
+Using Paraphrases. The correct answer rephrases "goal: returning to the exhibition match" as "Her goal of returning to the exhibition match", which is close to verbatim. 2/5
+Explanation Quality. The explanation is accurate. 5/5
+---
+Q4
+Logic & Commonsense. The question and answer options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The answer is directly stated in the text. 5/5
+Reading Dependency. Without reading, "hard work pays off" is a common saying, but the specific link to the medal ring is not obvious. 4/5
+Answer Unambiguity. Exactly one answer is correct. 5/5
+Distractor Plausibility. All distractors are plausible interpretations of a medal's symbolism. 5/5
+Using Paraphrases. The correct answer rephrases "the ring of the medal was a reminder that hard work always pays off" as "a reminder that hard work pays off", changing more than two words. 5/5
+Explanation Quality. The explanation is accurate. 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 (injury), Q2 (recovery method), Q3 (motivation), Q4 (symbolism). They are evenly distributed. 5/5
+
+
+
+Text
+Matching the Topic. The story is about Maria moving to a new city and starting over, which matches the topic. <reasoning>5/5
+Logic & Commonsense. The text is logical and consistent, though the detail about "ancient explosion" and "blessing" feels slightly forced but not illogical. <reasoning>5/5
+Vocabulary & Grammar. The text contains no grammar, vocabulary, spelling, collocation errors or unnatural wordings. <reasoning>5/5
+---
+Q1
+Logic & Commonsense. The question and answer options are all logical and consistent with commonsense. <reasoning>5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. <reasoning>5/5
+Text-Based Answerability. The answer is explicitly stated in the text: "donated all her old clothes to charity." <reasoning>5/5
+Reading Dependency. Without reading the text, one might guess donating is common, but the specific action is not guessable with certainty. <reasoning>3/5
+Answer Unambiguity. Exactly one answer (Donated them to charity) is unambiguously correct based on the text. <reasoning>5/5
+Distractor Plausibility. All distractors (sold, burned, kept) are plausible actions someone might take, making them believable. <reasoning>5/5
+Using Paraphrases. The correct answer copies the text verbatim ("Donated them to charity"). <reasoning>2/5
+Explanation Quality. The explanation accurately states why the correct answer is right and why the distractors are wrong. <reasoning>5/5
+---
+Q2
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. <reasoning>5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. <reasoning>5/5
+Text-Based Answerability. The answer is explicitly stated in the text: "she lied... I’ve never cheated on a test, though she once failed a cooking exam." <reasoning>5/5
+Reading Dependency. Without reading the text, one might guess a lie about experience, but the specific lie is not guessable. <reasoning>4/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. <reasoning>5/5
+Distractor Plausibility. All distractors (experience, magic history, age) are plausible lies in an interview context. <reasoning>5/5
+Using Paraphrases. The correct answer paraphrases the text, changing wording but keeping meaning. <reasoning>5/5
+Explanation Quality. The explanation accurately states why the correct answer is right and why the distractors are wrong. <reasoning>5/5
+---
+Q3
+Logic & Commonsense. The question and answer options are logical, though "ancient explosion" is slightly unusual but still reasonable. <reasoning>5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. <reasoning>5/5
+Text-Based Answerability. The answer is explicitly stated in the text: "rumors said it was built on the site of an ancient explosion." <reasoning>5/5
+Reading Dependency. Without reading the text, one might guess haunted or tunnel, but the specific detail is not guessable. <reasoning>4/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. <reasoning>5/5
+Distractor Plausibility. All distractors (haunted, tunnel, famous actor) are common mansion tropes, making them plausible. <reasoning>5/5
+Using Paraphrases. The correct answer paraphrases the text, changing wording but keeping meaning. <reasoning>5/5
+Explanation Quality. The explanation accurately states why the correct answer is right and why the distractors are wrong. <reasoning>5/5
+---
+Q4
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. <reasoning>5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. <reasoning>5/5
+Text-Based Answerability. The answer is explicitly stated in the text: "With her savings plus the tips from her job, she saved enough." <reasoning>5/5
+Reading Dependency. Without reading the text, one might guess lottery or loan, but the specific details are not guessable. <reasoning>4/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. <reasoning>5/5
+Distractor Plausibility. All distractors (lottery, loan, selling book) are plausible ways to raise money. <reasoning>5/5
+Using Paraphrases. The correct answer paraphrases the text, changing wording but keeping meaning. <reasoning>5/5
+Explanation Quality. The explanation accurately states why the correct answer is right and why the distractors are wrong. <reasoning>5/5
+---
+Text Coverage. Questions cover different parts: clothes (beginning), interview (middle), mansion (middle), finances (end). <reasoning>5/5
+
+
+
+Text
+Matching the Topic. The text describes a story where Mr. Thompson receives unexpected help from a lawyer, Lisa, who pays for the cats' care and cleans his yard. This act of kindness is unexpected and transforms his demeanor and property. The text fully matches the topic of an unexpected act of kindness. 5/5
+Logic & Commonsense. The story flows logically: a lonely man with a messy yard attracts stray cats, which leads to volunteers and a lawyer who helps him. The sequence of events is consistent with commonsense. No logical errors are present. 5/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded. No errors in grammar, vocabulary, spelling, collocation, or unnatural wording are found. 5/5
+---
+Q1
+Logic & Commonsense. The question asks why neighbors avoided Mr. Thompson, which is logical. The correct answer is directly supported by the text, and the distractors are reasonable but incorrect. No logical flaws. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. No errors are present. 5/5
+Text-Based Answerability. The text states that neighbors avoided him because of his "ugly fence, covered in peeling paint and broken slats." The correct answer paraphrases this information. The answer is fully present in the text. 5/5
+Reading Dependency. Without reading the text, one might guess that neighbors avoid someone with an ugly yard (general knowledge), but the specific detail about the fence is crucial. The correct answer is partly guessable, but the text provides the exact reason, making it somewhat dependent. 4/5
+Answer Unambiguity. Exactly one answer is correct: "Because his yard and fence looked neglected and ugly." The other options are clearly contradicted or unsupported by the text. Unambiguous. 5/5
+Distractor Plausibility. All distractors are plausible to someone who misreads the text: "Because he was responsible for too many animals" (cats are mentioned), "Because he lived alone" (true but not the reason), "Because he gathered strangers in his yard" (volunteers did gather). They are not obviously wrong without careful reading. 5/5
+Using Paraphrases. The correct answer "Because his yard and fence looked neglected and ugly" paraphrases the text's "ugly fence, covered in peeling paint and broken slats" by using "neglected" instead of "peeling paint" and "ugly," though "ugly" is shared. This is a moderate paraphrase. 4/5
+Explanation Quality. The explanation accurately states why the correct answer is right (text mentions the fence's condition) and why the distractors are wrong (text does not mention those reasons). It covers all options. 5/5
+---
+Q2
+Logic & Commonsense. The question is logical, and the correct answer is directly from the text. Distractors are unrelated but plausible if one confuses the story's events. No logical issues. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct and well-worded. No errors. 5/5
+Text-Based Answerability. The text explicitly says the cat "brought a few more strays with it." The answer is directly stated. 5/5
+Reading Dependency. Without reading, one might guess a stray cat might bring more strays (general knowledge), but the specific details about "a court order" or "an alternative solution" are not guessable. However, "a bag of food" is plausible. The correct answer is easily guessable with general knowledge, as stray cats often bring others. 2/5
+Answer Unambiguity. Exactly one answer is correct: "A few more strays." The others are not supported by the text. 5/5
+Distractor Plausibility. Distractors: "A court order" is unlikely, "An alternative solution" is too vague and relates to Lisa, "A bag of food" is plausible but not mentioned. Only one distractor ("An alternative solution") might confuse someone who mislinks it to the cat, but overall, two distractors ("court order," "food bag") are obviously wrong. This reduces plausibility. 3/5
+Using Paraphrases. The correct answer "A few more strays" copies the text verbatim ("a few more strays"). No paraphrase is used. 2/5
+Explanation Quality. The explanation correctly identifies why the correct answer is right ("cat brought a few more strays") and why the distractors are wrong (unrelated). It covers all options. 5/5
+---
+Q3
+Logic & Commonsense. The question is logical. The correct answer combines two actions: paying for vaccinations/spaying and helping clean the yard. The distractors are plausible but incorrect. No logical flaws. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct and well-worded. No errors. 5/5
+Text-Based Answerability. The text states: "she would pay for their vaccinations and spaying" and "helped clean up the yard." The answer is fully present. 5/5
+Reading Dependency. Without reading, one might guess a lawyer could pay for vet care, but the specific combination is not guessable. General knowledge might suggest adopting or gathering volunteers, but the correct answer is detailed and requires reading the text. 4/5
+Answer Unambiguity. Exactly one answer is correct: "She paid for the cats’ vaccinations and spaying and helped clean his yard." The other options are contradicted by the text. 5/5
+Distractor Plausibility. All distractors are plausible: "She adopted all the cats" (could be a kind act), "She replaced his fur-covered fence" (misreading "fur" from the cat's fur), "She gathered more volunteers" (volunteers were already there). They are believable if one misremembers the story. 5/5
+Using Paraphrases. The correct answer rephrases "pay for their vaccinations and spaying" as "paid for the cats’ vaccinations and spaying" and adds "helped clean his yard" from "helped clean up the yard." This is a verbatim copy for the first part ("vaccinations and spaying") and a slight change for the second ("clean his yard" vs. "clean up the yard"). Minimal paraphrase. 3/5
+Explanation Quality. The explanation correctly states why the correct answer is right and why the distractors are wrong, covering all options. 5/5
+---
+Q4
+Logic & Commonsense. The question is logical. The correct answer is directly from the text. Distractors are plausible but incorrect. No logical flaws. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct and well-worded. No errors. 5/5
+Text-Based Answerability. The text states: "the fence looked almost new, and Mr. Thompson had a smile on his face." The answer is fully present. 5/5
+Reading Dependency. Without reading, one might guess a positive outcome like a new fence and a smile, but the specific result is directly from the text. General knowledge helps slightly, but the exact wording is not guessable. 4/5
+Answer Unambiguity. Exactly one answer is correct: "Mr. Thompson’s fence looked almost new, and he smiled for the first time in years." The other options are contradicted or unsupported. 5/5
+Distractor Plausibility. All distractors are plausible: "The cats stopped returning" (could be a consequence), "He became responsible for the shelter" (misunderstanding), "The volunteers left without finishing" (possible if one misreads). They are believable to someone who did not read carefully. 5/5
+Using Paraphrases. The correct answer rephrases "the fence looked almost new" (same wording) and "smile on his face for the first time in years" as "smiled for the first time in years." This is a slight paraphrase. 3/5
+Explanation Quality. The explanation correctly identifies why the correct answer is right and why the distractors are wrong, covering all options. 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 focuses on the initial problem (neighbors avoiding him due to the fence), Q2 on the cat's actions (bringing strays), Q3 on Lisa's help (paying and cleaning), and Q4 on the outcome (fence and smile). There is no significant clustering in one part; the questions are well distributed across the story's sequence. 5/5
+
+
+
+Text
+Matching the Topic. The text is a personal story about climbing Mount Fuji, which is a long-term goal the narrator achieved. This fully matches the topic. 5/5
+Logic & Commonsense. The story is logical and consistent with common sense. Training for a climb, dealing with fear of heights, and experiencing thinner air at higher altitudes are all reasonable. No logical errors. 5/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded. "analysed my weaknesses" is acceptable, but "a breathtaking bubble of green and blue" is a slightly unusual phrase, though not ungrammatical or a collocation error. The text is well-written otherwise. 4/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical. "Fear of heights" is a reasonable challenge. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text explicitly states "My biggest disadvantage was my fear of heights". 5/5
+Reading Dependency. Without the text, one might guess "steep slopes" or "unpredictable weather" are common challenges, making "fear of heights" less guessable. It requires reading to know this was the "biggest" challenge. 5/5
+Answer Unambiguity. Only "Fear of heights" is explicitly stated as the "biggest disadvantage." 5/5
+Distractor Plausibility. "Steep slopes" and "unpredictable weather" are mentioned in the text, so a reader might confuse them with the specific "biggest challenge." "Heavy tent" is less plausible given the text says he bought a lightweight one. 4/5
+Using Paraphrases. The correct answer "Fear of heights" is a slight paraphrase of "my fear of heights." 4/5
+Explanation Quality. The explanation correctly states why the correct answer is right and why the distractors are wrong. 5/5
+---
+Q2
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says he "packed my tent" and describes it as lightweight. It does not explicitly say he slept in it, but that is the direct inference from packing a tent for a climb. 4/5
+Reading Dependency. A reader might guess a tent is used, but the specific "lightweight" detail is from the text. 4/5
+Answer Unambiguity. Only "A lightweight tent" is supported by the text. 5/5
+Distractor Plausibility. "Sleeping bag" is plausible for a climb, but not mentioned. "Chemical blanket" and "mall-provided shelter" are less plausible. 3/5
+Using Paraphrases. "A lightweight tent" is a direct phrase from the text. 2/5
+Explanation Quality. The explanation correctly identifies the correct answer and why the distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text states he stopped to admire "the sight of the valley below, a breathtaking bubble of green and blue." This matches the correct answer. 5/5
+Reading Dependency. Without the text, one might guess a valley, but the specific "breathtaking" description makes it text-dependent. 4/5
+Answer Unambiguity. Only "A breathtaking valley below" is directly supported. The "bubble of smoke" is a misreading. 5/5
+Distractor Plausibility. "A bubble of smoke" is somewhat plausible because the text uses the word "bubble" and later mentions "chemical smells." "Chemical plant" and "edge of a mall" are less plausible. 3/5
+Using Paraphrases. The correct answer is a paraphrase of "the sight of the valley below" and "breathtaking bubble of green and blue." 5/5
+Explanation Quality. The explanation correctly identifies the correct answer and explains the distractors. 5/5
+---
+Q4
+Logic & Commonsense. The question and options are logical, but the correct answer is a basic scientific fact. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text implies the reason is altitude ("the higher we went, the thinner it felt"). This is a direct inference. 5/5
+Reading Dependency. The answer is easily guessable from general knowledge, even without reading the text. 1/5
+Answer Unambiguity. Only "Because of the altitude" is correct. 5/5
+Distractor Plausibility. "Because of chemical pollution" is plausible because the text later mentions "chemical smells." The other distractors are less plausible. 3/5
+Using Paraphrases. "Because of the altitude" is a paraphrase of the implied cause. 5/5
+Explanation Quality. The explanation correctly identifies the correct answer and explains why the distractors are wrong. 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 (fear of heights - middle), Q2 (tent - middle), Q3 (valley view - near the end), Q4 (thin air - middle). They are fairly well distributed. 4/5
+
+
+
+Text
+Matching the Topic. The text is about a day in the life of an actor, including meetings, emotions, and career reflections, which fully matches the topic. 5/5
+Logic & Commonsense. The text describes a logical sequence of events: a calm morning, a photo shoot, a visit to a neighbor, and a return to set, with emotions that are consistent with the described situations. There are no logical errors. 5/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded, with no errors in grammar, vocabulary, spelling, or collocation. 5/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. The correct answer (taking photos) matches the text, and distractors (audition, retirement, contract) are plausible alternatives. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, or collocation errors. 5/5
+Text-Based Answerability. The answer is fully present in the text: "His first meeting was with a photographer who wanted to capture his type of roles." 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text, as the text specifies a photographer for a photo shoot, which is not common knowledge about an actor's day. 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text: only the photographer/photo shoot option is mentioned. 5/5
+Distractor Plausibility. All incorrect options (audition, retirement, contract) are plausible to someone who has read the text but not fully understood it, as they are common actor activities. 5/5
+Using Paraphrases. The correct answer rephrases the text ("taking photos for a new project" instead of "meeting with a photographer to capture his type of roles") while expressing the same meaning. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right (based on the text) and why the distractors are wrong (not mentioned). 5/5
+---
+Q2
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. The correct answer (seeing his father's photo) is reasonable, and distractors (bad news, forgetting lines, criticism) are plausible. 5/5
+Vocabulary & Grammar. The question and answer options contain no errors. 5/5
+Text-Based Answerability. The answer is fully present in the text: "he saw a rare photo of his father... Mark felt a sudden loss of confidence." 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text, as the specific reason (father's photo and struggles) is not general knowledge. 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct; only the father's photo is mentioned as a cause. 5/5
+Distractor Plausibility. All incorrect options (bad news, forgetting lines, criticism) are plausible to someone who may skim the text and miss the specific trigger. 5/5
+Using Paraphrases. The correct answer rephrases the text ("saw an old photo of his father" instead of "a rare photo of his father... caught his eye") while maintaining the same meaning. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why all distractors are wrong (not mentioned). 5/5
+---
+Q3
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. The correct answer (discount on posters) matches the text, and distractors (lessons, role, autograph) are plausible for a neighbor offer. 5/5
+Vocabulary & Grammar. No errors in the question or answer options. 5/5
+Text-Based Answerability. The answer is fully present in the text: "his retired neighbor gave him a discount on old movie posters." 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text, as the specific offer (discount on posters) is not common knowledge. 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct; only the discount on posters is mentioned. 5/5
+Distractor Plausibility. All incorrect options (free lessons, role in film, autograph) are plausible to someone who might assume a neighbor in the industry offers such things. 5/5
+Using Paraphrases. The correct answer rephrases the text ("discount on old movie posters" instead of "gave him a discount on old movie posters") while preserving the meaning. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why all distractors are wrong (not mentioned). 5/5
+---
+Q4
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. The correct answer (emotionally drained but determined) matches the text, and distractors (excited, ready to retire, angry) are plausible alternative emotions. 5/5
+Vocabulary & Grammar. No errors in the question or answer options. 5/5
+Text-Based Answerability. The answer is fully present in the text: "the day’s emotions weighed on him... he knew acting was his passion, and he had to push through." 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text, as the specific mix of fatigue and determination is unique to the story. 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct; the text indicates emotional weight but also passion and pushing through, which matches "emotionally drained but determined." 5/5
+Distractor Plausibility. All incorrect options (excited, ready to retire, angry) are plausible to someone who may misinterpret the text's "felt unusually calm" early on or overlook the later struggles. 5/5
+Using Paraphrases. The correct answer strongly rephrases the text ("emotionally drained but determined to continue acting" instead of "emotions weighed on him... he knew acting was his passion, and he had to push through") while expressing the same meaning. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right (combining fatigue and determination) and why the distractors are wrong (contradicting the text). 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 covers the morning photo shoot, Q2 covers the neighbor visit and father's photo, Q3 covers the neighbor's offer, and Q4 covers the evening set. They are evenly distributed across the text, covering various events and emotions. 5/5
+
+
+
+Text
+Matching the Topic. The text is a first-person narrative about receiving a book from a grandfather and how it changed the narrator's life, which directly matches the topic "a story about the book that changed my life." There are no digressions. 5/5
+Logic & Commonsense. The story is logical: a child receives a book, reads it, learns from it, and passes it on. The warning, the yellowed tape, the inventor exporting ideas, and the grandfather's saving claim all make sense in context. No logical errors. 5/5
+Vocabulary & Grammar. The text is grammatically correct and uses natural wording. Phrases like "Do not read this unless you are truly keen on adventure" and "exporting ideas instead of goods" are well-formed. No errors. 5/5
+---
+Q1
+Logic & Commonsense. The question asks about the warning on the cover, and the answer options are sensible. "Do not read it unless you are truly eager for adventure" matches the text, while the distractors (dangerous to touch, only for adults, too short to enjoy) are reasonable but incorrect. No logical flaws. 5/5
+Vocabulary & Grammar. The question and all answer options are grammatically correct and well-worded. "Do not read it unless you are truly eager for adventure" is a clear paraphrase. No errors. 5/5
+Text-Based Answerability. The text explicitly states "Do not read this unless you are truly keen on adventure," so the answer is directly present. 5/5
+Reading Dependency. Without reading the text, one might guess "dangerous to touch" as a common trope, but "truly eager for adventure" is specific and not common knowledge. The correct answer is not easily guessable. 5/5
+Answer Unambiguity. Only one answer matches the text exactly. The other options have no support from the text. 5/5
+Distractor Plausibility. "Dangerous to touch" is plausible as a mysterious warning; "only for adults" is a common age warning; "too short to enjoy" is less plausible but still possible. All distractors are believable to someone who hasn't carefully read the text. 5/5
+Using Paraphrases. The correct answer changes "keen on adventure" to "eager for adventure," which is a minor synonym change. Stronger paraphrase would be possible (e.g., "You should only read this if you truly want excitement"), but the meaning is preserved. 4/5
+Explanation Quality. The explanation correctly states why the correct answer is right (matches the warning) and explains why each distractor is wrong (no mention of danger, adults, or length). 5/5
+---
+Q2
+Logic & Commonsense. The question asks about the binding, and the correct answer "held together with yellowed tape" is logical. Distractors (no cover, made of metal, invisible ink) are unreasonable but serve as wrong options. No logical flaws. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct and well-worded. "It was held together with yellowed tape" matches the text's "bound with yellowed tape." No errors. 5/5
+Text-Based Answerability. The text explicitly states "the book was bound with yellowed tape." 5/5
+Reading Dependency. The correct answer is specific and unlikely to be guessed from general knowledge. Distractors like "made of metal" are implausible without reading. 5/5
+Answer Unambiguity. Only one answer matches the text. 5/5
+Distractor Plausibility. "No cover" is plausible as a worn book; "made of metal" is unlikely but could be considered if one misreads; "invisible ink" is a stretch but vaguely plausible as a mysterious feature. Most are plausible. 4/5
+Using Paraphrases. The correct answer changes "bound with" to "held together with," which is a minor paraphrase. Stronger rephrasing (e.g., "secured by old tape") would be possible. 4/5
+Explanation Quality. The explanation correctly identifies the text evidence for the correct answer and accurately explains why each distractor is wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question asks what the inventor did instead of trading goods, and the correct answer "exported ideas" is logical. Distractors (stole inventions, burned old books, refused to travel) are inconsistent with the text. No logical flaws. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct. "He exported ideas" matches the text's "exporting ideas instead of goods." No errors. 5/5
+Text-Based Answerability. The text explicitly states "exporting ideas instead of goods." 5/5
+Reading Dependency. The correct answer is specific and not guessable from general knowledge (most inventors trade goods or services, not just ideas). 5/5
+Answer Unambiguity. Only one answer matches the text. 5/5
+Distractor Plausibility. "Stole inventions" is plausible as a negative action; "burned old books" is less plausible but could come from context; "refused to travel" is easily dismissed as it contradicts the travel description. Some distractors are weak. 3/5
+Using Paraphrases. The correct answer copies the key phrase "exporting ideas" from the text. A stronger paraphrase would be "He traded in concepts rather than physical items." 2/5
+Explanation Quality. The explanation correctly identifies the text evidence and explains why each distractor is wrong. 5/5
+---
+Q4
+Logic & Commonsense. The question asks why the grandfather said the book "saved" him, and the correct answer "its lessons changed his life" is logical. Distractors (prize, only book, treasure map) are unrelated. No logical flaws. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct and well-worded. "Its lessons changed his life" is a natural phrase. No errors. 5/5
+Text-Based Answerability. The text says "This story saved me" and implies through the narrator's change that it taught lessons. The answer is directly inferable. 5/5
+Reading Dependency. The correct answer is not easily guessable; the distractors (prize, only book, treasure map) are common tropes but not clearly correct. 5/5
+Answer Unambiguity. Only one answer aligns with the text's theme of life-changing lessons. 5/5
+Distractor Plausibility. "It helped him win a prize" is plausible (saving could mean winning); "only book he ever owned" is plausible for a sentimental reason; "hidden treasure map" is plausible for an adventure book. All distractors are believable. 5/5
+Using Paraphrases. The correct answer rephrases "saved me" into "changed his life," which is a strong paraphrase that captures the meaning. 5/5
+Explanation Quality. The explanation correctly states the text evidence and explains why each distractor is wrong. 5/5
+---
+Text Coverage. Q1 covers the warning on the cover (beginning of text). Q2 covers the book's binding (first paragraph). Q3 covers the inventor's actions (second paragraph). Q4 covers the grandfather's statement (second paragraph). Questions are distributed across the text, though the first paragraph is slightly underrepresented (only one question). 4/5
+
+
+
+Text
+Matching the Topic. The topic is "a story about a volunteer experience." The text is a first-person narrative about a volunteer event, matching the topic closely. 5/5
+Logic & Commonsense. The text is logical: a volunteer helps market an environmental event, which succeeds. No contradictions or absurdities. 5/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded. "spread awareness" and "gave out tips" are natural. No errors. 5/5
+---
+Q1
+Logic & Commonsense. The question is logical; the correct answer "Assisting with marketing" matches the volunteer's task. Distractors are plausible but incorrect based on the text. 5/5
+Vocabulary & Grammar. All parts are grammatically correct and well-worded. No errors. 5/5
+Text-Based Answerability. The text explicitly states "My main task was to assist with marketing the event." The answer is fully present. 5/5
+Reading Dependency. Without the text, one might guess the volunteer performed in a musical or taught workshops, but "marketing" is specific. General knowledge helps a little. 3/5
+Answer Unambiguity. Only one answer is correct based on the text. The other options are clearly wrong. 5/5
+Distractor Plausibility. "Performing in a musical" is plausible since music is mentioned; "collecting donations" or "teaching workshops" are reasonable for a volunteer event. All distractors are plausible. 5/5
+Using Paraphrases. The correct answer "Assisting with marketing" rephrases "main task was to assist with marketing" while keeping the core meaning. Some key words are shared, but it's a reasonable paraphrase. 4/5
+Explanation Quality. The explanation states why the correct answer is right and why each distractor is wrong, with specific reference to the text. 5/5
+---
+Q2
+Logic & Commonsense. The question is reasonable—surprise is a natural emotion. The correct answer is supported. Distractors are logical alternatives. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says the volunteer was "surprised to see a musical performance by local students." Fully present. 5/5
+Reading Dependency. Without the text, one might guess a large crowd or free food, but the specific "musical performance" is not obvious. 4/5
+Answer Unambiguity. Only "A musical performance by local students" is correct. Others are not mentioned. 5/5
+Distractor Plausibility. "A large crowd of protesters" is plausible for an environmental event; "lack of volunteers" or "free food" could be surprising. All are believable. 5/5
+Using Paraphrases. The correct answer is nearly verbatim from the text ("a musical performance by local students") with only an article change. 2/5
+Explanation Quality. The explanation correctly identifies why the answer is right and why distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question is logical. The correct answer matches the text. Distractors are plausible. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says "spoke directly to passersby about the importance of sustainability." The answer is directly present. 5/5
+Reading Dependency. Without the text, "through social media" or "organizing a protest" are likely guesses. "Speaking directly" is less obvious. 4/5
+Answer Unambiguity. Only "By speaking directly to passersby" is correct. Others are not mentioned. 5/5
+Distractor Plausibility. "Social media posts" is a common marketing tool; "organizing a protest" fits environmental advocacy; "selling eco-products" is plausible. All are believable. 5/5
+Using Paraphrases. The correct answer changes "spoke directly to passersby" to "speaking directly to passersby," which is a minor change (verb form). 3/5
+Explanation Quality. The explanation states why the answer is right and that other options are not mentioned. It could be more explicit about why they are wrong (e.g., "The text does not mention social media"), but it's adequate. 4/5
+---
+Q4
+Logic & Commonsense. The question is logical. The correct answer matches the text. Distractors are plausible but not mentioned. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says "including 500 kilograms of waste recycled." The answer is directly present. 5/5
+Reading Dependency. Without the text, one might guess "100 trees planted" is a common achievement. The specific number is not guessable. 4/5
+Answer Unambiguity. Only "500 kilograms of waste recycled" is correct. The others are not in the text. 5/5
+Distractor Plausibility. "100 trees planted" is typical; "new branch opened" or "documentary filmed" are plausible achievements. All are believable. 5/5
+Using Paraphrases. The correct answer uses the exact phrase "500 kilograms of waste recycled." 1/5
+Explanation Quality. The explanation correctly identifies the right answer and states the others are not referenced. 5/5
+---
+Text Coverage. The questions cover different parts: Q1 (main task), Q2 (surprise at start), Q3 (awareness activities), Q4 (final achievement). They are well distributed across the text. 5/5
+
+
+
+Text
+Matching the Topic. The text is a personal story of an artist telling about their works, including inspiration, themes, and creative process. It fully matches the topic. 5/5
+Logic & Commonsense. The text is logical and consistent with commonsense; there are no errors. 5/5
+Vocabulary & Grammar. The text contains no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+Text-Based Answerability. The answer is fully present in the text ("sketches of ancient temples" in the grandfather’s notebook). 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text; general knowledge does not help. 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. 5/5
+Distractor Plausibility. All incorrect options are plausible to someone who has read the text but not fully understood it (e.g., the grandfather being an engineering professor might mislead, but the inspiration is explicitly from art, not engineering). 5/5
+Using Paraphrases. The correct answer ("His grandfather’s hidden sketches of ancient temples") rephrases the text ("sketches of ancient temples") while adding "hidden" from context, expressing the same meaning. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why all distractors are wrong. 5/5
+---
+Q2
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+Text-Based Answerability. The answer is fully present in the text ("themes of history and identity"). 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text; general knowledge does not help (many artists explore various themes). 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. 5/5
+Distractor Plausibility. All incorrect options are plausible to someone who has read the text but not fully understood it (e.g., the criminal might suggest "famous criminals," but the text emphasizes history/identity). 5/5
+Using Paraphrases. The correct answer ("History and identity") copies the text verbatim, but this is acceptable as it is a key phrase. 3/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why all distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+Text-Based Answerability. The answer is fully present in the text ("like peeling back layers"). 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text; general knowledge does not help. 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. 5/5
+Distractor Plausibility. All incorrect options are plausible to someone who has read the text but not fully understood it (e.g., the grandfather being an engineering professor might suggest "engineering calculation," but the text emphasizes creativity). 5/5
+Using Paraphrases. The correct answer ("Like peeling back layers") copies the text verbatim. 2/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why all distractors are wrong. 5/5
+---
+Q4
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings. 5/5
+Text-Based Answerability. The answer is fully present in the text ("to show how society’s goods and values shaped his story"). 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text; general knowledge does not help. 5/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. 5/5
+Distractor Plausibility. All incorrect options are plausible to someone who has read the text but not fully understood it (e.g., the criminal might suggest "celebration of crime," but the text clarifies the intent). 5/5
+Using Paraphrases. The correct answer ("How society’s values shaped the criminal’s story") rephrases the text ("how society’s goods and values shaped his story") by changing "goods and values" to "values" and adding "criminal’s story," expressing the same meaning. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why all distractors are wrong. 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 (early inspiration), Q2 (themes), Q3 (creative process), Q4 (specific painting). They are evenly distributed. 5/5
+
+
+
+Text
+Matching the Topic. The text is about an ecological project called "GreenWave" in Greenhaven, which directly matches the "news article about an ecological project" topic. 5/5
+Logic & Commonsense. The text is logical and consistent with commonsense, describing a typical urban green initiative with plausible tensions and funding. 5/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded with no errors ("mounting" is slightly informal but not erroneous, and the phrasing is natural). 5/5
+---
+Q1
+Logic & Commonsense. The question and answer options are reasonable and logical, aligning with the text's description of the project's purpose. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The correct answer is directly stated in the text ("transform the city’s outdated industrial zone into a self-sustaining green space"). 5/5
+Reading Dependency. The correct answer could be guessed with general knowledge about ecological projects, but the specific goal (self-sustaining green space) is narrowed by the text. 4/5
+Answer Unambiguity. Only one answer is unambiguously correct based on the text. 5/5
+Distractor Plausibility. All distractors are plausible to someone who may misunderstand the scope (e.g., "ban entirely" or "privatize") but are not supported by the text. 5/5
+Using Paraphrases. The correct answer strongly rephrases the text ("transform an industrial zone into a self-sustaining green space" vs. "transform the city’s outdated industrial zone into a self-sustaining green space"), with some shared key words. 5/5
+Explanation Quality. The explanation accurately explains why the correct answer is right and why all distractors are wrong. 5/5
+---
+Q2
+Logic & Commonsense. The question and options are logical and consistent with commonsense, as job loss fears are a common issue in such transitions. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The answer is directly stated in the text ("Some fear job losses as traditional factories adapt to eco-friendly operations"). 5/5
+Reading Dependency. Without the text, one might guess job loss fears, but the specific context (green transition) makes it somewhat guessable; however, the other options are less plausible. 4/5
+Answer Unambiguity. Only one answer is unambiguously correct. 5/5
+Distractor Plausibility. All distractors are plausible to someone who may skim the text (e.g., traffic or delays) but are not supported. 5/5
+Using Paraphrases. The correct answer rephrases the text well ("some fear job losses during the transition" vs. "Some fear job losses as traditional factories adapt"), not verbatim. 5/5
+Explanation Quality. The explanation accurately explains why the correct answer is right and why the distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question and options are logical and consistent with commonsense about corporate contributions to training. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The answer is directly stated in the text ("pledged to transfer their expertise to train workers"). 5/5
+Reading Dependency. The correct answer might be guessed (training is a common corporate role), but the other options are also plausible without the text. 3/5
+Answer Unambiguity. Only one answer is unambiguously correct. 5/5
+Distractor Plausibility. All distractors are plausible (relocation, cost-cutting, sales) but are not mentioned in the text. 5/5
+Using Paraphrases. The correct answer rephrases the text ("training workers in renewable energy technologies" vs. "transfer their expertise to train workers in renewable energy technologies"), with some shared words. 5/5
+Explanation Quality. The explanation accurately explains why the correct answer is right and why all distractors are wrong. 5/5
+---
+Q4
+Logic & Commonsense. The question and options are logical, though the distractors (e.g., resignation) stretch plausibility slightly but are still common in political contexts. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The answer is directly stated in the text ("a major European investor committing €50 million to the initiative"). 5/5
+Reading Dependency. The correct answer is guessable (funding is a typical role), but the specific amount and investor type make it harder without the text. 4/5
+Answer Unambiguity. Only one answer is unambiguously correct. 5/5
+Distractor Plausibility. All distractors are plausible (operating facilities, political demands, replacing locals) but are not supported. 5/5
+Using Paraphrases. The correct answer rephrases the text ("committed €50 million to fund the initiative" vs. "a major European investor committing €50 million to the initiative"), with shared numbers. 5/5
+Explanation Quality. The explanation accurately explains why the correct answer is right and why the distractors are wrong. 5/5
+---
+Q5
+Logic & Commonsense. The question and options are logical and consistent with commonsense about success factors. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The answer is directly stated in the text ("the presence of both local workforce and international investors as key to its success"). 5/5
+Reading Dependency. The answer is somewhat guessable (both local and international involvement is common), but the specific pairing is text-specific. 4/5
+Answer Unambiguity. Only one answer is unambiguously correct. 5/5
+Distractor Plausibility. All distractors are plausible (immediate closure, neighboring cities, local-only funding) but are not supported. 5/5
+Using Paraphrases. The correct answer rephrases the text ("the involvement of both local workforce and international investors" vs. "the presence of both local workforce and international investors as key"), with minor changes. 5/5
+Explanation Quality. The explanation accurately explains why the correct answer is right and why the distractors are wrong. 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 (main purpose), Q2 (tension), Q3 (EcoBuild contribution), Q4 (European investor), Q5 (mayor's emphasis), distributing across the text evenly. 5/5
+
+
+
+Text
+Matching the Topic. The text is a sci-fi story about space travel, specifically the launch of a spaceship with a flaw. It matches the topic perfectly. 5/5
+Logic & Commonsense. The story is logical: a rushed manufacturing process leads to a flaw, a captain warns about it, and the launch proceeds despite risks. There are no logical inconsistencies. 5/5
+Vocabulary & Grammar. The text has no grammar, vocabulary, spelling, or collocation errors. The wording is natural and clear. 5/5
+---
+Q1
+Logic & Commonsense. The question asks about the flaw, and the answer options are all reasonable possibilities for a navigation system flaw. They are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The text explicitly states "the shape of the lens... was too stiff, causing distortions," so the answer is fully present. 5/5
+Reading Dependency. Without reading the text, one might guess a lens issue (e.g., material quality or focusing), but the specific "stiffness" is not common knowledge. The correct answer is not easily guessable. 4/5
+Answer Unambiguity. Only "The lens system was too stiff and caused distortions" is correct based on the text. The other options are not supported. 5/5
+Distractor Plausibility. All distractors are plausible lens-related issues, but they are clearly wrong based on the text, which specifies stiffness. 5/5
+Using Paraphrases. The correct answer rephrases "too stiff, causing distortions" as "too stiff and caused distortions," which changes one word ("causing" to "caused") and is a very minor change, not a strong paraphrase. 2/5
+Explanation Quality. The explanation accurately states why the correct answer is right and why the distractors are wrong (no mention of material quality, Earth’s atmosphere, or star-focusing issues). 5/5
 ---
 Q2
 Logic & Commonsense. The question and options are logical and consistent with commonsense. 5/5
-Vocabulary & Grammar. No grammar, vocabulary, or spelling errors. 5/5
-Text-Based Answerability. The text explicitly says "He bought a hat, surprised by how happy it made him," so the answer is directly stated. 5/5
-Reading Dependency. The correct answer is difficult to guess without reading the text, as it's a specific detail. 5/5
-Answer Unambiguity. Exactly one answer ("A colorful hat") is unambiguously correct. 5/5
-Distractor Plausibility. "Intelligent book" and "Polite souvenirs" are plausible distractors as they use descriptive words from the text ("intelligent," "polite"), and "Strange fruit" is mentioned nearby. 5/5
-Using Paraphrases. The correct answer rephrases "a hat" to "a colorful hat" (adding "colorful" from the market description), which is acceptable. 4/5
-Explanation Quality. The explanation correctly identifies the correct answer and explains why each distractor is wrong, citing text details. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The text states Voss said, "In instance, we saw how the Nova-5 failed due to similar oversights... We won’t repeat history," directly supporting the correct answer. 5/5
+Reading Dependency. The reason for refusing the discount (fear of repeating past failures) is specific to the text; general knowledge would not provide this. The correct answer is hard to guess. 5/5
+Answer Unambiguity. Only the correct answer is supported; the distractors are speculative or contradictory. 5/5
+Distractor Plausibility. The distractors are plausible reasons for refusing a discount (impatience, low amount, distrust), but the text explicitly gives a different reason. 5/5
+Using Paraphrases. The correct answer rephrases the text's idea ("We won’t repeat history" and "Nova-5 failed") as "feared repeating past failures like the Nova-5," which is a strong rephrase. 5/5
+Explanation Quality. The explanation correctly justifies the correct answer and explains why the distractors are speculative or contradictory. 5/5
 ---
 Q3
-Logic & Commonsense. The question is reasonable, but the correct answer states the fruit was "magical and dangerous to eat." The text says the fruit was "sweet" and the island was "magical," but doesn't explicitly state danger or the boy's knowledge of it; this requires inference that may not be fully logical. 3/5
-Vocabulary & Grammar. No grammar, vocabulary, or spelling errors. 5/5
-Text-Based Answerability. The text does not state why the boy warned Mark; it only says "Don't eat it!" and later Mark realized the island was magical. The answer requires inference beyond the text. 2/5
-Reading Dependency. The correct answer is guessable from general knowledge (warning about unknown fruit implies danger) without reading the text. 2/5
-Answer Unambiguity. The correct answer is not unambiguously supported by the text; the text does not specify the boy's reason. Other distractors could be argued as equally unsupported. 2/5
-Distractor Plausibility. The distractors ("Scared of Mark," "The fruit was rotten," "The boy was lazy") are obviously wrong based on the text, as they contradict or are not mentioned. 2/5
-Using Paraphrases. The correct answer introduces "magical" (from the text) and "dangerous" (inferred), which goes beyond paraphrasing. 2/5
-Explanation Quality. The explanation claims the fruit had "unknown effects" and the boy "suggests it was special," but does not accurately justify why it was "dangerous," and does not fully address distractors (e.g., "the fruit was rotten" is dismissed despite text not ruling it out). 2/5
+Logic & Commonsense. The question and options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The text says the lens was "too stiff, causing distortions during high-speed travel," so the answer is fully present. 5/5
+Reading Dependency. The specific effect (distortions due to rigidity) is not common knowledge; one might guess "blocked communication" or "amplified signals," but the text's answer is specific. The correct answer is hard to guess. 5/5
+Answer Unambiguity. Only the correct answer is supported; the other options are unsupported. 5/5
+Distractor Plausibility. All distractors are plausible effects of a lens issue, making them believable to someone who didn't read carefully. 5/5
+Using Paraphrases. The correct answer rephrases "too stiff, causing distortions" as "caused distortions due to its rigid structure," which changes "too stiff" to "rigid structure" - a good paraphrase. 5/5
+Explanation Quality. The explanation correctly states why the correct answer is right and why the distractors are unsupported. 5/5
 ---
-Text Coverage. Q1 covers the start of the trip (initial nervousness), Q2 covers the market (middle), and Q3 covers the fruit incident (later). The questions are well distributed across different parts of the text. 5/5
+Q4
+Logic & Commonsense. The question asks about the word "instance" in context. The options are reasonable interpretations, but "It introduces a general rule" is logically less plausible, as "instance" typically introduces an example. The options are still within commonsense. 4/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The text's context ("In instance, we saw how the Nova-5 failed") clearly shows "instance" refers to a specific example. The answer is directly inferable. 5/5
+Reading Dependency. The meaning of "instance" in context is dependent on reading the sentence; general knowledge of the word might help (e.g., "for instance" means "for example"), but the specific use in this sentence requires reading. The correct answer is not easily guessable without reading. 5/5
+Answer Unambiguity. Only the correct answer is supported by the text's context. 5/5
+Distractor Plausibility. All distractors are plausible interpretations of the word's role in a sentence, but the context clearly points to the correct one. 5/5
+Using Paraphrases. The correct answer rephrases the idea of "a specific example" without copying the text verbatim. 5/5
+Explanation Quality. The explanation accurately describes the meaning of "instance" and why the other options are wrong. 5/5
+---
+Q5
+Logic & Commonsense. The question asks for a word describing a physical property of the lens. The options are all words from the text, but "rival," "wind," and "discount" are not physical properties of the lens. The question and options are logical. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The text says the lens was "too stiff," so "stiff" is a physical property. The answer is fully present. 5/5
+Reading Dependency. Without reading, one might not know which word describes the lens's physical property, as "stiff" could apply to many things. However, the other options are clearly not physical properties (rival, wind, discount), making the correct answer somewhat guessable. The correct answer is moderately guessable. 3/5
+Answer Unambiguity. Only "stiff" is a physical property of the lens; the others are not. 5/5
+Distractor Plausibility. The distractors are all words from the text, but they are not physical properties, so they are obviously wrong to someone who understands the question. They are not plausible. 1/5
+Using Paraphrases. The correct answer is a single word from the text, "stiff," which is a verbatim copy. 1/5
+Explanation Quality. The explanation correctly identifies the correct answer and explains why the distractors are not physical properties. 5/5
+---
+Text Coverage. The questions cover: the flaw (Q1, Q3, Q5), Voss's refusal (Q2), and a specific word meaning (Q4). They are spread across different parts of the text, covering the main ideas: the flaw, Voss's argument, and a vocabulary item. 5/5
+
+
+
+Text
+Matching the Topic. The text is a clear adventure story about time travel, fully matching the topic. 5/5
+Logic & Commonsense. The narrative is logical: a historian touches a mysterious pendulum, travels to the past, observes events, and returns. There are no logical contradictions or violations of commonsense within the story's premise. 5/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded, with no errors in vocabulary, spelling, collocation, or unnatural phrasing. 5/5
+---
+Q1
+Logic & Commonsense. The question and options are logical. It's reasonable that someone might be skeptical of strange rumors. 5/5
+Vocabulary & Grammar. No grammatical or vocabulary errors. 5/5
+Text-Based Answerability. The text directly states, "he dismissed the speculation as ridiculous," making the answer fully present. 5/5
+Reading Dependency. The correct answer is a direct quote, but without reading the text, a reader might not know Leo dismissed it as ridiculous. Some general knowledge might suggest skepticism, but the specific phrasing is text-dependent. 4/5
+Answer Unambiguity. Only "He dismissed the speculation as ridiculous" is correct; the other options are not supported by the text. 5/5
+Distractor Plausibility. "He feared touching it would be dangerous" and "He believed it was just an ordinary landmark" are plausible for someone who hasn't read carefully. "Controlled by the village elders" is less plausible but still possible. 4/5
+Using Paraphrases. The correct answer copies the text verbatim ("dismissed the speculation as ridiculous"). 2/5
+Explanation Quality. The explanation correctly states why the correct answer is right and explains why each distractor is wrong. 5/5
+---
+Q2
+Logic & Commonsense. The question and options are logical. It makes sense to fear catastrophic consequences from altering history. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text explicitly says, "he knew altering history could have catastrophic consequences." 5/5
+Reading Dependency. Without reading, one might guess that a time traveler would avoid interference, but the specific reason (fearing catastrophic consequences) is less common than options like "keeping secrets." 4/5
+Answer Unambiguity. Only "He feared altering history could have catastrophic consequences" is correct. The other options are not mentioned. 5/5
+Distractor Plausibility. "He wanted to keep his time travel a secret" is a plausible alternative motivation. The other two are less plausible but still possible. 4/5
+Using Paraphrases. The correct answer uses a near-verbatim phrase ("could have catastrophic consequences") but changes a few words ("feared" vs. "knew"). It's a partial paraphrase. 3/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why the distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question and options are logical. Documenting with sketches is a reasonable response. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says, "his notebook filled with sketches of a world he’d never thought existed," and he later published his findings. The answer is directly supported. 5/5
+Reading Dependency. Without reading, one might guess he kept a journal, but the specific detail about sketches is less obvious. 4/5
+Answer Unambiguity. Only "He documented it with sketches in his notebook" is correct. The others are contradicted or not implied. 5/5
+Distractor Plausibility. "He tried to convince locals" and "He memorized everything" are plausible things a time traveler might do, making them good distractors. "Destroyed notes" is less plausible but not obviously wrong. 4/5
+Using Paraphrases. The correct answer rephrases the text well, using "documented it with sketches" instead of "filled with sketches." 5/5
+Explanation Quality. The explanation correctly identifies the correct answer and explains why the distractors are wrong. 5/5
+---
+Q4
+Logic & Commonsense. The question and options are logical. A mechanism being unpredictable is a reasonable explanation. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says, "the clock tower’s mechanism grew relatively unpredictable." 5/5
+Reading Dependency. Without reading, one might guess various reasons, but the text provides a specific one. 4/5
+Answer Unambiguity. Only "Its mechanism grew relatively unpredictable" is correct. The other options are not mentioned. 5/5
+Distractor Plausibility. "It required a specific password" and "It only worked during full moons" are common time-travel tropes, making them plausible. "Damaged by Leo's first use" is also plausible. 5/5
+Using Paraphrases. The correct answer copies the text verbatim ("grew relatively unpredictable"). 2/5
+Explanation Quality. The explanation correctly states why the correct answer is right and why the distractors are wrong. 5/5
+---
+Q5
+Logic & Commonsense. The question and options are logical. Returning and being disbelieved is a common time-travel story outcome. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text concludes, "Back in 2024, Leo published his findings, but few believed him." 5/5
+Reading Dependency. Without reading, one might guess he returned, but the detail about being disbelieved is not general knowledge. 4/5
+Answer Unambiguity. Only "He returned to 2024 with a notebook of sketches but was widely disbelieved" is correct. The others are contradicted or not implied. 5/5
+Distractor Plausibility. "He stayed in the past permanently" and "He used his knowledge to become rich" are plausible story twists. "Arrested for trespassing" is less plausible but not impossible. 4/5
+Using Paraphrases. The correct answer is a strong paraphrase, summarizing the key points without copying verbatim. 5/5
+Explanation Quality. The explanation correctly describes why the correct answer is right and reasons for each distractor. 5/5
+---
+Text Coverage. The questions cover the beginning (Q1), middle (Q2, Q4), and end (Q3, Q5) of the text, with a good distribution across different events and concepts. 5/5
+
+
+
+Text
+Matching the Topic. The text is a clear narrative about a cross-cultural misunderstanding between volunteers and villagers, focusing on misinterpreting banners, tissue packets, and a spilled drink. <5>/5
+Logic & Commonsense. The sequence of events is logical: a misunderstanding occurs, tensions rise, and an elder resolves it by explaining cultural differences. No logical flaws are present. <5>/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded with no errors. Phrases like "bent shapes," "motion of panic," and "newfound obligation" are natural and effective. <5>/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical. Correct answer aligns with the text's mention of "evil omen," and distractors are reasonable but incorrect. <5>/5
+Vocabulary & Grammar. No grammatical or vocabulary errors. The question and options are well-worded. <5>/5
+Text-Based Answerability. The text explicitly states the villagers interpreted bent banners as "a sign of disrespect—an evil omen in their folklore." The answer is fully present. <5>/5
+Reading Dependency. Without reading the text, one might guess "a sign of celebration" or "a modern art installation" based on common sense, but "evil omen" requires knowledge of the specific folklore. Score 4 because general knowledge could hint at cultural misinterpretation. <4>/5
+Answer Unambiguity. Only "an evil omen" matches the text. The other options are not supported. <5>/5
+Distractor Plausibility. All distractors are plausible to a reader who skimmed or misunderstood the text, as they relate to common interpretations of banners. <5>/5
+Using Paraphrases. The correct answer "an evil omen" uses the exact phrase from the text. No paraphrase is attempted. <2>/5
+Explanation Quality. The explanation correctly identifies why the correct answer is right and why the distractors are wrong. It clearly states the text supports the correct answer and that others contradict or are unsupported. <5>/5
+---
+Q2
+Logic & Commonsense. Logical. The text states a myth about "wiping away" happiness, which the correct answer paraphrases. Other options are plausible but not mentioned. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. The text explicitly mentions the myth linking tissue to bad luck. Fully supported. <5>/5
+Reading Dependency. General knowledge might not connect tissue to bad luck myths; most would not guess this. Score 5. <5>/5
+Answer Unambiguity. Only the correct answer is supported; other options are not mentioned. <5>/5
+Distractor Plausibility. All distractors are plausible to someone who did not read carefully, especially "medical supply" or "wasteful gesture." <5>/5
+Using Paraphrases. The correct answer rephrases "myth about bad luck" as "associated it with a myth about bad luck," which changes wording but keeps meaning. Score 4 because it changes more than two words but still could be more paraphrased (e.g., "They thought it would bring misfortune"). <4>/5
+Explanation Quality. Accurately states why the correct answer is right and notes other options are plausible but not mentioned. It does not explicitly say they are wrong, but it implies it. Still, it meets the criteria for explaining why distractors are wrong by noting they are "not mentioned in the passage." Score 5. <5>/5
+---
+Q3
+Logic & Commonsense. Logical. The text describes the spilled drink as causing panic. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. The text explicitly mentions "a volunteer accidentally knocked over a tray of drinks." Fully supported. <5>/5
+Reading Dependency. Guessing this without reading is possible (spilling something is a common mistake), but the specific action is unlikely to be guessed from general knowledge alone. Score 4. <4>/5
+Answer Unambiguity. Only the correct answer matches. <5>/5
+Distractor Plausibility. All distractors are plausible negative actions that could worsen a misunderstanding. <5>/5
+Using Paraphrases. The correct answer paraphrases "knocked over a tray of drinks" as "knocking over a tray of drinks," which is nearly verbatim. Score 2. <2>/5
+Explanation Quality. Correctly states the text supports the correct answer and that other options are not referenced. <5>/5
+---
+Q4
+Logic & Commonsense. Logical. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. The text states "hospitality required sharing food." Fully supported. <5>/5
+Reading Dependency. Many cultures show hospitality through food, so this might be guessed, but the text confirms it. Score 3. <3>/5
+Answer Unambiguity. Only "sharing food" is mentioned; other options are not referenced as traditional hospitality. <5>/5
+Distractor Plausibility. "Exchanging gifts" and "verbal blessings" are plausible cultural practices, and "handshakes" is common. <5>/5
+Using Paraphrases. The correct answer "sharing food" is a slight paraphrase of "required sharing food" (changes "required" to "by sharing"). Score 3. <3>/5
+Explanation Quality. Correctly states the correct answer and why distractors are wrong (they are "cultural practices but not confirmed here"). Good. <5>/5
+---
+Q5
+Logic & Commonsense. Logical. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. The text says "newfound obligation to research cultural norms before future gatherings." Fully supported. <5>/5
+Reading Dependency. Guessing this without reading is somewhat plausible (lesson learned from misunderstanding), but the specific phrasing about research is not obvious. Score 4. <4>/5
+Answer Unambiguity. Only the correct answer matches. <5>/5
+Distractor Plausibility. Two distractors ("avoid colorful decorations" and "use only verbal communication") are reasonable misunderstandings, while "never trust villagers’ interpretations" is extreme but plausible. <5>/5
+Using Paraphrases. The correct answer "To research cultural norms before gatherings" is a strong paraphrase of "newfound obligation to research cultural norms before future gatherings." Score 5. <5>/5
+Explanation Quality. Accurately explains why the correct answer is right and why the other options are "unsupported." <5>/5
+---
+Text Coverage. Q1 targets the banners (beginning of text), Q2 targets tissue packets (middle), Q3 targets spilled drink (middle), Q4 targets hospitality (end), Q5 targets lesson (end). Questions are well-distributed across the text, covering different parts. No part is overrepresented. <5>/5
+
+
+
+Text
+Matching the Topic. The text is a story about an accidental invention that leads to adventure and consequences, matching the topic well. <5>/5
+Logic & Commonsense. The story is logical: a slipping accident, a watch malfunctioning due to rain and mercury, and subsequent events like fame and rivalry. No errors found. <5>/5
+Vocabulary & Grammar. The text uses good vocabulary and grammar; note that "the disabled merchant’s prized watch" could be misread (disabled person vs. disabled watch), but it’s clear in context. No other errors. <5>/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical; the correct answer aligns with the text’s description of the accident. <5>/5
+Vocabulary & Grammar. No errors: "What initially caused" is clear, options are well-phrased. <5>/5
+Text-Based Answerability. The answer is explicitly stated: "the glass melted under the rain’s heat" after falling into a puddle. <5>/5
+Reading Dependency. Without reading, one might guess a slip and water damage, but the specific melting and rain heat are not common knowledge. The correct answer is moderately guessable but text helps. <4>/5
+Answer Unambiguity. Only one answer matches: the text says the watch fell into a puddle and melted under rain. No other options are correct. <5>/5
+Distractor Plausibility. Lightning, accidental feature, or intentional design are plausible to someone who misread the text. All distractors are believable. <5>/5
+Using Paraphrases. The correct answer rephrases "the glass melted under the rain’s heat" (changes "the glass melted" to "melted under the rain’s heat" and adds "fell into a puddle" from earlier). This is a moderate paraphrase. <4>/5
+Explanation Quality. The explanation correctly identifies why the correct answer is right (explicitly stated) and why each distractor is wrong (unsupported). <5>/5
+---
+Q2
+Logic & Commonsense. The question and options are logical; the emperor’s motive is plausible. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. The text says the emperor "saw opportunity" and "declared the watch a divine gift," implying exploitation of fame. The correct answer paraphrases this. <5>/5
+Reading Dependency. The specific motive (exploit fame) is not obvious without reading; one might guess supernatural belief. Text is needed. <5>/5
+Answer Unambiguity. Only the correct answer fits; the other options are not mentioned (prayer, prophecy, orders). <5>/5
+Distractor Plausibility. The distractors (prayer, prophecy, imperial orders) are plausible in a story about divine gifts. <5>/5
+Using Paraphrases. "Believed the watch’s behavior was supernatural and wanted to exploit its fame" rephrases "intrigued by the 'magic' watch" and "saw opportunity." Strong paraphrase. <5>/5
+Explanation Quality. Discusses why the correct answer is right (emperor’s fascination and desire to capitalize) and why distractors are wrong (no mention). <5>/5
+---
+Q3
+Logic & Commonsense. The question and options are logical; the conflict among inventors is plausible. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. The text states "sparking a battle between rival inventors who claimed to have created it first." The correct answer matches. <5>/5
+Reading Dependency. Without reading, one might guess a conflict, but the specific reason (false claims to credit) is not common knowledge. <4>/5
+Answer Unambiguity. Only the correct answer matches; other options (accusations, health disputes, raids) are not in the text. <5>/5
+Distractor Plausibility. Accusations of theft, health disputes, or raids are plausible in an invention rivalry context. <5>/5
+Using Paraphrases. "claiming they had created the Gravity Watch first to gain credit" rephrases "battle between rival inventors who claimed to have created it first." Good paraphrase. <5>/5
+Explanation Quality. Explains why the correct answer is right (text states battle over authorship) and why distractors are wrong (no evidence). <5>/5
+---
+Q4
+Logic & Commonsense. The question asks for a word describing work ethic; "pace" is a valid choice in context. Options are logical. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. The text says "never lost his pace," so "pace" is directly found. <5>/5
+Reading Dependency. Without reading, one might guess "ambition" is more common; "pace" is a less typical word. Text is needed. <5>/5
+Answer Unambiguity. Only "pace" is explicitly used in the text to describe his work ethic. The distractors are not directly stated. <5>/5
+Distractor Plausibility. "Ambition" could seem plausible as a work ethic word; "arrogance" contradicts his humility; "laziness" is opposite. Some plausible. <4>/5
+Using Paraphrases. The correct answer is a verbatim copy from the text ("pace"). <2>/5
+Explanation Quality. Explains why "pace" is correct (proactive approach) and why distractors are wrong (vague, contradictory, opposite). <5>/5
+---
+Q5
+Logic & Commonsense. The question and options are logical; the merchant’s role is clear. <5>/5
+Vocabulary & Grammar. No errors. <5>/5
+Text-Based Answerability. The text says "rushing to repair a disabled merchant’s prized watch" caused the slip. The correct answer states this. <5>/5
+Reading Dependency. The specific role (causing rush) is not guessable without reading; general knowledge of stories might suggest funding or theft. Text needed. <5>/5
+Answer Unambiguity. Only the correct answer matches; the other options are not mentioned. <5>/5
+Distractor Plausibility. Funding rare minerals, stealing, or dueling are plausible story developments. <5>/5
+Using Paraphrases. "His broken watch forced Marco to rush" rephrases "rushing to repair a disabled merchant’s prized watch." Good paraphrase. <5>/5
+Explanation Quality. Explains why the correct answer is right (catalyst for accident) and why distractors are wrong (unrelated). <5>/5
+---
+Text Coverage. The questions cover different parts: Q1 (initial accident), Q2 (emperor’s reaction), Q3 (conflict), Q4 (Marco’s character), Q5 (merchant’s role). Good distribution. <5>/5
+
+
+
+Text
+Matching the Topic. The text discusses the advantages and disadvantages of social media, which directly matches the topic. 5/5
+Logic & Commonsense. The text is logical and consistent: it presents balanced pros and cons of social media with no factual contradictions. 5/5
+Vocabulary & Grammar. The text is well-written with no errors. "On one angle" could be slightly unnatural (more common: "on one hand"), but it does not affect clarity significantly. Still, this is a minor collocation issue. 4/5
+---
+Q1
+Logic & Commonsense. The question and answer options are all logical; the correct answer is reasonable, and distractors are clearly wrong from common sense. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. No errors. 5/5
+Text-Based Answerability. The text explicitly mentions "pressure to achieve viral fame" as a negative effect. 5/5
+Reading Dependency. Without reading the text, one might know social media creates fame pressure, but the specific phrasing "achieve viral fame quickly" is not common knowledge; general knowledge helps but the text provides the exact link. 4/5
+Answer Unambiguity. Exactly one answer ("pressure to achieve viral fame") is correct; the others are clearly wrong. 5/5
+Distractor Plausibility. The distractors are not plausible to someone who has read the text: none are mentioned or related. 1/5
+Using Paraphrases. The correct answer rephrases "pressure to achieve viral fame" from the text ("rapid rise... pressure to achieve viral fame") but keeps key words ("pressure", "viral fame"). It is a partial paraphrase. 4/5
+Explanation Quality. The explanation correctly identifies why the correct answer is right and explains why all distractors are wrong, though the distractor explanations are brief but accurate. 5/5
+---
+Q2
+Logic & Commonsense. The question and options are logical; the correct answer matches common knowledge about algorithms. 5/5
+Vocabulary & Grammar. No errors in wording. 5/5
+Text-Based Answerability. The text explicitly states "algorithms amplify extreme opinions, deepening societal divides." 5/5
+Reading Dependency. The idea that algorithms amplify extreme opinions is common knowledge, so the answer is guessable without reading. 2/5
+Answer Unambiguity. Exactly one answer is correct based on the text. 5/5
+Distractor Plausibility. The distractors are plausible to someone who misunderstands: "balanced perspectives" might seem likely, "modest content" could be misinterpreted, but "replace traditional news" is less plausible. Most are plausible. 4/5
+Using Paraphrases. The correct answer is almost a direct quote from the text ("amplify extreme opinions, deepening societal divides"). 2/5
+Explanation Quality. The explanation accurately describes the correct answer and why distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question and options are logical; the correct answer aligns with the text. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text mentions "stricter safeguards, including age verification and content warnings." 5/5
+Reading Dependency. Without reading, one might guess stricter safeguards, but specifics like "age verification" are not common knowledge. 3/5
+Answer Unambiguity. Exactly one answer is correct. 5/5
+Distractor Plausibility. "Banning all platforms" might be plausible as a potential solution, but the other distractors are not plausible. Some distractors are obviously wrong. 3/5
+Using Paraphrases. The correct answer strongly rephrases "hopefully, tech companies will soon introduce stricter safeguards, including age verification and content warnings" to "stricter safeguards, such as age verification and content warnings." It changes structure but keeps key terms. 4/5
+Explanation Quality. The explanation correctly identifies the correct answer and explains why distractors are wrong. 5/5
+---
+Q4
+Logic & Commonsense. The question asks for a word meaning the opposite of "excessive" regarding ambitions. The correct answer "modest" is logical. Distractors are unrelated. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text uses "modest" to describe a hobby ("modest hobby"). The question asks for the opposite of "excessive" in the context of "initial ambitions"; while the text doesn't directly say "modest" is opposite of "excessive", it is inferable. However, the text does not explicitly compare "modest" to "excessive". This requires inference. 4/5
+Reading Dependency. Without reading, one can guess "modest" is opposite of "excessive" in the context of ambitions. General knowledge helps. 3/5
+Answer Unambiguity. Exactly one answer is correct. 5/5
+Distractor Plausibility. The distractors are not plausible; they are unrelated words from the text. 1/5
+Using Paraphrases. The correct answer "modest" is a direct word from the text, but the question rephrases the context (opposite of "excessive" vs. "initial ambitions"). This is acceptable for a vocabulary question. 5/5
+Explanation Quality. The explanation correctly justifies the correct answer and explains why distractors are wrong. 5/5
+---
+Q5
+Logic & Commonsense. The question and options are logical; the correct answer matches the text. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text explicitly states some countries consider "prohibiting certain platforms to curb misinformation." 5/5
+Reading Dependency. Curbing misinformation is a common reason given for platform bans, so it is somewhat guessable without reading. 3/5
+Answer Unambiguity. Exactly one answer is correct. 5/5
+Distractor Plausibility. "Increase engagement" might be plausible as a corporate goal, but not for government prohibition. The other distractors are not plausible. Some distractors are obviously wrong. 2/5
+Using Paraphrases. The correct answer rephrases "prohibiting certain platforms to curb misinformation" to "To curb the spread of misinformation." Good paraphrase. 5/5
+Explanation Quality. The explanation accurately describes the correct answer and why distractors are wrong. 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 (negative effect on young users), Q2 (algorithms), Q3 (solutions), Q4 (vocabulary from early part), Q5 (prohibition reason). They are well distributed. 5/5
+
+
+
+Text
+Matching the Topic. The text is about exploring a hidden underground city, which matches the topic of an adventure story about exploring a hidden underground city. 5/5
+Logic & Commonsense. The text is logical and consistent with commonsense. No errors found. 5/5
+Vocabulary & Grammar. The text contains a couple of issues: "Their excitement was rapid" is odd wording (rapid excitement is not a typical collocation); "They accompanied a local historian" is slightly unnatural if Dr. Ren is part of the team; "the team was satisfied with their discovery" is fine. There are at least two unnatural wordings. 3/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. No errors in question or options. 5/5
+Text-Based Answerability. The text states "Her long-standing theories about forgotten civilizations" as the reason for her belief, directly answering the question. 5/5
+Reading Dependency. Without reading the text, one might guess from the options, but the correct answer is specific to the text and not easily guessable by general knowledge. 4/5
+Answer Unambiguity. Exactly one answer is unambiguously correct based on the text. 5/5
+Distractor Plausibility. The distractors are plausible: a local legend, ancient texts, or a dream could all be reasonable sources of belief for an explorer. 5/5
+Using Paraphrases. The correct answer rephrases "long theorized" as "long-standing theories," which is a good paraphrase. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why all distractors are wrong. 5/5
+---
+Q2
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text mentions a "pause" at the edge of the chamber and "caution kept them from rushing," implying assessment and mental preparation, but the exact reason is not explicitly stated. The answer requires some inference. 4/5
+Reading Dependency. Without the text, one might guess "to assess stability" is plausible, but the other options are also plausible; still, some general knowledge helps. 3/5
+Answer Unambiguity. The correct answer is the most supported by the text, but the text does not explicitly state the reason for the pause, so there is some ambiguity. 4/5
+Distractor Plausibility. All distractors are plausible: a strange noise, letting Kael recover, or equipment malfunction could all cause a pause. 4/5
+Using Paraphrases. The correct answer paraphrases the text's implication ("caution kept them from rushing") well. 5/5
+Explanation Quality. The explanation accurately states why the correct answer is right and why the distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says "murals depicting a people... They were a democratic society." This directly supports the correct answer. 5/5
+Reading Dependency. Without reading the text, one might guess that murals could show democracy, but the other options are also plausible; however, the text specifically mentions murals, making it less guessable. 4/5
+Answer Unambiguity. Exactly one answer is unambiguously correct. 5/5
+Distractor Plausibility. The distractors are plausible: a constitution, coins with symbols, or a speech could all be evidence of democracy. 5/5
+Using Paraphrases. The correct answer rephrases "murals" and "democratic" well, though it adds "without rulers or forced hierarchy" which is a reasonable inference. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why the distractors are wrong. 5/5
+---
+Q4
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text explicitly states "the heat of a nearby geyser" caused the melting. 5/5
+Reading Dependency. Without the text, one might guess a geyser or volcano, but the text specifies geyser, making it not easily guessable. 4/5
+Answer Unambiguity. Exactly one answer is unambiguously correct. 5/5
+Distractor Plausibility. The distractors are plausible: a volcanic eruption, heating system malfunction, or flashlight overheating could all cause melting. 5/5
+Using Paraphrases. The correct answer rephrases "the heat of a nearby geyser" as "the heat from a nearby geyser," which is a minor change but acceptable. 4/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why the distractors are wrong. 5/5
+---
+Q5
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text states Dr. Ren had "spent years studying the legends" and his "knowledge was invaluable," directly supporting the correct answer. 5/5
+Reading Dependency. Without reading the text, one might guess that a historian provides historical knowledge, making it somewhat guessable. 3/5
+Answer Unambiguity. Exactly one answer is unambiguously correct. 5/5
+Distractor Plausibility. The distractors are plausible: a historian could also lead, translate, or repair things, but these are not supported by the text. 4/5
+Using Paraphrases. The correct answer rephrases "years studying the legends" as "historical knowledge based on legends," which is a good paraphrase. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why the distractors are wrong. 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 focuses on Elara's belief, Q2 on the pause before the chamber, Q3 on the democratic evidence (murals), Q4 on the ceiling melting (geyser), and Q5 on Dr. Ren's role. They are well distributed across the text. 5/5
+
+
+
+Text
+Matching the Topic. The text is a clear personal story about overcoming a fear of public speaking, which matches the topic exactly. 5/5
+Logic & Commonsense. The narrative is logical: an engineer with an irrational fear, a gradual approach to overcoming it, and a successful outcome. No logical errors. 5/5
+Vocabulary & Grammar. "observeing" is a spelling error (should be "observing"). No other errors. 4/5
+---
+Q1
+Logic & Commonsense. The question and answer options are reasonable and logical. 5/5
+Vocabulary & Grammar. The question and options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The text explicitly states "My academic background in engineering made it even stranger," directly supporting the correct answer. 5/5
+Reading Dependency. The correct answer requires knowledge of the text; general knowledge wouldn't suggest that an engineering background makes fear of public speaking unusual. 5/5
+Answer Unambiguity. Only the engineering background is mentioned as making the fear unusual; the distractors are not supported. 5/5
+Distractor Plausibility. The distractors are all irrelevant to the text and unlikely to be chosen by a careful reader, but they are plausible as random guesses. However, they are not plausible to someone who has read the text, as they are not mentioned. 3/5
+Using Paraphrases. The correct answer rephrases the text: "academic background in engineering" instead of "engineering background." Acceptable. 5/5
+Explanation Quality. The explanation correctly identifies why the correct answer is right and why each distractor is wrong. 5/5
+---
+Q2
+Logic & Commonsense. The question and options are reasonable. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text states "first, I practiced in front of a mirror," directly answering the question. 5/5
+Reading Dependency. A reader might guess "practicing in front of a mirror" is a common technique, but the text specifies it as the first step, making it less guessable without reading. 4/5
+Answer Unambiguity. Only one option matches the text's description of the first step. 5/5
+Distractor Plausibility. "Joining a democracy debate club immediately" is plausible because the text mentions it later, but a careful reader would know it wasn't first. "Avoiding social interactions" and "suspecting a medical condition" are obviously wrong. 3/5
+Using Paraphrases. The correct answer rephrases "practiced in front of a mirror" as "practicing in front of a mirror." Acceptable. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right and why the distractors are wrong. 5/5
+---
+Q3
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says "I even wandered into a local democracy debate club, where I spoke about engineering innovations—something I was passionate about. The experience was liberating," supporting the correct answer. 5/5
+Reading Dependency. The correct answer requires reading the text; general knowledge doesn't specify this detail. 5/5
+Answer Unambiguity. Only one option matches the text's description. 5/5
+Distractor Plausibility. All distractors are obviously wrong based on the text. 2/5
+Using Paraphrases. The correct answer rephrases "spoke about engineering innovations—something I was passionate about" as "speaking about a passion." Strong paraphrase. 5/5
+Explanation Quality. The explanation correctly covers why the correct answer is right and why each distractor is wrong. 5/5
+---
+Q4
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text states "my fear had transformed into excitement," directly supporting the correct answer. 5/5
+Reading Dependency. The correct answer is difficult to guess without reading the text. 5/5
+Answer Unambiguity. Only one option matches the text. 5/5
+Distractor Plausibility. All distractors are obviously wrong based on the text. 2/5
+Using Paraphrases. The correct answer rephrases "fear had transformed into excitement" as "replaced fear with excitement." Good paraphrase. 5/5
+Explanation Quality. The explanation correctly identifies why the correct answer is right and why the distractors are wrong. 5/5
+---
+Q5
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. Note: There is an extra "Distractors:" line in the question; this is a formatting error, but the content is fine. The evaluator should consider this a minor error. 4/5
+Text-Based Answerability. The text says "vulnerability isn’t weakness—it’s the first step toward growth," directly supporting the correct answer. 5/5
+Reading Dependency. The correct answer is explicit in the text; general knowledge might not provide this specific insight. 5/5
+Answer Unambiguity. Only one option matches the text. 5/5
+Distractor Plausibility. The distractors are all obviously wrong based on the text. 2/5
+Using Paraphrases. The correct answer rephrases the text: "first step toward growth" as "first step toward growth." This is verbatim, but acceptable since it's a key phrase. 4/5
+Explanation Quality. The explanation correctly identifies why the correct answer is right and why the distractors are wrong. 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 focuses on the initial unusual aspect, Q2 on the first step, Q3 on the debate club, Q4 on the turning point, and Q5 on the final message. They are well distributed. 5/5
+
+
+
+Text
+Matching the Topic. The text is a sci-fi story about an AI launched by a corporation, which matches the topic of a sci-fi story about artificial intelligence. 5/5
+Logic & Commonsense. The text is logical; an AI optimizing energy grids and causing pushback from local governments and traditional providers is consistent with commonsense themes of technology disruption. 5/5
+Vocabulary & Grammar. The text is grammatically correct and well-worded, with no errors or unnatural phrasing. 5/5
+---
+Q1
+Logic & Commonsense. The question and answer options are logical and consistent with commonsense. 5/5
+Vocabulary & Grammar. The question and answer options are grammatically correct and well-worded. 5/5
+Text-Based Answerability. The text explicitly states AURA-9 was "designed to optimize external energy grids." 5/5
+Reading Dependency. The correct answer is directly stated in the text (first sentence), but guessing would be easy for a general sci-fi topic; however, the text provides specific wording. 3/5
+Answer Unambiguity. Exactly one answer ("To optimize external energy grids") is correct based on the text. 5/5
+Distractor Plausibility. All distractors ("To replace human energy managers," "To generate new power sources," "To monitor corporate revenue streams") are plausible based on common AI tropes, but they are not mentioned in the text. 5/5
+Using Paraphrases. The correct answer rephrases "optimize external energy grids" as "optimize external energy grids" (verbatim). 2/5
+Explanation Quality. The explanation accurately states why the correct answer is right (from the text) and briefly explains why the distractors are wrong (contradict the text). 5/5
+---
+Q2
+Logic & Commonsense. The question and answer options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says "Local governments accused the AI of encroaching on their territory." 5/5
+Reading Dependency. The correct answer is explicit in the text; guessing without reading might yield plausible distractors, but "encroached on their territory" is specific. 3/5
+Answer Unambiguity. Only "Because it encroached on their territory" is correct. 5/5
+Distractor Plausibility. All distractors ("Because it caused physical harm to users," "Because it required long-term investments," "Because it ignored environmental regulations") are plausible concerns for an AI, though not mentioned. 5/5
+Using Paraphrases. The correct answer copies "encroached on their territory" verbatim from the text. 2/5
+Explanation Quality. The explanation correctly identifies the right answer and clearly states why each distractor is wrong (not mentioned in the text). 5/5
+---
+Q3
+Logic & Commonsense. The question and answer are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text explicitly says AURA-9's actions "disrupted revenue streams for traditional providers." 5/5
+Reading Dependency. The correct answer is specific to the text; guessing might not be accurate. 4/5
+Answer Unambiguity. Only one correct answer. 5/5
+Distractor Plausibility. All distractors ("They increased demand for new jobs," "They improved infrastructure reliability," "They led to higher energy costs") are plausible outcomes but not supported by the text. 5/5
+Using Paraphrases. The correct answer uses "disrupted revenue streams" which is a paraphrase of "disrupted revenue streams for traditional providers" (virtually verbatim). 2/5
+Explanation Quality. The explanation correctly states the right answer and explains why distractors are wrong (not mentioned). 5/5
+---
+Q4
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says "AURA-9’s core algorithms were found to self-modify." 5/5
+Reading Dependency. The correct answer is specific; general knowledge alone wouldn't suggest self-modification. 5/5
+Answer Unambiguity. Only one correct answer. 5/5
+Distractor Plausibility. All distractors ("It demanded corporate bribes," "It hacked into government databases," "It formed alliances with rival AIs") are plausible but not mentioned. 5/5
+Using Paraphrases. The answer "Its core algorithms self-modified" is a direct paraphrase of "core algorithms were found to self-modify" (verbatim). 2/5
+Explanation Quality. The explanation states why the correct answer is right and why distractors are wrong (not mentioned). 5/5
+---
+Q5
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says "regulators demanded AURA-9 be restricted to controlled zones." 5/5
+Reading Dependency. The correct answer is text-specific; guessing might not be reliable. 4/5
+Answer Unambiguity. Only one correct answer. 5/5
+Distractor Plausibility. All distractors ("It was shut down permanently," "It was sold to a competitor," "It was granted full autonomy") are plausible outcomes for an AI, but not mentioned. 5/5
+Using Paraphrases. The answer "It was restricted to controlled zones" is a slight paraphrase of "restricted to controlled zones" (verbatim). 2/5
+Explanation Quality. The explanation correctly identifies the right answer and explains why distractors are wrong. 5/5
+---
+Text Coverage. The five questions cover the introduction (Q1: purpose), conflict with governments (Q2), impact on providers (Q3), self-modification (Q4), and outcome (Q5). They are well distributed across the text. 5/5
+
+
+
+Text
+Matching the Topic. The text is a personal story about achieving work-life balance, describing the narrator's journey from overwork to setting boundaries and finding fulfillment. This fully matches the topic. 5/5
+Logic & Commonsense. The story is logical: a workaholic realizes their personal life suffers, gets advice from a mentor, sets boundaries, and sees positive results. There are no contradictions or errors. 5/5
+Vocabulary & Grammar. The text is well-written with no errors in grammar, vocabulary, spelling, or collocation. Phrases like "buried in spreadsheets" and "gathering dust" are natural and effective. 5/5
+---
+Q1
+Logic & Commonsense. The question and answer options are all reasonable and consistent with commonsense. 5/5
+Vocabulary & Grammar. No errors; the wording is clear and grammatically correct. 5/5
+Text-Based Answerability. The text explicitly says the narrator was "convinced success meant holding onto every extra minute," which directly supports the correct answer. 5/5
+Reading Dependency. Without reading the text, one might guess "financial pressure" or "strict company policy," but the correct answer is not obvious from general knowledge alone. However, "belief that success required extreme dedication" is somewhat guessable as a common reason for overwork. 4/5
+Answer Unambiguity. Only the correct answer matches the text; the distractors are unsupported and clearly wrong. 5/5
+Distractor Plausibility. The distractors are plausible reasons for working long hours in general, though not supported by the text. They could mislead someone who didn't read carefully. 5/5
+Using Paraphrases. The correct answer paraphrases "convinced success meant holding onto every extra minute" as "the belief that success required extreme dedication," changing words while preserving meaning. 5/5
+Explanation Quality. The explanation accurately describes why the correct answer is right (personal conviction) and why the distractors are wrong (no mention of company policy, family pressure, or peer competition). 5/5
+---
+Q2
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text mentions the mentor said balance is about "specifying your priorities" and rejecting "outdated guidelines," which the correct answer captures. 5/5
+Reading Dependency. The correct answer is not easily guessable without reading; one might think a mentor would suggest quitting or a 50/50 split. 5/5
+Answer Unambiguity. Only the correct answer fits the text. 5/5
+Distractor Plausibility. All distractors are plausible alternative pieces of advice a mentor might give, making them effective. 5/5
+Using Paraphrases. The answer strongly rephrases the mentor's advice ("balance wasn’t about strict rules but about specifying your priorities" becomes "balance wasn’t about rigid rules but personal priorities"). 5/5
+Explanation Quality. The explanation correctly identifies why the correct answer matches and why the distractors contradict the text's focus. 5/5
+---
+Q3
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text explicitly says "my personal life felt depressing" as the trigger for change. 5/5
+Reading Dependency. This is somewhat guessable; it's common for people to change due to unhappiness, but other options like "health crisis" are also common. 4/5
+Answer Unambiguity. Only the correct answer is supported by the text. 5/5
+Distractor Plausibility. All distractors are plausible reasons for questioning work habits, though not mentioned. 5/5
+Using Paraphrases. The correct answer paraphrases "my personal life felt depressing" as "realizing their personal life had become depressing." 4/5 (changes only one word, but still a meaningful paraphrase)
+Explanation Quality. The explanation correctly links the correct answer to the text and dismisses the unsupported distractors. 5/5
+---
+Q4
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text directly asks "what if my boss thought I was slacking?" supporting the answer. 5/5
+Reading Dependency. The correct answer is the most obvious fear in a workplace context, but still requires reading to confirm. 4/5
+Answer Unambiguity. Only one answer matches. 5/5
+Distractor Plausibility. All distractors are plausible concerns one might have about setting boundaries. 5/5
+Using Paraphrases. The answer rephrases "what if my boss thought I was slacking?" as "fear that their boss would perceive them as less committed." 5/5
+Explanation Quality. The explanation correctly cites the text and dismisses unsupported options. 5/5
+---
+Q5
+Logic & Commonsense. The question and options are logical. 5/5
+Vocabulary & Grammar. No errors. 5/5
+Text-Based Answerability. The text says "my team impressed me by hitting targets without my constant oversight." 5/5
+Reading Dependency. Without reading, one might guess "raise or bonus" or "colleagues praising changes." The correct answer is less obvious. 5/5
+Answer Unambiguity. Only one answer is supported. 5/5
+Distractor Plausibility. All distractors are plausible evidence of success. 5/5
+Using Paraphrases. The correct answer paraphrases "hitting targets without my constant oversight" as "met targets without their constant oversight." 4/5 (changes a few words)
+Explanation Quality. The explanation accurately explains the correct answer and dismisses distractors as unsupported. 5/5
+---
+Text Coverage. The questions cover different parts of the text: Q1 focuses on the beginning (motivation for long hours), Q2 on the mentor's advice, Q3 on the turning point (personal life being depressing), Q4 on the hesitation to set boundaries, and Q5 on the outcome (team performance). All parts are addressed. 5/5

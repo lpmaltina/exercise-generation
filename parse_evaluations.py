@@ -5,6 +5,7 @@ import re
 import sys
 
 import spacy
+from tqdm import tqdm
 
 from CEFR_level import CEFRLevelParser
 
@@ -165,7 +166,9 @@ def parse_criterion(text: str, criterion: str) -> tuple[str, float]:
     reasoning = ""
     score = 0
 
-    match = re.search(rf"{criterion}\.\s+(.+?)\s+<?(\d)>?/5>?", text, re.DOTALL)
+    match = re.search(
+        rf"{criterion}\.\s+(.+?)\s*<?(1|2|3|4|5)>?/5>?", text.strip(), re.DOTALL
+    )
 
     if match:
         reasoning = match.group(1).strip()
@@ -373,7 +376,7 @@ def main() -> int:
 
     structured_evaluations = []
 
-    for i in range(len(generated_exercises)):
+    for i in tqdm(range(len(generated_exercises))):
         generated_exercise = parse_exercise(generated_exercises[i])
         raw_evaluation = raw_evaluations[i].strip()
         config = configs[i]
