@@ -1,6 +1,7 @@
 beautifulsoup4
 black
 isort
+matplotlib
 openai
 pre-commit
 python-dotenv
