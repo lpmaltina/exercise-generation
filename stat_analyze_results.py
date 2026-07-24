@@ -88,7 +88,7 @@ def compare_groups(baseline_scores, other_scores, criteria, group_type):
 
         diff = np.array(other) - np.array(baseline)
         if np.all(diff == 0):
-            return
+            continue
 
         stat, p_value = stats.wilcoxon(other, baseline, alternative="greater")
         if p_value < P_VALUE_THRESHOLD:

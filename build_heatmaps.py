@@ -90,9 +90,9 @@ save_dir.mkdir(exist_ok=True)
 
 techniques = {
     "Baseline": "structured_evaluations_baseline.json",
-    "Baseline + role": "structured_evaluations_baseline_with_role.json",
-    "Baseline + few-shot": "structured_evaluations_baseline_few-shot.json",
-    "Baseline + CoT": "structured_evaluations_CoT.json",
+    "Baseline + Role": "structured_evaluations_baseline_with_role.json",
+    "Baseline + Few-Shot": "structured_evaluations_baseline_few-shot.json",
+    "Chain-of-Thought": "structured_evaluations_CoT.json",
 }
 
 for technique, filename in techniques.items():
