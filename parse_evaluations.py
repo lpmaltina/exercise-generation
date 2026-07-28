@@ -8,35 +8,14 @@ import spacy
 from tqdm import tqdm
 
 from CEFR_level import CEFRLevelParser
-
-LLM_TEXT_CRITERIA = (
-    "Matching the Topic",
-    "Logic & Commonsense",
-    "Vocabulary & Grammar",
+from utils import (
+    ALL_INDIVIDUAL_QUESTION_CRITERIA,
+    ALL_OVERALL_QUESTION_CRITERIA,
+    ALL_TEXT_CRITERIA,
+    LLM_INDIVIDUAL_QUESTION_CRITERIA,
+    LLM_OVERALL_QUESTION_CRITERIA,
+    LLM_TEXT_CRITERIA,
 )
-ALL_TEXT_CRITERIA = (
-    "Word Count",
-    "Target Word Usage",
-    "Target Word Distribution",
-    "Matching the CEFR Level",
-) + LLM_TEXT_CRITERIA
-
-LLM_INDIVIDUAL_QUESTION_CRITERIA = (
-    "Logic & Commonsense",
-    "Vocabulary & Grammar",
-    "Text-Based Answerability",
-    "Reading Dependency",
-    "Answer Unambiguity",
-    "Distractor Plausibility",
-    "Using Paraphrases",
-    "Explanation Quality",
-)
-ALL_INDIVIDUAL_QUESTION_CRITERIA = LLM_INDIVIDUAL_QUESTION_CRITERIA
-
-LLM_OVERALL_QUESTION_CRITERIA = ("Text Coverage",)
-ALL_OVERALL_QUESTION_CRITERIA = (
-    "Matching the CEFR Level",
-) + LLM_OVERALL_QUESTION_CRITERIA
 
 
 def normalize(

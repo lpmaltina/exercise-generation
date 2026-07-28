@@ -5,6 +5,41 @@ from openai import OpenAI
 MAX_RETRIES = 3
 RETRY_BACKOFF_SECONDS = 5
 
+LLM_TEXT_CRITERIA = (
+    "Matching the Topic",
+    "Logic & Commonsense",
+    "Vocabulary & Grammar",
+)
+ALL_TEXT_CRITERIA = (
+    "Word Count",
+    "Target Word Usage",
+    "Target Word Distribution",
+    "Matching the CEFR Level",
+) + LLM_TEXT_CRITERIA
+
+LLM_INDIVIDUAL_QUESTION_CRITERIA = (
+    "Logic & Commonsense",
+    "Vocabulary & Grammar",
+    "Text-Based Answerability",
+    "Reading Dependency",
+    "Answer Unambiguity",
+    "Distractor Plausibility",
+    "Using Paraphrases",
+    "Explanation Quality",
+)
+ALL_INDIVIDUAL_QUESTION_CRITERIA = LLM_INDIVIDUAL_QUESTION_CRITERIA
+
+LLM_OVERALL_QUESTION_CRITERIA = ("Text Coverage",)
+ALL_OVERALL_QUESTION_CRITERIA = (
+    "Matching the CEFR Level",
+) + LLM_OVERALL_QUESTION_CRITERIA
+
+ALL_CRITERIA = [
+    ("text", ALL_TEXT_CRITERIA),
+    ("individual question", ALL_INDIVIDUAL_QUESTION_CRITERIA),
+    ("overall question", ALL_OVERALL_QUESTION_CRITERIA),
+]
+
 
 def call_LLM(
     client: OpenAI, model_name: str, user_prompt: str, system_prompt: str = "", **kwargs
