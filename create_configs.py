@@ -1,44 +1,16 @@
 import json
 import random
 
-TOPICS_A2 = [
-    "a story about an unusual holiday trip",
-    "a story about an unusual family celebration",
-    "a description of a morning routine that makes me happy",
-    "a funny story that happened to my friends and me",
-    "an adventure story about getting lost in the forest",
-    "an adventure story about finding a secret door in the house",
-    "an adventure story about finding a treasure",
-    "a letter to my future self",
-    "a story about a person who inspired me",
-    "a story about a person who won the lottery and spent it on charity",
-]
 
-TOPICS_B1 = [
-    "a personal story about learning a new skill",
-    "an adventure story about a mountain trip",
-    "a story about an athlete who had an injury and worked hard to recover and return to competition",
-    "a story about moving to a new city and starting over",
-    "a story about an unexpected act of kindness",
-    "a personal story about achieving a long-term goal",
-    "a story about a day in the life of an actor",
-    "a story about the book that changed my life",
-    "a story about a volunteer experience",
-    "a personal story of an artist telling about their works",
-]
+def read_topics(path: str) -> list[str]:
+    with open(path, "r", encoding="utf-8") as f:
+        topics = [line.strip() for line in f if line if line.strip()]
+    return topics
 
-TOPICS_B2 = [
-    "a news article about an ecological project",
-    "a sci-fi story about space travel",
-    "an adventure story about time travel",
-    "a story about a cross-cultural misunderstanding",
-    "an adventure story about an accidental invention",
-    "a news article about the advantages and disadvantages of social media",
-    "an adventure story about exploring a hidden underground city",
-    "a personal story about overcoming a significant fear",
-    "a sci-fi story about artificial intelligence",
-    "a personal story about achieving a work-life balance",
-]
+
+TOPICS_A2 = read_topics("topics/topics_A2.txt")
+TOPICS_B1 = read_topics("topics/topics_B1.txt")
+TOPICS_B2 = read_topics("topics/topics_B2.txt")
 
 
 def read_wordlists() -> dict[str, list[str]]:
