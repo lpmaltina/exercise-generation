@@ -743,7 +743,6 @@ adequately	adv.
 adjust	v.
 affordable	adj.
 agriculture	n.
-AIDS	n.
 alien	n.
 alongside	prep.
 altogether	adv.

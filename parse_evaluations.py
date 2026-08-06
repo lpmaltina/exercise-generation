@@ -157,6 +157,19 @@ def parse_criterion(text: str, criterion: str) -> tuple[str, float]:
     return reasoning, normalized_score
 
 
+def validate_and_print(text_id, eval_type, criterion, reasoning, score):
+    if not 0 <= score <= 1:
+        print(f"Text ID: {text_id}")
+        print(f"Evaluation type: {eval_type}")
+        print(f"Name of criteria: {criterion}")
+        print("Issue: wrong score")
+    if not reasoning:
+        print(f"Text ID: {text_id}")
+        print(f"Evaluation type: {eval_type}")
+        print(f"Name of criteria: {criterion}")
+        print("Issue: no reasoning")
+
+
 def evaluate_non_LLM_metrics(generated_exercise: dict, config: dict, nlp, CEFR_parser):
     target_word_count = config["word_count"]
     words = set(config["wordlist"])
@@ -233,7 +246,9 @@ def evaluate_non_LLM_metrics(generated_exercise: dict, config: dict, nlp, CEFR_p
     return structured_evaluation
 
 
-def add_LLM_evaluation(raw_evaluation: str, structured_evaluation: dict) -> dict:
+def add_LLM_evaluation(
+    raw_evaluation: str, structured_evaluation: dict, ex_id: int
+) -> dict:
     parts = [s.strip() for s in raw_evaluation.split("---") if s.strip()]
     text_part, *individual_question_parts, overall_question_part = parts
 
@@ -243,6 +258,7 @@ def add_LLM_evaluation(raw_evaluation: str, structured_evaluation: dict) -> dict
             "Reasoning": reasoning,
             "Score": score,
         }
+        validate_and_print(ex_id, "text evaluation", criterion, reasoning, score)
 
     for i, question_part in enumerate(individual_question_parts, start=1):
         structured_evaluation["Questions"]["Individual"][f"Q{i}"] = {}
@@ -252,6 +268,9 @@ def add_LLM_evaluation(raw_evaluation: str, structured_evaluation: dict) -> dict
                 "Reasoning": reasoning,
                 "Score": score,
             }
+            validate_and_print(
+                ex_id, "question evaluation", criterion, reasoning, score
+            )
 
     for criterion in LLM_INDIVIDUAL_QUESTION_CRITERIA:
         avg_score = 0
@@ -270,6 +289,7 @@ def add_LLM_evaluation(raw_evaluation: str, structured_evaluation: dict) -> dict
             "Reasoning": reasoning,
             "Score": score,
         }
+        validate_and_print(ex_id, "question evaluation", criterion, reasoning, score)
 
     return structured_evaluation
 
@@ -363,7 +383,7 @@ def main() -> int:
             generated_exercise, config, nlp, CEFR_parser
         )
         structured_evaluation = add_LLM_evaluation(
-            raw_evaluation, structured_evaluation
+            raw_evaluation, structured_evaluation, i
         )
         structured_evaluation["Exercise ID"] = i
         structured_evaluations.append(structured_evaluation)

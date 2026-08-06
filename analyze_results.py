@@ -1,3 +1,4 @@
+import csv
 import json
 import re
 from pathlib import Path
@@ -54,51 +55,55 @@ def extract_word_counts_from_data(data):
 
 
 def split_by_level(data):
-    return {"A2": data[:10], "B1": data[10:20], "B2": data[20:30]}
+    return {"A2": data[:100], "B1": data[100:200], "B2": data[200:300]}
 
 
-def get_significant_criteria(all_scores):
+def get_significant_criteria(all_scores, results_dir):
     baseline_scores = all_scores["Baseline"]
     significant = {}
 
-    for name, scores in all_scores.items():
-        if name == "Baseline":
-            continue
+    csv_path = results_dir / "statistical_significance_results.csv"
+    with open(csv_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["Alternative", "Criterion Type", "Criterion", "p-value"])
 
-        print(f"H0: {name} is not better than Baseline\n")
+        for name, scores in all_scores.items():
+            if name == "Baseline":
+                continue
 
-        significant[name] = []
+            significant[name] = []
 
-        for group_type, criteria in ALL_CRITERIA:
-            for criterion in criteria:
+            for group_type, criteria in ALL_CRITERIA:
                 if group_type == "text":
-                    baseline = baseline_scores["Text"][criterion]
-                    other = scores["Text"][criterion]
+                    group_name = "Text Criteria"
                 elif group_type == "individual question":
-                    baseline = baseline_scores["Questions"]["Individual"][criterion]
-                    other = scores["Questions"]["Individual"][criterion]
+                    group_name = "Individual Question Criteria"
                 else:
-                    baseline = baseline_scores["Questions"]["Overall"][criterion]
-                    other = scores["Questions"]["Overall"][criterion]
+                    group_name = "Overall Question Criteria"
 
-                print(f"{(group_type + ' criteria').upper()} {criterion}:")
+                for criterion in criteria:
+                    if group_type == "text":
+                        baseline = baseline_scores["Text"][criterion]
+                        other = scores["Text"][criterion]
+                    elif group_type == "individual question":
+                        baseline = baseline_scores["Questions"]["Individual"][criterion]
+                        other = scores["Questions"]["Individual"][criterion]
+                    else:
+                        baseline = baseline_scores["Questions"]["Overall"][criterion]
+                        other = scores["Questions"]["Overall"][criterion]
 
-                diff = np.array(other) - np.array(baseline)
-                if np.all(diff == 0):
-                    print(f"  P-value: 1.0")
-                    print()
-                    continue
+                    diff = np.array(other) - np.array(baseline)
+                    if np.all(diff == 0):
+                        writer.writerow([name, group_name, criterion, 1.0])
+                        continue
 
-                statistic, p_value = stats.wilcoxon(
-                    other, baseline, alternative="greater"
-                )
-                print(f"  Statistic: {statistic}")
-                print(f"  P-value: {p_value}")
-                print()
+                    _, p_value = stats.wilcoxon(other, baseline, alternative="greater")
+                    writer.writerow([name, group_name, criterion, p_value])
 
-                if p_value < P_VALUE_THRESHOLD:
-                    significant[name].append((group_type, criterion, p_value))
+                    if p_value < P_VALUE_THRESHOLD:
+                        significant[name].append((group_type, criterion, p_value))
 
+    print(f"P-values written to {csv_path}")
     return significant
 
 
@@ -226,10 +231,53 @@ def plot_CEFR_heatmaps(technique, exercises, save_dir):
     plt.close()
 
 
+def create_results_csv(all_scores, techniques, save_dir):
+    csv_path = save_dir / "results.csv"
+    with open(csv_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(
+            [
+                "Criterion Type",
+                "Criterion",
+                "Baseline",
+                "Baseline + Role",
+                "Baseline + Few-Shot",
+                "Chain-of-Thought",
+                "Chain-of-Thought + Role + Few-Shot",
+            ]
+        )
+
+        for group_type, criteria in ALL_CRITERIA:
+            group_name = (
+                "Text Criteria"
+                if group_type == "text"
+                else (
+                    "Individual Question Criteria"
+                    if group_type == "individual question"
+                    else "Overall Question Criteria"
+                )
+            )
+            for criterion in criteria:
+                row = [group_name, criterion]
+                for name in techniques:
+                    if group_type == "text":
+                        scores = all_scores[name]["Text"][criterion]
+                    elif group_type == "individual question":
+                        scores = all_scores[name]["Questions"]["Individual"][criterion]
+                    else:
+                        scores = all_scores[name]["Questions"]["Overall"][criterion]
+                    row.append(round(sum(scores) / len(scores), 4))
+                writer.writerow(row)
+
+    print(f"Results written to {csv_path}")
+
+
 def main():
     base_path = Path("results/structured_evaluations")
-    save_dir = Path("images")
-    save_dir.mkdir(exist_ok=True)
+    images_dir = Path("images")
+    images_dir.mkdir(exist_ok=True)
+    results_dir = Path("results")
+    results_dir.mkdir(exist_ok=True)
 
     techniques = {
         "Baseline": base_path / "structured_evaluations_baseline.json",
@@ -237,6 +285,8 @@ def main():
         "Baseline + Few-Shot": base_path
         / "structured_evaluations_baseline_few-shot.json",
         "Chain-of-Thought": base_path / "structured_evaluations_CoT.json",
+        "Chain-of-Thought + Role + Few-Shot": base_path
+        / "structured_evaluations_CoT_with_role_few-shot.json",
     }
 
     all_raw_data = {}
@@ -247,7 +297,10 @@ def main():
     all_scores = {
         name: load_scores_from_data(data) for name, data in all_raw_data.items()
     }
-    significant = get_significant_criteria(all_scores)
+
+    create_results_csv(all_scores, techniques, results_dir)
+
+    significant = get_significant_criteria(all_scores, results_dir)
 
     for criteria_list in significant.values():
         for group_type, criterion, _ in criteria_list:
@@ -260,12 +313,14 @@ def main():
                 else:
                     data[name] = all_scores[name]["Questions"]["Overall"][criterion]
 
-            plot_boxplot(data, criterion, save_dir / f"{criterion} ({group_type}).png")
+            plot_boxplot(
+                data, criterion, images_dir / f"{criterion} ({group_type}).png"
+            )
 
-    plot_word_counts(all_raw_data, techniques, save_dir)
+    plot_word_counts(all_raw_data, techniques, images_dir)
 
     for name, data in all_raw_data.items():
-        plot_CEFR_heatmaps(name, data["Exercises"], save_dir)
+        plot_CEFR_heatmaps(name, data["Exercises"], images_dir)
 
 
 if __name__ == "__main__":

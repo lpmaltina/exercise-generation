@@ -1,0 +1,69 @@
+Alternative,Criterion Type,Criterion,p-value
+Baseline + Role,Text Criteria,Word Count,0.999999602643137
+Baseline + Role,Text Criteria,Target Word Usage,0.8750092693914475
+Baseline + Role,Text Criteria,Target Word Distribution,0.22062767894193258
+Baseline + Role,Text Criteria,Matching the CEFR Level,0.7755569365154908
+Baseline + Role,Text Criteria,Matching the Topic,0.8413447460685429
+Baseline + Role,Text Criteria,Logic & Commonsense,0.3581951149643303
+Baseline + Role,Text Criteria,Vocabulary & Grammar,0.16697463987186312
+Baseline + Role,Individual Question Criteria,Logic & Commonsense,0.740308020297238
+Baseline + Role,Individual Question Criteria,Vocabulary & Grammar,0.4748918279042587
+Baseline + Role,Individual Question Criteria,Text-Based Answerability,0.9814832182552259
+Baseline + Role,Individual Question Criteria,Reading Dependency,0.6773853216714035
+Baseline + Role,Individual Question Criteria,Answer Unambiguity,0.7186769664992265
+Baseline + Role,Individual Question Criteria,Distractor Plausibility,0.33494176521823915
+Baseline + Role,Individual Question Criteria,Using Paraphrases,0.0013938391270140792
+Baseline + Role,Individual Question Criteria,Explanation Quality,0.2556995343684211
+Baseline + Role,Overall Question Criteria,Matching the CEFR Level,0.9999998422042273
+Baseline + Role,Overall Question Criteria,Text Coverage,0.19050855744708206
+Baseline + Few-Shot,Text Criteria,Word Count,0.9999999999999972
+Baseline + Few-Shot,Text Criteria,Target Word Usage,0.9770006042347701
+Baseline + Few-Shot,Text Criteria,Target Word Distribution,0.9811389663931415
+Baseline + Few-Shot,Text Criteria,Matching the CEFR Level,1.0437304251116715e-05
+Baseline + Few-Shot,Text Criteria,Matching the Topic,1.0
+Baseline + Few-Shot,Text Criteria,Logic & Commonsense,0.0010447803171987026
+Baseline + Few-Shot,Text Criteria,Vocabulary & Grammar,0.05240691008730101
+Baseline + Few-Shot,Individual Question Criteria,Logic & Commonsense,0.021604275428555846
+Baseline + Few-Shot,Individual Question Criteria,Vocabulary & Grammar,0.37929194785374526
+Baseline + Few-Shot,Individual Question Criteria,Text-Based Answerability,0.006162139378182295
+Baseline + Few-Shot,Individual Question Criteria,Reading Dependency,0.49160145578918324
+Baseline + Few-Shot,Individual Question Criteria,Answer Unambiguity,0.08710449459973768
+Baseline + Few-Shot,Individual Question Criteria,Distractor Plausibility,0.0027383569393452196
+Baseline + Few-Shot,Individual Question Criteria,Using Paraphrases,1.8926589930956577e-06
+Baseline + Few-Shot,Individual Question Criteria,Explanation Quality,0.3802198467680488
+Baseline + Few-Shot,Overall Question Criteria,Matching the CEFR Level,2.2165366740390766e-29
+Baseline + Few-Shot,Overall Question Criteria,Text Coverage,0.055922908994214655
+Chain-of-Thought,Text Criteria,Word Count,0.5957626641757572
+Chain-of-Thought,Text Criteria,Target Word Usage,6.26200553794971e-08
+Chain-of-Thought,Text Criteria,Target Word Distribution,0.9992078198968446
+Chain-of-Thought,Text Criteria,Matching the CEFR Level,0.7760343985635385
+Chain-of-Thought,Text Criteria,Matching the Topic,0.8413447460685429
+Chain-of-Thought,Text Criteria,Logic & Commonsense,0.05644510209219652
+Chain-of-Thought,Text Criteria,Vocabulary & Grammar,0.04998743188609974
+Chain-of-Thought,Individual Question Criteria,Logic & Commonsense,0.48497004154282647
+Chain-of-Thought,Individual Question Criteria,Vocabulary & Grammar,0.6184672965241138
+Chain-of-Thought,Individual Question Criteria,Text-Based Answerability,0.999905273205368
+Chain-of-Thought,Individual Question Criteria,Reading Dependency,0.9812807235173421
+Chain-of-Thought,Individual Question Criteria,Answer Unambiguity,0.9373189560257736
+Chain-of-Thought,Individual Question Criteria,Distractor Plausibility,0.005757846775484781
+Chain-of-Thought,Individual Question Criteria,Using Paraphrases,4.0285734808697785e-24
+Chain-of-Thought,Individual Question Criteria,Explanation Quality,0.18998806680712638
+Chain-of-Thought,Overall Question Criteria,Matching the CEFR Level,4.0289657773353514e-11
+Chain-of-Thought,Overall Question Criteria,Text Coverage,0.011589188490716662
+Chain-of-Thought + Role + Few-Shot,Text Criteria,Word Count,0.9999989341549916
+Chain-of-Thought + Role + Few-Shot,Text Criteria,Target Word Usage,1.0055809235006067e-06
+Chain-of-Thought + Role + Few-Shot,Text Criteria,Target Word Distribution,0.9999951913637868
+Chain-of-Thought + Role + Few-Shot,Text Criteria,Matching the CEFR Level,1.5957984691487542e-05
+Chain-of-Thought + Role + Few-Shot,Text Criteria,Matching the Topic,1.0
+Chain-of-Thought + Role + Few-Shot,Text Criteria,Logic & Commonsense,0.0003450602643758435
+Chain-of-Thought + Role + Few-Shot,Text Criteria,Vocabulary & Grammar,0.0038114427890896126
+Chain-of-Thought + Role + Few-Shot,Individual Question Criteria,Logic & Commonsense,0.33026098325305897
+Chain-of-Thought + Role + Few-Shot,Individual Question Criteria,Vocabulary & Grammar,0.10581804224798252
+Chain-of-Thought + Role + Few-Shot,Individual Question Criteria,Text-Based Answerability,0.9874073175533751
+Chain-of-Thought + Role + Few-Shot,Individual Question Criteria,Reading Dependency,0.39236743537125746
+Chain-of-Thought + Role + Few-Shot,Individual Question Criteria,Answer Unambiguity,0.9655916256248165
+Chain-of-Thought + Role + Few-Shot,Individual Question Criteria,Distractor Plausibility,0.001485856520658424
+Chain-of-Thought + Role + Few-Shot,Individual Question Criteria,Using Paraphrases,9.183572683182646e-30
+Chain-of-Thought + Role + Few-Shot,Individual Question Criteria,Explanation Quality,0.4718030003719434
+Chain-of-Thought + Role + Few-Shot,Overall Question Criteria,Matching the CEFR Level,9.778759780959434e-16
+Chain-of-Thought + Role + Few-Shot,Overall Question Criteria,Text Coverage,0.0003388953923211631

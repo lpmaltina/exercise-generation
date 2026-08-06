@@ -80,6 +80,10 @@ def main() -> int:
     results = []
     for i, exercise in enumerate(exercises, start=1):
         print(f"[{i}/{len(exercises)}] Evaluating (topic: {exercise['topic']})...")
+        for item in ("topic", "text", "questions"):
+            if not exercise[item]:
+                print(f"{item.title()} not found")
+
         exercise_str = f"Topic: {exercise['topic']}\n\nText: {exercise['text']}\n\nQuestions: {exercise['questions']}"
         response_text = call_LLM(
             client,

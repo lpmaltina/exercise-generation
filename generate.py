@@ -46,6 +46,16 @@ def run_generation_experiment(
     all_raw_outputs = []
     all_outputs = []
 
+    parts = [f"generated_{template_type}"]
+    if role:
+        parts.append("with_role")
+    if example:
+        parts.append("few-shot")
+    filename = "_".join(parts)
+
+    result_path = Path(f"results/generated/{filename}.txt")
+    result_path.parent.mkdir(parents=True, exist_ok=True)
+
     for config in tqdm(configs):
         n_distractors = config["n_options"] - 1
         prompt = template.format(
@@ -60,33 +70,47 @@ def run_generation_experiment(
         if example:
             prompt = "\n".join([prompt, "\nExample:", example])
 
-        response = call_LLM(
-            client=client, user_prompt=prompt, system_prompt=role, model_name=MODEL_NAME
-        )
-        response = response.replace("*", "").replace("#", "")
-
-        if template_type == "CoT":
-            all_raw_outputs.append(response)
-
-        response_parts = [part.strip() for part in response.split("---")]
         text = ""
         questions = []
 
-        for part in response_parts:
-            text_search = re.search(r"Text:\s*(.+)", part, re.DOTALL)
-            if text_search:
-                text = text_search.group(1).strip()
-            current_questions = re.findall(
-                r"Q\d+:\s*(?:.+?)\s*Correct:\s*(?:.+?)\s*Distractors:\s*(?:.+?)\s*(?:Explanation:\s*(?:.+?))?(?=Q\d+|$)",
-                part,
-                re.DOTALL,
+        while not text or not questions or len(text) < 100:
+            response = call_LLM(
+                client=client,
+                user_prompt=prompt,
+                system_prompt=role,
+                model_name=MODEL_NAME,
             )
-            if current_questions:
-                questions.extend(current_questions)
+            response = response.replace("*", "").replace("#", "")
 
-        questions = [question.strip() for question in questions][
-            -config["n_questions"] :
-        ]
+            response_parts = [part.strip() for part in response.split("---")]
+            text = ""
+            questions = []
+
+            for part in response_parts:
+                text_search = re.search(r"Text:\s*(.+)", part, re.DOTALL)
+                if text_search:
+                    text = text_search.group(1).strip()
+                current_questions = re.findall(
+                    r"Q\d+:\s*(?:.+?)\s*Correct:\s*(?:.+?)\s*Distractors:\s*(?:.+?)\s*(?:Explanation:\s*(?:.+?))?(?=Q\d+|$)",
+                    part,
+                    re.DOTALL,
+                )
+                if current_questions:
+                    questions.extend(current_questions)
+
+            questions = [question.strip() for question in questions][
+                -config["n_questions"] :
+            ]
+
+            if not text or len(text) < 100:
+                print(f"{filename}, {config['config_id']}: text not found, retrying...")
+            elif not questions:
+                print(
+                    f"{filename}, {config['config_id']}: questions not found, retrying..."
+                )
+            elif template_type == "CoT":
+                all_raw_outputs.append(response)
+
         output = f"""Topic: {config['topic']}
 
 Text:
@@ -97,15 +121,6 @@ Questions:
         all_outputs.append(output)
         time.sleep(10)
 
-    parts = [f"generated_{template_type}"]
-    if role:
-        parts.append("with_role")
-    if example:
-        parts.append("few-shot")
-    filename = "_".join(parts)
-
-    result_path = Path(f"results/generated/{filename}.txt")
-    result_path.parent.mkdir(parents=True, exist_ok=True)
     result_path.write_text(sep.join(all_outputs), encoding="utf-8")
 
     if template_type == "CoT":
@@ -130,6 +145,9 @@ def main() -> int:
     run_generation_experiment(client, configs, baseline_template, role=role)
     run_generation_experiment(client, configs, baseline_template, example=example)
     run_generation_experiment(client, configs, CoT_template, template_type="CoT")
+    run_generation_experiment(
+        client, configs, CoT_template, template_type="CoT", role=role, example=example
+    )
     return 0
 
 

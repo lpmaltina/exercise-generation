@@ -138,7 +138,6 @@ chemistry	n.
 chip	n.
 choice	n.
 church	n.
-cigarette	n.
 circle	n., v.
 classical	adj.
 clear	adj.
