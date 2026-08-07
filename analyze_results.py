@@ -5,6 +5,7 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 import seaborn as sns
 from scipy import stats
 
@@ -132,7 +133,7 @@ def plot_boxplot(data_dict, title, save_path):
     ax.grid(True, alpha=0.3)
 
     plt.tight_layout()
-    plt.savefig(save_path, dpi=300, bbox_inches="tight")
+    plt.savefig(save_path, bbox_inches="tight")
     plt.close()
 
 
@@ -147,7 +148,7 @@ def plot_word_counts(all_data, techniques, save_dir):
         for level in targets
     }
 
-    fig, axes = plt.subplots(1, 3, figsize=(12, 4))
+    fig, axes = plt.subplots(1, 3, figsize=(12, 6))
     colors = sns.color_palette("Set3", n_colors=4)
 
     for idx, level in enumerate(targets):
@@ -233,43 +234,63 @@ def plot_CEFR_heatmaps(technique, exercises, save_dir):
 
 def create_results_csv(all_scores, techniques, save_dir):
     csv_path = save_dir / "results.csv"
-    with open(csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerow(
-            [
-                "Criterion Type",
-                "Criterion",
-                "Baseline",
-                "Baseline + Role",
-                "Baseline + Few-Shot",
-                "Chain-of-Thought",
-                "Chain-of-Thought + Role + Few-Shot",
-            ]
-        )
+    data_rows = []
 
-        for group_type, criteria in ALL_CRITERIA:
-            group_name = (
-                "Text Criteria"
-                if group_type == "text"
-                else (
-                    "Individual Question Criteria"
-                    if group_type == "individual question"
-                    else "Overall Question Criteria"
-                )
+    for group_type, criteria in ALL_CRITERIA:
+        group_name = (
+            "Text Criteria"
+            if group_type == "text"
+            else (
+                "Individual Question Criteria"
+                if group_type == "individual question"
+                else "Overall Question Criteria"
             )
-            for criterion in criteria:
-                row = [group_name, criterion]
-                for name in techniques:
-                    if group_type == "text":
-                        scores = all_scores[name]["Text"][criterion]
-                    elif group_type == "individual question":
-                        scores = all_scores[name]["Questions"]["Individual"][criterion]
-                    else:
-                        scores = all_scores[name]["Questions"]["Overall"][criterion]
-                    row.append(round(sum(scores) / len(scores), 4))
-                writer.writerow(row)
+        )
+        for criterion in criteria:
+            row = [group_name, criterion]
+            for name in techniques:
+                if group_type == "text":
+                    scores = all_scores[name]["Text"][criterion]
+                elif group_type == "individual question":
+                    scores = all_scores[name]["Questions"]["Individual"][criterion]
+                else:
+                    scores = all_scores[name]["Questions"]["Overall"][criterion]
+                row.append(round(sum(scores) / len(scores), 4))
+            data_rows.append(row)
 
+    columns = ["Criterion Type", "Criterion"]
+    columns.extend(techniques.keys())
+    df = pd.DataFrame(data_rows, columns=columns)
+    df.to_csv(csv_path, index=False, encoding="utf-8")
     print(f"Results written to {csv_path}")
+    return df
+
+
+def create_radar_plot(df, title, y_min, y_max, save_dir):
+    criteria = df["Criterion"]
+    n_criteria = len(criteria)
+
+    angles = np.linspace(0, 2 * np.pi, n_criteria, endpoint=False).tolist()
+    angles += angles[:1]
+
+    fig, ax = plt.subplots(
+        figsize=(10, 10), subplot_kw=dict(polar=True), constrained_layout=True
+    )
+
+    techniques = df.columns.drop(["Criterion Type", "Criterion"])
+
+    for technique in techniques:
+        values = df[technique].tolist()
+        values += values[:1]
+        ax.plot(angles, values, linewidth=2, label=technique)
+        ax.fill(angles, values, alpha=0.1)
+
+    ax.set_xticks(angles[:-1])
+    ax.set_xticklabels(criteria)
+    ax.set_ylim(y_min, y_max)
+    plt.title(title)
+    plt.legend()
+    plt.savefig(save_dir / f"{title}.png", bbox_inches="tight")
 
 
 def main():
@@ -298,7 +319,7 @@ def main():
         name: load_scores_from_data(data) for name, data in all_raw_data.items()
     }
 
-    create_results_csv(all_scores, techniques, results_dir)
+    df = create_results_csv(all_scores, techniques, results_dir)
 
     significant = get_significant_criteria(all_scores, results_dir)
 
@@ -321,6 +342,19 @@ def main():
 
     for name, data in all_raw_data.items():
         plot_CEFR_heatmaps(name, data["Exercises"], images_dir)
+
+    text_data = df[df["Criterion Type"] == "Text Criteria"]
+    question_data = df[
+        df["Criterion Type"].isin(
+            ["Individual Question Criteria", "Overall Question Criteria"]
+        )
+    ]
+    create_radar_plot(
+        text_data, "Text Criteria", y_min=0.7, y_max=1.0, save_dir=images_dir
+    )
+    create_radar_plot(
+        question_data, "Question Criteria", y_min=0.5, y_max=1.0, save_dir=images_dir
+    )
 
 
 if __name__ == "__main__":
