@@ -59,9 +59,8 @@ def split_by_level(data):
     return {"A2": data[:100], "B1": data[100:200], "B2": data[200:300]}
 
 
-def get_significant_criteria(all_scores, results_dir):
+def create_significance_results_csv(all_scores, results_dir):
     baseline_scores = all_scores["Baseline"]
-    significant = {}
 
     csv_path = results_dir / "statistical_significance_results.csv"
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
@@ -71,8 +70,6 @@ def get_significant_criteria(all_scores, results_dir):
         for name, scores in all_scores.items():
             if name == "Baseline":
                 continue
-
-            significant[name] = []
 
             for group_type, criteria in ALL_CRITERIA:
                 if group_type == "text":
@@ -101,11 +98,7 @@ def get_significant_criteria(all_scores, results_dir):
                     _, p_value = stats.wilcoxon(other, baseline, alternative="greater")
                     writer.writerow([name, group_name, criterion, p_value])
 
-                    if p_value < P_VALUE_THRESHOLD:
-                        significant[name].append((group_type, criterion, p_value))
-
     print(f"P-values written to {csv_path}")
-    return significant
 
 
 def extract_CEFR(reasoning, text_type):
@@ -114,27 +107,6 @@ def extract_CEFR(reasoning, text_type):
         rf"Determined CEFR level \({text_type}\): ((?:A|B|C)(?:1|2))", reasoning
     ).group(1)
     return target, determined
-
-
-def plot_boxplot(data_dict, title, save_path):
-    fig, ax = plt.subplots(figsize=(10, 6))
-    colors = sns.color_palette("Set3", n_colors=len(data_dict))
-
-    bp = ax.boxplot(list(data_dict.values()), patch_artist=True)
-    ax.set_xticklabels(data_dict.keys(), rotation=45, ha="right")
-
-    for patch, color in zip(bp["boxes"], colors):
-        patch.set_facecolor(color)
-    for median in bp["medians"]:
-        median.set_color("black")
-
-    ax.set_title(title)
-    ax.set_ylabel("Score")
-    ax.grid(True, alpha=0.3)
-
-    plt.tight_layout()
-    plt.savefig(save_path, bbox_inches="tight")
-    plt.close()
 
 
 def plot_word_counts(all_data, techniques, save_dir):
@@ -172,7 +144,7 @@ def plot_word_counts(all_data, techniques, save_dir):
 
     plt.suptitle("Word Count")
     plt.tight_layout()
-    plt.savefig(save_dir / "word_count_boxplots.png", bbox_inches="tight")
+    plt.savefig(save_dir / "word_count_boxplots.png", dpi=300, bbox_inches="tight")
     plt.close()
 
 
@@ -228,7 +200,7 @@ def plot_CEFR_heatmaps(technique, exercises, save_dir):
     title = f"{technique} CEFR Levels"
     fig.suptitle(title)
     plt.tight_layout()
-    plt.savefig(save_dir / f"{title}.png", bbox_inches="tight")
+    plt.savefig(save_dir / f"{title}.png", dpi=300, bbox_inches="tight")
     plt.close()
 
 
@@ -273,9 +245,7 @@ def create_radar_plot(df, title, y_min, y_max, save_dir):
     angles = np.linspace(0, 2 * np.pi, n_criteria, endpoint=False).tolist()
     angles += angles[:1]
 
-    fig, ax = plt.subplots(
-        figsize=(10, 10), subplot_kw=dict(polar=True), constrained_layout=True
-    )
+    fig, ax = plt.subplots(figsize=(10, 10), subplot_kw=dict(polar=True))
 
     techniques = df.columns.drop(["Criterion Type", "Criterion"])
 
@@ -288,9 +258,10 @@ def create_radar_plot(df, title, y_min, y_max, save_dir):
     ax.set_xticks(angles[:-1])
     ax.set_xticklabels(criteria)
     ax.set_ylim(y_min, y_max)
-    plt.title(title)
-    plt.legend()
-    plt.savefig(save_dir / f"{title}.png", bbox_inches="tight")
+    plt.title(title, y=1.05)
+    plt.legend(loc="center left", bbox_to_anchor=(1.2, 0.5))
+    plt.subplots_adjust(right=0.75)
+    plt.savefig(save_dir / f"{title}.png", dpi=300, bbox_inches="tight")
 
 
 def main():
@@ -320,24 +291,7 @@ def main():
     }
 
     df = create_results_csv(all_scores, techniques, results_dir)
-
-    significant = get_significant_criteria(all_scores, results_dir)
-
-    for criteria_list in significant.values():
-        for group_type, criterion, _ in criteria_list:
-            data = {}
-            for name in techniques:
-                if group_type == "text":
-                    data[name] = all_scores[name]["Text"][criterion]
-                elif group_type == "individual question":
-                    data[name] = all_scores[name]["Questions"]["Individual"][criterion]
-                else:
-                    data[name] = all_scores[name]["Questions"]["Overall"][criterion]
-
-            plot_boxplot(
-                data, criterion, images_dir / f"{criterion} ({group_type}).png"
-            )
-
+    create_significance_results_csv(all_scores, results_dir)
     plot_word_counts(all_raw_data, techniques, images_dir)
 
     for name, data in all_raw_data.items():
