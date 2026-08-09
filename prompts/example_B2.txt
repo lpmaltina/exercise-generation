@@ -1,0 +1,41 @@
+Word count: 200
+Topic: an adventure story about a skier who gets into a dangerous situation
+CEFR level: B2
+Number of questions: 5
+Number of options: 4
+Word list: absorb, barely, bold, challenging, inch, maintain, nearby, sense, slope, visible
+
+Text:
+"How did I ever manage to get myself into this?" Sandy wondered aloud and looked down again from the top of the slope. "Help!" she said pleadingly in barely more than a whisper. She was louder the second time, but without anyone nearby to respond.
+
+Sandy was dressed in a thick jacket with a bold colorful design sweeping across a purple background and water-repellent pants of same purple color – it was obviously a fashionable, co-ordinated outfit. If anyone had been around, she would have been clearly visible from a long distance away.
+
+Sandy glanced at the sign near her: an expert-level ski run. How had she ended up there? She reproached herself that Michael, her best friend, had shown enough sense to get off the ski lift earlier to go down a more moderate slope. Absorbed by the view, she had foolishly decided to ride the lift up further and had found herself facing this slope.
+
+Sandy inched forward as all other avenues seemed to be closed to her, and found herself rapidly picking up speed as she headed down the challenging slope. Everything she had learned about skiing seemed to have faded from her mind. Concentrating only on maintaining her balance, she kept her skis pointed straight downhill, which unfortunately made her gain more speed.
+
+Questions:
+Q1: What is the writer's purpose in the first paragraph?
+Correct: to introduce the fact that Sandy was facing a challenge
+Distractors: to explain why Sandy was in this difficult situation / to give relevant details of Sandy's character / to describe how Sandy was planning to solve a problem
+Explanation: Sandy was at the top of a slope, called for help, but nobody was nearby to respond, so the writer shows that Sandy was facing a challenging situation. The first paragraph does not explain why she was there (the reason is given later in the third paragraph). This section describes neither Sandy's character nor the way she was planning to solve the problem.
+---
+Q2: What does the writer suggest about Sandy's clothes?
+Correct: She had chosen them with care.
+Distractors: They made it unlikely that she would be spotted. / She was wearing them because she belonged to a skiing team. / They were too heavy for the conditions.
+Explanation: The pants were water-repellent, the jacket and the pants were of the same colour, and "it was obviously a fashionable, co-ordinated outfit," so this means Sandy had chosen her clothes with care. The option "They made it unlikely that she would be spotted" contradicts the text: "she would have been clearly visible from a long distance away." Belonging to a skiing team or the clothes being too heavy for the conditions are not mentioned.
+---
+Q3: The writer says that Sandy "reproached herself" to show that she
+Correct: was annoyed with herself.
+Distractors: felt sorry for herself. / was angry with Michael. / was worried about Michael.
+Explanation: Sandy blamed herself and thought that her decision to ride the lift up further was foolish, so the correct option is "was annoyed with herself." There was no reason to worry about Michael because he got off the ski lift earlier to go down a safe slope. Being angry at Michael or feeling sorry for herself are not clearly supported in the text.
+---
+Q4: Why did Sandy start skiing down the slope?
+Correct: She thought it was the only option she had.
+Distractors: She began moving by accident. / She didn't realise how fast she would have to go. / She didn't want to admit it was too difficult for her.
+Explanation: The text states, "Sandy inched forward as all other avenues seemed to be closed to her," so Sandy felt trapped and thought that going down the slope was the only thing she could do. She did not start moving by accident: "inched forward" implies that she knew what she was doing and was careful, even though she realised she would go fast. She understood it would be very hard and even called for help at the beginning of the story, so the option "She didn't want to admit it was too difficult for her" is wrong.
+---
+Q5: How did Sandy try to cope as she skied down the slope?
+Correct: She focused on staying upright.
+Distractors: She asked if anyone could help her. / She did her best to reach the bottom quickly. / She remembered advice from her skiing lessons.
+Explanation: The text says that Sandy was "concentrating only on maintaining her balance," so she focused on staying upright. She had called for help earlier, not while going down the slope. She did not intend to move quickly; she just "found herself rapidly picking up speed." According to the text, she did not remember advice from her skiing lessons: "Everything she had learned about skiing seemed to have faded from her mind."

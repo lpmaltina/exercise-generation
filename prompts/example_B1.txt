@@ -1,0 +1,35 @@
+Word count: 150
+Topic: a personal story about a hobby
+CEFR level: B1
+Number of questions: 4
+Number of options: 4
+Word list: brave, concentrate, countryside, decade, fairly, involved, mainly, studio, surface, tyre
+
+Text:
+By Peter Fuller
+
+Artists are not supposed to be into sport, but mountain biking is a huge part of my life. It gets me out of my studio into the countryside. But more importantly, racing leaves you no time to worry about anything else - you're too busy concentrating on not crashing.
+I started cycling as a kid. My friends and I rode our bikes and were brave enough to go down steep hills. Our bikes weren't built for that, and often broke, so I drew pictures of strong bikes with big tyres.
+Then I did skateboarding for a decade until falling off on to hard surfaces started to hurt too much. Mountain biking seemed a fairly safe sport, so I took that up instead. I made a lot of friends, and got involved in racing.
+In the end I stopped racing, mainly because I knew what a bad crash could mean to my career, but I still ride a mountain bike every week.
+
+Questions:
+Q1: Peter enjoys mountain biking because
+Correct: he is able to stop thinking about his problems.
+Distractors: it gives him the opportunity to enjoy the views. / he can use the time to plan his work. / it helps him to concentrate better.
+Explanation: The text says that "racing leaves you no time to worry about anything else", so mountain biking helps Peter to stop thinking about his problems. Enjoying the views and helping him to concentrate are not mentioned. Using the time to plan his work contradicts the text because cycling leaves no time to think about it.
+---
+Q2: What does Peter say about cycling during his childhood?
+Correct: His bike wasn't suitable for the activities he was doing.
+Distractors: He is sorry he didn't take more care of his bike. / His friends always had better quality bikes than he did. / He was more interested in designing bikes than riding them.
+Explanation: The text says, "My friends and I rode our bikes and were brave enough to go down steep hills. Our bikes weren't built for that, and often broke," so the option "His bike wasn't suitable for the activities he was doing" is correct. Taking care of the bike or his friends having better bikes are not mentioned. Peter drew pictures of bikes, but the text does not say that designing bikes became more interesting to him than riding them.
+---
+Q3: Peter says he returned to cycling after several years
+Correct: to replace an activity he had given up.
+Distractors: because he had become unfit. / so that he could enter races. / in order to meet new people.
+Explanation: Peter gave up skateboarding and returned to cycling: "I did skateboarding for a decade until falling off on to hard surfaces started to hurt too much. Mountain biking seemed a fairly safe way to keep fit, so I took that up instead." The text does not say he was unfit. The text mentions making friends and getting involved in races, but those were not Peter's primary goals.
+---
+Q4: What would be a good introduction to this article?
+Correct: Artist Peter Fuller takes mountain biking pretty seriously. Here he describes how it all began and what he gets out of it.
+Distractors: For Peter Fuller, nothing matters more than mountain biking, not even his career. Here, in his own words, he tells us why. / In this article, Peter Fuller explains how he became an artist only as a result of his interest in mountain biking. / After discovering mountain biking late in life, Peter Fuller gave up art for a while to concentrate on getting as good as possible.
+Explanation: Peter takes mountain biking seriously: "Mountain biking is a huge part of my life." The text describes how he started this hobby and why he likes it. The text says, "In the end, I stopped racing, mainly because I knew what it could mean to my career if I had a bad crash," so his career matters a lot to him. The option "For Peter Fuller, nothing matters more than mountain biking, not even his career..." is wrong. Becoming an artist because of mountain biking is not mentioned. "Discovering mountain biking late in life" is false because he started it in his childhood. The text also says nothing about giving up art.

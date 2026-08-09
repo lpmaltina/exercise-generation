@@ -83,9 +83,9 @@ if __name__ == "__main__":
     words_by_level = read_wordlists()
 
     configs = generate_configs(words_by_level)
-
-    with open("config.json", "w", encoding="utf-8") as f:
+    config_path = "config.json"
+    with open(config_path, "w", encoding="utf-8") as f:
         json.dump({"exercise_configs": configs}, f, indent=2, ensure_ascii=False)
 
     print(f"Generated {len(configs)} exercise configurations")
-    print(f"Saved to config.json")
+    print(f"Saved to {config_path}")
