@@ -2,7 +2,6 @@ import argparse
 import json
 import os
 import re
-import sys
 
 import spacy
 from tqdm import tqdm
@@ -170,16 +169,16 @@ def validate_and_print(text_id, eval_type, criterion, reasoning, score):
         print("Issue: no reasoning")
 
 
-def evaluate_non_LLM_metrics(generated_exercise: dict, config: dict, nlp, CEFR_parser):
-    target_word_count = config["word_count"]
+def evaluate_non_LLM_metrics(generated_exercise, config, nlp, CEFR_parser):
+    target_text_size = config["word_count"]
     words = set(config["wordlist"])
     target_CEFR_level = config["CEFR_level"]
 
     tokens = tokenize(nlp, generated_exercise["text"])
 
-    word_count_score = evaluate_word_count(tokens, target_word_count)
+    word_count_score = evaluate_word_count(tokens, target_text_size)
     word_count_reasoning = (
-        f"Words: {len(tokens)}. Target word count: {target_word_count}."
+        f"Words: {len(tokens)}. Target word count: {target_text_size}."
     )
 
     used_count, target_word_count, unused = check_words_from_wordlist(tokens, words)
@@ -334,45 +333,9 @@ def calculate_all_exercises_average(all_results: list) -> dict:
     return averages
 
 
-def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("generated", help="File with generated exercises")
-    parser.add_argument("raw_evaluations", help="File with raw evaluation results")
-    parser.add_argument(
-        "structured_evaluations", help="File with structured evaluation results"
-    )
-    args = parser.parse_args()
-
-    if not os.path.exists(args.generated):
-        print(
-            f"ERROR: file with generated exercises is not found: {args.generated}",
-            file=sys.stderr,
-        )
-        return 1
-
-    if not os.path.exists(args.raw_evaluations):
-        print(
-            f"ERROR: file with raw evaluations is not found: {args.raw_evaluations}",
-            file=sys.stderr,
-        )
-        return 2
-
-    nlp = create_nlp()
-    CEFR_parser = CEFRLevelParser("https://textlevel.org/", headless=True)
-
-    with open("config.json", "r", encoding="utf-8") as f:
-        configs = json.load(f)["exercise_configs"]
-
-    with open(args.generated, "r", encoding="utf-8") as f:
-        generated_exercises = f.read()
-
-    with open(args.raw_evaluations, "r", encoding="utf-8") as f:
-        raw_evaluations = f.read()
-
-    sep = "\n\n\n\n"
-    generated_exercises = generated_exercises.split(sep)
-    raw_evaluations = raw_evaluations.split(sep)
-
+def create_structured_evaluations(
+    generated_exercises, raw_evaluations, configs, nlp, CEFR_parser
+):
     structured_evaluations = []
 
     for i in tqdm(range(len(generated_exercises))):
@@ -388,17 +351,15 @@ def main() -> int:
         structured_evaluation["Exercise ID"] = i
         structured_evaluations.append(structured_evaluation)
 
-    all_exercises_averages = calculate_all_exercises_average(structured_evaluations)
+    return structured_evaluations
 
-    os.makedirs(
-        (
-            os.path.dirname(args.structured_evaluations)
-            if os.path.dirname(args.structured_evaluations)
-            else "."
-        ),
-        exist_ok=True,
-    )
-    with open(args.structured_evaluations, "w", encoding="utf-8") as f:
+
+def save_structured_evaluations(
+    structured_evaluations, all_exercises_averages, output_path
+):
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    with open(output_path, "w", encoding="utf-8") as f:
         json.dump(
             {
                 "Exercises": structured_evaluations,
@@ -409,11 +370,48 @@ def main() -> int:
             ensure_ascii=False,
         )
 
-    print(
-        f"Processed {len(structured_evaluations)} exercises -> {args.structured_evaluations}"
+    print(f"Processed {len(structured_evaluations)} exercises -> {output_path}")
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("generated_path", help="File with generated exercises")
+    parser.add_argument("raw_evaluation_path", help="File with raw evaluation results")
+    parser.add_argument(
+        "structured_evaluation_path", help="File with structured evaluation results"
     )
-    return 0
+    args = parser.parse_args()
 
+    if not os.path.exists(args.generated_path):
+        raise FileNotFoundError(
+            f"File with generated exercises is not found: {args.generated_path}"
+        )
 
-if __name__ == "__main__":
-    sys.exit(main())
+    if not os.path.exists(args.raw_evaluation_path):
+        raise FileNotFoundError(
+            f"File with raw evaluations is not found: {args.raw_evaluation_path}"
+        )
+
+    nlp = create_nlp()
+    CEFR_parser = CEFRLevelParser("https://textlevel.org/", headless=True)
+
+    with open("config.json", "r", encoding="utf-8") as f:
+        configs = json.load(f)["exercise_configs"]
+
+    sep = "\n\n\n\n"
+
+    with open(args.generated_path, "r", encoding="utf-8") as f:
+        generated_exercises = f.read().split(sep)
+
+    with open(args.raw_evaluation_path, "r", encoding="utf-8") as f:
+        raw_evaluations = f.read().split(sep)
+
+    structured_evaluations = create_structured_evaluations(
+        generated_exercises, raw_evaluations, configs, nlp, CEFR_parser
+    )
+    all_exercises_averages = calculate_all_exercises_average(structured_evaluations)
+    save_structured_evaluations(
+        structured_evaluations,
+        all_exercises_averages,
+        output_path=args.structured_evaluation_path,
+    )

@@ -1,7 +1,9 @@
+import os
 import time
 
 from openai import OpenAI
 
+BASE_URL = "https://api.deepseek.com"
 MAX_RETRIES = 3
 RETRY_BACKOFF_SECONDS = 5
 
@@ -39,6 +41,14 @@ ALL_CRITERIA = [
     ("individual question", ALL_INDIVIDUAL_QUESTION_CRITERIA),
     ("overall question", ALL_OVERALL_QUESTION_CRITERIA),
 ]
+
+
+def create_client():
+    api_key = os.environ.get("DEEPSEEK_API_KEY")
+    if not api_key:
+        raise ValueError("DEEPSEEK_API_KEY not found in .env file.")
+    client = OpenAI(api_key=api_key, base_url=BASE_URL)
+    return client
 
 
 def call_LLM(
