@@ -1,7 +1,5 @@
 import json
-import os
 import re
-import sys
 import time
 from pathlib import Path
 
@@ -9,23 +7,22 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from tqdm import tqdm
 
-from utils import call_LLM
+from utils import SEP, call_LLM, create_client
 
 load_dotenv()
 
 MODEL_NAME = "ministral-14b-2512"
-BASE_URL = "https://api.mistral.ai/v1"
 
 ROLE_PATH = Path("prompts/role.txt")
-GENERATION_EXAMPLE_PATH = Path("prompts/generation_example.txt")
+# GENERATION_EXAMPLE_PATH = Path("prompts/generation_example.txt")
 BASELINE_TEMPLATE_PATH = Path("prompts/baseline_template.txt")
 COT_TEMPLATE_PATH = Path("prompts/CoT_template.txt")
 
 with open(ROLE_PATH, encoding="utf-8") as f:
     role = f.read()
 
-with open(GENERATION_EXAMPLE_PATH, encoding="utf-8") as f:
-    example = f.read()
+# with open(GENERATION_EXAMPLE_PATH, encoding="utf-8") as f:
+#     example = f.read()
 
 with open(BASELINE_TEMPLATE_PATH, encoding="utf-8") as f:
     baseline_template = f.read()
@@ -42,7 +39,6 @@ def run_generation_experiment(
     role: str = "",
     example: str = "",
 ) -> None:
-    sep = "\n\n\n\n"
     all_raw_outputs = []
     all_outputs = []
 
@@ -121,35 +117,31 @@ Questions:
         all_outputs.append(output)
         time.sleep(10)
 
-    result_path.write_text(sep.join(all_outputs), encoding="utf-8")
+    result_path.write_text(SEP.join(all_outputs), encoding="utf-8")
 
     if template_type == "CoT":
         raw_result_path = Path(f"results/generated/{filename}_raw.txt")
-        raw_result_path.write_text(sep.join(all_raw_outputs), encoding="utf-8")
+        raw_result_path.write_text(SEP.join(all_raw_outputs), encoding="utf-8")
 
     print(f"Saved {len(all_outputs)} generation(s) to {result_path}")
 
 
-def main() -> int:
+def main():
     with open("config.json", "r", encoding="utf-8") as f:
         configs = json.load(f)["exercise_configs"]
 
-    api_key = os.environ.get("MISTRAL_API_KEY")
-    if not api_key:
-        print("ERROR: MISTRAL_API_KEY not found in .env file.", file=sys.stderr)
-        return 1
-
-    client = OpenAI(api_key=api_key, base_url=BASE_URL)
+    client = create_client(
+        api_key_name="MISTRAL_API_KEY", base_url="https://api.mistral.ai/v1"
+    )
 
     run_generation_experiment(client, configs, baseline_template)
-    run_generation_experiment(client, configs, baseline_template, role=role)
-    run_generation_experiment(client, configs, baseline_template, example=example)
-    run_generation_experiment(client, configs, CoT_template, template_type="CoT")
-    run_generation_experiment(
-        client, configs, CoT_template, template_type="CoT", role=role, example=example
-    )
-    return 0
+    # run_generation_experiment(client, configs, baseline_template, role=role)
+    # run_generation_experiment(client, configs, baseline_template, example=example)
+    # run_generation_experiment(client, configs, CoT_template, template_type="CoT")
+    # run_generation_experiment(
+    #     client, configs, CoT_template, template_type="CoT", role=role, example=example
+    # )
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()

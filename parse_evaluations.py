@@ -1,7 +1,7 @@
 import argparse
 import json
-import os
 import re
+from pathlib import Path
 
 import spacy
 from tqdm import tqdm
@@ -14,6 +14,8 @@ from utils import (
     LLM_INDIVIDUAL_QUESTION_CRITERIA,
     LLM_OVERALL_QUESTION_CRITERIA,
     LLM_TEXT_CRITERIA,
+    SEP,
+    parse_exercise,
 )
 
 
@@ -122,22 +124,6 @@ def calculate_CEFR_match(real_CEFR_level: str, target_CEFR_level: str) -> float:
     levels = {"A1": 0, "A2": 1, "B1": 2, "B2": 3, "C1": 4, "C2": 5}
     CEFR_diff = abs(levels[real_CEFR_level] - levels[target_CEFR_level])
     return 1 - normalize(CEFR_diff, min_value=0, max_value=5)
-
-
-def parse_exercise(exercise: str) -> dict[str, str | None]:
-    topic = re.search(r"Topic:\s*(.+?)(?:\n)", exercise)
-    if topic:
-        topic = topic.group(1).strip()
-
-    text = re.search(r"Text:\s*(.+?)(?:\n\s*\n(?=Questions:))", exercise, re.DOTALL)
-    if text:
-        text = text.group(1).strip()
-
-    questions = re.search(r"Questions:\s*(.+)", exercise, re.DOTALL)
-    if questions:
-        questions = questions.group(1).strip()
-
-    return {"topic": topic, "text": text, "questions": questions}
 
 
 def parse_criterion(text: str, criterion: str) -> tuple[str, float]:
@@ -339,7 +325,7 @@ def create_structured_evaluations(
     structured_evaluations = []
 
     for i in tqdm(range(len(generated_exercises))):
-        generated_exercise = parse_exercise(generated_exercises[i])
+        generated_exercise = generated_exercises[i]
         raw_evaluation = raw_evaluations[i].strip()
         config = configs[i]
         structured_evaluation = evaluate_non_LLM_metrics(
@@ -382,12 +368,12 @@ def main():
     )
     args = parser.parse_args()
 
-    if not os.path.exists(args.generated_path):
+    if not Path(args.generated_path).is_file():
         raise FileNotFoundError(
             f"File with generated exercises is not found: {args.generated_path}"
         )
 
-    if not os.path.exists(args.raw_evaluation_path):
+    if not Path(args.raw_evaluation_path).is_file():
         raise FileNotFoundError(
             f"File with raw evaluations is not found: {args.raw_evaluation_path}"
         )
@@ -398,20 +384,28 @@ def main():
     with open("config.json", "r", encoding="utf-8") as f:
         configs = json.load(f)["exercise_configs"]
 
-    sep = "\n\n\n\n"
-
     with open(args.generated_path, "r", encoding="utf-8") as f:
-        generated_exercises = f.read().split(sep)
+        generated_exercises = f.read().split(SEP)
+
+    parsed_exercises = []
+    for exercise in generated_exercises:
+        parsed_exercise = parse_exercise(exercise)
+        if parsed_exercise:
+            parsed_exercises.append(parsed_exercise)
 
     with open(args.raw_evaluation_path, "r", encoding="utf-8") as f:
-        raw_evaluations = f.read().split(sep)
+        raw_evaluations = f.read().split(SEP)
 
     structured_evaluations = create_structured_evaluations(
-        generated_exercises, raw_evaluations, configs, nlp, CEFR_parser
+        parsed_exercises, raw_evaluations, configs, nlp, CEFR_parser
     )
     all_exercises_averages = calculate_all_exercises_average(structured_evaluations)
     save_structured_evaluations(
         structured_evaluations,
         all_exercises_averages,
-        output_path=args.structured_evaluation_path,
+        output_path=Path(args.structured_evaluation_path),
     )
+
+
+if __name__ == "__main__":
+    main()

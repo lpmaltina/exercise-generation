@@ -1,8 +1,11 @@
 import os
+import re
 import time
+from typing import Optional
 
 from openai import OpenAI
 
+SEP = "\n\n\n\n"
 BASE_URL = "https://api.deepseek.com"
 MAX_RETRIES = 3
 RETRY_BACKOFF_SECONDS = 5
@@ -43,11 +46,31 @@ ALL_CRITERIA = [
 ]
 
 
-def create_client():
-    api_key = os.environ.get("DEEPSEEK_API_KEY")
+def parse_exercise(exercise: str) -> Optional[dict[str, str]]:
+    topic_match = re.search(r"Topic:\s*(.+?)(?:\n)", exercise)
+    text_match = re.search(
+        r"Text:\s*(.+?)(?:\n\s*\n(?=Questions:))", exercise, re.DOTALL
+    )
+    questions_match = re.search(r"Questions:\s*(.+)", exercise, re.DOTALL)
+
+    if topic_match and text_match and questions_match:
+        return {
+            "topic": topic_match.group(1).strip(),
+            "text": text_match.group(1).strip(),
+            "questions": questions_match.group(1).strip(),
+        }
+    return None
+
+
+def stringify_exercise(exercise: dict) -> str:
+    return f"Topic: {exercise['topic']}\n\nText: {exercise['text']}\n\nQuestions: {exercise['questions']}"
+
+
+def create_client(api_key_name, base_url):
+    api_key = os.environ.get(api_key_name)
     if not api_key:
-        raise ValueError("DEEPSEEK_API_KEY not found in .env file.")
-    client = OpenAI(api_key=api_key, base_url=BASE_URL)
+        raise ValueError(f"{api_key_name} not found in .env file.")
+    client = OpenAI(api_key=api_key, base_url=base_url)
     return client
 
 

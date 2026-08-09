@@ -1,0 +1,61 @@
+{
+  "exercise_configs": [
+    {
+      "config_id": 0,
+      "word_count": 100,
+      "CEFR_level": "A2",
+      "wordlist": [
+        "best",
+        "better",
+        "fun",
+        "have",
+        "home",
+        "maths",
+        "need",
+        "start",
+        "talk",
+        "worst"
+      ],
+      "n_questions": 3,
+      "n_options": 4
+    },
+    {
+      "config_id": 1,
+      "word_count": 150,
+      "CEFR_level": "B1",
+      "wordlist": [
+        "brave",
+        "concentrate",
+        "countryside",
+        "decade",
+        "fairly",
+        "involved",
+        "mainly",
+        "studio",
+        "surface",
+        "tyre"
+      ],
+      "n_questions": 4,
+      "n_options": 4
+    },
+    {
+      "config_id": 2,
+      "word_count": 200,
+      "CEFR_level": "B2",
+      "wordlist": [
+        "absorb",
+        "barely",
+        "bold",
+        "challenging",
+        "inch",
+        "maintain",
+        "nearby",
+        "sense",
+        "slope",
+        "visible"
+      ],
+      "n_questions": 5,
+      "n_options": 4
+    }
+  ]
+}

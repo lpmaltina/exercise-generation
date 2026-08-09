@@ -19,15 +19,15 @@
           "Score": 1.0
         },
         "Matching the Topic": {
-          "Reasoning": "The text is a personal story about moving to a new school, fully aligning with the topic.",
+          "Reasoning": "The text is a personal story about moving to a new school, describing the author's feelings, new friendship, and homework challenges. It fully matches the topic.",
           "Score": 1.0
         },
         "Logic & Commonsense": {
-          "Reasoning": "The text is logical and consistent, describing a typical experience of changing schools.",
+          "Reasoning": "The text is logical and consistent with commonsense: a child moves to a new school, makes a friend, and finds homework harder. No logical errors are present.",
           "Score": 1.0
         },
         "Vocabulary & Grammar": {
-          "Reasoning": "The text is grammatically correct and well-worded, with no errors.",
+          "Reasoning": "The text is grammatically correct and well-worded, with no errors in grammar, vocabulary, spelling, or collocation.",
           "Score": 1.0
         }
       },
@@ -35,103 +35,103 @@
         "Individual": {
           "Q1": {
             "Logic & Commonsense": {
-              "Reasoning": "The question and options are logical; the correct answer accurately reflects Anna's excitement, and distractors are plausible but incorrect.",
+              "Reasoning": "The question is logical, and all answer options are reasonable; the correct answer aligns with the text, and the distractors are plausible (e.g., being worried about older children, being bored, being sad about leaving friends).",
               "Score": 1.0
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "The question and options are grammatically correct and well-worded.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded, with no errors.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The text explicitly states Anna was \"excited,\" directly supporting the correct answer.",
+              "Reasoning": "The answer is fully present in the text: \"I was excited to move to a new school,\" which directly supports the correct answer.",
               "Score": 1.0
             },
             "Reading Dependency": {
-              "Reasoning": "The correct answer requires reading the text to know Anna's specific feeling; general knowledge might suggest excitement but not the exact nuance.",
+              "Reasoning": "The correct answer is difficult to guess without reading the text; general knowledge might suggest moving could be scary or sad, but the text's specific emotion of excitement is not general knowledge.",
               "Score": 0.75
             },
             "Answer Unambiguity": {
-              "Reasoning": "Only \"Happy about the idea of doing something different\" matches the text's \"excited\" and \"move to a new school\"; distractors are clearly contradicted or unsupported.",
+              "Reasoning": "Exactly one answer is unambiguously correct based on the text: being excited = happy about doing something different. The distractors are clearly contradicted or unsupported.",
               "Score": 1.0
             },
             "Distractor Plausibility": {
-              "Reasoning": "All distractors are plausible to someone who has read the text but misread details (e.g., focusing on \"older children\" or \"primary school\").",
-              "Score": 1.0
+              "Reasoning": "All incorrect options are plausible to a reader who has not fully understood the text, as they are common reactions to moving schools, and the text does not explicitly deny them except for the bored option (which says she loved her primary school). However, \"bored at primary school\" is clearly contradicted, so it is less plausible; still, the other two are plausible.",
+              "Score": 0.75
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer rephrases \"excited\" as \"happy\" and \"move to a new school\" as \"doing something different,\" changing key words.",
+              "Reasoning": "The correct answer rephrases \"excited to move\" as \"happy about the idea of doing something different,\" which changes more than two words and expresses the same meaning.",
               "Score": 1.0
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation correctly identifies why the correct answer is right and why each distractor is wrong.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right and why all distractors are wrong, referencing the text for each option.",
               "Score": 1.0
             }
           },
           "Q2": {
             "Logic & Commonsense": {
-              "Reasoning": "The question and options are logical; the correct answer matches the text, and distractors are reasonable but incorrect.",
+              "Reasoning": "The question is logical, and the answer options are reasonable; the correct answer aligns with the text, and the distractors are plausible but incorrect.",
               "Score": 1.0
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "The question and options are grammatically correct and well-worded.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded, with no errors.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The text states Anna became best friends with the girl beside her in maths, who is in her new class.",
+              "Reasoning": "The answer is fully present in the text: \"the girl who was sitting beside me in maths... We're best friends now.\"",
               "Score": 1.0
             },
             "Reading Dependency": {
-              "Reasoning": "Without reading the text, guessing this would be difficult; general knowledge doesn't help.",
+              "Reasoning": "The correct answer is difficult to guess without reading the text; general knowledge does not help determine who the friend is.",
               "Score": 1.0
             },
             "Answer Unambiguity": {
-              "Reasoning": "Only \"Someone she met in the new class\" is supported; the text doesn't mention primary school, home area, or her friend's love of maths.",
+              "Reasoning": "Exactly one answer is unambiguously correct: the girl in the new class. The distractors are not supported by the text.",
               "Score": 1.0
             },
             "Distractor Plausibility": {
-              "Reasoning": "Distractors like \"Someone from her primary school\" or \"Someone who loved maths\" are plausible to a careless reader.",
-              "Score": 0.75
+              "Reasoning": "All incorrect options are plausible to a reader who has not fully understood the text, as they are plausible scenarios (e.g., a friend from primary school, from the home area, or someone who loves maths).",
+              "Score": 1.0
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer paraphrases \"the girl who was sitting beside me in maths\" as \"someone she met in the new class,\" changing key words.",
+              "Reasoning": "The correct answer rephrases \"the girl who was sitting beside me in maths\" as \"someone she met in the new class,\" which changes more than two words and expresses the same meaning.",
               "Score": 1.0
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation accurately justifies the correct answer and dismisses each distractor based on the text.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right and why all distractors are wrong, referencing the text for each option.",
               "Score": 1.0
             }
           },
           "Q3": {
             "Logic & Commonsense": {
-              "Reasoning": "The question and options are logical; the correct answer matches the text's \"worst thing,\" and distractors are plausible but incorrect.",
+              "Reasoning": "The question is logical, and the answer options are reasonable; the correct answer aligns with the text, and the distractors are plausible but incorrect.",
               "Score": 1.0
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "The question and options are grammatically correct and well-worded.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded, with no errors.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The text says the worst thing is more homework, directly supporting the correct answer.",
+              "Reasoning": "The answer is largely present in the text: \"The worst thing is that I have more homework now.\" The correct answer \"She thinks it is the hardest part of school life\" is a direct inference from \"the worst thing.\"",
               "Score": 1.0
             },
             "Reading Dependency": {
-              "Reasoning": "The correct answer requires reading the text to know Anna's specific complaint; general knowledge doesn't help.",
-              "Score": 1.0
+              "Reasoning": "The correct answer is difficult to guess without reading the text; general knowledge does not specifically indicate that she thinks homework is the hardest part.",
+              "Score": 0.75
             },
             "Answer Unambiguity": {
-              "Reasoning": "Only \"She thinks it is the hardest part of school life\" is supported; distractors are contradicted or not mentioned.",
+              "Reasoning": "Exactly one answer is unambiguously correct: the text says homework is the worst thing, so it is the hardest part. The distractors are not supported by the text.",
               "Score": 1.0
             },
             "Distractor Plausibility": {
-              "Reasoning": "Distractors like \"She remembers everything she's told to do\" are plausible but wrong; all are believable to a careless reader.",
-              "Score": 0.75
+              "Reasoning": "All incorrect options are plausible to a reader who has not fully understood the text, as they are common situations (e.g., getting more help from some teachers, remembering things, having little homework).",
+              "Score": 1.0
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer rephrases \"the worst thing\" as \"the hardest part,\" expressing the same meaning with changed words.",
+              "Reasoning": "The correct answer rephrases \"The worst thing is that I have more homework now\" as \"She thinks it is the hardest part of school life,\" which changes more than two words and expresses the same meaning.",
               "Score": 1.0
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation accurately explains why the correct answer is right and why each distractor is wrong.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right and why all distractors are wrong, referencing the text for each option.",
               "Score": 1.0
             }
           }
@@ -144,13 +144,13 @@
           "Logic & Commonsense (Exercise Mean Score)": 1.0,
           "Vocabulary & Grammar (Exercise Mean Score)": 1.0,
           "Text-Based Answerability (Exercise Mean Score)": 1.0,
-          "Reading Dependency (Exercise Mean Score)": 0.9166666666666666,
+          "Reading Dependency (Exercise Mean Score)": 0.8333333333333334,
           "Answer Unambiguity (Exercise Mean Score)": 1.0,
-          "Distractor Plausibility (Exercise Mean Score)": 0.8333333333333334,
+          "Distractor Plausibility (Exercise Mean Score)": 0.9166666666666666,
           "Using Paraphrases (Exercise Mean Score)": 1.0,
           "Explanation Quality (Exercise Mean Score)": 1.0,
           "Text Coverage": {
-            "Reasoning": "The questions cover different parts of the text: Q1 on feelings, Q2 on friendship, Q3 on homework, evenly distributed.",
+            "Reasoning": "The questions cover different parts of the text: Q1 targets Anna's feelings about moving, Q2 targets her new friendship, and Q3 targets her homework. The text is short, and the questions are well distributed across its main ideas.",
             "Score": 1.0
           }
         }
@@ -176,15 +176,15 @@
           "Score": 1.0
         },
         "Matching the Topic": {
-          "Reasoning": "The text is about a personal story of the author's hobby, mountain biking, covering his history and feelings about it.",
+          "Reasoning": "The text is a personal story about mountain biking as a hobby, written by Peter Fuller, which matches the topic of \"a personal story about a hobby.\"",
           "Score": 1.0
         },
         "Logic & Commonsense": {
-          "Reasoning": "The text is logical, describing a personal journey from childhood cycling to skateboarding and then returning to mountain biking, with coherent reasoning for his choices.",
+          "Reasoning": "The text is logical and consistent with commonsense, describing the author's progression from childhood cycling to skateboarding and back to mountain biking.",
           "Score": 1.0
         },
         "Vocabulary & Grammar": {
-          "Reasoning": "The text contains no grammar, vocabulary, spelling, collocation errors or unnatural wordings.",
+          "Reasoning": "The text is grammatically correct and well-worded.",
           "Score": 1.0
         }
       },
@@ -192,53 +192,53 @@
         "Individual": {
           "Q1": {
             "Logic & Commonsense": {
-              "Reasoning": "The question and answer options are logical and consistent. The correct answer aligns with the text, and distractors are plausible but incorrect.",
+              "Reasoning": "The question is reasonable, and the answer options are logical and consistent with commonsense.",
               "Score": 1.0
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "Both the question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The correct answer, that mountain biking helps him stop worrying, is directly stated in the text: \"you're too busy concentrating on not crashing\" and \"leaves you no time to worry about anything else.\"",
+              "Reasoning": "The answer is fully present in the text: \"racing leaves you no time to worry about anything else.\"",
               "Score": 1.0
             },
             "Reading Dependency": {
-              "Reasoning": "The correct answer is difficult to guess without reading the text because it requires knowing the specific benefit Peter mentions about mountain biking.",
+              "Reasoning": "The correct answer requires reading the text, as it refers to a specific detail about racing, though general knowledge could suggest that exercise reduces worry.",
               "Score": 0.75
             },
             "Answer Unambiguity": {
-              "Reasoning": "Exactly one answer is unambiguously correct based on the text.",
+              "Reasoning": "Exactly one answer is unambiguously correct based on the text; the other options are not supported.",
               "Score": 1.0
             },
             "Distractor Plausibility": {
-              "Reasoning": "All incorrect options are plausible to someone who hasn't fully understood the text, as they might be common reasons for enjoying a sport.",
+              "Reasoning": "All incorrect options are plausible to someone who has read the text but not fully understood it, as they relate to common benefits of cycling.",
               "Score": 1.0
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer rephrases the text, using different words (\"stop thinking about his problems\") while retaining the same meaning.",
+              "Reasoning": "The correct answer strongly rephrases the text (\"stop thinking about his problems\" vs. \"no time to worry about anything else\") while preserving the meaning.",
               "Score": 1.0
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation accurately explains why the correct answer is right and why each distractor is wrong.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right and why all distractors are wrong.",
               "Score": 1.0
             }
           },
           "Q2": {
             "Logic & Commonsense": {
-              "Reasoning": "The question and answer options are logical and consistent. The correct answer is supported by the text, and distractors are plausible but incorrect.",
+              "Reasoning": "The question is reasonable, and the answer options are logical and consistent with commonsense.",
               "Score": 1.0
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "Both the question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The correct answer is directly stated in the text: \"Our bikes weren't built for that, and often broke,\" meaning his bike was unsuitable for the activities.",
+              "Reasoning": "The answer is fully present in the text: \"Our bikes weren't built for that, and often broke.\"",
               "Score": 1.0
             },
             "Reading Dependency": {
-              "Reasoning": "The correct answer is difficult to guess without reading the text; general knowledge about childhood cycling is unlikely to provide this specific detail.",
+              "Reasoning": "The correct answer is difficult to guess without reading the text; general knowledge does not help, as the answer depends on specific details about Peter's childhood.",
               "Score": 1.0
             },
             "Answer Unambiguity": {
@@ -246,67 +246,67 @@
               "Score": 1.0
             },
             "Distractor Plausibility": {
-              "Reasoning": "All incorrect options are plausible, as they might be common regrets or experiences, but they are not supported by the text.",
+              "Reasoning": "All incorrect options are plausible to someone who has read the text but not fully understood it.",
               "Score": 1.0
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer rephrases the text (\"wasn't suitable\" for \"weren't built for\") while expressing the same meaning.",
-              "Score": 0.75
+              "Reasoning": "The correct answer rephrases the text (\"His bike wasn't suitable for the activities he was doing\" vs. \"Our bikes weren't built for that\") while expressing the same meaning.",
+              "Score": 1.0
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation accurately explains why the correct answer is right and why each distractor is wrong.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right and why all distractors are wrong.",
               "Score": 1.0
             }
           },
           "Q3": {
             "Logic & Commonsense": {
-              "Reasoning": "The question and answer options are logical and consistent. The correct answer is supported by the text, and distractors are plausible but incorrect.",
+              "Reasoning": "The question is reasonable, but the correct answer is not explicitly stated; it requires inference that Peter returned to cycling to replace skateboarding. The distractors are logical.",
               "Score": 0.75
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "Both the question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The correct answer is directly inferred from the text: Peter gave up skateboarding and took up mountain biking as a replacement.",
-              "Score": 1.0
+              "Reasoning": "The answer is partially supported by the text; the text says \"I took that up instead,\" which implies replacing skateboarding, but this is not explicit.",
+              "Score": 0.75
             },
             "Reading Dependency": {
-              "Reasoning": "The correct answer is difficult to guess without reading the text; it requires knowledge of why Peter switched sports.",
+              "Reasoning": "The correct answer is difficult to guess without reading the text, as it requires knowledge of Peter's history.",
               "Score": 1.0
             },
             "Answer Unambiguity": {
-              "Reasoning": "Exactly one answer is unambiguously correct based on the text.",
-              "Score": 1.0
+              "Reasoning": "One answer is clearly intended as correct, but another option (\"in order to meet new people\") could be partially correct because the text says \"I made a lot of friends\" after taking up mountain biking.",
+              "Score": 0.75
             },
             "Distractor Plausibility": {
-              "Reasoning": "All incorrect options are plausible, as they could be common reasons for returning to a sport, but they are not mentioned in the text.",
+              "Reasoning": "All incorrect options are plausible to someone who has read the text but not fully understood it.",
               "Score": 1.0
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer rephrases the text (\"replace an activity he had given up\") while expressing the same meaning as \"so I took that up instead.\"",
-              "Score": 0.75
+              "Reasoning": "The correct answer rephrases the text (\"to replace an activity he had given up\" vs. \"I took that up instead\") while expressing the same meaning.",
+              "Score": 1.0
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation accurately explains why the correct answer is right and why each distractor is wrong.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right and why all distractors are wrong.",
               "Score": 1.0
             }
           },
           "Q4": {
             "Logic & Commonsense": {
-              "Reasoning": "The question and answer options are logical and consistent. The correct answer is supported by the text, and distractors are plausible but incorrect.",
-              "Score": 0.75
+              "Reasoning": "The question is reasonable, and the answer options are logical and consistent with commonsense.",
+              "Score": 1.0
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "Both the question and answer options contain no grammar, vocabulary, spelling, collocation errors or unnatural wordings.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The correct answer is directly inferred from the text: Peter describes how his hobby began and what he gets out of it. The distractors contain false or unsupported claims.",
+              "Reasoning": "The answer is fully present in the text; the correct answer summarizes the text, and the distractors contradict or go beyond the text.",
               "Score": 1.0
             },
             "Reading Dependency": {
-              "Reasoning": "The correct answer is difficult to guess without reading the text, as it requires summarizing the overall content of the article.",
+              "Reasoning": "The correct answer is difficult to guess without reading the text, as it requires understanding Peter's attitude and history.",
               "Score": 1.0
             },
             "Answer Unambiguity": {
@@ -314,15 +314,15 @@
               "Score": 1.0
             },
             "Distractor Plausibility": {
-              "Reasoning": "All incorrect options are plausible as potential introductions, but they contain false statements only detectable by reading the text.",
+              "Reasoning": "All incorrect options are plausible to someone who has read the text but not fully understood it.",
               "Score": 1.0
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer strongly rephrases the text, summarizing key points in a different way.",
+              "Reasoning": "The correct answer strongly rephrases the text, summarizing its main points without copying verbatim.",
               "Score": 1.0
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation accurately explains why the correct answer is right and why each distractor is wrong.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right and why all distractors are wrong.",
               "Score": 1.0
             }
           }
@@ -332,16 +332,16 @@
             "Reasoning": "Target CEFR level: B1. Determined CEFR level (questions): B1",
             "Score": 1.0
           },
-          "Logic & Commonsense (Exercise Mean Score)": 0.875,
+          "Logic & Commonsense (Exercise Mean Score)": 0.9375,
           "Vocabulary & Grammar (Exercise Mean Score)": 1.0,
-          "Text-Based Answerability (Exercise Mean Score)": 1.0,
+          "Text-Based Answerability (Exercise Mean Score)": 0.9375,
           "Reading Dependency (Exercise Mean Score)": 0.9375,
-          "Answer Unambiguity (Exercise Mean Score)": 1.0,
+          "Answer Unambiguity (Exercise Mean Score)": 0.9375,
           "Distractor Plausibility (Exercise Mean Score)": 1.0,
-          "Using Paraphrases (Exercise Mean Score)": 0.875,
+          "Using Paraphrases (Exercise Mean Score)": 1.0,
           "Explanation Quality (Exercise Mean Score)": 1.0,
           "Text Coverage": {
-            "Reasoning": "The questions cover different parts of the text: Q1 targets the opening paragraph, Q2 targets the second paragraph, Q3 targets the third paragraph, and Q4 targets the overall content and tone of the entire text.",
+            "Reasoning": "The questions cover different parts of the text: Q1 addresses the beginning (benefits of mountain biking), Q2 addresses childhood cycling, Q3 addresses the return to cycling, and Q4 asks for a summary, covering overall themes. The distribution is well balanced.",
             "Score": 1.0
           }
         }
@@ -351,8 +351,8 @@
     {
       "Text": {
         "Word Count": {
-          "Reasoning": "Words: 219. Target word count: 200.",
-          "Score": 0.91324200913242
+          "Reasoning": "Words: 220. Target word count: 200.",
+          "Score": 0.9090909090909091
         },
         "Target Word Usage": {
           "Reasoning": "Target word usage: 10/10.",
@@ -367,15 +367,15 @@
           "Score": 1.0
         },
         "Matching the Topic": {
-          "Reasoning": "The text is a coherent adventure story about a skier, Sandy, who finds herself in a dangerous situation on an expert-level slope, which fully matches the topic.",
+          "Reasoning": "The text is a coherent adventure story about a skier who gets into a dangerous situation after finding herself on an expert slope she cannot handle, calling for help, and skiing down out of control. It fully matches the topic.",
           "Score": 1.0
         },
         "Logic & Commonsense": {
-          "Reasoning": "The narrative flows logically: Sandy's mistake leads to her predicament, her clothing is described sensibly, and her actions and reactions are consistent with common sense. There are no logical errors.",
+          "Reasoning": "The story is logical and consistent with commonsense: a skier accidentally ends up on a difficult slope, panics, calls for help, and loses control when skiing down. There are no logical errors.",
           "Score": 1.0
         },
         "Vocabulary & Grammar": {
-          "Reasoning": "The text is well-written with correct grammar, vocabulary, and spelling. The phrasing is natural and the descriptions are vivid and accurate. No errors are present.",
+          "Reasoning": "The text is well-written with no grammar, vocabulary, spelling, or collocation errors. The phrasing is natural and clear.",
           "Score": 1.0
         }
       },
@@ -383,171 +383,171 @@
         "Individual": {
           "Q1": {
             "Logic & Commonsense": {
-              "Reasoning": "The question asks about the writer's purpose, and the answer options are logical and reasonable, with the correct answer and distractors all being plausible interpretations.",
+              "Reasoning": "The question asks about the writer's purpose in the first paragraph, which is reasonable. The correct answer (\"to introduce the fact that Sandy was facing a challenge\") and the distractors all make sense in the context of the question.",
               "Score": 1.0
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "The question and answer options are grammatically correct and well-worded, with no awkward phrasing or errors.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded. There are no errors or unnatural wordings.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The first paragraph shows Sandy calling for help and no one responding, which clearly establishes that she is facing a challenge. The correct answer is directly supported by the text.",
+              "Reasoning": "The answer is fully supported by the text: the first paragraph shows Sandy at the top of a slope, calling for help with no one to respond, which clearly indicates she is facing a challenging situation.",
               "Score": 1.0
             },
             "Reading Dependency": {
-              "Reasoning": "Without reading the text, one could guess the purpose is to introduce a challenge, but the text's specific description of Sandy's helplessness makes the answer much clearer.",
-              "Score": 0.75
+              "Reasoning": "The correct answer is difficult to guess without reading the text; general knowledge about writer's purpose does not help narrow down the specific choice without reading the first paragraph.",
+              "Score": 1.0
             },
             "Answer Unambiguity": {
-              "Reasoning": "The correct answer is clearly supported by the text, and the distractors are either contradicted or not supported, leaving exactly one correct answer.",
+              "Reasoning": "Exactly one answer is unambiguously correct based on the text. The other options are clearly contradicted or unsupported by the first paragraph (the reason is given later, character details are not in the first paragraph, and no plan is mentioned).",
               "Score": 1.0
             },
             "Distractor Plausibility": {
-              "Reasoning": "All distractors are plausible to a reader who has read the text but not fully grasped its nuances; they are reasonable alternative interpretations.",
+              "Reasoning": "All incorrect options are plausible to someone who has read the text but not fully understood it—they are all somewhat related to the story's content, making them believable distractors.",
               "Score": 1.0
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer rephrases the text's idea (\"facing a challenging situation\" instead of describing the call for help) without copying verbatim, though it is a fairly direct paraphrase.",
-              "Score": 0.75
+              "Reasoning": "The correct answer (\"to introduce the fact that Sandy was facing a challenge\") rephrases the text's implication that she is in a difficult situation, rather than copying verbatim. Some key words (e.g., \"challenging\") appear later in the text, but the phrasing is different.",
+              "Score": 1.0
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation clearly states why the correct answer is right and why each distractor is wrong, referencing the text accurately.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right (Sandy called for help with no one nearby, showing a challenging situation) and why the distractors are wrong (the reason is given later, character details are not in the first paragraph, and no plan is mentioned).",
               "Score": 1.0
             }
           },
           "Q2": {
             "Logic & Commonsense": {
-              "Reasoning": "The question about the writer's suggestion regarding Sandy's clothes is reasonable, and all options are plausible in the context of a skiing story.",
+              "Reasoning": "The question about Sandy's clothes is reasonable, and the answer options are logical and consistent with commonsense.",
               "Score": 1.0
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "The question and answer options are grammatically correct and well-worded, with no errors.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The text explicitly states the outfit is \"fashionable, co-ordinated\" and that Sandy would be \"clearly visible,\" which directly supports the correct answer and the distractor about visibility. The other options are not mentioned.",
+              "Reasoning": "The answer is fully present in the text: the text states that the outfit was \"obviously a fashionable, co-ordinated outfit,\" which supports the idea that Sandy chose her clothes with care.",
               "Score": 1.0
             },
             "Reading Dependency": {
-              "Reasoning": "Without reading the text, one might guess the clothes were practical or chosen for visibility, but the specific detail about the co-ordinated outfit is needed to choose the correct answer.",
-              "Score": 0.75
+              "Reasoning": "The correct answer is difficult to guess without reading the text; general knowledge about skiers' clothing does not help determine that the clothes were chosen with care.",
+              "Score": 1.0
             },
             "Answer Unambiguity": {
-              "Reasoning": "The correct answer is clearly supported by the text, and the distractor about visibility is directly contradicted, making the answer unambiguous.",
+              "Reasoning": "Exactly one answer is unambiguously correct. The text clearly supports \"She had chosen them with care,\" while \"They made it unlikely that she would be spotted\" is directly contradicted, and the other two options are not mentioned.",
               "Score": 1.0
             },
             "Distractor Plausibility": {
-              "Reasoning": "The distractors are plausible to a reader who hasn't fully understood the text's details; they are common assumptions about ski clothing.",
+              "Reasoning": "All incorrect options are plausible to a reader who skimmed the text: one distractor directly contradicts the text, but the others involve reasonable inferences that might be drawn if the text is not fully understood.",
               "Score": 1.0
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer, \"She had chosen them with care,\" rephrases the idea of a \"fashionable, co-ordinated outfit\" without copying it directly.",
+              "Reasoning": "The correct answer (\"She had chosen them with care\") rephrases the text's \"fashionable, co-ordinated outfit\" and the implication that the clothes were deliberately put together; it does not copy the text verbatim.",
               "Score": 1.0
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation accurately explains why the correct answer is right and why each distractor is wrong, referencing specific details from the text.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right (water-repellent pants, same colour, \"obviously a fashionable, co-ordinated outfit\") and why all distractors are wrong (one contradicts the text, the others are not mentioned).",
               "Score": 1.0
             }
           },
           "Q3": {
             "Logic & Commonsense": {
-              "Reasoning": "The question about Sandy's emotional state is logical, and the answer options are reasonable interpretations of her feelings.",
+              "Reasoning": "The question asks about the meaning of \"reproached herself,\" which is reasonable, and the answer options are logical.",
               "Score": 1.0
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "The question and answer options are grammatically correct and well-worded, with no errors.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The text says Sandy \"reproached herself\" and called her decision \"foolish,\" which directly supports the correct answer. The other options are not clearly supported.",
+              "Reasoning": "The answer is fully supported by the text: Sandy \"reproached herself\" for making a foolish decision, which means she was annoyed with herself.",
               "Score": 1.0
             },
             "Reading Dependency": {
-              "Reasoning": "Without reading the text, one might guess she was annoyed with herself, but the specific language in the text (\"reproached herself\") is key to confirming the answer.",
+              "Reasoning": "The correct answer is difficult to guess without reading the text; general knowledge about the phrase \"reproach oneself\" might help slightly, but the specific context of Sandy's annoyance is needed.",
               "Score": 0.75
             },
             "Answer Unambiguity": {
-              "Reasoning": "The correct answer is the only one directly supported by the text; the others are not clearly indicated, making the answer unambiguous.",
+              "Reasoning": "Exactly one answer is unambiguously correct. The text clearly shows Sandy blaming herself for a foolish decision, which corresponds to being annoyed with herself. The other options are not supported.",
               "Score": 1.0
             },
             "Distractor Plausibility": {
-              "Reasoning": "The distractors are plausible alternatives for someone who hasn't read the text closely, as they are common emotional reactions.",
+              "Reasoning": "All incorrect options are plausible to a reader who has read the text but not fully understood it: \"felt sorry for herself,\" \"angry with Michael,\" and \"worried about Michael\" are all plausible misinterpretations of Sandy's state of mind.",
               "Score": 1.0
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer, \"was annoyed with herself,\" rephrases \"reproached herself\" with a different but equivalent expression.",
+              "Reasoning": "The correct answer (\"was annoyed with herself\") rephrases the meaning of \"reproached herself\" without copying the text verbatim.",
               "Score": 1.0
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation clearly states why the correct answer is right and why each distractor is wrong, using evidence from the text.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right (she blamed herself and thought her decision was foolish) and why all distractors are wrong (no reason to worry about Michael, being angry at Michael or feeling sorry for herself are not supported).",
               "Score": 1.0
             }
           },
           "Q4": {
             "Logic & Commonsense": {
-              "Reasoning": "The question about why Sandy began skiing down the slope is reasonable, and the answer options are all plausible in a skiing context.",
+              "Reasoning": "The question about why Sandy started skiing down the slope is reasonable, and the answer options are logical.",
               "Score": 1.0
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "The question and answer options are grammatically correct and well-worded, with no errors.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The text states \"all other avenues seemed to be closed to her,\" which directly supports the correct answer. The distractors are either contradicted or not supported.",
+              "Reasoning": "The answer is fully present in the text: \"Sandy inched forward as all other avenues seemed to be closed to her\" directly supports the idea that she felt it was the only option.",
               "Score": 1.0
             },
             "Reading Dependency": {
-              "Reasoning": "Without reading the text, one might guess she felt trapped, but the specific wording \"all other avenues seemed to be closed\" is needed to choose the correct answer confidently.",
-              "Score": 0.75
+              "Reasoning": "The correct answer is difficult to guess without reading the text; general knowledge about skiing does not help determine Sandy's specific reasoning.",
+              "Score": 1.0
             },
             "Answer Unambiguity": {
-              "Reasoning": "The correct answer is clearly supported, and the distractors are logically refuted by the text, leaving only one correct answer.",
+              "Reasoning": "Exactly one answer is unambiguously correct. The text clearly states that all other avenues seemed closed, making \"She thought it was the only option she had\" the correct answer. The other options are contradicted or unsupported.",
               "Score": 1.0
             },
             "Distractor Plausibility": {
-              "Reasoning": "The distractors are plausible to a reader who hasn't fully understood the text, as they are common reasons for starting a dangerous action.",
+              "Reasoning": "All incorrect options are plausible to a reader who has read the text but not fully understood it: she might have moved by accident, might not have realised the speed, or might not have wanted to admit difficulty—all reasonable misinterpretations.",
               "Score": 1.0
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer, \"She thought it was the only option she had,\" rephrases \"all other avenues seemed to be closed to her\" without copying the text verbatim.",
+              "Reasoning": "The correct answer (\"She thought it was the only option she had\") rephrases \"all other avenues seemed to be closed to her\" without copying the text verbatim.",
               "Score": 1.0
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation accurately explains why the correct answer is right and why each distractor is wrong, referencing the text.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right (she felt trapped) and why all distractors are wrong (she didn't move by accident, she realised she would go fast, and she had already called for help).",
               "Score": 1.0
             }
           },
           "Q5": {
             "Logic & Commonsense": {
-              "Reasoning": "The question about how Sandy coped is logical, and the answer options are reasonable in a skiing context.",
+              "Reasoning": "The question about how Sandy tried to cope while skiing down is reasonable, and the answer options are logical.",
               "Score": 1.0
             },
             "Vocabulary & Grammar": {
-              "Reasoning": "The question and answer options are grammatically correct and well-worded, with no errors.",
+              "Reasoning": "The question and answer options are grammatically correct and well-worded.",
               "Score": 1.0
             },
             "Text-Based Answerability": {
-              "Reasoning": "The text states she was \"concentrating only on maintaining her balance,\" which directly supports the correct answer. The distractors are either contradicted or not supported.",
+              "Reasoning": "The answer is fully present in the text: \"Concentrating only on maintaining her balance\" directly supports the correct answer.",
               "Score": 1.0
             },
             "Reading Dependency": {
-              "Reasoning": "Without reading the text, one might guess a skier focuses on balance, but the specific phrase \"concentrating only on maintaining her balance\" is needed to confirm the answer.",
-              "Score": 0.75
+              "Reasoning": "The correct answer is difficult to guess without reading the text; general knowledge about skiing does not help determine Sandy's specific coping strategy.",
+              "Score": 1.0
             },
             "Answer Unambiguity": {
-              "Reasoning": "The correct answer is clearly supported, and the distractors are refuted by the text, making the answer unambiguous.",
+              "Reasoning": "Exactly one answer is unambiguously correct. The text clearly states she focused on balance, which corresponds to staying upright. The other options are contradicted or unsupported: she called for help earlier, not during the descent; she did not intend to go fast; and the text says she forgot her skiing lessons.",
               "Score": 1.0
             },
             "Distractor Plausibility": {
-              "Reasoning": "The distractors are plausible to a reader who hasn't read carefully, as they are common ways to cope in a difficult situation.",
+              "Reasoning": "All incorrect options are plausible to a reader who has read the text but not fully understood it: she could have asked for help earlier, might have wanted to get down quickly, or might have remembered advice—all are reasonable misinterpretations.",
               "Score": 1.0
             },
             "Using Paraphrases": {
-              "Reasoning": "The correct answer, \"She focused on staying upright,\" rephrases \"maintaining her balance\" with a different expression that conveys the same meaning.",
-              "Score": 1.0
+              "Reasoning": "The correct answer (\"She focused on staying upright\") rephrases \"concentrating only on maintaining her balance\" without copying the text verbatim.",
+              "Score": 0.75
             },
             "Explanation Quality": {
-              "Reasoning": "The explanation accurately explains why the correct answer is right and why each distractor is wrong, referencing specific details from the text.",
+              "Reasoning": "The explanation accurately describes why the correct answer is right (she concentrated on maintaining her balance) and why all distractors are wrong (she called for help earlier, she did not intend to go fast, and she forgot her lessons).",
               "Score": 1.0
             }
           }
@@ -560,13 +560,13 @@
           "Logic & Commonsense (Exercise Mean Score)": 1.0,
           "Vocabulary & Grammar (Exercise Mean Score)": 1.0,
           "Text-Based Answerability (Exercise Mean Score)": 1.0,
-          "Reading Dependency (Exercise Mean Score)": 0.75,
+          "Reading Dependency (Exercise Mean Score)": 0.95,
           "Answer Unambiguity (Exercise Mean Score)": 1.0,
           "Distractor Plausibility (Exercise Mean Score)": 1.0,
           "Using Paraphrases (Exercise Mean Score)": 0.95,
           "Explanation Quality (Exercise Mean Score)": 1.0,
           "Text Coverage": {
-            "Reasoning": "The questions cover different parts of the text: the first paragraph (Q1), the description of clothes (Q2), the third paragraph about Sandy's decision (Q3 and Q4), and the final paragraph about her skiing down the slope (Q5). The distribution is balanced and covers all key ideas.",
+            "Reasoning": "The five questions evenly cover different parts of the text: Q1 covers the first paragraph, Q2 covers the second paragraph on clothing, Q3 covers the third paragraph on why she was there, Q4 covers the fourth paragraph on starting to ski, and Q5 covers the final part of the story. The questions are well distributed across the text.",
             "Score": 1.0
           }
         }
@@ -586,13 +586,13 @@
     },
     "Questions": {
       "Individual": {
-        "Logic & Commonsense": 0.9583333333333334,
+        "Logic & Commonsense": 0.9791666666666666,
         "Vocabulary & Grammar": 1.0,
-        "Text-Based Answerability": 1.0,
-        "Reading Dependency": 0.8680555555555555,
-        "Answer Unambiguity": 1.0,
-        "Distractor Plausibility": 0.9444444444444445,
-        "Using Paraphrases": 0.9416666666666668,
+        "Text-Based Answerability": 0.9791666666666666,
+        "Reading Dependency": 0.9069444444444444,
+        "Answer Unambiguity": 0.9791666666666666,
+        "Distractor Plausibility": 0.9722222222222222,
+        "Using Paraphrases": 0.9833333333333334,
         "Explanation Quality": 1.0
       },
       "Overall": {
