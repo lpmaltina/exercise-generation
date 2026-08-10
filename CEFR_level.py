@@ -41,7 +41,7 @@ class CEFRLevelParser:
         text_area.send_keys(text)
 
     def _click_button(self):
-        check_button = WebDriverWait(self._driver, 10).until(
+        check_button = WebDriverWait(self._driver, 5).until(
             EC.element_to_be_clickable((By.ID, "analyze-btn"))
         )
         check_button.click()
@@ -50,7 +50,7 @@ class CEFRLevelParser:
         self._cloze_cookie_consent_banner()
         self._enter_text(text)
         self._click_button()
-        result_element = WebDriverWait(self._driver, 15).until(
+        result_element = WebDriverWait(self._driver, 5).until(
             EC.presence_of_element_located(
                 (By.CSS_SELECTOR, "div.score-value[class*='cefr-']")
             )

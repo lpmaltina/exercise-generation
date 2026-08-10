@@ -14,15 +14,18 @@ load_dotenv()
 MODEL_NAME = "ministral-14b-2512"
 
 ROLE_PATH = Path("prompts/role.txt")
-# GENERATION_EXAMPLE_PATH = Path("prompts/generation_example.txt")
+LEVELS = ("A2", "B1", "B2")
+EXAMPLE_PATHS = {level: Path(f"prompts/example_{level}.txt") for level in LEVELS}
 BASELINE_TEMPLATE_PATH = Path("prompts/baseline_template.txt")
 COT_TEMPLATE_PATH = Path("prompts/CoT_template.txt")
 
 with open(ROLE_PATH, encoding="utf-8") as f:
     role = f.read()
 
-# with open(GENERATION_EXAMPLE_PATH, encoding="utf-8") as f:
-#     example = f.read()
+EXAMPLES = {}
+for level, example_path in EXAMPLE_PATHS.items():
+    with open(example_path, encoding="utf-8") as f:
+        EXAMPLES[level] = f.read()
 
 with open(BASELINE_TEMPLATE_PATH, encoding="utf-8") as f:
     baseline_template = f.read()
@@ -37,7 +40,7 @@ def run_generation_experiment(
     template: str,
     template_type: str = "baseline",
     role: str = "",
-    example: str = "",
+    with_example: bool = False,
 ) -> None:
     all_raw_outputs = []
     all_outputs = []
@@ -45,7 +48,7 @@ def run_generation_experiment(
     parts = [f"generated_{template_type}"]
     if role:
         parts.append("with_role")
-    if example:
+    if with_example:
         parts.append("few-shot")
     filename = "_".join(parts)
 
@@ -63,7 +66,8 @@ def run_generation_experiment(
             CEFR_level=config["CEFR_level"],
             words=", ".join(config["wordlist"]),
         )
-        if example:
+        if with_example:
+            example = EXAMPLES[config["CEFR_level"]]
             prompt = "\n".join([prompt, "\nExample:", example])
 
         text = ""
@@ -115,7 +119,7 @@ Text:
 Questions:
 {'\n---\n'.join(questions)}"""
         all_outputs.append(output)
-        time.sleep(10)
+        time.sleep(5)
 
     result_path.write_text(SEP.join(all_outputs), encoding="utf-8")
 
@@ -135,12 +139,12 @@ def main():
     )
 
     run_generation_experiment(client, configs, baseline_template)
-    # run_generation_experiment(client, configs, baseline_template, role=role)
-    # run_generation_experiment(client, configs, baseline_template, example=example)
-    # run_generation_experiment(client, configs, CoT_template, template_type="CoT")
-    # run_generation_experiment(
-    #     client, configs, CoT_template, template_type="CoT", role=role, example=example
-    # )
+    run_generation_experiment(client, configs, baseline_template, role=role)
+    run_generation_experiment(client, configs, baseline_template, with_example=True)
+    run_generation_experiment(client, configs, CoT_template, template_type="CoT")
+    run_generation_experiment(
+        client, configs, CoT_template, template_type="CoT", role=role, with_example=True
+    )
 
 
 if __name__ == "__main__":

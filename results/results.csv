@@ -1,18 +1,18 @@
 Criterion Type,Criterion,Baseline,Baseline + Role,Baseline + Few-Shot,Chain-of-Thought,Chain-of-Thought + Role + Few-Shot
-Text Criteria,Word Count,0.8659,0.8238,0.7906,0.8597,0.8246
-Text Criteria,Target Word Usage,0.9327,0.9273,0.9227,0.9613,0.9597
-Text Criteria,Target Word Distribution,0.8391,0.8431,0.8248,0.8179,0.8106
-Text Criteria,Matching the CEFR Level,0.7653,0.7587,0.8013,0.7587,0.8033
-Text Criteria,Matching the Topic,1.0,0.9992,1.0,0.9992,1.0
-Text Criteria,Logic & Commonsense,0.9717,0.975,0.9908,0.9833,0.995
-Text Criteria,Vocabulary & Grammar,0.92,0.9308,0.9392,0.9392,0.95
-Individual Question Criteria,Logic & Commonsense,0.9874,0.9865,0.9942,0.9882,0.99
-Individual Question Criteria,Vocabulary & Grammar,0.9977,0.9977,0.9978,0.9969,0.9992
-Individual Question Criteria,Text-Based Answerability,0.9859,0.9795,0.9928,0.9715,0.9773
-Individual Question Criteria,Reading Dependency,0.8605,0.8567,0.8612,0.8396,0.8626
-Individual Question Criteria,Answer Unambiguity,0.9915,0.991,0.9952,0.9877,0.9871
-Individual Question Criteria,Distractor Plausibility,0.8067,0.819,0.8503,0.8451,0.8546
-Individual Question Criteria,Using Paraphrases,0.7105,0.7495,0.7747,0.8589,0.8832
-Individual Question Criteria,Explanation Quality,0.9706,0.9753,0.9723,0.9753,0.9719
-Overall Question Criteria,Matching the CEFR Level,0.6453,0.6,0.7967,0.728,0.7413
-Overall Question Criteria,Text Coverage,0.9492,0.9567,0.9617,0.9667,0.9758
+Text Criteria,Word Count,0.8659,0.8238,0.8368,0.8597,0.8416
+Text Criteria,Target Word Usage,0.9327,0.9273,0.913,0.9613,0.9597
+Text Criteria,Target Word Distribution,0.8391,0.8431,0.8369,0.8179,0.8281
+Text Criteria,Matching the CEFR Level,0.7653,0.7587,0.8093,0.7587,0.8047
+Text Criteria,Matching the Topic,1.0,0.9992,0.9967,0.9992,0.9992
+Text Criteria,Logic & Commonsense,0.9717,0.975,0.975,0.9833,0.9933
+Text Criteria,Vocabulary & Grammar,0.92,0.9308,0.91,0.9392,0.95
+Individual Question Criteria,Logic & Commonsense,0.9874,0.9865,0.9811,0.9882,0.9864
+Individual Question Criteria,Vocabulary & Grammar,0.9977,0.9977,0.9951,0.9969,0.9991
+Individual Question Criteria,Text-Based Answerability,0.9859,0.9795,0.978,0.9715,0.9718
+Individual Question Criteria,Reading Dependency,0.8605,0.8567,0.8296,0.8396,0.848
+Individual Question Criteria,Answer Unambiguity,0.9915,0.991,0.9866,0.9877,0.9859
+Individual Question Criteria,Distractor Plausibility,0.8067,0.819,0.8081,0.8451,0.8688
+Individual Question Criteria,Using Paraphrases,0.7105,0.7495,0.8146,0.8589,0.8982
+Individual Question Criteria,Explanation Quality,0.9706,0.9753,0.975,0.9753,0.9726
+Overall Question Criteria,Matching the CEFR Level,0.6453,0.6,0.7673,0.728,0.7313
+Overall Question Criteria,Text Coverage,0.9492,0.9567,0.9425,0.9667,0.95
